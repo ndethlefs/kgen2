@@ -1,0 +1,18 @@
+obj2 obj1 obj2 n people===the obj1 for people living in obj2 is indian
+indiana obj10 obj5 anderson indiana ispartof===obj0 is in the obj4 and the township is
+obj3 country obj8 saranac lake obj11 ispartof===obj0 serves the city of lake placid part of
+obj3 associatedband associatedmusicalartist twilight band obj3 associatedband associatedmusicalartist===obj6 music is aaron turner's thing and he plays
+obj3 associatedband associatedmusicalartist twilight band obj3 associatedband associatedmusicalartist===aaron turner's music obj8 is obj6 and he played
+obj3 associatedband associatedmusicalartist twilight band obj3 associatedband associatedmusicalartist===aaron turner performs obj6 music played with the band
+obj3 associatedband associatedmusicalartist twilight band obj3 associatedband associatedmusicalartist===obj3 plays obj6 and played with the bands twilight
+obj3 associatedband associatedmusicalartist twilight band obj3 associatedband associatedmusicalartist===aaron turner played with the band twilight is part
+obj3 associatedband associatedmusicalartist twilight band obj3 associatedband associatedmusicalartist===obj3 played with the band twilight is associated with
+obj4 associatedband associatedmusicalartist twilight band obj4 associatedband associatedmusicalartist===obj4 played with the bands twilight and obj7 his
+obj4 associatedband associatedmusicalartist twilight band obj4 associatedband associatedmusicalartist===aaron turner performs obj3 played with the band twilight
+obj4 associatedband associatedmusicalartist twilight band obj4 associatedband associatedmusicalartist===obj4 played with the band twilight and performed for
+obj5 associatedband associatedmusicalartist twilight band obj5 associatedband associatedmusicalartist===obj5 started performing obj9 music in obj11 he played
+obj5 associatedband associatedmusicalartist twilight band obj5 associatedband associatedmusicalartist===obj5 played with twilight and obj4 bandshe started performing
+obj5 associatedband associatedmusicalartist twilight band obj5 associatedband associatedmusicalartist===obj5 is obj9 musician who started performing in obj11
+obj6 associatedband associatedmusicalartist twilight band obj6 associatedband associatedmusicalartist===obj6 was born in obj5 and started performing in
+obj6 associatedband associatedmusicalartist twilight band obj6 associatedband associatedmusicalartist===obj6 is from obj5 he is a musician who
+obj6 associatedband associatedmusicalartist twilight band obj6 associatedband associatedmusicalartist===obj5 born obj8 musician obj6 began performing in obj14

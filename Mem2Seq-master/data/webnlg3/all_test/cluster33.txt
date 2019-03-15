@@ -1,0 +1,24 @@
+auburn alabama ispartof lee county alabama===auburn is part of lee county in alabama
+obj0 issn number obj7 obj0 lccn number===the obj0 or obj3 is found at issn obj7
+juan perón obj2 labour obj2 argentina===juan peron belongs to the labour obj2 in argentina
+aleksandra kovač genre obj1 obj1 stylisticorigin obj4===aleksandra kovac plays obj1 which originated from obj4 music
+aleksandra kovač genre obj1 obj1 stylisticorigin obj4===aleksandra kovac is an exponent of obj1 the music
+aleksandra kovač genre obj1 obj1 stylisticorigin obj4===aleksandra kovac plays obj1 which originated from obj4 music
+obj1 instrument obj6 al anderson nrbq band obj4===al anderson of nrbq is a country musician in
+obj1 instrument obj6 al anderson nrbq band obj4===al anderson of nrbq performs obj1 which is a
+obj5 averagespeed obj10 kilometreperseconds obj5 orbitalperiod===the obj5 has an obj8 of obj1 km and
+obj5 averagespeed obj10 kilometreperseconds obj5 orbitalperiod===10 hygiea has an average speed of obj10 kilometres
+obj5 averagespeed obj10 kilometreperseconds obj5 orbitalperiod===with an average speed of obj10 km per secs
+obj6 countryorigin united states obj6 launchsite===coming from the us the obj6 was launched from
+obj6 countryorigin united states obj6 launchsite===the us obj6 was launched from obj1 and cape canaveral
+obj6 escapevelocity obj13 kilometreperseconds obj6 orbitalperiod===obj6 has an orbital period of obj11 days and
+obj6 escapevelocity obj13 kilometreperseconds obj6 orbitalperiod===obj6 with the obj14 date november 26th 2011 has
+obj6 escapevelocity obj13 kilometreperseconds obj6 orbitalperiod===the obj14 date of obj6 is 26 november 2005
+obj3 escapevelocity obj12 kilometreperseconds obj3 orbitalperiod===obj3 has an obj11 date of december 31st 2006
+obj3 escapevelocity obj12 kilometreperseconds obj3 orbitalperiod===1101 clematis's escape velocity is obj12 km s prbital period
+aleksandra kovač birthyear obj11 aleksandra kovač genre===singer and pop musician aleksandra kovac was born obj11
+aleksandra kovač birthyear obj11 aleksandra kovač genre===aleksandra kovac was born in obj9 in obj11 and
+obj3 successor obj7 obj3 obj15 fice===obj3 a member obj15 the us democratic obj13 was
+obj3 successor obj7 obj3 obj15 fice===obj3 was born in obj1 is a member obj15
+obj3 successor obj7 obj3 obj15 fice===obj3 obj15 obj1 is a united states democrat and
+aleksandra kovač genre obj10 aleksandra kovač associatedband associatedmusicalartist===obj10 obj11 aleksandra kovac began in obj14 is a

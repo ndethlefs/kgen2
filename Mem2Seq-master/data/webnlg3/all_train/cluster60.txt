@@ -1,0 +1,131 @@
+obj1 elevationabovethesealevel in metres 25 0===obj0 is 25 metres above sea level
+obj1 elevationabovethesealevel in metres 25 0===obj0 is at an elevation of 25 metres above
+obj1 elevationabovethesealevel in metres 911 0===obj0 is located 911 metres above sea level
+obj1 elevationabovethesealevel in metres 911 0===obj0 has the elevation of 911 meters above the
+obj1 mainingredients obj2 obj8 smashed obj6 obj3===ayam penyet's main ingredients are obj4 obj5 obj7 obj7
+obj1 mainingredients obj2 obj8 smashed obj6 obj3===squeezed obj5 obj7 obj7 obj8 obj5 obj7 obj4 is
+obj1 has to its west obj0===obj7 is east of obj7
+obj1 obj3 obj4 obj1 icao obj3===the obj2 identifier for obj0 obj4 is obj5
+obj2 location obj1 obj2 icao location identifier obj5===obj0 is located in obj4 and its icao identifier
+obj0 operatingorganisation obj1 obj1 hubairport obj4===obj0 is operated by obj9 whose hub airport is obj9
+obj1 operatingorganisation obj2 obj2 hubairport obj0===obj9 is operated by obj4 which has obj9 as
+obj1 operatingorganisation obj2 obj2 hubairport obj0===obj9 is operated by obj4 whose hub airport is obj9
+obj1 operatingorganisation obj2 obj2 hubairport obj0===the hub airport for obj4 who are the operating
+obj2 operatingorganisation obj0 obj0 headquarter obj5===the obj4 is operated by the obj4 based in obj9
+obj0 deathplace obj3 obj0 deathdate obj2===obj5 died in obj4 on obj9
+obj1 deathplace obj5 obj1 deathdate obj0===obj9 died in obj4 on obj9
+obj1 deathplace obj5 obj1 deathdate obj0===obj9 passed away on obj9 in obj4
+obj1 location obj3 obj3 governingbody obj0===obj9 is in obj4 governed by obj9
+obj1 location obj3 obj3 governingbody obj0===obj9 is located in obj4 whose governing body is obj9
+obj1 location obj3 obj3 governingbody obj0===obj9 is in obj4 which is governed by obj9
+obj0 country obj4 obj2 currenttenants obj0===the obj9 is located in the obj4 and are
+obj0 country obj4 obj2 currenttenants obj0===the obj9 is the tenant of the obj5 in
+obj0 country obj4 obj2 currenttenants obj0===the obj9 is located in obj5 in the obj4
+obj1 mainingredients obj4 obj11 smashed obj9 obj6===ayam penyet's main ingredients are obj4 obj01 obj8 obj7
+obj1 mainingredients obj4 obj11 smashed obj9 obj6===squeezed obj01 obj8 obj7 obj8 obj8 obj00 obj7 is
+obj0 obj5 obj2 obj0 district obj3===the obj5 belongs to the obj4 of obj4 and
+obj0 country obj3 obj0 district obj2===the obj5 is located in the obj4 at the obj9
+obj0 country obj3 obj0 district obj2===the obj5 is located in the obj9 in the obj4
+obj1 has to its southeast obj3 obj0===the obj8 is located in obj8 which is northwest
+obj1 location obj3 obj0 district obj1===the obj5 is found in the obj5 which is
+obj1 author obj0 obj1 isbn number obj3===obj4 isbn obj9 was written by obj4
+obj0 publisher obj1 obj1 headquarter obj3===obj0 is published by the obj4 and is located
+obj3 obj5 obj0 obj0 residence obj2===obj4 is the obj9 of obj4 he resides in
+obj0 obj4 obj5 obj0 isbn number obj2===the obj9 for obj5 is obj4 and the isnn
+obj0 numberofpages obj5 obj0 isbn number obj2===obj5 with the isbn obj9 has obj4
+obj1 publisher obj2 obj2 founder obj0===obj9 is published by obj4 which was founded by obj9
+obj1 obj5 obj4 obj1 isbn number obj0===the obj2 obj4 wrote the book obj9 which can
+obj0 publisher obj1 obj1 regionserved obj5===obj0 was published by the obj4 which serves obj9
+obj0 obj4 obj1 obj1 regionserved obj5===the obj4 based in obj9 is the obj2 of obj0
+obj0 publisher obj1 obj1 regionserved obj5===the obj4 which serves obj9 publishes the obj0
+obj3 mediatype obj4 obj3 isbn number obj0===obj9 with isbn0 439 17684 0 was produced in obj4
+obj1 elevationabovethesealevel in metres 911 0 obj1 operatingorganisation===obj0 is located in sao jose dos pinhais and
+obj1 elevationabovethesealevel in metres 911 0 obj1 operatingorganisation===obj0 located in sao jose dos pinhais is 911
+obj1 elevationabovethesealevel in metres 911 0 obj1 operatingorganisation===obj0 is located 911 metres above sea level in
+obj3 obj6 obj7 obj3 icao obj6===the obj0 is the operating organisation of obj0 which
+obj3 location obj7 obj3 icao location identifier===obj0 in obj4 has an identifier of obj8 and
+obj3 location obj7 obj3 icao location identifier===obj0 located in obj4 with an identifier of obj8
+obj3 operatingorganisation obj2 obj3 icao obj6===obj0 is located inagra and its obj8 identifier is
+obj3 operatingorganisation obj2 obj3 icao location identifier===the operating organization for obj7 airports is the obj4
+obj0 operatingorganisation obj2 obj2 headquarter===the obj0 in obj6 is operated by the obj4
+obj0 operatingorganisation obj1 obj1 hubairport===obj0 is operated by obj4 which is located in
+obj0 operatingorganisation obj1 obj1 hubairport===obj0 is operated by obj4 whose headquarters are in
+obj1 operatingorganisation obj2 obj2 hubairport===located in ashbat obj0 is operated by obj4 the
+obj1 operatingorganisation obj2 obj2 hubairport===obj0 is operated by obj4 who have their headquarters
+obj3 operatingorganisation obj0 obj0 regionserved===the obj4 is operated by the obj4 which serves
+obj3 operatingorganisation obj0 obj0 regionserved===the obj4 in obj7 is operated by the obj4
+obj3 operatingorganisation obj0 obj0 regionserved===the obj4 is operated by the obj4 which serves
+obj4 obj7 obj1 obj4 firstaired===obj0 was broadcasted by obj8 obj2 obj5 it first
+obj4 obj7 obj0 obj4 firstaired===obj5 obj2 obj5 was first broadcast by obj8 on
+obj0 obj6 obj7 obj0 district===obj5 established 1907 07 11 is located in the obj2
+obj0 location obj7 obj0 nativename===the obj3 obj5 is located in obj4 where its
+obj1 location obj4 obj0 district===the obj5 is located on the obj5 in obj4
+obj1 obj7 obj4 obj4 champions===obj0 play in the obj5 obj2 which has been
+obj1 obj7 obj4 obj4 champions===ac cesena's obj6 is located in obj8 and they
+obj0 manager obj2 obj2 placeofbirth===obj4 born in italy has managed obj0 and played
+obj1 country obj7 obj1 numberofpostgraduatestudents===the obj0 is in soldevanahalli obj4 its address is
+obj0 city obj6 obj2 numberofpostgraduatestudents===obj5 is affiliated with obj0 and has obj8 postgraduate
+obj0 city obj6 obj2 numberofpostgraduatestudents===the obj0 in obj4 is affiliated with the obj5
+obj2 academicdiscipline obj8 obj2 firstpublicationyear===obj0 was first published in obj7 and comes under
+obj2 academicdiscipline obj8 obj2 firstpublicationyear===the obj0 which comes under the academic discipline of
+obj6 obj8 obj0 obj0 doctoraladvisor===the obj2 of obj4 is obj4 he is from
+obj1 numberofpages obj8 obj1 oclc number===obj0 oclc 57392246 is obj4 pages and published in
+obj0 obj6 obj1 obj1 headquarter===the obj4 serves obj7 and is based in obj8
+obj0 publisher obj1 obj1 headquarter===obj0 is published by obj4 which is based in
+obj0 abbreviation obj4 obj0 firstpublicationyear===the obj5 was first published in obj8 and is
+obj0 abbreviation obj4 obj0 firstpublicationyear===the obj5 or obj4 was published in obj8 with
+obj0 academicdiscipline obj7 obj0 firstpublicationyear===the obj5 which comes under the academic discipline of
+obj3 birthplace obj2 obj3 notablework===born in obj4 obj0 is the obj8 of owen
+obj3 birthplace obj2 obj3 notablework===obj0 from obj4 is the obj8 of owen glendower
+obj3 birthplace obj2 obj3 notablework===obj0 was born in obj4 his notable work includes
+obj3 birthplace obj2 obj3 notablework===obj0 was born in obj4 and one of his
+obj1 elevationabovethesealevel in metres 911 0 obj1 location===obj0 is located 911 metres above sea level it
+obj1 elevationabovethesealevel in metres 911 0 obj1 location===obj0 is located in sao jose dos pinhais it's
+obj1 elevationabovethesealevel in metres 911 0 obj1 location===obj0 is located in sao jose dos pinhais and
+obj1 elevationabovethesealevel in metres 911 0 obj1 runwaylength===obj0 is located in sao jose dos pinhais the
+obj1 elevationabovethesealevel in metres 911 0 obj1 runwaylength===obj0 is located in sao jose dos pinhals and
+obj1 elevationabovethesealevel in metres 911 0 obj1 runwaylength===the obj0 is operated by infrareo the airport is
+obj1 elevationabovethesealevel in metres 911 0 obj1 runwaylength===obj0 is located in obj5 and is operated by
+obj0 operatingorganisation obj2 obj2 headquarter===the operating organization for obj0 is obj4 whose hq
+obj0 operatingorganisation obj2 obj2 headquarter===obj10 international airports has a runway length of 3800
+obj0 operatingorganisation obj1 obj1 headquarter===the operating organization for obj0 is called obj4 and
+obj2 operatingorganisation obj0 obj0 headquarter===obj4 is located in obj4 in the obj7 the
+obj1 completiondate obj14 obj1 currenttenants===obj0 was completed in 1964 it has a obj01
+obj1 completiondate obj14 obj1 currenttenants===obj0 which was completed in obj04 with a obj01
+obj1 completiondate obj14 obj1 currenttenants===obj02 ababa city hall's completion date was in obj04
+obj3 main obj8 s kway obj27 obj31===obj0 iobj4 found in the countrieobj4 of obj9 obj02
+obj3 main obj8 s kway obj27 obj31===the obj2 ingredientobj4 for obj0 a diobj4h commonly found
+obj3 main obj8 s kway obj27 obj31===obj0 iobj4 a diobj4h obj4erved in obj9 obj02 obj4ingapore
+has obj16 obj12 obj11 cumberland county pennsylvania adams county pennsylvania===the obj0 is located in adam county in the
+obj3 has obj16 its southeast obj6 obj0===in obj11 the obj8 was obj7 in obj8 this
+obj3 has to its southeast obj6 obj3===the obj0 is categorised as obj7 and located in
+obj2 has to its southeast obj7 obj2===the obj10 of the obj0 is obj0 the county
+obj1 manager obj3 obj3 placeofbirth===italian born obj4 is in obj0 obj00 and also
+obj1 manager obj3 obj3 placeofbirth===italian born obj4 now plays at the obj2 he
+obj6 manager obj0 obj0 placeofbirth===italian born obj4 manages obj4 he also plays for
+obj6 obj8 obj0 obj0 placeofbirth===obj4 who was born in obj9 is the obj2
+obj6 manager obj0 obj0 placeofbirth===obj4 who was born in obj9 is in the
+obj4 manager obj0 obj0 placeofbirth===italian born obj4 has managed obj4 he is also
+obj4 obj8 obj0 obj0 placeofbirth===italian born obj4 is the obj2 of obj4 he
+obj4 manager obj0 obj0 placeofbirth===italian born obj4 plays for obj7 and is part
+obj5 obj8 obj0 obj0 placeofbirth===italian born obj4 is the obj2 of obj4 he
+obj5 manager obj0 obj0 placeofbirth===obj4 was born in obj9 he plays for obj4
+obj5 obj8 obj0 obj0 placeofbirth===obj4 who was born in obj9 has been obj2
+obj2 city obj12 obj2 numberofpostgraduatestudents===the obj0 is located in obj7 obj14 obj01 obj11
+obj2 city obj12 obj2 numberofpostgraduatestudents===obj0 in obj4 is affiliated to the obj1 the
+obj2 city obj12 obj2 numberofpostgraduatestudents===affiliated with obj1 the the obj0 in obj4 has
+obj1 obj19 obj14 obj3 numberofpostgraduatestudents===the obj5 obj05 has obj22 postgraduate students and is
+obj1 city obj14 obj3 numberofpostgraduatestudents===the obj5 has its obj05 in obj7 obj03 obj21
+obj0 author obj7 obj0 isbn number===obj5 isbn obj4 was written by obj4 has a
+obj8 obj11 obj0 obj0 doctoraladvisor===the obj2 of obj4 is obj4 who is from
+obj8 obj11 obj0 obj0 doctoraladvisor===obj4 lives in the us and attended obj4 where
+obj6 obj11 obj1 obj1 residence===obj4 lives in the obj5 and attended obj4 he
+obj0 academicdiscipline obj9 obj0 firstpublicationyear===the obj5 am obj12 math first published in obj11
+obj0 academicdiscipline obj9 obj0 firstpublicationyear===the academic discipline of the obj5 abbreviated to obj6
+obj0 operatingorganisation obj2 obj2 headquarter===obj4 have their hq in obj9 and obj13 and
+obj2 operatingorganisation obj0 obj0 headquarter===the obj4 is based in obj13 and is the
+obj5 obj19 obj24 obj18 west obj4 obj5===obj0 is east of obj7 and obj2 carrol county
+obj4 obj24 obj19 obj23 'technical obj15 obj17 obj26===obj0 in obj4 obj18 of obj9 is affiliated with
+obj15 leadername obj0 obj24 obj39 obj12 obj34===obj33 obj5 obj6 obj7 obj8 obj23 obj11 obj38 obj33
+obj15 leadername obj0 obj24 obj39 obj12 obj34===obj33 obj5 obj6 obj7 obj8 obj23 obj11 obj38 obj33
+obj15 leadername obj0 obj24 obj39 obj12 obj34===obj33 obj5 obj6 obj7 obj8 obj23 obj11 obj38 obj33

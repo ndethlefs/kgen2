@@ -1,0 +1,83 @@
+antwerp administrativearrondissement obj1===obj4 is the administrative obj4
+antwerp administrativearrondissement obj1===the administrative obj4 is the obj4
+são josé dos pinhais ispartof obj1===sao jose dos pinhais is part of the obj4
+elliot see birthdate 1927 07 23===elliot was born on the 23rd of july 1927
+250 delaware avenue floorarea obj4 square metres===250 delawre avenue has a floor area of obj4
+addis ababa ispartof obj0===obj4 is part of addid ababa
+addis ababa city hall completiondate obj2===addid ababa city hall was completed in obj4
+ampara hospital state obj0===ampara hopsital is in the obj4
+eastern province sri lanka leadername obj1===obj4 is the leader of the eastern province of
+eastern province sri lanka leadername obj1===obj4 is the name of the leader in the
+julia morgan significantbuilding obj0===julie morgan designed significant buildings in obj4
+ann arbor michigan areatotal obj4 square kilometres===ann arbor michigan has a total area of obj4
+ann arbor michigan areatotal obj4 square kilometres===ann arbor in michigan has a total area of
+ann arbor obj1 ispartof obj1===ann arbor is in obj5
+ann arbor obj1 ispartof obj1===ann arbor is part of obj5
+ann arbor michigan leadertitle obj1===the title of the leader of ann arbor in
+contra costa county california ispartof obj1===contra costa county is part of the obj4 in california
+contra costa county california ispartof obj1===contra costa county in california is part of the obj4
+amazing man comicscharacter alternativename obj2===is the alternative name for the comic character amazing man
+amazing man comicscharacter alternativename obj2===the comic book character amazing man's alter ego is obj4
+amazing man comicscharacter alternativename obj2===is also known as amazing man in the comics genre
+amazing man comicscharacter obj2 obj1===obj4 is the obj2 of the comic character amazing man
+amazing man comicscharacter creator obj1===the comic book character amazing man was created by obj4
+amazing man comicscharacter creator obj1===the comic character amazing man was created by obj4
+april o'neil creator obj1===the character april o'neal was created by obj4
+bibbo bibbowski obj2 obj1===obj4 was the obj2 of bibbo bibowski
+dick dillin nationality obj0===dick dillian is from the obj4
+marv wolfman obj2 obj0===marv wolfwan won an obj2 at the obj4
+rené goscinny nationality french people===rene goscinny is a french national
+valencian community leadername obj2===the leader of the community of valencia is obj4
+az alkmaar manager obj0===obj4 manages the az alkmaair
+olympic stadium obj2 location obj2===the olympic stadium is in obj1
+superleague greece obj2 obj1===obj4 were past obj2 in the greece superleague
+visvesvaraya technological university obj2 obj1===the visvesvaraya technologiccal university is in the obj2 of obj4
+grantville gazette ii precededby obj0===obj4 preceded obj4 ii
+johns hopkins university press country obj1===john hopkins university press is located in the obj4
+250 delaware avenue location obj1 obj1 leadername obj3===240 delaware avenue is in obj4 where obj9 is
+bandeja paisa obj2 obj4 obj4 obj3 obj1===obj5 comes from the plant obj7 obj9 and is
+az alkmaar manager obj0 obj0 club obj3===obj4 manages the az alkmaair and plays for obj9
+az alkmaar manager obj0 obj0 club obj2===obj4 plays for obj9 and manages az alkmaair
+az alkmaar manager obj1 obj1 club obj0===obj4 played for the obj9 but now manages the
+az alkmaar manager obj1 obj1 club obj0===obj4 plays in obj9 he manages the obj9
+olympic stadium obj5 location obj5 obj2===the olympic stadium located in obj1 is the home
+olympic stadium obj5 location obj5 aek obj5===the olympic stadium in obj1 is where the aek
+olympic stadium obj5 location obj5 obj2===the olympic stadium in obj1 is the home obj4
+200 public square location obj3 obj3 ispartof===the us is home to 200 pubic square in
+250 delaware avenue location obj1 obj1 leadername===250 delaware avenure is located in buffalo new york
+addis ababa ispartof obj1 obj0 location===the obj4 and the obj5 can both be found
+asam pedas country obj5 obj5 ethnicgroup===obj4 has the obj0 as an ethnic group asam
+ayam penyet region nationwide also can be obj9===obj1 is an obj5 obj14 ayem penyet obj8 obj14
+ayam penyet region obj3 obj7 ethnicgroup===ayam peyney is a popular dish from obj4 and
+barny cakes country obj6 obj6 leadername===barney cakes can be found in obj4 where two
+az alkmaar manager obj0 obj0 club===obj4 manages the az alkmaair as well as playing
+az alkmaar manager obj0 obj0 obj7===obj4 manages for the az alkmaair plays for obj5
+az alkmaar manager obj1 obj1 club===obj4 manages the az alkmaair and plays for both
+az alkmaar manager obj0 obj0 club===obj4 manages the az alkmaair and plays for both
+az alkmaar manager obj1 obj1 club===obj4 plays for the netherlands football team and obj2
+az alkmaar manager obj1 obj1 club===obj4 is a player in obj0 but also manages
+az alkmaar manager obj0 obj0 club===obj4 manages the az alkmaair and plays for both
+brandon sanderson birthplace obj4 obj2 followedby===obj5 and its sequel obj0 were written by brnadon
+rené goscinny nationality french people asterix comicscharacter creator===the comic character asterix is sometimes called astérix and
+asam pedas country obj6 obj6 ethnicgroup===asam peda is a dish from obj8 where the
+bakewell pudding dishvariation obj4 obj4 region===the obj5 or pudding is popular in the obj0
+az alkmaar obj8 obj0 obj0 club===obj4 is in obj3 and plays for obj7 he
+az alkmaar obj8 obj0 obj0 club===obj4 is obj2 of az aklmaar he also plays
+summit assault obj10 st vincent–st mary high school obj5 obj9===summit assaults obj2 is st vincent st mary high school
+olympic stadium obj11 location obj11 obj4===previous greece superleague obj7 obj7 play their home games
+olympic stadium obj10 location obj10 obj2===the olympic stadium in obj1 is the home obj9
+olympic stadium obj10 location obj10 obj2===located in obj1 the olympic stadium is the obj9
+olympic stadium obj10 location obj10 obj2===the olympic stadium in obj1 is the home of
+aip advances editor obj0 obj0 almamater===obj4 a us national attended obj4 his doctoral advisor
+aip advances obj11 obj0 obj0 doctoraladvisor===obj4 who lives in the us and attended obj4
+ampara hospital obj13 obj7 obj7 leadername===ampara hopsital is in the obj0 obj1 is the
+asam pedas country obj7 obj7 ethnicgroup===the obj12 of obj4 is obj6 and the main
+asam pedas country obj9 obj9 ethnicgroup===obj2 and the obj0 are ethnic groups in obj4
+baked alaska obj10 obj11 obj11 leadername===basked alaska from obj8 actually comes from the obj2
+bakewell pudding region obj3 obj3 leadername===the obj2 based dessert obj8 or pudding is from
+bakewell pudding region obj1 obj1 leadername===the dessert obj7 or pudding is popular in the
+barny cakes country obj12 obj12 leadername===barney cakes is created by obj0 which was founded
+barny cakes country obj12 obj0 foundationplace===barney cakes were founded by chicago's obj5 in obj4
+derbyshire dales leadername obj0 obj4 dishvariation===a variation of obj5 bakewell tart uses shortcrust pastry comes
+olympic stadium obj12 location obj12 obj2===located in obj1 the olympic stadium is the obj11
+olympic stadium obj12 location obj12 obj2===the olympic stadium in athensobj7 is the home obj11

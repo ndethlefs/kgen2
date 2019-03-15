@@ -1,0 +1,67 @@
+amsterdam airport schiphol runwaylength 3500 0===amsterdam's schiphol airport has a runway length of 3500
+wilson township alpena county michigan country united states===wilson township in alpena county michigan is in the usa
+atlantic city new jersey populationdensity obj5 inhabitants obj6 obj4 kilometre===atlantic city in new jersey has a population density
+lengthfeet obj4 alpena county regional airport elevationabovethesealevel in metres obj5===aplena county regional airport is elevated obj9 metres above
+lengthfeet obj4 alpena county regional airport elevationabovethesealevel in metres obj5===lpena county regional airport is 210m above sea level
+atlantic city new jersey atlantic city new jersey leadername obj3===atlantic city nj which is led by obj9 is
+103 obj3 completiondate obj5 103 obj3===number 103 in obj1 was completed in obj5
+airman comicscharacter alternativename obj4 airman comicscharacter creator obj3===obj9 created the comic character airman whose alter ego
+airman comicscharacter alternativename obj4 airman comicscharacter creator obj3===drake stevens known as airman was created by obj9
+airman comicscharacter alternativename obj4 airman comicscharacter obj5 obj3===obj9 is the obj7 of the comic character airman
+airman comicscharacter alternativename obj3 airman comicscharacter creator obj4===obj9 is known as the comic character airman which
+airman comicscharacter alternativename obj3 airman comicscharacter creator obj4===the comic character airman who has the alternative name
+airman comicscharacter obj4 obj3 airman comicscharacter obj4 obj2===the creators of the comic character airman were obj7
+airman comicscharacter creator obj3 airman comicscharacter creator obj2===the comic book character airman was created by both
+airman comicscharacter obj4 obj3 airman comicscharacter obj4 obj2===the creators of the comic book character airman were
+arion comicscharacter alternativename obj4 arion comicscharacter obj5 obj2===obj9 is the obj7 of the comic character arion
+arion comicscharacter alternativename obj4 arion comicscharacter creator obj2===created by obj9 the book character arion is also
+arion comicscharacter alternativename obj4 arion comicscharacter obj5 obj2===obj9 is the obj7 of the comic character arion
+arion comicscharacter creator obj3 arion comicscharacter alternativename obj4===the comic character arion also known as obj9 was
+arion comicscharacter creator obj3 arion comicscharacter alternativename obj4===created by obj9 the comic character arion is also
+arion comicscharacter creator obj3 arion comicscharacter creator obj2===the character arion was created by obj4 and obj9
+arion comicscharacter creator obj3 arion comicscharacter creator obj2===the comic character arion was created by obj4 and obj9
+arion comicscharacter creator obj3 arion comicscharacter creator obj2===the comic book character arion was created by obj4
+asterix comicscharacter alternativename obj4 asterix comicscharacter creator obj3===the comic character asterix sometimes called obj4 was created
+asterix comicscharacter alternativename obj4 asterix comicscharacter creator obj3===the alternative name of asterix comics character is astérix
+asterix comicscharacter alternativename obj4 asterix comicscharacter obj5 obj3===obj9 is the obj7 of the comic character asterix
+asterix comicscharacter obj5 obj3 asterix comicscharacter alternativename obj4===the obj2 of asterix the comics character also known
+auron comicscharacter creator obj2 auron comicscharacter fullname obj4===obj9 created the comic book character auron aka obj9
+auron comicscharacter creator obj2 auron comicscharacter fullname obj4===the comic character auron whose full name is obj9
+auron comicscharacter creator obj2 auron comicscharacter fullname obj4===the comic character auron otherwise known as lambien was
+balder comicscharacter alternativename obj3 balder comicscharacter creator obj4===the comic character balder full name obj9 was created
+balder comicscharacter alternativename obj3 balder comicscharacter creator obj4===an alternative name for the comic character balder created
+balder comicscharacter creator obj4 balder comicscharacter alternativename obj3===the comic character balder also known as obj9 was
+balder comicscharacter creator obj4 balder comicscharacter alternativename obj3===balder otherwise known as obj9 was created by obj4
+balder comicscharacter obj4 obj2 balder comicscharacter obj4 obj3===obj7 and obj9 are the creators of the comic
+balder comicscharacter creator obj2 balder comicscharacter creator obj3===the character balder created by obj4 and obj9
+balder comicscharacter creator obj2 balder comicscharacter creator obj3===obj4 and obj9 created the comic character balder
+ballistic comicscharacter alternativename obj4 ballistic comicscharacter creator obj3===obj9 created the comic character ballistic who has the
+ballistic comicscharacter alternativename obj4 ballistic comicscharacter creator obj3===the comic character ballistic has the alternative name obj4
+ballistic comicscharacter obj4 obj3 ballistic comicscharacter obj4 obj2===the creators of the comic character ballistic were obj9
+ballistic comicscharacter creator obj3 ballistic comicscharacter creator obj2===obj4 and obj9 created the comic character ballistic
+ballistic comicscharacter creator obj3 ballistic comicscharacter creator obj2===the comic book character ballistic was created by obj9
+airman comicscharacter creator obj6 airman comicscharacter alternativename===airman aka obj5 was created by obj4 and obj4
+airman comicscharacter creator obj6 airman comicscharacter alternativename===the alternative name of the comic character airman is
+airman comicscharacter creator obj6 airman comicscharacter alternativename===the comic character airman aka obj5 was created by
+arion comicscharacter creator obj5 arion comicscharacter alternativename===obj4 and obj3 created the comic book character of
+arion comicscharacter creator obj5 arion comicscharacter alternativename===the comic book character arion aka obj6 was created
+arion comicscharacter creator obj5 arion comicscharacter alternativename===the comic character arion is also known as obj6
+asterix comicscharacter creator obj4 asterix comicscharacter alternativename===the comic character asterix was created by obj4 and obj5
+asterix comicscharacter creator obj4 asterix comicscharacter alternativename===asterix alternatively astérix is a comic book character created
+balder comicscharacter creator obj5 balder comicscharacter creator===the comic character of balder has the alternative name
+balder comicscharacter creator obj5 balder comicscharacter creator===the comic character of obj4 is also known by
+balder comicscharacter creator obj5 balder comicscharacter creator===balder a comic character aka obj4 was created by
+ballistic comicscharacter creator obj5 ballistic comicscharacter alternativename===ballistic also known as obj6 is a fictional comic
+ballistic comicscharacter creator obj5 ballistic comicscharacter alternativename===ballistic is a fictional comic superhero who is sometimes
+amatriciana sauce region obj8 amatriciana sauce country===amatriciana is a traditional italian sauce from obj4 containing obj4
+amatriciana sauce region obj8 amatriciana sauce country===amatriciana a sauce from obj4 obj7 contains obj3
+amatriciana sauce obj6 obj8 amatriciana sauce country===amatriciana is a traditional italian sauce from the obj4
+amatriciana sauce region obj8 amatriciana sauce country===amatriciana is a sauce from obj4 can be found
+appleton international airport location greenville wisconsin appleton international airport runwaylength===appletone international airport can be found in greenvile wisconsin
+amatriciana sauce region obj11 amatriciana sauce country===amatriciana is a sauce from obj4 obj10 it includes
+amatriciana sauce region obj11 amatriciana sauce country===amatriciana comes from obj10 and is a sauce from
+appleton international airport obj13 greenville wisconsin greenville wisconsin ispartof===greenville is in grand chute obj0 obj9 and is
+amatriciana sauce region obj14 amatriciana sauce country===amatriciana is a sauce from obj4 obj13 it includes
+amatriciana sauce obj12 obj14 amatriciana sauce country===amatriciana is a traditional sauce from the obj4 obj2
+amatriciana sauce region obj14 amatriciana sauce country===amatriciana is a popular sauce from obj4 obj13 it
+amatriciana sauce region obj14 amatriciana sauce country===italian sauce amatriciana is from obj4 obj13 it includes

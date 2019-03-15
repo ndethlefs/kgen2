@@ -1,0 +1,218 @@
+obj2 largestcity obj1===obj1 is the largest city in obj2
+obj1 battles obj0===the obj0 was carried out by the obj1
+obj0 parentcompany obj1===obj1 are the parent company of obj0
+obj0 parentcompany obj1===the parent company of obj0 is obj1
+obj0 parentcompany obj1===obj1 is the parent company of obj0
+obj1 broadcastedby obj2===obj1 is broadcast by the obj2
+obj1 broadcastedby obj2===obj1 the tv series was shown on the obj2
+obj1 broadcastedby obj2===the obj2 broadcasted obj1
+obj0 areatotal obj4 obj3 obj1===obj0 has a total area of obj4 obj3 obj1
+obj0 areatotal obj4 obj3 obj1===the total area in obj0 is obj4 obj3 obj1
+obj1 largestcity obj2===obj2 is the largest city in obj1
+united kingdom leadername obj1===obj1 is the leader of the united kingdon
+obj1 dedicatedto obj0 obj1 location obj4===obj10 obj1 is dedicated to obj10 obj0 and located
+obj0 season obj3 obj0 numberofmembers obj5===obj0 obj5 members strong play in the obj3
+obj0 season obj3 obj0 numberofmembers obj5===akron summit assault has obj5 members and plays in
+obj2 affiliation obj0 obj0 obj5 obj4===the obj2 is affiliated with the obj0 in the
+obj2 affiliation obj0 obj0 city obj4===obj2 in obj4 is affiliated with obj0
+obj2 affiliation obj0 obj0 city obj4===obj2 is affiliated with the obj0 in obj4
+obj2 broadcastedby obj5 obj2 obj4 obj0===obj2 obj4 obj0 is broadcasted by the obj5
+obj3 architecturalstyle obj0 obj3 location===obj3 which was finished in obj8 is located in
+obj0 architect obj4 obj4 birthplace===obj4 born in obj3 designed the significant obj1 and
+obj6 international airport cityserved obj6 obj4 language===obj6 is located in german speaking part of obj4
+obj2 populationdensity obj16 obj7 obj17 obj14 obj9===obj2 is part of obj0 and is located at
+obj2 populationdensity obj16 obj7 obj17 obj14 obj9===obj2 is part of obj0 it has a population
+obj3 season obj13 obj3 numberofmembers===obj3 which has the full name association obj7 obj11
+obj3 affiliation obj1 obj1 city===the acharya institute of technology's obj9 is located in
+obj3 affiliation obj1 obj1 city===the obj9 of the obj3 in obj10 which is
+obj3 affiliation obj1 obj1 city===obj3 in obj10 is affilaited with the obj1 in
+obj10 largest obj12 obj9 obj0 obj8===the obj0 in obj5 obj10 was obj6 in obj13
+obj10 largest obj12 obj9 obj0 country===obj0 obj6 in obj13 in obj5 obj10 has obj14
+obj10 largest obj12 obj9 obj0 country===obj10 with it's largest obj12 obj9 is also the
+obj10 largestcity obj8 obj0 country===obj0 is located in obj6 obj10 obj12 is the
+obj12 largestcity obj10 obj0 country===the obj0 in obj8 obj12 was obj3 in obj17
+obj12 largestcity obj10 obj0 country===the obj11 obj7 flows through obj12 where the largest
+obj12 largestcity obj10 obj0 obj6===obj3 in obj17 the obj0 is in obj8 obj12
+obj1 battles obj0===the obj0 was one fought by obj1
+obj1 battles obj0===obj1 fought in the obj0
+obj1 successor obj0===obj1 was succeded by obj0
+obj1 successor obj0===the sucessor to obj1 was obj0
+obj1 battles obj0===obj1 took part in the obj0
+obj1 battles obj0===obj1 fought in the obj0
+obj1 battles obj0===obj1 was involved in the obj0
+obj0 successor obj1===obj0 was succeeded by obj1
+obj1 party obj0===obj1 belongs to the obj0
+obj2 operator obj0===the obj2 is operated by obj0
+obj1 operator obj0===the ship obj1 is operated by obj0
+obj2 relatedmeanoftransportation obj1===the obj2 is related to the obj1
+obj0 assembly obj2===the obj0 was assembled in obj2
+obj1 relatedmeanoftransportation obj2===obj1 and obj2 are related types of transportation
+obj1 relatedmeanoftransportation obj2===the related transport to the obj1 is the obj2
+obj0 manufacturer obj1===the obj1 made the obj0
+obj0 manufacturer obj1===the obj0 was manufactured by obj1
+obj0 manufacturer obj1===the obj0 is made by the company obj1
+obj0 manufacturer obj1===the obj0 is manufactured by obj1
+obj2 assembly obj0===the obj2 is assembled by obj0
+obj2 assembly obj0===the obj2 is assembled at obj0
+obj2 relatedmeanoftransportation obj1===the obj1 and the obj2 are both cars and
+obj2 relatedmeanoftransportation obj1===the obj2 and the obj1 are similar means of transport
+obj2 relatedmeanoftransportation obj1===the obj2 and obj1 are related types of transport
+obj2 relatedmeanoftransportation obj1===obj2 is a related means of transport to obj1
+obj2 relatedmeanoftransportation obj1===the obj2 is related to the obj1
+obj2 relatedmeanoftransportation obj1===the obj2 is related to the obj1
+obj0 manufacturer obj2===obj2 are the makers of the obj0
+obj0 manufacturer obj2===the obj0 was manufactured by obj2
+alan martin footballer club obj0===alan martin played football for obj0
+alan martin footballer club obj0===alan martin is a footballer for the obj0
+alan martin footballer club obj0===the footballer alan martin plays for obj0
+alan martin footballer obj2 obj0===alan martin is a footballer with the obj0 obj2
+obj1 stylisticorigin obj2===obj1 originated from obj2 music
+obj1 stylisticorigin obj2===obj1 has its origins in obj2
+obj1 stylisticorigin obj2===obj1 has its stylistic origins in obj2
+obj2 stylisticorigin obj1===the stylistic origin of obj2 is obj1
+obj2 stylisticorigin obj1===obj2 has its origins in obj1
+obj1 stylisticorigin obj2===obj1 music originated from obj2 music
+obj1 stylisticorigin obj2===obj1 has its stylistic origin in the obj2
+obj1 stylisticorigin obj2===rock and roll's stylistic origins come from obj2
+obj2 stylisticorigin obj1===obj2 is a form of obj1
+obj2 stylisticorigin obj1===synthpop's stylistic origins come from obj1
+obj2 stylisticorigin obj1===the stylistic origin of obj2 is obj1
+obj1 discoverer obj0===obj1 was discovered by obj0
+obj1 discoverer obj0===obj0 discovered obj1
+obj0 discoverer obj2===obj0 was discovered by obj2
+obj0 discoverer obj2===obj2 discovered obj0
+obj0 discoverer obj2===the asteroid called obj0 was discovered by obj2
+obj1 discoverer obj0===obj1 was discovered by obj0
+obj1 discoverer obj0===obj0 discovered obj1
+obj1 battles obj0 obj1 obj5 obj3===obj1 fought at the obj0 and was awarded the obj3
+obj1 battles obj0 obj1 obj5 obj3===obj1 fought in the obj0 and was awarded the obj3
+obj1 battles obj0 obj1 obj5 obj3===obj1 who fought in the obj0 was awarded the obj3
+obj0 battles obj2 obj2 obj4 obj1===obj1 was a obj4 in obj2 in which obj0
+obj0 battles obj2 obj2 obj4 obj1===obj0 fought in obj2 and the obj4 of russian
+obj2 battles obj1 obj2 obj5 obj0===obj2 who won the obj0 obj5 fought in obj1
+obj3 battles obj0 obj0 obj4 obj2===obj3 was involved in the obj0 in which obj2
+obj3 battles obj0 obj0 obj4 obj2===obj3 fought in the obj0 the battle where obj2
+obj3 battles obj0 obj0 obj4 obj2===obj2 was a obj4 in the obj0 in which
+obj2 battles obj1 obj2 birthplace obj0===obj2 was born in obj0 and fought in obj1
+obj3 battles obj1 obj1 obj4 obj0===obj3 fought in obj1 where obj0 was a obj4
+obj3 battles obj1 obj1 obj4 obj0===obj0 was a obj4 in obj1 in which obj3 fought
+obj3 battles obj1 obj1 obj4 obj0===obj3 fought in obj1 where obj0 was a obj4
+obj3 battles obj1 obj1 obj4 obj0===obj3 fought in obj1 during which obj0 was a obj4
+obj3 battles obj1 obj1 obj4 obj0===obj0 was a obj4 in obj1 the war obj3
+obj3 battles obj1 obj1 obj4 obj0===obj3 fought in obj1 where one of the commanders
+obj1 successor obj2 obj2 almamater obj0===obj1 was succeeded by obj2 his alma mater is obj0
+obj1 successor obj2 obj2 almamater obj0===obj2 attended obj0 and suceeded obj1
+obj1 successor obj2 obj2 almamater obj0===obj2 attended obj0 and he succeeded obj1
+obj1 battles obj2 obj2 obj4 obj0===obj1 fought during obj2 in which obj0 was a obj4
+obj1 battles obj2 obj2 obj4 obj0===obj1 fought in obj2 where obj0 was also a obj4
+alan martin footballer obj5 obj0 obj0 obj4 obj3===hamilton academical fc's obj4 is obj3 and is the
+obj0 birthyear obj5 obj0 birthplace obj4===obj0 was born in obj5 in obj4
+obj0 birthyear obj5 obj0 birthplace obj4===obj0 was born in obj4 in obj5
+obj3 discoverer obj1 obj1 birthplace obj0===obj1 who was born within the obj0 discovered obj3
+obj3 discoverer obj1 obj1 birthplace obj0===obj1 who was born in the obj0 discovered obj3
+obj3 discoverer obj1 obj1 birthplace obj0===obj1 was born in the obj0 and discovered obj3
+obj2 discoverer obj0 obj0 birthplace obj3===obj0 born in obj3 discovered obj2
+obj2 discoverer obj0 obj0 birthplace obj3===obj0 born in obj3 discovered obj2
+obj3 manufacturer obj4 obj4 obj2 obj1===obj1 is a obj2 of obj4 who make the obj3
+obj3 manufacturer obj4 obj4 obj2 obj1===the obj3 is manufactured by obj4 who have a
+obj3 manufacturer obj4 obj4 obj2 obj0===obj3 is made by obj4 a obj2 of which
+obj3 manufacturer obj4 obj4 obj2 obj0===the obj0 is a obj2 of the obj4 who
+obj0 parentcompany obj3 obj2 obj5 obj0===obj3 is the parent company of the obj0 co
+obj3 battles obj6 obj6 obj5===obj3 served in the obj1 and fought in the
+obj2 party obj1 obj2 birthplace===obj1 member obj2 who studied at obj0 was born
+obj1 successor obj4 obj1 birthplace===obj1 was a obj0 who was born in obj5
+obj2 successor obj5 obj2 birthplace===obj2 who was born in obj1 was a obj0
+obj2 successor obj5 obj2 birthplace===born in obj1 obj2 worked as obj0 and was
+obj2 successor obj5 obj2 birthplace===obj2 was born in obj1 and prior to being
+obj4 discoverer obj1 obj1 nationality===obj4 was discovered by obj1 a german national who
+obj4 discoverer obj1 obj1 nationality===obj1 a german national who graduated from the university
+obj4 discoverer obj1 obj1 nationality===obj1 a german national discovered obj4 his alma mater
+obj6 discoverer obj1 obj6 obj8===obj6 has an obj8 date of august 27th 2011
+obj6 discoverer obj1 obj6 obj8===obj6 which has the obj8 of 27 august 2011
+obj8 discoverer obj0 obj0 deathplace===obj0 who discovered obj8 died in obj1 of obj4
+obj8 discoverer obj0 obj0 deathplace===obj8 was discovered by obj0 he died in obj1
+obj8 discoverer obj0 obj0 deathplace===obj8 was discovered by obj0 who died of obj4
+obj5 stylisticorigin obj8 obj3 associatedband associatedmusicalartist===obj3 whose musical obj7 is obj5 plays for the
+obj5 stylisticorigin obj8 obj3 associatedband associatedmusicalartist===obj3 plays for the obj1 band and performs obj5
+obj5 stylisticorigin obj8 obj3 associatedband associatedmusicalartist===obj5 musician obj3 is in the band obj1 obj5
+obj1 assembly obj6 obj6 obj5===the obj3 and the obj1 are both cars the
+obj1 assembly obj6 obj6 obj5===obj1 asembled in obj6 capital rome is a related mode
+obj1 assembly obj6 obj6 obj5===the obj1 assembled in obj6 capital rome is a similar
+obj1 assembly obj6 obj6 obj5===the obj1 which was assembled in obj6 and the
+obj1 assembly obj6 obj6 obj5===the obj3 and the obj1 are related the latter
+obj1 assembly obj6 obj6 obj5===the obj1 was made in obj6 and is related
+obj4 relatedmeanoftransportation obj3 obj4 obj10===the obj4 obj10 took place in obj0 the aston
+obj4 relatedmeanoftransportation obj3 obj4 obj10===the obj4 has a obj13 litre obj11 and its
+obj2 relatedmeanoftransportation obj1 obj2 obj8===the obj2 is assembled in the obj5 and has
+obj2 relatedmeanoftransportation obj1 obj2 obj8===the obj2 and the obj1 are related means of
+obj2 relatedmeanoftransportation obj1 obj2 obj8===obj2 was assembled in the obj5 and has an
+obj0 foundationplace obj5 obj0 location===obj7 is powered by obj0 which was founded in
+obj0 foundationplace obj5 obj0 location===obj0 founded in obj5 and located in obj1 powers
+obj0 foundationplace obj5 obj0 location===the obj7 is powered by a obj0 engine obj0
+obj1 birthyear obj11 obj1 obj10===was born in obj9 on 09 05 1989 his obj10
+obj4 discoverer obj0 obj4 obj13===the obj13 of obj4 formerly known as 1923 obj12
+obj4 discoverer obj0 obj4 obj13===obj2 is the original name of obj4 which was
+obj4 discoverer obj0 obj4 obj13===obj4 discovered by obj0 was formerly known as obj2
+obj8 discoverer obj4 obj4 birthplace===obj8 was discovered by obj4 whose alma mater was
+obj10 discoverer obj1 obj1 nationality===canadian obj1 who died in madison wisconsin discovered obj10
+obj10 discoverer obj0 obj0 nationality===obj10 was discovered by obj0 he was a canadian
+obj4 operator obj2 obj4 obj11===the obj4 was built by obj3 and is obj8
+obj4 assembly obj1 obj4 obj13===the obj4 is classed as a obj3 with a
+obj3 assembly obj0 obj3 obj10===obj3 is a luxury obj11 of vehicle with a
+obj3 assembly obj0 obj3 obj10===the obj3 is a obj2 with a v6 front
+obj3 assembly obj0 obj3 obj10===the obj3 is a luxury obj11 of vehicle made
+obj2 relatedmeanoftransportation obj6 obj2 obj9===the obj6 obj8 and obj2 are all cars and
+obj2 relatedmeanoftransportation obj6 obj2 obj9===the obj2 is similar to the obj8 and related
+obj4 relatedmeanoftransportation obj3 obj4 obj11===the obj4 is related to the obj3 and the
+obj4 relatedmeanoftransportation obj3 obj4 obj11===the obj2 obj4 and obj3 are a related means
+obj4 relatedmeanoftransportation obj3 obj4 obj11===the obj2 obj4 and obj3 are a related means
+obj4 relatedmeanoftransportation obj3 obj4 obj11===the obj1 which has a obj12 litre obj11 is
+obj4 relatedmeanoftransportation obj3 obj4 obj11===the obj4 manufactured by obj7 has a obj12 litre
+obj4 relatedmeanoftransportation obj3 obj4 obj11===the obj3 and obj4 are a related means of
+obj3 stylisticorigin obj10 obj6 obj9===the musical obj9 of obj6 is obj3 which has
+obj1 battles obj0 obj1 obj11===obj1 was born in obj10 and died in obj5
+obj1 battles obj0 obj1 obj11===obj10 born obj1 fought in the obj0 was awarded
+obj1 battles obj0 obj1 obj11===born in obj10 aaron s daggett fought in the
+obj1 battles obj0 obj1 obj11===born in obj10 obj1 fought in the obj0 awarded
+obj1 battles obj0 obj1 obj11===obj1 was born in obj10 and died in obj5
+obj1 party obj0 obj1 obj10===mirir malaysia born obj1 who lives in obj8 represented
+obj1 party obj0 obj1 region===obj1 who was born in obj5 and lives in
+obj2 successor obj5 obj5 obj7===japanese occupied british borneo was the obj7 of obj5
+obj2 successor obj5 obj5 birthplace===obj2 a member of the obj1 obj11 lives in
+obj2 successor obj5 obj5 birthplace===obj2 who lives in obj10 belongs to the obj1
+obj2 battles obj9 obj2 birthplace===obj2 was born in obj11 and began his career
+obj2 battles obj9 obj2 birthplace===obj2 was born in obj11 and his alma mater
+obj4 battles obj3 obj4 obj10===obj0 is the obj10 of obj4 and he was
+obj4 battles obj3 obj4 birthplace===obj4 was born in knightsbridge in london and started
+obj4 battles obj3 obj4 birthplace===obj3 veteran obj4 born in obj0 began his career
+obj4 battles obj3 obj4 birthplace===obj4 born in obj0 was involved in the battle
+obj4 battles obj3 obj4 birthplace===obj4 who was born in obj0 fought in the
+obj4 battles obj3 obj4 birthplace===obj3 veteran obj4 born in obj0 began his career
+obj5 locationcity obj3 obj0 obj6===the guiana space centre's headquarters are located in obj2
+obj5 locationcity obj3 obj0 obj6===the obj11 is located at the obj0 headquarters french
+obj4 relatedmeanoftransportation obj3 obj7 leadername===the obj4 assembled in the obj7 leader elizabeth ii was
+obj4 relatedmeanoftransportation obj3 obj7 leadername===the obj4 suceeded by the the obj1 and made
+obj10 discoverer obj2 obj2 almamater===obj2 who obj9 obj10 on 15th august 1868 is
+obj10 discoverer obj2 obj2 almamater===obj10 was obj9 by the canadian obj2 on august
+obj10 discoverer obj2 obj2 almamater===canadian obj2 obj9 obj10 on august 15th 1868 he
+obj12 discoverer obj1 obj1 almamater===obj1 who discovered obj12 originated from obj14 and studied
+obj12 discoverer obj1 obj1 almamater===obj12 was discovered by obj1 who originated from obj14
+obj9 discoverer obj4 obj4 deathplace===german obj4 discovered obj9 baade died in gottingen was
+obj9 discoverer obj4 obj4 deathplace===obj4 who had a doctoral student named obj2 was
+obj12 discoverer obj2 obj2 almamater===canadian obj2 obj9 obj12 on september 7th 1868 his
+obj12 discoverer obj2 obj2 almamater===obj2 a canadian who attended the obj0 obj9 obj12
+obj13 discoverer obj2 obj2 almamater===obj2 a canadian who went to the obj0 found
+obj13 discoverer obj2 obj2 almamater===obj13 was discovered by obj2 a canadian who studied
+obj13 discoverer obj2 obj2 almamater===canadian obj2 discovered obj13 which has a obj11 of
+obj4 discoverer obj14 obj4 obj17===obj4 which has the obj17 date 31 december 2006
+obj4 discoverer obj14 obj4 obj17===obj4 which has an obj17 date of december 31st
+obj4 discoverer obj14 obj4 obj17===obj4 which was discovered by obj14 and has the
+obj6 discoverer obj1 obj1 deathplace===obj1 was an englishmanborn in obj8 and died in
+obj6 discoverer obj1 obj1 deathplace===obj1 was born in obj8 in the uk and
+obj1 party obj0 obj1 region===obj1 was born in obj6 on may 21st 1936
+obj4 successor obj2 obj4 obj14===succeeded by obj2 obj4 was born in obj12 and
+obj3 stylisticorigin obj13 obj6 birthplace===obj2 derives its sounds from obj3 which has its
+obj3 stylisticorigin obj13 obj6 birthplace===obj6 was born in obj7 and is a hip
+obj3 stylisticorigin obj13 obj6 birthplace===born in obj7 obj6 is a performer of obj3
+obj3 stylisticorigin obj12 obj5 obj11===obj14 born allen forrest's obj11 is obj3 which originated
+obj3 stylisticorigin obj12 obj5 obj11===obj5 a hip hop musician was born in the

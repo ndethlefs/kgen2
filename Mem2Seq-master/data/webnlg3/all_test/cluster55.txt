@@ -1,0 +1,154 @@
+obj0 icao location identifier obj2===obj0 icao location idenitifier is obj2
+obj0 5th runway surfacetype obj2===the 5th runway at obj0 has an obj2 surfacing
+obj0 5th runway surfacetype obj2===the fifth runway of obj0 has an obj2 surface
+obj0 5th runway surfacetype obj2===the 5th runway of the obj0 is obj2
+obj0 regionserved obj2===obj2 is a region served by the obj0
+obj0 regionserved obj2===the obj0 serves the region of obj2
+obj1 transportaircraft obj0===the obj1 has a obj0 transport aircraft
+obj1 transportaircraft obj0===the obj0 is a transport aircraft of the obj1
+obj0 numberofrooms obj2===the obj0 has obj2 rooms
+obj0 numberofrooms obj2===the number of rooms in the obj0 is obj2
+obj1 notablework obj0===obj0 is obj1 notable work
+obj1 notablework obj0===a notable work of obj1 is obj0
+obj0 class obj2===obj0 is a type of obj2
+obj3 founder obj2 obj0 obj5===obj2 founded obj3 who publish obj0 with obj5 0001 8392
+obj0 utcoffset obj11 obj0 areacode===obj0 has a total area of obj8 square kilometres
+obj11 areaofland obj20 obj17 kilometres obj11===obj11 which is part of obj0 has a population
+obj11 areaofland obj20 obj10 obj3 obj11===obj11 part of dekalb county georgia covers an area of
+obj2 inofficewhilevicepresident obj0===obj2 was in office while obj0 was vice president
+obj2 inofficewhilevicepresident obj0===obj2 was in office whilst obj0 was vice president
+obj0 activeyearsenddate obj2===obj0 ended his career on obj2
+obj0 residence obj1===obj0 resided in obj1
+obj0 residence obj1===obj0 lives in obj1
+obj1 inofficewhileprimeminister obj2===obj1 was in office while obj2 was prime minister
+obj1 inofficewhileprimeminister obj2===obj1 was in office under obj2 prime minister
+obj1 inofficewhileprimeminister obj2===obj1 served in office while obj2 was prime minister
+obj1 spouse obj0===obj1 is married to obj0
+obj1 spouse obj0===obj0 was the wife of obj1
+obj1 activeyearsstartdate obj2===obj1 started his career on obj2
+obj1 activeyearsstartdate obj2===obj1 started active service on obj2
+obj1 ispartofmilitaryconflict obj2===the obj1 took place during the obj2
+obj2 christeningdate obj1===the christening date of obj2 is obj1
+obj0 engine obj1===the obj0 has a obj1
+obj0 engine obj1===the obj0 has a obj1
+obj1 engine obj0===the obj1 has a obj0
+obj1 shipbea obj3 obj2 obj3===the obj1 ship beam is 83m
+obj1 shipbea obj3 obj2 obj3===the obj1 has a ship beam of 83m
+obj1 shipbea obj3 obj2 obj3===the obj1 has an 83m ship beam
+obj1 topspeed obj2===the obj1 had a top speed of obj2 km h
+obj1 topspeed obj2===the obj1 has a top speed of obj2
+obj1 topspeed obj2===the top speed of the obj1 is obj2
+obj1 engine obj0===obj1 has a obj0
+obj0 bodystyle obj1===the obj0 is a obj1
+obj2 finalflight obj1===the final flight of obj2 was on obj1
+obj2 foundedby obj0===obj2 was founded by obj0
+obj2 foundedby obj0===obj0 founded obj2
+obj2 foundedby obj0===the company obj2 was founded by obj0
+obj1 foundedby obj0===obj1 was founded by obj0
+obj1 chairman obj0===obj0 is the chiarman of obj1
+obj0 youthclub obj1===obj0 plays for the obj1 youth team
+obj0 youthclub obj1===obj0 plays for as roma's youth team
+obj0 youthclub obj1===obj0 played in as roma's youth team
+obj1 generalmanager obj2===obj2 is general manager for the obj1
+obj1 generalmanager obj2===obj2 is general manager of the obj1
+obj1 generalmanager obj2===the general manager of the obj1 is obj2
+obj1 activeyearsstartyear obj2===obj1 started performing in obj2
+obj1 activeyearsstartyear obj2===obj1 started performing in obj2
+obj1 activeyearsstartyear obj2===obj2 was the beginning of alison o'donnell's active years
+obj1 activeyearsstartyear obj2===obj1 began his musical career in obj2
+obj1 activeyearsstartyear obj2===obj1 started his career in obj2
+obj1 absolutemagnitude obj2===obj1 has an absolute magnitude of obj2
+obj1 absolutemagnitude obj2===the absolute magnitude of obj1 is obj2
+obj1 absolutemagnitude obj2===obj1 has an absolute magnitude of obj2
+obj1 absolutemagnitude obj2===the celestial body known as obj1 has an absolute
+obj1 absolutemagnitude obj2===the absolute magnitude of obj1 is obj2
+obj1 absolutemagnitude obj2===the asteroid called obj1 has an absolute magnitude of obj2
+obj1 absolutemagnitude obj2===the absolute magnitude of obj1 is obj2
+obj1 absolutemagnitude obj2===obj1 has an absolute magnitude of obj2
+obj1 rotationperiod obj2===the rotation period of obj1 is obj2
+obj1 rotationperiod obj2===obj1 has a rotation period of obj2
+obj1 hasdeputy obj0 obj3 obj4 obj1===obj0 is abdul rahman ya'kub's deputy obj3 was abdul
+obj1 hasdeputy obj0 obj3 obj4 obj1===the obj4 of obj3 was obj1 whose deputy is obj0
+obj0 residence obj3 obj0 birthplace obj5===born in obj5 obj0 now lives in obj3
+obj0 residence obj3 obj0 birthplace obj5===obj0 was born in obj5 and lives in obj3
+obj0 residence obj3 obj0 birthplace obj5===obj0 was born in obj5 and lived in obj3
+obj0 deathyear obj5 obj0 birthdate obj2===obj0 was born obj2 and died in obj5
+obj1 inofficewhilevicepresident obj4 obj1 deathplace obj3===obj1 passed away in the obj3 he was in
+obj1 inofficewhilevicepresident obj4 obj1 deathplace obj3===obj1 who died in the obj3 was in office
+obj1 inofficewhilevicepresident obj4 obj1 deathplace obj3===obj1 who was a politician while vice president obj4
+obj2 topspeed obj6 obj2 obj5===the obj2 has a top speed is obj6 and
+obj2 topspeed obj6 obj2 length===the obj2 has a top speed of obj6 and
+obj2 topspeed obj6 obj2 length===the obj2 is 252m long and has a top
+obj2 christeningdate obj3 obj2 obj6===obj2 is obj5 millimetres in obj6 and was christened
+obj1 hasdeputy obj0 obj4 birthplace===obj4 was born in the obj3 and he succeeded
+obj1 hasdeputy obj0 obj4 obj6===abdul taib mahmud's obj6 was obj3 and he was
+obj1 hasdeputy obj0 obj4 birthplace===obj4 was born in the obj3 obj0 is the
+obj2 residence obj7 obj2 birthplace===born in the obj1 obj2 resides in obj7 and
+obj2 residence obj7 obj2 birthplace===obj2 was born and lives in the obj1 and
+obj0 deathyear obj8 obj0 birthdate===born september 22nd 1856 obj0 died on the july
+obj0 deathyear obj8 obj0 birthdate===born on 22nd september 1856 obj0 died on the
+obj0 deathyear obj8 obj0 birthdate===obj0 was born 22nd of september 1856 and died
+obj3 spouse obj1 obj1 birthplace===obj1 born in mariettaohio was married to obj3 who
+obj4 engine obj7 obj4 obj3===the obj4 with an alternative name of obj2 has
+obj4 engine obj7 obj4 obj3===the obj4 also named the obj2 has a obj0
+obj4 engine obj7 obj4 obj3===the obj4 which has the alternative name of obj2
+obj8 countryorigin obj1 obj1 ethnicgroup===the country of origin of the obj8 is the
+obj8 countryorigin obj2 obj2 ethnicgroup===the obj2 has an ethnic group called native americans
+obj8 countryorigin obj2 obj2 ethnicgroup===the obj8 originated in the obj2 a country whose
+obj3 shipbea obj10 obj9 obj10 obj3===the ship obj3 launched on the 31st may 1855
+obj3 shipbea obj10 obj9 obj10 obj3===the obj3 has a ship beam of 83m is
+obj3 shipbea obj10 obj9 obj10 obj3===the obj3 has a ship beam of 83m and
+obj2 shipbea obj9 obj8 obj9 obj2===the obj2 with its obj8 obj9 ship beam launched
+obj2 shipbea obj9 obj8 obj9 obj2===the obj2 which was obj6 had a ship beam
+obj2 shipbea obj9 obj8 obj9 obj2===the obj6 obj2 had a ship beam of 83m
+obj6 countryorigin obj2 obj6 launchsite===originating from the obj2 the obj6 was launched from
+obj8 countryorigin united states united states ethnicgroup===the obj8 comes from the us where native americans
+obj8 countryorigin obj2 obj2 ethnicgroup===the obj8 originated from the obj2 where native americans
+obj8 countryorigin united states united states ethnicgroup===the obj8 originated from the us where the president
+obj2 youthclub obj1 obj2 club===obj2 played football at youth level for obj1 at
+obj2 youthclub obj1 obj2 club===obj2 plays football for obj0 having previously played for
+obj3 debutteam obj1 obj3 birthdate===obj3 who made his debut with the obj1 was
+obj3 debutteam obj1 obj3 birthdate===obj3 who was born on 27 september 1987 in
+obj3 debutteam obj1 obj3 birthdate===obj3 who was born in obj0 on 27 september
+obj0 draftteam obj4 obj0 birthdate===obj0 whose draft team was the obj4 was born
+obj0 draftteam obj4 obj0 birthdate===obj0 was born in obj3 on sept 2 1995
+obj0 draftteam obj4 obj0 birthdate===obj0 was born sept 2 1995 in obj3 and
+obj4 youthclub obj7 obj0 manager===obj4 plays for obj3 managed obj0 in the obj8
+obj4 debutteam obj1 obj4 formerteam===obj4 was born on the 27th september 1987 in
+obj4 debutteam obj1 obj4 formerteam===obj4 born september 27 1987 in obj0 on the
+obj4 debutteam obj1 obj4 formerteam===obj4 was born in obj0 on the 27th of
+obj3 engine obj8 obj3 manufacturer===the obj3 is made by the obj12 company and
+obj3 engine obj8 obj3 manufacturer===the obj3 is manufactured by obj12 and it has
+obj3 engine obj8 obj3 obj2===obj12 is the obj2 of the obj3 which has
+obj0 shipbeam obj11 obj0 status===the icebreaker aleksey chirikov was built at the obj4
+obj3 shipbea obj13 obj12 obj13 obj3===the obj3 is obj9 millimetres long and its ship
+obj3 shipbea obj13 obj12 obj13 obj3===the obj3 has a ship beam of 83m and
+obj3 shipbea obj13 obj12 obj13 obj3===the obj3 which was obj8 was launched on 31
+obj1 shipbea obj12 obj11 obj12 obj1===the obj1 was built by obj0 and launched on
+obj1 shipbea obj12 obj11 obj12 obj1===obj0 is the obj9 of the obj1 and it
+obj1 shipbea obj12 obj11 obj12 obj1===the obj1 built by obj0 has a top speed
+obj3 musicfusiongenre obj10 obj3 stylisticorigin===obj3 musician andrew white is associated with obj8 obj3
+obj3 musicfusiongenre obj10 obj3 stylisticorigin===andrew white is associated with the musical artist obj8
+obj2 residence obj9 obj2 obj11===abdul taib mahmud's obj6 was obj1 and he resides
+obj1 inofficewhilevicepresident obj8 obj8 obj10===obj7 was mike akhigbe's obj10 obj1 was in office
+obj1 inofficewhilevicepresident obj8 obj8 obj10===obj1 was a member of the obj4 he was
+obj2 spouse obj5 united states ethnicgroup===native americans are an ethnic group in the us
+obj2 spouse obj5 obj6 ethnicgroup===obj2 married to obj5 was born in obj1 which
+obj2 spouse obj5 obj6 ethnicgroup===obj6 national obj2 was born in obj1 and married
+obj1 ispartofmilitaryconflict obj3 obj3 obj9===one of the commanders during the obj3 was obj7
+obj1 ispartofmilitaryconflict obj3 obj3 obj9===the obj1 took place during the obj3 when obj7
+obj1 ispartofmilitaryconflict obj3 obj3 obj9===obj5 fought at the obj1 part of the obj3
+obj13 countryorigin obj3 obj3 ethnicgroup===the inhabitants of the obj3 from where obj13 hails
+obj13 countryorigin obj3 obj3 ethnicgroup===the obj13 originated in the obj3 where the inhabitants
+obj13 countryorigin obj3 obj3 ethnicgroup===the obj3 has its obj11 at obj2 and the
+obj2 chairman obj7 obj2 obj12===obj0 plays for obj2 who have their home obj12
+obj2 chairman obj8 obj5 obj12===obj0 belongs to obj5 which is managed by obj4
+obj1 spouse obj5 united states ethnicgroup===native americans are an ethnic group in the us
+obj1 spouse obj5 obj6 ethnicgroup===obj1 was born in obj9 he was married to
+obj1 spouse obj5 united states ethnicgroup===native americans are an ethnic group in the us
+obj5 spouse obj4 obj5 birthplace===obj5 was born in obj13 was married to obj4
+obj5 spouse obj4 obj5 birthplace===obj13 born obj5 whose wife was obj4 died in
+obj4 spouse obj3 obj4 successor===obj12 born obj4 who was married to obj3 served
+obj4 spouse obj3 obj4 successor===obj4 was born in obj12 and was married to
+obj4 spouse obj3 obj4 successor===obj12 born obj4 married to obj3 was the obj0
+obj5 spouse obj9 obj5 obj14===they speak spanish in obj10 where obj2 was from

@@ -1,0 +1,37 @@
+adisham hall location obj0===admisham hall is located at obj4
+adisham hall location obj1===aidsham hall is located in obj4
+alfred giles architect birthplace obj2===the architect alfred giles was born in obj4
+alfred giles architect birthplace obj2===architect alfred giles was born in obj4
+alexandria indiana areatotal obj4 square kilometres===alexandria in indiana has a total area of obj4
+alexandria indiana areatotal obj4 square kilometres===alexandria in indiana occupies obj4 square kilometers
+alexandria indiana ispartof obj0===alexandria is part of obj4
+alexandria indiana ispartof obj0===alexandria is part of obj4
+antioch california leadertitle obj2===obj4 is the title for the leader of antioch
+attica indiana ispartof obj0===attica is part of obj4
+attica indiana ispartof obj1===atticaindiana is part of the obj4
+democratic party united states obj2 obj1===the democratic party of the us headquarters on obj4
+democratic party united states obj2 obj1===the democratic party headquarters are in obj4
+democratic party united states obj2 obj1===the democratic party us is headquartered in obj4
+arrabbiata sauce dishvariation obj2===obj4 can be included in arrabbiaita sauce
+england ethnicgroups obj0===the obj4 are an english ethnic group
+into battle novel country obj1===the novel into battle is published by obj4
+into battle novel followedby obj0===the novel into battle is followed by obj4
+into battle novel followedby obj0===obj4 followed the novel into battle
+into battle novel followedby obj0===into battle was followed by obj4
+into battle novel precededby obj1===the novel into battle is preceded by obj4
+afonso pena international airport cityserved obj4 obj4 ispartof obj1===afonsa pena international airport serves the city of obj5
+arrabbiata sauce ingredient obj3 obj3 obj5 obj2===tomatoes of the obj7 obj9 are found in arrabiata sauce
+afonso pena international airport cityserved obj5 obj5 ispartof===obj4 is part of the state of parana in
+afonso pena international airport cityserved obj5 obj5 ispartof===afonsa pena international airport serves the city of obj4
+afonso pena international airport cityserved obj6 obj6 leadername===obj4 is part of the obj2 is lead by
+arrabbiata sauce country obj5 obj5 leadername===the sauce called arrabbiata can be found in obj4
+afonso pena international airport cityserved obj10 obj10 ispartof===obj4 is part of parana state and is served
+afonso pena international airport cityserved obj7 obj7 ispartof===afonsa pena international airport serves the city of obj4
+afonso pena international airport cityserved obj7 obj7 ispartof===obj4 is part of the state of parana in
+arrabbiata sauce country obj7 obj7 obj5===arrabbiata is a sauce from obj4 where the obj7
+into battle novel followedby obj1 obj4 followedby===obj5 followed the novel into battle which itself followed
+into battle novel followedby obj1 obj4 followedby===these novels were written in the following order castle
+into battle novel followedby obj1 obj4 followedby===these books were written in the following order
+afonso pena international airport cityserved obj7 obj7 country===afonsa pena international airport serves the city of obj4
+afonso pena international airport cityserved obj7 obj7 country===afonsa pena international airport serves the city of obj4
+afonso pena international airport cityserved obj10 obj3 ispartof===afonsa pena international airport serves the city of obj4

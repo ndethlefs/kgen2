@@ -1,0 +1,5 @@
+obj0 status deceased obj0 occupation obj2===former obj2 obj0 has died
+obj0 status deceased obj0 occupation obj2===obj2 obj0 has died
+obj0 status deceased obj0 occupation obj2===obj0 was a obj2 who has since passed away
+obj7 obj11 chinese obj11 anaheim obj7===anaheim is part of obj7 and led by the
+obj6 occupation musician obj6 origin===singer obj6 was born in obj3 but is from

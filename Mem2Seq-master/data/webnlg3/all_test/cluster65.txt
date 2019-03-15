@@ -1,0 +1,52 @@
+addiction journal obj1 obj2===the journal addiction has the obj1 obj2
+addiction journal obj1 obj2===the addiction journal has an obj1 of obj2
+addiction journal obj1 obj2===the obj1 of addiction journal is obj2
+castle novel language english language===the novel castle is written in english
+castle novel language obj0===castle the novel is written in the obj0
+anderson indiana ispartof obj0===anderson is within obj0
+anderson indiana ispartof obj0===anderson is part of obj0
+angola indiana elevationabovethesealevel obj2===angola in indiana has an elevation of obj2 metres
+atlantic city obj1 ispartof obj1===atlantic city is part of obj1
+atlantic city obj1 ispartof obj1===atlantic city is a part of obj1
+albany obj4 ispartof obj4 obj4 obj3===albany is part of obj4 where salem is the obj3
+albany obj4 ispartof obj4 obj4 obj3===albany is a city in obj4 whose obj3 is salem
+anaheim california ispartof obj0 obj0 country obj3===anaheim is in obj0 in the obj3
+anaheim california ispartof obj0 obj0 country obj3===anaheim is part of obj0 obj3
+anderson indiana ispartof obj0 obj0 country obj3===anderson is part of obj0 in the obj3
+anderson indiana ispartof obj0 obj0 country obj3===anderson can be found within obj0 obj3
+anderson indiana ispartof obj0 obj0 country united states===anderson is part of obj0 located in the us
+arlington obj4 ispartof obj4 obj4 country===arlington is part of obj4 in the us
+arlington obj4 ispartof obj4 obj4 country===arlington is part of the state of obj4 us
+arlington obj4 ispartof obj4 obj4 country===arlington is part of the state of obj4 in
+atlantic city new jersey ispartof obj0 obj0 country obj3===atlantic city is located in obj0 obj3
+atlantic city new jersey ispartof obj0 obj0 country obj3===atlantic city is part of obj0 in the obj3
+auburn washington ispartof obj0 obj0 country obj3===auburn is part of obj0 obj3
+auburn washington ispartof obj0 obj0 country obj3===auburn is in obj0 obj3
+auburn washington ispartof obj0 obj0 country obj3===auburn forms part of obj0 in the obj3
+addiction journal publisher obj3 obj3 parentcompany===the journal addiction issn number 0965 2140 is published by
+addiction journal publisher obj3 obj3 parentcompany===the addiction journal has an obj6 of obj7 and
+alpharetta georgia country obj4 obj4 ethnicgroup===alpharetta is part of obj0 in the obj4 the
+alpharetta georgia country obj4 obj4 ethnicgroup===alpharetta is part of obj0 which is in the
+alpharetta georgia country obj4 obj4 ethnicgroup===fulton county is the location of alpharettageorgia in the
+alpharetta georgia obj8 obj4 obj4 ethnicgroup===alpharetta can be found in georgia in the obj4
+alpharetta georgia obj8 obj4 obj4 ethnicgroup===alpharetta is part of the state of georgia in
+alpharetta georgia country obj3 obj3 ethnicgroup===the obj2 are an ethnic group in the obj3
+alpharetta georgia country obj3 obj3 ethnicgroup===the obj2 are an ethnic group in the obj3
+anderson obj7 ispartof obj0 obj0 country===anderson is in lafayette township madison county indiana which
+atlantic city new jersey ispartof obj0 obj0 obj8===obj3 is the largest city in the obj4 the
+asterix comicscharacter creator obj2 obj2 nationality===the comic character asterix was created by obj4 and
+asterix comicscharacter creator obj2 obj2 nationality===the comic book character asterix was created by obj4
+alpharetta georgia obj14 obj7 obj7 ethnicgroup===alpharetta is in obj1 in the obj7 a obj14
+alpharetta georgia country obj7 obj7 ethnicgroup===the native americans are an ethnic group in the
+amarillo texas ispartof obj0 obj0 state===amarillo is part of obj0 in the us where
+amarillo texas ispartof obj0 texas language===the obj6 town of amarillo is in obj0 where
+anderson indiana ispartof obj0 obj0 country===anderson is part of obj0 in he us anderson
+auburn obj11 ispartof obj0 obj11 country===auburn is part of lee county alabamaus obj3 is
+egg harbor township new jersey ispartof new jersey obj0 obj7===the obj7 for obj0 is obj14 it is located
+andra singer genre obj0===andra is a obj0 singer
+andra singer genre obj0===andra performs obj0 music
+andra singer obj2 obj0===the singer andra's obj2 is obj0
+andrew white musician associatedband associatedmusicalartist obj2===the musician andrew white is associated with the musical
+andrew white musician associatedband associatedmusicalartist obj2===andrew white is associated with the musical artist obj2
+andra singer obj10 obj0 obj0 obj6===the singer andra's obj10 is rhythm and blue which
+andra singer genre obj0 obj0 obj6===andra is a obj0 singer originating from obj9 music

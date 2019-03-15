@@ -1,0 +1,43 @@
+obj0 1st runway number obj2===the number of the 1st runway at obj0 is obj2
+st vincent–st mary high school country obj1===st vincent stmary high school is in the obj1
+st vincent–st mary high school country obj1===st vincent stmary high school is located in obj1
+obj1 birthpl obj9 ce obj0 obj1===obj1 obj7 obj9 obj5 obj8 the obj4 obj6 and
+obj1 birthpl obj9 ce obj0 obj1===obj1 obj7 obj9 obj6 obj5 on obj4 and obj7
+obj1 birthpl obj9 ce obj0 obj1===obj1 born in british hong kong obj7 obj9 obj6
+auburn washington ispartof washington state obj4 obj8===auburn is part of washington state in the obj4
+auburn washington ispartof washington state obj4 obj8===the obj4 has the obj8 of obj3 and is
+auburn washington ispartof washington state obj4 obj8===auburn is part of washington state in the obj4
+obj4 manager stuart parker footballer obj6 obj10===obj4 in obj6 are managed by stuart parker previously
+obj3 manager stuart parker footballer obj6 obj10===obj5 is one of blackpool's leaders the city is
+big hero 6 film obj7 obj5 obj2 nationality===obj10 is a character which was created by american
+obj2 birthpl obj19 ce obj1 obj2===obj2 obj16 born in obj1 obj16 part obj17 obj10
+obj2 birthpl obj19 ce obj1 obj2===obj2 obj16 born in obj1 he obtained an obj14
+obj2 birthpl obj19 ce obj1 obj2===obj2 now obj11 obj16 born in obj1 and graduated
+obj2 birthpl obj18 ce obj0 obj2===obj2 obj14 born in obj0 he joined obj13 in
+obj2 birthpl obj18 ce obj0 obj2===obj2 obj14 born in obj0 he obj14 obj18 obj1
+obj2 birthpl obj18 ce obj0 obj2===obj2 obj14 born in obj0 he obj14 obj18 obj1
+obj3 birthpl obj18 ce obj0 obj3===obj3 obj16 born on january 201930 in obj0 he
+obj3 birthpl obj18 ce obj0 obj3===obj3 obj16 born on 20 january 1930 in obj0
+obj3 birthpl obj18 ce obj0 obj3===obj3 obj16 obj18 us national who obj16 born in
+obj3 birthpl obj18 ce obj0 obj3===obj3 obj16 obj18 obj2 national born obj0 who served
+obj3 birthpl obj18 ce obj0 obj3===obj3 born glen ridge new jerseyi is obj18 us
+obj3 birthpl obj22 ce obj1 obj3===obj3 obj19 born in obj1 and graduated from mit
+obj2 birthpl obj19 ce obj0 obj2===obj2 born in obj0 obj17 obj19 obj16 obj13 on
+obj2 birthpl obj19 ce obj0 obj2===obj2 obj17 born in obj0 he is now obj10
+obj4 birthpl obj24 ce obj1 obj4===obj4 obj20 an american obj2 who obj20 born in
+obj4 birthpl obj24 ce obj1 obj4===the obj17 on obj14 included american obj4 he obj20
+obj4 birthpl obj26 ce obj1 obj4===obj4 obj23 born on 20th january 1930 in obj1
+obj4 birthpl obj26 ce obj1 obj4===obj4 obj23 born january 20 1930 in obj1 he
+obj4 birthpl obj22 ce obj0 obj4===obj4 obj20 an american born in obj0 he obj20
+obj4 birthpl obj22 ce obj0 obj4===obj4 obj20 originally from obj0 he worked as obj22
+obj3 birthpl obj28 ce obj1 obj3===obj3 obj23 born on january 20 1930 in glen
+obj4 birthpl obj28 ce obj1 obj4===american obj4 obj25 obj28 obj2 who later joined the
+obj4 birthpl obj28 ce obj1 obj4===obj4 obj25 an american who obj25 born in obj1
+obj4 birthpl obj28 ce obj1 obj4===obj4 obj25 born on january 20 1930 in obj1
+obj3 birthpl obj28 ce obj1 obj3===obj3 is obj28 us national who obj24 born in
+obj3 birthpl obj28 ce obj1 obj3===obj3 is obj28 us national born on 1930 01
+obj2 birthpl obj27 ce obj0 obj2===obj2 obj27 us national obj23 born on 20 january
+obj2 birthpl obj27 ce obj0 obj2===obj2 obj27 us national has obj16 he obj23 born
+obj5 birthpl obj29 ce obj1 obj5===obj5 is an american born in obj1 he obj26
+obj5 birthpl obj29 ce obj1 obj5===obj5 obj26 born in obj1 he graduated from mit
+obj5 birthpl obj29 ce obj1 obj5===obj5 obj26 an american born in obj1 and graduated

@@ -1,0 +1,31 @@
+a c chievo verona manager obj1===associazione calcio chievoverona is managed by obj1
+a s gubbio 1910 numberofmembers obj2===as gubbio has obj2 members
+obj1 season 2014–15 eredivisie===obj1 played in the eredivisie in 2014 15
+obj0 largestcity fort worth texas===the largest city in obj0 is fort worth
+obj2 alternativename bhaji bajji===bhaji and bajji are alternative names for obj2
+obj2 alternativename bhaji bajji===obj2 is also known as bhaji or bajji
+obj0 location colmore row obj0 architect===obj0 was designed by obj5 who was born in obj3
+obj0 location colmore row obj0 obj7===obj0 was designed by obj3 born obj7 obj5
+obj0 location colmore row obj0 obj7===obj0 was designed by the obj7 obj5 from obj3
+obj5 leadername ahmet davutoğlu obj5 obj4===the ataturk monument izmir can be found in obj5
+obj5 leadername ahmet davutoğlu obj5 obj4===ahmet davutoglu is a leader from obj5 whose obj4
+obj7 leadername ahmet davutoğlu obj7 obj6===the obj6 of obj7 is obj9 and the leader
+obj7 leadername ahmet davutoğlu obj7 obj6===the atatürk monument in izmir is made of obj8
+obj7 leadername ahmet davutoğlu obj7 obj6===ahmet davutoglu is the leader of obj7 where the
+a c chievo verona manager obj3 obj3 obj10===obj3 has worked at obj2 he managed associazione calcio
+a c chievo verona manager obj3 obj3 club===obj3 who was born in obj9 and has previously
+obj0 largestcity fort worth texas texas obj11===tarrant county has its largest city as fort worth
+obj14 leadername ahmet davutoğlu obj14 obj13===the lira is the official obj10 of obj14 where
+obj14 leadername ahmet davutoğlu obj14 obj13===the leader of obj14 is ahmet davutoglu and although
+obj0 genre hip hop music obj0 background obj3===hip hop artist obj0 is a obj3
+obj0 obj5 hip hop music obj0 background obj3===obj0 is a obj3 whose musical obj5 is hip hop
+obj1 successor eagle automobile obj4 manufacturer obj1===obj1 who made the obj4 was succeeded by eagle
+obj1 successor eagle automobile obj4 manufacturer obj1===the obj4 is made by obj1 who were succeeded
+obj1 successor eagle automobile obj4 manufacturer obj1===obj4 was manufactured by obj1 who were succeeded by eagle
+obj2 successor eagle automobile obj7 manufacturer===obj2 was acquired by obj10 it was succeed by
+obj2 successor eagle automobile obj7 manufacturer===obj2 was succeeded by eagle and acquired by obj10
+obj2 successor eagle automobile obj7 manufacturer===eagle succeeded obj2 who manufacture the obj7 were acquired
+obj1 genre hip hop music obj1 birthyear===solo hip hop performer obj1 was born obj16 fort
+obj2 successor eagle automobile obj2 obj10===obj8 is manufactured by obj2 a key person of
+obj2 obj12 eagle automobile obj2 obj10===the obj8 is manufactured by obj2 whose obj10 is
+obj2 successor eagle automobile obj2 obj10===obj0 is a key person at obj2 who manufactured

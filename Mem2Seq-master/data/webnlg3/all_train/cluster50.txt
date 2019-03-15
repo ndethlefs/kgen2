@@ -1,0 +1,199 @@
+obj0 1st runway lengthmetre obj2===the length of the first runway at obj0 is
+amsterdam airport schiphol 5th runway number obj2===amsterdam schiphols airport's 5th runway has the number obj4
+greenville wisconsin ispartof menasha town wisconsin===greenville is part of the town of menasha in wisconsin
+obj0 completiondate 1 june 2009===obj0 was completed on obj5 obj4st obj6
+obj1 location 23rd street manhattan===obj0 is located on 23rd street manhattan
+albany georgia ispartof dougherty county georgia===albany is part of dougherty county in georgia
+albuquerque new mexico areaofland obj4 square kilometres===the land area of albuquerque new mexico is obj4
+albuquerque new mexico areaofland obj4 square kilometres===albuquerque nm has an area of land of obj4
+alexandria indiana ispartof monroe township madison county indiana===alexandria is part of the monroe township which is
+alpharetta georgia ispartof fulton county georgia===alpharetta is part of fulton county in georgia
+alpharetta georgia ispartof fulton county georgia===fulton county is the location of alpharettageorgia
+alpharetta georgia ispartof fulton county georgia===alpharetta is part of fulton county in georgia
+anaheim california ispartof orange county california===anaheim is a city in orange county which is
+anaheim california ispartof orange county california===anaheim is in orange county ca
+anderson indiana ispartof lafayette township madison county indiana===anderson is part of lafayette township madison countyindiana
+arlington texas ispartof tarrant county texas===arlington is part of tarrant county in texas
+arlington texas ispartof tarrant county texas===arlington tarrant county is in texas
+obj2 ispartof georgia u s state===obj0 is a part of the us state georgia
+obj2 ispartof georgia u s state===obj0 is part of georgia in the us
+obj2 ispartof georgia u s state===obj0 is located within the us state of georgia
+auburn washington ispartof king county washington===auburn is part of king county in washington
+austin texas ispartof travis county texas===austin is part of travis county in texas
+obj0 countyseat san marcos texas===san marcos is the county seat of obj0
+obj0 largestcity san marcos texas===the largest city in obj0 is san marcos
+obj0 largestcity san marcos texas===san marcos is the largest city in obj0
+washington state obj2 olympia washington===olympia is the obj2 of washington
+washington state obj2 olympia washington===the washington state obj2 is olympia
+obj2 ethnicgroup obj2 nese people===the javenese people are an ethnic group in obj0
+atatürk monument i̇zmir inaugurationdate 1932 07 27===the ataturk monument was inaugurated on 27th july 1932
+atatürk monument i̇zmir inaugurationdate 1932 07 27===the inauguration date of the atatürk monument in izmir
+atatürk monument i̇zmir inaugurationdate 1932 07 27===the inauguration of the atatürk monument was at july
+obj0 material rock geology===the obj0 is made from rock
+obj0 material rock geology===obj0 is made from stone
+obj0 material rock geology===the obj0 is made with rock
+obj2 obj1 turkish lira===the obj2 used in obj0 is lira
+obj0 obj2 a epsth 2nd group===obj0 is in the obj2 epsth 2nd group
+obj1 obj2 2014–15 topklasse===obj0 played in the topklasse in the 2014 2015 obj2
+obj1 obj2 2014–15 topklasse===obj0 played in the 2014 15 topklasse obj2
+obj1 obj2 obj1 noord===obj0 noord is obj2 of obj0
+american journal of mathematics obj1 obj2===the american journal of math obj4 is obj4
+obj2 obj7 obj9 crew member obj8 obj3===obj0 who obj2 one obj6 the astronauts on obj8
+obj2 obj7 obj9 crew member obj8 obj0===obj8 obj2 part obj6 obj8 which obj2 operated by obj5
+birthplace obj1 obj2 awards distinguished service medal united states navy===born in obj4 obj0 got a distinguished service medal
+birthplace obj1 obj2 awards distinguished service medal united states navy===obj0 who was born in obj4 was awarded the
+birthplace obj1 obj2 awards distinguished service medal united states navy===obj0 who was born in obj4 was awarded the
+birthplace obj1 obj2 awards distinguished service medal united states navy===obj0 born in obj4 was awarded the distinguished
+birthplace obj1 obj2 awards distinguished service medal united states navy===obj0 born in new hampshire was awarded the distinguished
+obj2 was awarded legion obj8 obj6 ribbon svg===buzz aldrin's real name is obj1 and he won
+obj5 obj2 obj3 awards distinguished service medal united states navy===alan shepard's distinguished service medal from the us navy
+obj5 obj2 obj3 awards distinguished service medal united states navy===obj5 was the recipient of the distinguished service medal
+obj5 obj2 obj3 awards distinguished service medal united states navy===in the obj4 rank of obj4 obj5 got one
+obj0 obj4 alfred giles obj4 alfred giles obj4===the obj2 of obj0 was alfred giles who was
+obj0 obj4 alfred giles obj4 alfred giles obj4===obj0 was designed by obj2 alfred giles who was
+obj0 obj4 alfred giles obj4 alfred giles obj4===alfred giles from obj5 was the obj2 of obj0
+obj0 obj5 alfred giles obj5 alfred giles obj5===alfred giles was the obj2 of obj0 and died
+obj0 obj5 alfred giles obj5 alfred giles obj5===obj0 was designed by obj2 alfred giles who died
+obj0 obj5 alfred giles obj5 alfred giles obj5===alfred giles obj2 of the obj0 died in obj3
+obj3 country obj0 3arena location obj3===3 arena is located in obj4 obj4
+asterix comicscharacter creator rené goscinny asterix comicscharacter alternativename obj4===the comic character asterix sometimes called obj9 was created
+asterix comicscharacter creator rené goscinny asterix comicscharacter alternativename obj4===the comic character asterix also known as astérix was
+arròs negre country spain arròs negre ingredient obj3===arros negre is a traditional spanish dish made with obj9
+obj0 mainingredients obj5 sausage obj0 ingredient===obj6 includes sausage and obj4
+obj0 mainingredients obj5 sausage obj0 ingredient===obj6 is a dish made of sausage and obj4
+obj2 leadername obj0 bakso country obj2===basko is a dish from obj4 where obj4 is
+obj3 dishvariation obj1 bhajji related obj3===obj0 similar to bahajji can include obj4
+obj4 obj3 turkish lira atatürk monument i̇zmir location obj4===the atatürk monument is in obj0 where the obj2
+obj1 obj5 2014–15 topklasse obj1 fullname obj0===the obj9 is the complete name for the obj9
+obj1 obj5 2014–15 topklasse obj1 fullname obj0===obj9 with full name amsterdamsche football club ajax amateurs
+elevationabovethesealevel in metres 610 0 adolfo suárez madrid–barajas airport location===the adolfo suarez madrid barajas airport is located in san
+appleton wisconsin ispartof little chute wisconsin obj0 cityserved===little chute is part of appleton which is served
+obj0 obj11 a crew member of obj2===obj0 obj8 hired obj13 obj7 in obj8 for the
+obj0 obj11 obj15 crew member of obj2===obj0 obj8 hired obj13 obj7 in obj8 to take
+obj2 d obj12 teofretirement 1969 09 01 obj2===obj0 who graobj7uateobj7 from afit ms in 1962 anobj7
+obj0 location copenhagen marriott international foundationplace===the marriot international originally founded in obj4 is the
+obj0 obj7 alfred giles obj7 alfred giles obj7===the obj2 of obj0 alfred giles was born in
+obj0 obj7 alfred giles obj7 alfred giles obj7===the obj2 alfred giles was born in obj8 and
+obj0 location 23rd street manhattan obj0 referencenumber in===obj5 located on 23rd street manhattan was obj16 obj20
+obj0 location 23rd street manhattan obj0 referencenumber in===obj5 located on 23rd street manhattan was obj16 obj20
+obj0 location 23rd street manhattan obj0 year obj14===obj5 built in obj12 is located on 23rd street
+obj5 country obj0 3arena location===3 arena is located in obj4 in the republic
+asterix comicscharacter creator rené goscinny asterix comicscharacter alternativename===asterix the comic character whose alternative name is asterix
+hero 6 film distributor obj0 big hero 6 film starring===obj5 stars in the film big hero 6 in
+obj9 ethnicgroup obj9 nese people obj2 region===obj6 obj13 obj15 obj8 nationwide obj12 obj10 obj14 obj5
+obj7 ethnicgroup obj7 nese people obj1 obj6===the javenese people are an ethnic group in obj0
+obj7 ethnicgroup obj7 nese people obj1 obj6===obj8 is a dish from the obj8 of obj4
+obj7 ethnicgroup obj7 nese people obj1 obj6===obj8 is a dish from the obj8 of obj4
+atatürk monument i̇zmir inaugurationdate obj5 atatürk monument i̇zmir location===the ataturk monument in obj8 designed by obj4 was
+a s obj8 1910 fullname associazione obj5 obj8===obj6 obj7 obj1 srl abbreviated to as gubbio has
+aids journal academicdiscipline hiv aids journal obj5===the aids journal's academic discipline is obj6 and it
+aids journal academicdiscipline hiv aids journal academicdiscipline===the academic discipline of the aids journal first published
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===located in madrid obj7 obj19 obj12 obj18 sebastian obj19
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located in madrid obj7
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located at obj0 it
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===the adolfo suarez madrid barajas airport is located at madrid
+madrid–barajas airport runwaylength 4349 0 adolfo suárez madrid–barajas airport location===found in obj0 adolfo suarez madrid barajas airport is operated
+air base runwaylength 4019 0 al taqaddum air base cityserved===the al taqaddum air base serves the city of
+air base runwaylength 4019 0 al taqaddum air base cityserved===al taqaddum air base located in obj6 serves the
+obj3 obj14 obj16 crew member obj15 obj5===american obj0 obj2 part obj6 obj8 along with obj0
+obj2 d obj15 teofretirement 1969 09 01 obj2===obj0 obj13 born in obj0 along with obj5 he
+obj0 obj13 obj15 crew member obj14 obj7===american obj0 obj2 part obj6 obj8 along with obj3
+obj0 location 23rd street manhattan obj0 referencenumber obj25===obj5 which was constructed obj8 obj19 is located on
+obj0 location 23rd street manhattan obj0 referencenumber obj25===located on 23rd street manhatten obj5 was built obj8
+obj8 leadername obj2 addis ababa ispartof===obj0 led by obj4 is home to the obj0
+obj9 dishvariation club sandwich obj1 dishvariation===obj0 is a variation of both the club and
+obj10 dishvariation club sandwich obj1 obj7===obj9 is an obj7 in the obj5 which comes
+obj20 country obj30 donesia obj20 ma===obj0 comes from obj7 and is traditional dish throughout
+obj20 country obj30 donesia obj20 ma===obj0 comes from obj7 and is obj11 all over
+obj1 leadername obj0 bakewell pudding dishvariation===obj5 or pudding is a dish that comes from
+obj2 leadername obj0 bakewell pudding dishvariation===obj5 is a dish that comes from the obj4
+obj2 leadername obj0 bakewell pudding dishvariation===obj5 or pudding is a dish that comes from
+obj2 obj8 obj7 bakso region===basko is a dish from obj0 led obj0 capital jakarta
+obj12 ethnicgroup obj12 nese people obj3 obj17===the javenese people are an ethnic group obj8 obj0
+obj12 ethnicgroup obj12 nese people obj3 obj17===the obj2 dish obj6 obj16 obj18 obj11 nationwide obj8
+obj12 ethnicgroup obj12 nese people obj3 obj17===the obj2 dish obj6 is made nationwide obj8 obj0
+obj10 ethnicgroup obj10 nese people obj2 ingredient===obj6 is a obj1 dish from obj7 and obj0
+obj10 ethnicgroup obj10 nese people obj2 ingredient===the javenese people are an ethnic group in obj0
+obj10 ethnicgroup obj10 nese people obj2 region===obj6 is a dish from obj5 and obj0 the
+obj10 ethnicgroup obj10 nese people obj2 region===the javenese people are an ethnic group in obj0
+obj10 ethnicgroup obj10 nese people obj5 language===obj2 originates from javanese inhabited obj0 and is enjoyed
+has to its west franklin county pennsylvania adams county pennsylvania===the obj8 of gettysburg in adams countypennsylvania is the
+atatürk monument i̇zmir inaugurationdate obj6 atatürk monument i̇zmir location===the ataturk monument izmir is located in obj11 and
+obj8 obj10 ahmet davutoğlu atatürk monument i̇zmir designer===by the way the obj2 of obj0 is ahmet
+obj8 obj10 ahmet davutoğlu atatürk monument i̇zmir designer===ahmet davutoglu is the obj2 of obj0 the obj5
+obj0 obj9 obj4 mendrisio neighboringmunicipality===the obj0 neighbours obj10 in obj4 the country's leader
+obj13 leadername lars løkke rasmussen obj0 headquarters===obj22 obj18 obj27 obj9 obj23 obj17 obj8 obj26 obj16
+obj12 leadername lars løkke rasmussen obj17 obj34 obj7 obj28===obj1 in obj25 obj27 obj5 obj6 obj7 obj8 obj16
+aids journal academicdiscipline hiv aids journal obj7===the aids journal's academic discipline is obj9 and it
+aids journal academicdiscipline hiv aids journal academicdiscipline===the aids journal was first published in obj10 with
+aids journal academicdiscipline hiv aids journal academicdiscipline===the aids journal first published in obj10 has the
+american journal of mathematics publisher obj2 obj2 country===the american journal of math am j math is
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located 610 metres above
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located at obj0 obj19
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport which is operated by obj15
+madrid–barajas airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location===adolfo suárez madrid barajas airport is locaed in madridparacuellos obj22
+madrid–barajas airport runwaylength 4349 0 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located at obj0 it
+madrid–barajas airport runwaylength 4349 0 adolfo suárez madrid–barajas airport location===madrid obj9 obj22 obj14 obj21 sebastian obj22 obj20 obj18
+obj0 operatingorganisation obj3 pakistan leadername===obj0 is operated by the obj4 in obj7 led
+obj1 st obj21 tus dece obj21 sed===obj0 obj07 born in obj0 and obj07 obj00 obj09
+obj1 st obj21 tus dece obj21 sed===obj0 who is originally from obj0 joined obj05 in
+obj5 b obj19 ckup obj14 obj1 obj7===obj8 is obj3 us national who obj87 obj3 obj82
+obj5 b obj19 ckup pilot obj1 obj7===obj8 joined obj85 and obj2ecame obj3 obj86 obj82 obj88
+obj6 b obj19 ckup obj14 obj1 obj4===obj8 who obj77 obj2orn in obj0 worked for obj75
+obj2 obj18 obj21 crew obj14 obj20 obj5===obj0 otherwise know as obj0 obj2 obj01 obj8 obj00
+obj2 d obj19 teofretirement 1969 09 01 obj2===obj0 obj17 obj3 obj16 obj13 on the nasa operateobj7 obj10
+obj8 country obj20 donesia obj20 donesia===obj1 is the obj13 spoken obj4 obj4 where the
+obj2 leadername obj0 bakewell pudding dishvariation===obj4 is a leader in the obj11 community of
+obj19 ethnicgroup obj19 nese people obj4 obj25===a popular dish of the javanese is obj6 this
+obj13 ethnicgroup obj13 nese people obj4 obj8===obj11 is the main obj8 of obj2 which in
+obj13 ethnicgroup obj13 nese people obj4 obj8===obj2 is one of the ingredients in the dish
+obj13 ethnicgroup obj13 nese people obj4 obj8===the javenese people are an ethnic group in obj0
+obj13 ethnicgroup obj13 nese people obj2 region===the javanese dish obj6 is also found in obj6
+obj13 ethnicgroup obj13 nese people obj7 obj10===the javenese people are an ethnic group in obj0
+obj13 ethnicgroup obj13 nese people obj7 language===halimah leds the obj11 of obj6 where english is
+obj13 ethnicgroup obj13 nese people obj7 leadername===obj3 comes from the obj11 of obj0 where the
+obj10 obj13 ahmet davutoğlu atatürk monument i̇zmir designer===the ataturk monument izmir which was designed by obj5
+obj10 obj13 ahmet davutoğlu atatürk monument i̇zmir designer===ataturk monument which was designed by obj5 is located
+obj0 obj12 obj6 mendrisio neighboringmunicipality===the obj0 is neighboured by obj13 in obj4 the
+obj11 leadername lars løkke rasmussen obj18 obj33 obj8 obj28===obj27 obj5 obj6 obj7 obj8 obj17 obj7 obj32 obj27
+obj11 leadername lars løkke rasmussen obj18 obj33 obj8 obj28===lars lokke rasmussen leads obj0 under obj27 title obj6
+obj8 obj19 obj21 crew obj16 obj20 obj11===obj0 obj2 born in obj1 and is from the
+obj1 st obj21 tus dece obj21 sed===obj0 obj09 obj3 obj9 who served on the obj04
+obj4 obj19 obj21 crew obj16 obj20 obj10===obj0 obj2 obj3 obj5 obj6 obj8 which is operated
+obj6 b obj25 ckup obj16 obj1 obj4===obj8 joined obj78 in obj77 where he obj2ecame obj3
+obj2 obj20 obj22 crew obj16 obj21 obj8===obj0 obj00 born jan 20 1930 he obj00 obj02
+obj2 d obj23 teofretirement 1969 09 01 obj11===the obj7 is operateobj2 by obj18 its obj9 obj01
+obj2 d obj23 teofretirement 1969 09 01 obj11===obj0 graobj2uateobj2 with obj03 obj19 from afit in 1962
+obj2 d obj21 teofretirement 1969 09 01 obj2===obj0 obj19 born in hong kong on october 17th
+obj2 d obj24 teofretirement 1969 09 01 obj2===obj8 obj0 obj00 pickeobj7 obj03 obj19 in obj18 to
+obj3 d obj24 teofretirement 1969 09 01 obj3===obj0 obj20 born in obj0 he receiveobj2 an ms
+obj3 d obj24 teofretirement 1969 09 01 obj3===obj0 obj20 born in obj0 he graobj2uateobj2 from afit
+has obj26 its west franklin county pennsylvania adams county pennsylvania===adams county is located obj3 the south of cumberland
+obj13 obj16 ahmet davutoğlu atatürk monument i̇zmir designer===the obj10 of obj0 is the obj7 and the
+obj13 obj16 ahmet davutoğlu atatürk monument i̇zmir designer===ahmet davutoglu is turkey's obj2 where the obj10 is obj7
+obj18 leadername lars løkke rasmussen obj24 obj40 obj12 obj34===obj33 obj5 obj6 obj7 obj8 obj23 obj11 obj39 obj33
+obj18 leadername lars løkke rasmussen obj24 obj40 obj12 obj34===obj33 obj32 obj6 obj21 in obj0 which has a
+obj8 obj22 obj24 crew member obj23 obj12===obj0 is an american born in obj1 he obj2
+obj8 obj23 obj27 crew member of obj12===obj0 obj2 an american born on march 15 1932
+obj8 obj23 obj27 crew member of obj12===obj0 obj2 born in the us on march 15th
+obj7 obj22 obj24 crew member obj23 obj13===obj0 obj2 born on march 15 1932 in obj1
+obj7 obj23 obj27 crew member of obj13===obj0 obj2 born in obj1 in march 15th 1932
+obj8 obj22 obj24 crew member obj23 obj13===obj0 obj2 born on march 15 1932 in obj1
+obj3 st obj25 tus dece obj25 sed===obj0 obj23 born on nov 18 1923 in obj2
+obj3 st obj25 tus dece obj25 sed===obj0 is an american who served as an obj16
+obj3 st obj25 tus dece obj25 sed===obj0 has died in obj13 obj3 obj1 national he
+obj3 st obj25 tus dece obj25 sed===obj0 obj23 born in obj2 obj1 alan graduated from
+obj3 st obj25 tus obj18 obj3===american obj0 obj23 born in obj2 he graduated from
+obj3 st obj25 tus dece obj25 sed===american obj0 obj23 born in obj2 he graduated from
+obj10 b obj25 ckup obj20 obj2 obj6===obj8 obj73 obj7orn in obj1 and graduated from ut
+obj2 d obj26 teofretirement 1969 09 01 obj2===obj0 receiveobj7 obj06 obj02 from his alma mater afit
+obj2 d obj27 teofretirement 1969 09 01 obj2===obj0 obj03 born in october 17th 1933 in obj0
+obj2 d obj27 teofretirement 1969 09 01 obj2===obj0 obj03 obj07 us national born in obj0 in
+obj2 d obj27 teofretirement 1969 09 01 obj2===obj0 obj03 born in obj0 on the 17th october
+obj3 d obj27 teofretirement 1969 09 01 obj3===obj0 obj23 born in obj0 anobj2 graobj2uateobj2 from afit
+obj3 d obj27 teofretirement 1969 09 01 obj3===obj0 now retireobj2 obj23 born in obj0 anobj2 graobj2uateobj2
+obj3 d obj27 teofretirement 1969 09 01 obj3===obj0 obj23 born in obj0 in 1962 obj0 receiveobj2
+has obj29 its west franklin county pennsylvania adams county pennsylvania===adams county lies obj3 the east of franklin county
+has obj29 its west franklin county pennsylvania adams county pennsylvania===adams county in pennsylvania is located east of franklin
+obj14 leader ahmet davutoğlu atatürk monument i̇zmir designer===the largest city in obj0 is obj11 although the
+obj14 leader ahmet davutoğlu atatürk monument i̇zmir designer===the largest city in obj0 is obj11 and the

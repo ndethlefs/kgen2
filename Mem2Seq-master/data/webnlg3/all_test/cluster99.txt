@@ -1,0 +1,129 @@
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 sqkm
+obj0 areatotal obj4 obj3 kilometres===the area of obj0 is obj4 obj3 kilometers
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 sq kms
+obj2 broadcastedby obj5 obj2 starring obj0===obj2 was broadcast by the obj5 and starred obj0
+obj2 starring obj1 obj2 broadcastedby obj5===obj1 stars in obj2 which is broadcast by obj5
+obj2 starring obj1 obj2 broadcastedby obj5===obj2 stars obj1 and is broadcasted by obj5
+obj2 starring obj1 obj2 broadcastedby obj5===obj1 stars in obj2 which is broadcasted by obj5
+obj5 architect obj2 obj2 significantbuilding===obj2 born in obj6 designed obj5 and obj0
+obj0 architect obj3 obj3 significantbuilding===californian born obj3 designed significant buildings in obj1 and
+obj4 starring obj0 obj4 broadcastedby===the tv series obj4 starred obj0 and was last
+obj4 starring obj0 obj4 broadcastedby===obj4 which was broadcast by the obj8 and last
+obj0 headquarters obj14 obj21 obj30 obj11 obj26===obj25 obj21 obj30 obj11 obj26 obj20 obj10 obj29 obj25
+obj2 material obj7 obj2 dedicatedto===obj25 obj2 designed by huseyin butuner obj26 hilmi guner
+obj1 birthyear obj5 obj1 birthdate===obj1 was born september 27 obj5
+obj1 birthyear obj5 obj1 birthdate===obj1 date of birth is the 27th september obj5
+obj1 birthyear obj5 obj1 birthdate===obj1 was born on 27 september obj5
+obj1 origin obj0 obj1 origin obj3===obj1 is from obj3 in the obj0
+obj1 origin obj0 obj1 origin obj3===obj1 is from the obj0 specifically obj3
+obj1 origin obj0 obj1 origin obj3===obj1 was born in obj3 in the obj0
+obj4 recordlabel obj0 obj4 background obj1===obj4 is a obj1 who uses the record label obj0
+obj4 recordlabel obj0 obj4 background obj1===obj4 is a obj1 with the record label obj0
+obj1 assembly obj5 obj1 relatedmeanoftransportation obj3===the obj1 which is assembled in obj5 is a
+obj1 assembly obj5 obj1 relatedmeanoftransportation obj3===the obj1 assembled in obj5 is a similar means
+obj1 relatedmeanoftransportation obj3 obj1 assembly obj5===the obj1 is assembled in obj5 and is a
+obj1 relatedmeanoftransportation obj3 obj1 assembly obj5===the obj1 was assembled in obj5 and is a
+obj1 relatedmeanoftransportation obj3 obj1 assembly obj5===the obj1 is similar to the obj3 andis made
+obj1 relatedmeanoftransportation obj3 obj1 assembly obj5===the obj1 which was assembled in obj5 and obj3
+obj1 relatedmeanoftransportation obj3 obj1 assembly obj5===obj1 is a related transport to obj3 and is
+obj2 manufacturer obj0 obj0 locationcity obj5===obj2 was made by the obj0 of obj5
+obj2 manufacturer obj0 obj0 locationcity obj5===the obj2 was made by obj5 based obj0
+obj2 manufacturer obj0 obj0 locationcity obj5===the obj2 was manufactured by the obj0 which is
+obj3 launchsite obj5 obj3 manufacturer obj0===obj3 was launched at obj5 and manufactured by the obj0
+obj3 launchsite obj5 obj3 manufacturer obj0===the obj3 which was launched at the obj5 was
+obj5 manufacturer obj0 obj0 parentcompany obj3===the obj3 is the parent company of obj0 who
+obj5 manufacturer obj0 obj0 parentcompany obj3===the obj0 whose parent company is obj3 made the obj5
+obj2 assembly obj4 obj2 relatedmeanoftransportation obj1===the obj2 assembled in the obj4 and
+obj1 manufacturer obj3 obj1 successor obj0===obj3 made the obj1 which was succeeded by the obj0
+obj1 manufacturer obj3 obj1 successor obj0===the obj1 was manufactured by obj3 and was succeeded
+obj1 manufacturer obj3 obj1 successor obj0===obj3 produced the obj1 which was succeeded by the
+obj3 relatedmeanoftransportation obj2 obj3 successor obj1===obj2 is a related means of transport to the
+obj3 relatedmeanoftransportation obj2 obj3 successor obj1===the obj3 which was succeeded by the aston martin
+obj3 relatedmeanoftransportation obj2 obj3 successor obj1===the obj3 is connected to the obj2 and was
+obj2 successor obj0 obj0 manufacturer obj3===the obj2 was succeeded by the obj0 which is
+obj2 successor obj0 obj0 manufacturer obj3===obj0 succeeded the obj2 and is manufactured by obj3
+obj2 successor obj0 obj0 manufacturer obj3===the obj0 which was manufactured by obj3 was succeeded
+obj4 launchsite obj0 obj4 manufacturer obj1===the obj1 manufactured obj4 was launched from obj0
+obj4 launchsite obj0 obj4 manufacturer obj1===the obj4 manufactured by obj1 was launched from obj0
+obj4 launchsite obj0 obj4 manufacturer obj1===the obj4 was manufactured by obj1 and launched from
+obj0 parentcompany obj3 obj2 builder obj0===obj3 is the parent company of the obj0 co
+obj0 parentcompany obj3 obj2 builder obj0===the obj2 was built by obj0 the parent company
+obj2 relatedmeanoftransportation obj6 obj2 assembly===the obj2 was assembled in obj8 and is a
+obj2 relatedmeanoftransportation obj6 obj2 assembly===the obj8 assembled obj2 and the obj6 as well
+obj2 relatedmeanoftransportation obj6 obj2 assembly===the obj8 assembled obj2 the obj6 and the obj5
+obj2 relatedmeanoftransportation obj5 obj2 assembly===the obj2 was assembled in obj8 and is a
+obj2 relatedmeanoftransportation obj5 obj2 assembly===the obj2 made in obj8 along with the obj5
+obj2 relatedmeanoftransportation obj5 obj2 assembly===the obj2 which was assembled in obj8 is a
+obj3 manufacturer obj0 obj0 foundationplace===the obj3 has a obj7 obj8 and was manufactured
+obj3 manufacturer obj0 obj0 foundationplace===obj0 was founded in obj6 and made the obj3
+obj3 manufacturer obj0 obj0 foundationplace===the obj0 was founded in obj6 where the obj3
+obj5 manufacturer obj8 obj5 relatedmeanoftransportation===the obj5 is manufactured by obj8 it is a
+obj1 birthyear obj11 obj1 height===obj8 m tall obj1 whose obj10 is obj0 was
+obj1 birthyear obj11 obj1 height===19304m tall obj1 whose obj10 is obj0 was born
+obj1 birthyear obj11 obj1 height===obj1 born in obj7 obj11 is 19304m tall and
+obj10 relatedmeanoftransportation obj5 obj5 relatedmeanoftransportation===the obj10 the obj3 and the obj5 are related
+obj10 relatedmeanoftransportation obj5 obj5 relatedmeanoftransportation===the obj10 is related to the obj3 and the
+obj10 relatedmeanoftransportation obj5 obj5 relatedmeanoftransportation===the obj10 is related to the obj3 and the
+obj3 assembly obj11 obj3 relatedmeanoftransportation===the obj3 which is assembled in obj11 and similar
+obj3 assembly obj11 obj3 relatedmeanoftransportation===the obj3 is related to the obj7 and the
+obj3 assembly obj11 obj3 relatedmeanoftransportation===the obj3 assembled in obj11 has a straight four
+obj2 relatedmeanoftransportation obj6 obj2 assembly===the obj2 assembled in obj11 has a obj7 it
+obj4 manufacturer obj0 obj0 foundationplace===the obj0 was founded in obj9 and was succeeded
+obj4 manufacturer obj0 obj0 foundationplace===the obj4 which has a obj10 obj11 was manufactured
+obj4 manufacturer obj0 obj0 foundationplace===obj4 with its obj10 obj11 was made by the
+obj5 manufacturer obj0 obj0 foundationplace===the obj5 has a obj3 and was manufactured by
+obj5 manufacturer obj0 obj0 foundationplace===the obj5 with its obj3 was made by obj10
+obj5 manufacturer obj0 obj0 foundationplace===the obj5 was manufactured by the obj0 which was
+obj8 launchsite obj0 obj8 launchsite===the launch site of the obj8 was at the
+obj8 launchsite obj0 obj8 launchsite===launched at obj1 and the obj0 was the obj8
+obj8 launchsite obj0 obj8 launchsite===the obj8 from the obj3 was launched at obj1
+obj7 relatedmeanoftransportation obj6 obj3 assembly===the obj3 is assembled in obj11 and has a
+obj7 relatedmeanoftransportation obj6 obj3 assembly===the obj3 is a sedan that is assembled in
+obj7 relatedmeanoftransportation obj6 obj3 relatedmeanoftransportation===the obj3 obj7 and obj6 are related forms of
+obj7 relatedmeanoftransportation obj6 obj3 relatedmeanoftransportation===the obj3 obj6 and obj7 are similar means of
+obj7 relatedmeanoftransportation obj6 obj3 relatedmeanoftransportation===the obj3 is assembled in obj11 and has a
+obj2 background obj0 obj2 birthyear===obj2 was born july 23 obj11 in obj9 and
+obj2 background obj0 obj2 birthyear===obj2 was born on july 23 obj11 in obj9
+obj2 background obj0 obj2 birthyear===obj2 born in obj10 on july 23 obj11 is
+obj2 background obj0 obj2 birthyear===obj0 obj2 was born in obj10 on obj11 his
+obj2 background obj0 obj2 birthyear===obj3 and obj0 obj2 was born in obj9 in obj11
+obj2 background obj0 obj2 birthyear===obj0 obj2 was born in obj9 in obj11 he
+obj2 background obj0 obj2 birthyear===born in obj11 in obj10 obj2 is a obj0
+obj2 background obj0 obj2 birthyear===obj2 was born in obj10 in obj11 he is
+obj0 birthyear obj11 obj0 genre===pop musician and obj4 obj0 was born obj11 in obj9
+obj1 birthyear obj11 obj1 genre===obj1 was born in obj2 in1981 he is an
+obj1 birthyear obj11 obj1 genre===obj2 is the birth place of obj1 who was
+obj1 birthyear obj11 obj1 genre===obj1 was born in obj2 in obj11 obj1 is
+obj3 stylisticorigin obj10 obj6 genre===obj6 performs obj3 which comes from obj10 and obj11
+obj3 stylisticorigin obj10 obj6 genre===obj6 performs obj3 which has its stylistic origins in
+obj4 relatedmeanoftransportation obj2 obj2 successor===the obj4 manufactured by obj9 is related to the
+obj4 relatedmeanoftransportation obj2 obj2 successor===the obj2 later succeeded by the am vantage and
+obj4 relatedmeanoftransportation obj2 obj2 successor===the obj1 succeeded the obj2 which is a related
+obj0 foundationplace obj9 obj0 foundationplace===obj0 founded in obj9 in the us is now
+obj0 foundationplace obj9 obj0 foundationplace===the power type of the obj11 owned by obj8
+obj0 foundationplace obj9 obj0 foundationplace===obj0 was founded in obj9 obj7 and is located
+obj1 keyperson obj0 obj1 foundationplace===obj6 located at obj13 is owned by obj10 obj11
+obj1 keyperson obj0 obj1 foundationplace===obj0 is the key person at obj1 which was
+obj1 keyperson obj0 obj1 foundationplace===obj10 is powered by the united states' obj1 with
+obj1 keyperson obj0 obj1 foundationplace===obj11 owned by obj8 is powered by obj1 where
+obj1 keyperson obj0 obj1 foundationplace===obj0 is a key person at obj1 who provide
+obj1 keyperson obj0 obj1 foundationplace===obj0 is a key person at obj1 which was
+obj4 discoverer obj11 obj4 orbitalperiod===obj4 has an orbital period of obj15 daysits obj17
+obj4 discoverer obj11 obj4 orbitalperiod===obj4 has the obj17 date of 31 december 2006
+obj4 discoverer obj14 obj4 orbitalperiod===obj4 which has the obj17 31 december 2006 and
+obj4 discoverer obj14 obj4 orbitalperiod===obj4 obj17 date 31 december 2006 was discovered by
+obj4 discoverer obj14 obj4 orbitalperiod===31 december 2006 is the obj17 date of obj4
+obj4 successor obj8 obj4 party===obj4 was born in the obj3 and lives in
+obj4 successor obj8 obj4 party===obj4 was born in the obj3 lives in obj0
+obj2 background obj0 obj2 birthyear===obj0 obj2 was born on july 23 obj14 in
+obj2 background obj0 obj2 birthyear===ace wilder's obj5 is a obj0 he was born
+obj2 background obj0 obj2 birthyear===obj2 a obj0 and obj5 was born on july
+obj2 background obj0 obj2 birthyear===obj2 was born 23rd july 1972 in obj12 he
+obj1 background obj6 obj1 birthyear===obj9 obj6 obj1 was born obj14 in the obj0
+obj3 birthyear obj14 obj3 genre===obj3 was a solo acoustic singer and was born
+obj3 birthyear obj14 obj3 genre===obj3 was born in obj2 obj0 in obj14 he
+obj3 birthyear obj14 obj3 genre===obj3 was born in obj2 obj0 in obj14 he
+obj3 stylisticorigin obj12 obj5 genre===obj5 was born in obj14 and plays obj3 hip

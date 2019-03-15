@@ -1,0 +1,78 @@
+obj0 obj2 são josé dos pinhais===the obj2 of obj0 is sao jose dos pinhais
+obj0 location são josé dos pinhais===obj0 is located in sao jose dos pinhais
+obj1 birthdate 1927 07 23===obj0 was born on july 23 1927
+obj1 birthdate 1927 07 23===obj0 was born on july 23rd 1927
+obj1 birthdate 1927 07 23===obj0 was born on 23rd july 1927
+obj1 birthdate 1927 07 23===obj0 was born on 07 23 1927
+obj0 birthdate 1933 10 17===obj0 was born on october 17th 1933
+obj0 birthdate 1933 10 17===obj0 was born october 17th 1933
+obj0 birthdate 1933 10 17===obj0 was born on october 17 1933
+obj0 birthdate 1933 10 17===obj0 was born on the 17th of october 1933
+obj2 architecturalstyle tudor revival architecture===obj0 has the tudor revival architectural style
+obj2 architecturalstyle tudor revival architecture===obj0 has the architectural style 'tudor revival'
+obj2 architecturalstyle tudor revival architecture===the adisham hall's style of architecture is tudor revival
+obj2 leadername lars løkke rasmussen===lars lokke rasmussen is denmark's leader
+obj2 leadername lars løkke rasmussen===lars lokke rasmussen is the leader of obj0
+obj2 leadername lars løkke rasmussen===one of denmark's leaders is lars lokke rasmussen
+obj2 leadername lars løkke rasmussen===denmark's leader is lars l kke rasmussen
+obj2 leadername lars løkke rasmussen===the leader of obj0 is lars lokke rasmussen
+obj2 leadername lars løkke rasmussen===the leader of obj0 is lars l kke rasmussen
+obj2 leadername lars løkke rasmussen===lars l kke rasmussen is the leader of obj0
+1634 the bavarian crisis precededby 1634 the ram rebellion===1634 the bavarian crisis was preceded by 1634 the
+obj1 followedby into battle novel===the novel into battle followed above the veil
+obj1 followedby into battle novel===the novel into battle followed obj0
+obj1 followedby into battle novel===obj0 is followed by into battle
+obj1 followedby maiden castle novel===the novel maiden castle followed the novel obj0
+obj1 followedby maiden castle novel===maiden castle is a sequel to obj0
+obj0 location são josé dos pinhais obj0 runwaylength obj5===obj9 with a runway length of 180000 is located
+obj1 birthdate 1933 10 17 obj1 almamater===obj0 was born on the 17th of october 1933
+obj1 birthdate 1933 10 17 obj1 almamater===obj0 who was born on the 17th of october
+obj1 birthdate 1933 10 17 obj1 almamater===obj0 was born on october 17th 1933 and his
+obj2 architecturalstyle tudor revival architecture obj2 location obj4===obj0 has the tudor revival architectural style and it
+obj2 architecturalstyle tudor revival architecture obj2 location obj4===obj0 is styled as tudor revival and found in obj9
+obj2 architecturalstyle tudor revival architecture obj2 location obj4===located in obj9 obj0 is tudor revival in style
+obj5 leadername lars løkke rasmussen obj10 obj14 obj4 obj12===obj11 leader obj6 obj0 is lars lokke rasmussen obj0
+obj1 followedby into battle novel obj1 precededby obj5===obj0 was preceded by obj9 and followed by into battle
+obj1 followedby into battle novel obj1 precededby obj5===the novel into battle followed above the veil which
+obj1 followedby into battle novel obj1 precededby obj5===obj9 is followed by obj0 and the novel into battle
+obj2 followedby maiden castle novel obj0 followedby obj2==='a glastonbury romance' was followed by 'weymouth sands' the
+obj2 followedby maiden castle novel obj0 followedby obj2===obj5 was followed by obj5 and maiden castle
+obj0 location são josé dos pinhais obj0 runwayname===located at sao jose dos pinhais obj5 has the
+obj0 location são josé dos pinhais obj0 runwayname===obj5 is located in sao jose dos pinhais its
+obj0 location são josé dos pinhais obj0 runwayname===obj5 located in sao jose dos pinhais has a
+obj3 architecturalstyle tudor revival architecture obj3 completiondate===obj0 is located in obj6 was finished in obj8
+obj3 architecturalstyle tudor revival architecture obj3 completiondate===obj0 in obj6 was finished in obj8 and is
+obj3 architecturalstyle tudor revival architecture obj3 completiondate===haputale's obj0 has the tudor revival architectural style but
+1634 the bavarian crisis precededby obj3 obj3 author===1634 the bavarian crisis preceded by david weber's obj4 is
+obj2 followedby into battle novel obj2 precededby===these novels were published in the following order castle
+obj2 followedby into battle novel obj2 precededby===castle preceded the novel obj7 which is followed by
+obj4 followedby maiden castle novel obj0 followedby===obj3 is the obj8 of obj5 which was followed
+obj3 followedby maiden castle novel obj0 followedby===these books were published in the following order obj5
+obj3 followedby maiden castle novel obj0 followedby===these books were written in this order obj5 obj5
+obj3 followedby maiden castle novel obj0 followedby===these books were written in the following order obj5
+obj3 followedby maiden castle novel obj0 followedby===obj5 written by obj2 is a prequel to maiden
+obj3 followedby maiden castle novel obj0 followedby===these books by obj2 were published in the following
+obj3 followedby maiden castle novel obj0 followedby===the obj8 obj2 has written the books obj5 obj5
+obj1 obj8 são josé dos pinhais obj1 elevationabovethesealevel in metres===the obj2 of obj0 is sao jose dos pinhais
+obj1 location são josé dos pinhais obj1 elevationabovethesealevel in metres===obj0 is located in sao jose dos pinhais obj00
+obj1 location são josé dos pinhais obj1 elevationabovethesealevel in metres===obj0 is in sao jose dos pinhais it is
+obj4 architecturalstyle tudor revival architecture obj4 completiondate===construction of obj0 obj8 designed in the tudor revival
+obj4 architecturalstyle tudor revival architecture obj4 completiondate===construction of obj0 obj8 designed in tudor revival style
+obj4 architecturalstyle tudor revival architecture obj4 completiondate===construction of obj0 obj8 which has the tudor revival
+obj13 leadername lars løkke rasmussen obj0 obj3===lars lokke rasmussen is obj22 leader obj27 obj5 where
+obj5 followedby maiden castle novel obj0 followedby===the book obj7 is first in a series of
+obj5 followedby maiden castle novel obj0 followedby===the novels maiden castle followed the novel obj5 which
+obj4 followedby maiden castle novel obj0 followedby===obj6 is written by obj3 it is followed by
+obj4 followedby maiden castle novel obj0 followedby===obj3 is the obj11 of obj6 which is the
+obj4 followedby maiden castle novel obj0 followedby===obj3 is the obj11 of obj6 which is the
+obj4 followedby maiden castle novel obj0 followedby===obj5 is the sequel to obj7 and was followed
+obj4 followedby maiden castle novel obj0 followedby===obj3 is the obj11 of obj5 which came after
+obj1 location são josé dos pinhais obj1 elevationabovethesealevel in metres===obj0 with the obj6 of obj04 is located in
+obj1 location são josé dos pinhais obj1 elevationabovethesealevel in metres===obj0 in sao jose dos pinhais is 911 metres
+obj1 location são josé dos pinhais obj1 elevationabovethesealevel in metres===obj0 is located 911 meters above sea level in
+obj1 obj10 são josé dos pinhais obj1 elevationabovethesealevel in metres===obj0 is located in sao jose dos pinhais its
+obj17 leadername lars løkke rasmussen obj0 obj3===obj70 obj22 obj77 obj11 obj71 obj21 obj10 obj76 obj20
+obj17 leadername lars løkke rasmussen obj0 obj3===lars lokke rasmussen is obj70 leader obj77 obj5 where
+obj4 followedby into battle novel obj12 country===obj5 is an australian novel that was preceded by
+obj4 followedby into battle novel obj12 country===the australian novel obj5 was preceded by the novel
+obj4 followedby into battle novel obj12 country===the novel into battle that was followed by obj0

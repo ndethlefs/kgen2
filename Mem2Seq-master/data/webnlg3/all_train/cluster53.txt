@@ -1,0 +1,51 @@
+obj0 location akita akita===obj0 is an art museum in the city of akita
+college of william amp mary obj2 obj1===the obj2 of the college of william and mary
+college of william amp mary obj2 obj1===obj4 served as obj2 of the college of william
+obj0 obj2 french people===the obj2 of obj0 is french
+obj2 obj1 national assembly obj2===the national assembly dictates the obj5 of obj0
+obj2 obj1 national assembly obj2===the obj0 obj5 is known as the national assembly
+obj2 obj1 national assembly obj2===the obj5 in obj0 is national assembly
+obj2 obj1 national assembly obj2===obj0 has obj5 of national assembly
+baku turkish martyrs' memorial obj2 obj0===baku turkish martyrs memorial obj2 was obj4
+1634 the ram rebellion country obj1===1634 the ram rebellion comes from the obj4
+1634 the ram rebellion country united states===1634 the ram rebellion was written in the us
+1634 the ram rebellion mediatype obj1===1634 the ram rebellion is available in obj4
+1634 the ram rebellion numberofpages obj2===the novel 1634 the ram rebellion is obj4 pages long
+obj1 obj2 washington d c===washington d c is the obj2 of the obj0
+obj0 location akita akita obj0 location obj2===obj5 is located in akita obj9
+obj0 location akita akita obj0 location obj2===the obj5 is located in akita obj9
+obj0 location akita akita obj0 location obj2===the obj5 is located in akita in the obj9
+1634 the ram rebellion obj5 obj3 obj3 birthplace obj1===obj4 was born in obj9 he is the obj2
+1634 the ram rebellion country obj2 obj2 ethnicgroup obj1===both the obj9 ethnic group and the book 1634
+1634 the ram rebellion obj5 obj2 obj2 ethnicgroup obj1==='1634 the ram rebellion' was written in the obj4
+1634 the ram rebellion country obj2 obj2 ethnicgroup obj1===1634 the ram rebellion comes from the obj4 where
+1634 the ram rebellion country obj2 obj2 ethnicgroup obj1===1634 the ram rebellion comes from the obj4 which
+obj2 obj5 washington d c obj0 country obj2===obj5 originates from the obj5 where the obj9 is
+obj2 birthplace glen ridge new jersey obj2 nationality===obj7 american obj0 was born in glen ridge nj
+obj5 birthplace glen ridge new jersey obj5 nationality===obj0 was born in glen ridge located in the
+obj5 birthplace glen ridge new jersey obj5 nationality===obj0 was born in glen ridge obj0 usa
+obj2 birthplace glen ridge new jersey obj2 occupation===born on january 2 1930 in glen ridge nj
+obj0 location akita akita obj0 location===the obj5 is located in akita obj2 obj8
+obj0 location akita akita obj0 location===the obj5 is an art museum in the city
+obj0 location akita akita obj1 country===the obj0 is located in akita obj5 in obj8
+obj3 obj6 peter stöger obj3 obj7===obj0 were in the obj0 obj7 its obj2 is
+obj3 obj8 washington d c obj1 obj7===washington d c is the obj2 of the obj0
+obj3 obj8 washington d c obj2 country===obj5 is from the obj0 the obj5 city of
+atatürk monument i̇zmir designer obj5 obj10 leadername===the ataturk monument was inaugurated on 27th july 1932
+atatürk monument i̇zmir designer obj5 obj10 leadername===the atatürk monument was designed by obj4 and inaugurated
+atatürk monument i̇zmir designer obj5 obj10 leadername===the atatürk monument in izmir obj5 where obj4 is
+obj1 location greenville wisconsin obj1 runwaylength===obj0 is in greenville and serves the city of
+atatürk monument i̇zmir designer obj5 obj11 obj10===the obj12 ataturk monument in izmir was designed by
+atatürk monument i̇zmir designer obj5 obj11 obj10===the ataturk monument in obj5 was designed in obj12
+atatürk monument i̇zmir designer obj5 obj11 obj10===the atatürk monument inaugurated on 27th july 1932 in
+atatürk monument i̇zmir designer obj6 obj12 leadername===the atatürk monument in obj5 i̇zmir was designed by
+atatürk monument i̇zmir designer obj6 obj12 leadername===designed by obj4 in obj13 the atatürk monument in
+atatürk monument i̇zmir designer obj6 obj12 leadername===the atatürk monument in izmir obj5 is made from
+atatürk monument i̇zmir designer obj5 obj12 leadername===the 27th july 1932 was the inauguration date of
+atatürk monument i̇zmir designer obj5 obj12 leadername===obj4 designed the ataturk monument which was inaugurated july
+atatürk monument i̇zmir designer obj5 obj12 leadername===obj4 designed the ataturk monument in izmir which was
+obj9 obj12 title president of obj9 obj9===turkey's obj2 and president is ahmet davutoglu the atatürk
+obj9 obj12 title president of obj9 obj9===ahmet davutoğlu is turkey's obj2 and his obj3 is the
+atatürk monument i̇zmir designer obj5 obj14 largestcity===july 27 1932 is an important date for obj5
+atatürk monument i̇zmir designer obj5 obj14 largestcity===the ataturk monument made of obj16 was designed by
+atatürk monument i̇zmir designer obj5 obj14 largestcity===obj4 designed the ataturk monument izmir in obj16 and it

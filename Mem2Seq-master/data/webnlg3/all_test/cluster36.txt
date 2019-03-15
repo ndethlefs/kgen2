@@ -1,0 +1,30 @@
+akron summit assault obj2 obj0===the obj2 of akron summit is obj0
+obj0 utcoffset 7 obj0 areacode===obj0 has a utc offset of 7its area
+obj1 leaderparty people's party obj8 obj0===the obj0 is in obj1 spain where the lead
+obj1 leaderparty people's party obj8 obj0===obj0 is found in obj1 spain where the lead
+obj0 utcoffset 7 obj0 populationtotal===obj0 has a utc offset of 7 the
+obj1 activeyearsenddate 1965 01 03===obj1 ended his military career january 3 1965
+obj2 christeningdate 2013 03 16===the obj2 was christened on the 16th of march 2013
+obj2 christeningdate 2013 03 16===the obj2 was christened in march 16 2013
+obj2 finalflight 1998 03 16===obj2 had its final flight on march 16th 1998
+obj2 finalflight 1998 03 16===the final flight of the obj2 was on the
+obj1 rotationperiod 95040 0===the rotation period of obj1 is 95040
+obj4 hamilton academical f c alan martin footballer obj4 obj3===former clubs of the footballer alan martin include hamilton
+obj1 instrument singing obj1 obj5 obj0===obj1 sings for a living and uses the musical
+obj1 instrument singing obj1 genre obj0===obj1 is an obj0 music singer
+obj1 instrument singing obj1 genre obj0===singer obj1 plays obj0 music
+obj0 background solo singer obj0 obj5 obj4===singer alfredo zitarrosa's musical obj5 is obj4
+obj2 christeningdate 2013 03 16 obj2 length===the obj2 is 25326m long and was launched march
+obj2 christeningdate 2013 03 16 obj2 length===the obj2 was christened on the 16th of march
+obj3 finalflight 1998 03 16 obj3 obj2===obj3 which is 304m in obj2 had its final
+obj3 finalflight 1998 03 16 obj3 obj2===the final flight of obj3 which has a obj2
+obj3 finalflight 1998 03 16 obj3 obj2===obj3 has a obj2 of 304m and its final
+obj3 activeyearsenddate 1857 03 03 obj3 region===obj3 who ended his career on 3 march 1857
+obj3 activeyearsenddate 1857 03 03 obj3 region===obj3 who retired on 3rd march 1857 represented obj6
+obj3 activeyearsenddate 1857 03 03 obj3 region===obj3 represented obj6 largest city burlington and
+obj2 background solo singer obj2 birthyear===singer obj2 was born july 23 obj11 in obj9
+obj2 background solo singer obj2 birthyear===singer obj2 was born july 23 obj11 in obj10
+obj2 residence sarawak obj2 party===obj2 was born and resided in the obj1 he
+obj2 residence sarawak obj2 party===obj2 represented the obj8 obj10 and was a member
+obj4 activeyearsenddate 1857 03 03 obj4 region===obj11 native obj4 represented the state's 3rd congressional district
+obj4 activeyearsenddate 1857 03 03 obj4 region===obj4 represented obj0 and his career ended on march

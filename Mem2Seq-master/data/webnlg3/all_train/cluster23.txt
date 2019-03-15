@@ -1,0 +1,94 @@
+obj0 completiondate april 2014===obj0 was completed in obj4 of obj5
+obj0 obj2 alfred giles obj2===alfred giles was the obj5 of obj0
+obj0 obj2 alfred giles obj2===obj0 was designed by obj5 alfred giles
+obj0 obj2 alfred giles obj2===the obj5 of obj0 was alfred giles
+obj1 leader democratic party united states===obj0 is led by the democratic party of the us
+obj1 obj2 roger mckenzie comic book writer===the comic book writer roger mckenzie is the obj2
+obj2 country chinese cuisine===obj0 is made in china
+obj0 obj2 gettysburg pennsylvania===the obj0 is in the obj2 of gettysburg pennsylvania
+obj0 obj2 gettysburg pennsylvania===the obj0 is placed in the obj2 of gettysburg
+1 fc köln season obj2===obj4 saw 1 fc koln participating
+a s livorno calcio obj2 obj0===obj4 livorno calcio is the obj2 of aslivorno calcio
+a s livorno calcio obj2 obj0===a s livorno calcio's home obj2 is the obj4
+a s livorno calcio league obj1===as livorno club plays in obj4
+1634 the bavarian crisis mediatype obj2===the 1634 the bavarian crisis was put in obj4
+1634 the bavarian crisis mediatype obj1===1634 the bavarian crisis comes in obj4
+1634 the bavarian crisis mediatype obj1===1634 th bavarian crisis is available in obj4
+obj0 publisher johns hopkins university press===the obj0 was published by johns hopkins university
+obj1 location colmore row obj3 england obj1===obj0 is in obj6 obj7 and has obj7 floors
+obj0 completiondate april 2014 obj0 floorarea===obj6 with a floor area of obj7 square metres
+obj4 obj3 populous company obj4 completiondate obj2===obj0 was completed on obj9 and it's obj9 was
+obj4 architect populous company obj4 completiondate obj2===the obj0 was completed in obj9 and was designed
+obj1 country sri lanka obj1 state obj0===obj9 is located in obj9
+obj3 region javanese cuisine obj3 mainingredients obj0===obj9 is a javanese dish made from obj9
+obj3 region javanese cuisine obj3 mainingredients obj0===the main ingredients of obj9 a javanese dish are obj9
+obj4 country chinese cuisine obj4 obj1 obj3===obj9 is an obj7 of obj0 which is made
+obj4 country chinese cuisine obj4 obj1 obj3===obj9 is an obj7 in obj0 which is made
+obj1 country colombian cuisine obj1 obj3 obj5===columbian obj0 includes the obj7 obj9
+obj1 country colombian cuisine obj1 obj3 obj5===colombian dish obj0 has obj9 as an obj7
+obj1 country colombian cuisine obj1 obj4 obj3===obj0 is part of columbian cuisine and one of
+obj1 country colombian cuisine obj1 obj4 obj3===obj9 is an obj7 in obj0 which is a
+obj1 country colombian cuisine obj1 obj4 obj3===obj9 is an obj7 in the typical colombian dish
+obj2 country colombian cuisine obj2 obj5 obj0===a typical dish found in columbia is obj9 which
+obj2 country colombian cuisine obj2 obj5 obj0===obj9 is a columbian dish from the obj9 obj7
+obj4 leadername felipe vi of obj4 obj2 country===obj6 originiates from obj0 and felipe vi is it's leader
+obj4 leadername felipe vi of obj4 obj2 country===obj6 is from obj0 and felipe vi is it's leader
+a s livorno calcio obj4 obj1 obj1 club obj3===obj4 obj2 of a s livorno calcio used to
+obj1 location colmore row obj5 england obj1===obj0 is in obj6 obj7 it was completed in
+obj2 obj8 sri lanka obj2 location===obj0 is in obj1 and obj0 is the obj7
+obj2 obj8 sri lanka obj2 location===obj0 is located in obj1 the obj5 of which
+obj1 country sri lanka obj1 state===located in the obj0 obj0 has obj8 beds
+obj1 country sri lanka obj1 state===obj0 has obj8 beds and is located in obj0
+obj1 country sri lanka obj1 state===obj0 has obj8 beds and is situated in the obj0
+obj2 country sri lanka obj2 state===obj0 is located in obj1 obj0
+obj3 country colombian cuisine obj3 obj6===obj2 is an obj7 in obj0 which is part
+obj3 country colombian cuisine obj3 obj6===plantain is one of the ingredients in the dish
+obj2 country colombian cuisine obj2 ingredient===obj0 comes from colombia from the obj0 obj7 and
+obj2 country colombian cuisine obj2 ingredient===the columbian cuisine dish of obj0 which includes obj8
+obj6 leadername felipe vi of obj6 obj4 country===the dish of obj6 is from obj0 where felipe
+obj7 leadername felipe vi of obj7 obj2 obj6===obj8 is from the obj3 obj8 of obj0 where
+obj5 leadername felipe vi of obj5 obj5 obj3===obj2 originates from obj0 where the leader is felipe
+obj6 leadername felipe vi of obj6 obj6 language===obj3 is in obj0 where they speak spanish and
+a s livorno calcio manager obj2 obj2 club===obj4 plays for obj5 and the italian national team
+obj2 location colmore row obj7 england obj2===obj0 has obj13 floors and was built between obj10
+obj2 location colmore row obj7 england obj2===obj0 located in obj6 obj7 has obj13 floors work
+obj3 obj11 sri lanka obj3 location===obj0 is located in obj1 a obj2 where tamil
+obj3 country sri lanka obj3 location===obj0 is located in obj1 whose leader is obj0
+obj1 country sri lanka obj1 state===obj0 located in the obj2 of the obj0 has
+obj1 country sri lanka obj1 state===obj0 is located in the obj00 of obj2 in
+obj1 country sri lanka obj1 state===obj0 is in obj9 obj2 obj0
+obj4 country sri lanka obj4 state===obj2 is the leader of the obj0 where the
+obj5 country sri lanka obj5 state===obj0 is in the obj0 which is governed by
+obj5 country sri lanka obj5 state===obj0 is located in obj0 where the obj3 is
+obj4 obj10 sri lanka obj4 state===obj0 is in obj0 where the leader is obj3
+obj9 leadername felipe vi of obj9 obj4 region===obj6 is from obj5 in obj0 felipe vi is
+obj9 leadername felipe vi of obj9 obj4 region===obj6 is a dish of obj5 and obj0 led
+obj10 leadername felipe vi of obj10 obj4 region===obj6 is a food found in obj5 obj0 susana
+obj7 leadername felipe vi of obj7 obj7 obj5===felipe vi is the leader of obj0 home of
+obj7 leadername felipe vi of obj7 obj7 obj5===obj4 originates from the obj6 of obj0 country of
+obj7 leadername felipe vi of obj7 obj7 obj5===felipe vi is the leader of obj0 where the
+obj8 leadername felipe vi of obj8 obj8 obj5===obj4 originates from obj0 where the main ethnic group
+obj7 leadername felipe vi of obj7 obj7 language===felipe vi is the leader of obj0 where the
+obj7 leadername felipe vi of obj7 obj7 language===obj3 is from obj0 where spanish is spoken and
+obj8 leadername ahmet davutoğlu obj8 largestcity===the ataturk monument izmir is located in obj0 and
+1634 the bavarian crisis obj11 obj7 obj7 influencedby===influenced by obj4 obj4 was born in obj3 and
+1634 the bavarian crisis author obj8 obj8 influencedby===obj4 was influenced by robert a heinlen he was
+obj5 location sri lanka obj5 architecturalstyle===obj0 was constructed between obj13 and obj14 at obj0
+obj5 location sri lanka obj5 architecturalstyle===obj0 was constructed between obj13 and obj14 in the
+obj1 country sri lanka obj1 state===the obj0 has obj04 beds and is located in
+obj1 country sri lanka obj1 state===obj0 has obj04 beds and is located in obj01
+obj1 country sri lanka obj1 state===obj0 is located in obj01 obj3 obj0 and had
+obj12 leadername felipe vi of obj12 obj6 region===felipe vi is the leader of obj0 whose people
+obj12 leadername felipe vi of obj12 obj6 region===obj0 is led by felipe vi obj5 are the
+obj12 leadername felipe vi of obj12 obj6 region===felipe vi is the leader of obj0 a obj10
+obj13 leadername felipe vi of obj13 obj5 obj12===obj6 is from the obj8 obj8 it has obj6
+obj13 leadername felipe vi of obj13 obj5 region===obj6 which includes obj6 is a dish from obj8
+obj11 leadername felipe vi of obj11 obj4 region===obj6 is from obj0 where the obj8 is the
+obj11 leadername felipe vi of obj11 obj4 region===obj6 has its origins in spain led by felipe vi
+obj11 leadername felipe vi of obj11 obj11 language===obj5 is from the obj6 obj10 of obj0 where
+obj11 leadername felipe vi of obj11 obj11 obj8===obj5 originates from obj6 obj0 the leader of obj0
+obj12 leadername felipe vi of obj12 obj12 obj9===in obj0 the obj8 spoken is spanish obj0 contains
+obj12 leadername felipe vi of obj12 obj12 language===felipe vi is the leader of obj0 a obj10
+obj12 leadername felipe vi of obj12 obj12 language===in obj0 they speak spanish the leader of the
+obj9 leadername felipe vi of obj9 obj9 language===the obj14 is the obj6 in obj0 where obj5
+obj9 leadername felipe vi of obj9 obj9 obj7===the dish obj5 is from obj0 where an ethnic

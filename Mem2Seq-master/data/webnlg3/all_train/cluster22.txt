@@ -1,0 +1,69 @@
+obj1 iata location identifier obj2===obj4 is the iata id of the obj0
+obj1 iata location identifier obj2===obj4 is the ata location identifier for obj0
+obj0 4th runway lengthfeet obj2===obj0 is 4th runway length feet of obj4
+obj0 4th runway lengthfeet obj2===the fourth runway at obj0 is obj4 feet long
+obj0 4th runway lengthfeet obj2===andrews county airport's 4th runway has a length in
+obj2 firstappearanceinfilm big hero 6 film===big hero 6 was baymax's first film appearance
+obj2 firstappearanceinfilm big hero 6 film===the first appearance in a film for the character
+obj2 firstappearanceinfilm big hero 6 film===obj0 first appeared in the film big hero 6
+the arrow comicscharacter alternativename obj2===the arrow is otherwise known as obj4
+the arrow comicscharacter alternativename obj2===the alternative name for the comic character the arrow
+the arrow comicscharacter alternativename obj2===obj4 is the alternative name for the comic character
+the arrow comicscharacter alternativename obj2===the alternative name for the arrow comics character is
+the arrow comicscharacter alternativename obj2===the comic book character the arrow's alter ego is obj4
+obj1 iata obj3 identifier obj5 obj1===obj6 is the ata obj3 identifier for obj0 obj4
+obj1 iata obj3 identifier obj5 obj1===obj6 is the ata obj3 identifier for obj0 which
+obj1 iata location identifier obj5 obj1 location obj4===obj9 is the iata id of the obj0 which
+obj1 4th runway lengthfeet obj5 obj1 elevationabovethesealevel in metres obj4===obj0 is obj9 below sea level and the 4th
+obj1 timeinspace obj5 minutes obj1 birthplace===obj0 who was born in obj0 has spent obj4
+obj1 timeinspace obj5 minutes obj1 birthplace===obj0 was born in obj0 and spent obj4 minutes
+obj0 occup obj9 tion obj2 obj0===obj7 obj7 part obj8 the obj4 obj6 and obj7
+obj1 occup obj12 tion obj4 obj1===obj0 born in obj0 obj00 obj02 obj6 obj02 obj8
+obj1 occup obj12 tion obj4 obj1===obj0 born obj0 obj00 obj02 obj6 on obj7
+obj1 occup obj12 tion obj4 obj1===obj0 born in british hong kong served as obj02
+obj1 occup obj12 tion obj4 obj1===william anders born in british hong kong obj00 obj02
+obj4 editor a t charlie johnson obj4 abbreviation===obj0 obj7 was edited by a t charile johnson
+obj4 iata obj9 identifier obj11 obj4===obj6 is the ata obj3 identifier for obj0 in
+obj4 iata location identifier obj11 obj4 location===obj0 is in obj1 which is part of obj10
+obj4 occup obj15 tion obj2 obj4===obj6 obj0 who is now obj9 obj13 born in
+obj4 occup obj15 tion obj2 obj4===obj0 obj9 obj13 born in obj0 and served as
+obj4 occup obj15 tion obj2 obj4===obj0 obj13 born in obj0 he obj13 obj3 obj6
+obj1 w obj19 s obj19 obj14 obj9 obj18===obj0 began obj2ork for obj01 in obj02 and became
+obj0 occup obj15 tion obj3 obj0===obj6 obj7 who is now obj9 obj13 part obj14
+obj0 occup obj15 tion obj3 obj0===obj7 is obj6 obj9 obj6 he along side obj4
+obj0 occup obj15 tion obj3 obj0===obj7 obj9 served as obj6 obj6 before joining as
+obj7 firstappearanceinfilm big hero 6 film obj7 obj11===the character obj0 first appeared in the film big
+obj7 firstappearanceinfilm big hero 6 film obj7 obj11===obj3 and obj2 created the character of obj0 who
+obj7 firstappearanceinfilm big hero 6 film obj7 obj11===obj0 voiced by obj4 and created by duncan roulean
+obj9 firstappearanceinfilm big hero 6 film obj3 nationality===the character obj0 created by steve t seagle and
+obj9 firstappearanceinfilm big hero 6 film obj3 nationality===obj0 first appeared in the film big hero 6
+obj9 firstappearanceinfilm big hero 6 film obj3 nationality===big hero 6 was the first appearance for obj0
+obj5 iata location identifier obj14 obj5 location===obj10 is the leader of obj1 part of obj13
+obj5 iata location identifier obj14 obj5 location===obj0 is located in obj1 and its iata id
+obj5 occup obj23 tion obj3 obj5===obj0 obj19 born in obj1 and graduated in 1955
+obj5 occup obj23 tion obj3 obj5===obj0 whose alma mater is ut obj13 obj18 1955
+obj5 occup obj23 tion obj3 obj5===alan beanborn in obj1 graduated from ut obj13 in
+obj5 occup obj18 tion obj3 obj5===obj0 obj16 born on mar 15 1932 in obj0
+obj5 occup obj18 tion obj3 obj5===obj0 obj16 born in obj0 on the 15th obj17
+obj5 occup obj18 tion obj3 obj5===obj0 obj16 born in obj0 on march 15th 1932
+obj5 occup obj21 tion obj3 obj5===obj0 obj17 born on the 15th march 1932 in
+obj5 occup obj21 tion obj3 obj5===obj0 obj17 born in obj0 on march 15th 1932
+obj2 w obj18 s obj18 obj15 obj13 obj17===born in obj1 obj8 obj0 obj4erved aobj4 obj3 obj6
+obj4 w obj23 s obj23 obj19 member obj21===obj0 graduated from mit obj2ith obj3 obj17 in 1963
+obj0 occup obj18 tion obj3 obj0===obj7 served as obj6 obj6 before being obj6 obj13
+obj0 occup obj18 tion obj3 obj0===obj7 worked for obj14 as obj6 obj6 and went
+obj1 w obj20 s obj20 obj17 obj13 obj19===obj0 graduated obj2ith obj3 obj06 from afit in 1962
+obj1 w obj19 s obj19 obj16 obj13 obj18===obj0 born obj0 obj4erved aobj4 obj09 obj06 obj03 obj08
+obj0 w obj19 s obj19 obj16 obj13 obj18===obj0 obj2ho iobj4 obj3 citizen obj8 the obj2 became
+obj8 occup obj23 tion obj6 obj8===obj6 obj0 obj21 part obj22 the obj10 mission and
+obj8 occup obj23 tion obj6 obj8===obj0 obj21 born in obj2 in 1932 and graduated
+obj0 occup obj25 tion obj3 obj10===obj0 served as obj6 obj6 and in obj17 he
+obj0 occup obj25 tion obj3 obj10===obj0 is obj6 obj6 who obj21 obj8 obj23 obj18
+obj0 occup obj22 tion obj3 obj0===obj7 served as obj6 obj6 and obj20 obj6 obj16
+obj0 occup obj22 tion obj3 obj0===obj7 now obj13 obj20 obj6 obj6 and crewed obj9
+obj0 occup obj25 tion obj3 obj0===obj7 joined obj18 in obj17 and served as obj6
+obj0 occup obj25 tion obj3 obj0===obj7 obj21 obj6 obj6 who joined obj18 in obj17
+obj0 occup obj25 tion obj3 obj0===in obj17 obj7 obj21 obj8 obj23 obj18 to be
+obj1 occup obj25 tion obj5 obj1===obj0 obj23 born in obj0 and served as obj6
+obj1 occup obj25 tion obj5 obj1===obj0 obj23 born in obj0 and served as obj3
+obj1 occup obj25 tion obj5 obj1===obj0 obj23 born in obj0 he is obj3 obj06

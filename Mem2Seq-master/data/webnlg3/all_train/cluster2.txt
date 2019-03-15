@@ -1,0 +1,145 @@
+obj1 obj2 saint anne obj1===saint anne is the obj2 of obj0
+obj0 runwayname 18r 36l 'polderbaan'===the runway name of obj0 is obj4 polderbaan
+obj2 dateofretirement june 1981===obj0 retired in obj4 of obj5
+obj1 location colmore row birmingham england===obj0 is in birmingham obj7
+obj1 obj2 120 million australian dollars===obj0 obj2 obj4 obj5 australian dollars
+obj1 obj2 120 million australian dollars===the obj2 of obj0 is obj4 obj5 aud
+obj0 obj2 hok firm===the obj2 of obj0 is hok
+obj1 obj2 110 million dollars===obj0 obj2 obj4 obj5 dollars
+obj1 obj2 lewis nockalls cottingham===lewis cottingham is the obj2 of obj0
+obj2 leadername john clancy labour politician===labour politician john clancy is the leader of obj0
+obj2 leadername shinzō abe===shinzo abe is the leader of obj0
+obj1 nationality puerto ricans===obj0 is a national of puerto rico so he
+obj1 course italian meal structure===obj0 can be found in an italian meal
+obj2 leadername susana díaz===susana diaz is a leader of obj0
+obj2 leadername susana díaz===susana diaz is the leader of obj0
+obj2 mainingredients fish cooked in sour and===the maobj6 obj6gredients of obj0 consist of obj4 obj5
+obj2 mainingredients fish cooked in sour and===obj0 is a dish of obj4 obj5 obj6 a
+obj1 obj2 cooking plantain===plantain is one of the ingredients in the dish obj0
+obj2 mainingredients gram flour vegetables===the main ingredients in obj0 are obj4 flour and obj6
+obj2 mainingredients gram flour vegetables===obj4 flour and obj6 are main ingredients in obj0
+obj2 leadername françois hollande===the leader of obj0 is francois hollande
+obj2 leadername manuel valls===manual valls is the leader of obj0
+obj2 leadername carrie lam politician===carrie lam is a political leader in obj0
+obj2 leadername carrie lam politician===politician carrie lam is the leader of obj0
+obj2 leadername carrie lam politician===carrie lam is the leader of obj0
+obj2 obj1 mexican peso===the obj2 in obj0 is the peso
+obj2 obj1 mexican peso===the obj2 of obj0 is the peso
+obj2 leadername enrique peña nieto===enrique pena nieto is a leader in obj0
+obj2 leadername enrique peña nieto===enrique pena nieto is the leader of obj0
+obj1 obj2 stadio marc'antonio bentegodi===ac chievo verona's home obj2 is stadio marc antonio bentegodi
+obj1 obj2 2014–15 lega pro===were in the lega pro in the 2014 15 obj2
+obj2 obj1 azal peşəkar futbol klubu===the obj2 of obj0 is obj4 pesokar obj6 obj7
+obj1 season 2014–15 azerbaijan premier league===obj0 bakou is playing azerbaijan premierleague 2014–15
+obj1 season 2014–15 azerbaijan premier league===obj0 were in the azerbaijan premier league in 2014 15
+obj0 obj2 asa gigante ''===the obj0 is nicknamed obj4 obj5
+obj0 obj2 asa gigante ''===obj0 obj2 is obj4 obj5
+obj0 obj2 qarabağ fk===the name of the championship football team in the
+obj0 obj2 qarabağ fk===the obj2 of the obj0 are qarabag fk
+obj2 obj1 prokopis pavlopoulos===prokopis pavloopoulos is a obj2 of obj0
+obj1 affiliation visvesvaraya technological university===the obj0 is affiliated with visvesvaraya technologial university
+obj1 obj2 kempe gowda i===the obj2 of obj0 was kempe gowda
+obj1 leadername johann schneider ammann===johann schneider ammann is the leader of obj0
+obj1 leadername johann schneider ammann===obj0 has a leader called johann schneider ammann
+obj1 leadername johann schneider ammann===johann schneider ammann is the name of the leader
+obj1 leadername johann schneider ammann===the leader of obj0 is johann 'schneider ammann
+obj1 obj2 vincent h crespi bernard s===obj0 editors include the following obj4 h crespi obj7
+obj1 obj2 vincent h crespi bernard s===the editors of obj0 are vicent h crespi obj7
+obj0 obj2 j v jones===jv jones authored obj0
+obj0 obj2 j v jones===the obj2 of obj0 is jv jones
+obj1 publisher springer science business media===obj0 is published by springer science and business media
+obj0 genre fantasy literature===obj0 is a fantasy novel
+association for computing machinery leadername obj1===obj4 is the leader of the association for computing machine
+obj1 deathplace blaenau ffestiniog===obj0 died in blaenau ffestinlog
+obj0 cityserved antwerp antwerp administrativearrondissement obj2===obj9 is the administrative obj9 which is served by obj0
+obj2 ispartof little chute wisconsin obj0 cityserved obj2===little chute is part of obj5 which is served
+new zealand civil aviation authority of new zealand location obj4===the civil aviation authority of obj9 new zealand is
+obj0 floorarea 30843 8 square metres obj0===obj7 has a floor area of 308538 square metres
+obj0 location chicago chicago ispartof obj1===obj0 is in chciago in the state of obj9
+obj4 obj5 augustus pugin augustus pugin significantbuilding obj0===august pugin was the obj2 of obj9 and the obj9
+obj2 architect lewis nockalls cottingham obj2 completiondate obj5===obj0 designed by lewis cottingham was completed in obj9
+obj3 leadername hailemariam desalegn obj0 country obj3===the leader of ethipoia is hailemarian desalegn and obj5
+airman comicscharacter alternativename drake stevens airman comicscharacter creator===the comic book character airman aka obj4 stephens was
+obj4 creator dick dillin dick dillin nationality united states===dick dillian is an american who created the fictional
+blockbuster comicscharacter creator gardner fox blockbuster comicscharacter creator obj2===the character blockbuster was created by garnder fox and obj9
+obj0 creator george brenner obj0 fullname obj3===bozo the iron man's full name is obj9 and
+obj0 obj1 avocado avocado obj5 obj2===advocado is an obj9 of obj0 and is part
+obj3 leadername carles puigdemont arròs negre obj5 obj3===arros negre is a obj7 of obj0 and carles
+obj3 leadername carrie lam politician obj1 region obj3===obj5 comes from obj0 where carrie lam is a
+obj3 leadername carrie lam politician obj1 region obj3===carrie lam is the politician who leads obj0 where
+martyrs' memorial nativename türk şehitleri anıtı baku turkish martyrs' memorial===the baku turkish martyrs'memorial which is know locally as
+obj1 nativename türk şehitleri anıtı obj1===the obj0 is known in turkish as turk sehitleri
+obj1 obj4 stadio marc'antonio bentegodi obj1 numberofmembers obj5===ac chievo verona's home obj2 is stadio marc antonio
+isidro obj3 league salvadoran primera división a d isidro obj3===ad isidro metapan play in the salvadoran primera division
+obj1 obj4 2014–15 lega pro obj1 numberofmembers obj5===obj0 hs obj9 members and were in the lega
+obj3 obj4 luciano spalletti luciano spalletti club obj2===as roma's obj9 is luciano spallett who plays for obj9
+obj2 season 2014–15 azerbaijan premier league obj2 numberofmembers obj5===obj0 bakou which has obj9 members is playing in
+obj2 season 2014–15 azerbaijan premier league obj2 numberofmembers obj5===obj0 bakou whose ground has a capacity of obj9
+obj2 season 2014–15 azerbaijan premier league obj2 numberofmembers obj5===obj0 were in the azerbaijan premier league in 2014 15
+obj0 obj4 mario botta obj0 academicstaffsize obj5===the obj2 of obj9 is mario botto and the
+obj3 leadername klaus iohannis obj0 country obj3===obj5 is located in obj5 whose leader is klaus johannis
+obj0 obj5 j v jones obj0 obj2 obj4===jv jones is the obj7 of obj5 and the
+obj0 obj5 j v jones obj0 obj2 obj4===the obj7 of the book obj5 is jv jones
+obj0 author qiu xiaolong obj0 obj4 obj2===the book obj5 was written by qiu xialong and
+obj3 obj5 madeleine l'engle madeleine l'engle influencedby obj2===madeline l'engle is an obj9 influenced by obj9 who
+obj3 location uttar pradesh uttar pradesh leadername===obj0 is in utter pradesh obj4 whose leader is obj7
+obj3 ispartof little chute wisconsin obj0 cityserved===obj5 is part of grand chute wisconsin it is
+obj1 obj7 john madin john madin obj8===labour politician john clancy is the leader of obj3
+obj1 obj9 120 million australian dollars obj1===obj0 has obj00 floors and was completed in obj8
+obj0 obj6 george winkler george winkler country===the american george winckler was the obj2 of obj0
+obj0 obj6 george winkler george winkler country===the us obj2 george winckler was the obj2 for
+obj6 owner live nation entertainment obj6 location===obj0 in obj4 part of obj1 is owned by
+obj5 owner live nation entertainment obj4 leadertitle===obj1 is a leader in obj5 where obj0 is
+obj3 architect lewis nockalls cottingham obj3 completiondate===the building of the obj0 was started in obj7
+obj0 architect julia morgan julia morgan birthplace===julian morgan born in obj6 designed the significant obj1
+obj5 creator dick dillin dick dillin nationality===the comic book character obj0 was created by obj4
+obj5 starring bill oddie bill oddie obj8===billie oddie starred in obj0 was born in obj6
+obj6 obj5 banana leaf obj6 ma obj18===found nationwide bit more specific to java is the
+obj6 obj5 banana leaf obj6 ma obj18===the obj7in ingredients obj8 obj0 are obj0 the dish
+obj2 region derbyshire dales obj2 creator===the main ingredients of obj0 are ground almond jam
+obj2 region antioquia department obj2 country===obj0 is found in the antioquio department is a
+martyrs' memorial nativename türk şehitleri anıtı baku turkish martyrs' memorial===huseyin butuner obj12 obj11 guner designed the baku turkish
+martyrs' memorial nativename türk şehitleri anıtı baku turkish martyrs' memorial===huseyin butuner obj12 obj11 guner designed the baku turkish
+martyrs' memorial nativename türk şehitleri anıtı baku turkish martyrs' memorial===the baku turkish martyrs memorial was designed in obj4
+obj2 obj9 stadio marc'antonio bentegodi obj2 fullname===the full name of obj0 is obj0 and they
+obj2 obj9 stadio marc'antonio bentegodi obj2 fullname===the full name of obj0 is associazione obj8 obj6
+obj2 obj9 stadio marc'antonio bentegodi obj2 fullname===obj0 abbreviated to ac chievo verona has obj10 members
+obj2 league lega pro a obj2 obj6===obj0 has obj8 members and has played in the
+obj4 obj6 michele marcolini michele marcolini club===michele marcoli plays for both obj5 and obj0 and
+obj1 obj7 jepson way obj1 numberofmembers===obj0 obj6 is association football club blackpool they have
+obj1 manager paulo sousa paulo sousa club===paul sousa plays for obj2 and obj0 while also
+obj3 obj5 azal peşəkar obj8 klubu obj3===the obj2 of obj0 is obj4 pesokar obj6 obj7
+obj3 fullname azal peşəkar obj8 klubu obj3===the full name of obj0 is obj4 pesokar obj6
+obj6 obj5 pietro grasso obj1 obj4===the obj7 of obj5 is located in obj0 where
+obj5 obj7 kempe gowda i obj1 city===obj5 is affiliated with visvesaraya technological university in obj0
+obj4 leadername klaus iohannis obj4 obj6===obj0 is located in obj0 the obj7 of the
+crisis precededby grantville gazette ii 1634 the bavarian crisis author===1634 the bavarian crisis was the sequel to obj4
+obj2 precededby obj6 gazette iii obj2 precededby===obj1 wrote obj0 it is obj12 prequel to obj4 gazettes
+obj2 precededby grantville gazette iii obj2 precededby===obj0 is obj12 sequel to grantiville gazettes iii written
+obj2 precededby obj6 gazette iii obj2 precededby===demarce obj11 obj9 obj14 obj12 obj4 gazettes preceded obj0
+obj0 obj7 j v jones obj0 mediatype===obj5 authored by jv jones has a obj4 of obj3
+obj0 author qiu xiaolong obj0 mediatype===obj5 by qiu xialong is in obj7 and has
+obj2 location tirstrup tirstrup country===obj0 is located in tristrup obj9 where they speak
+obj0 cityserved curitiba curitiba ispartof===obj0 is located in sao jose dos pinhais and
+obj3 aircrafthelicopter hal light combat helicopter obj7 location===obj5 is located in obj5 obj9 which is oprated
+obj9 leadername fuad masum obj0 cityserved===obj5 serves the city of obj5 obj5 fuad masam
+obj1 obj14 120 million australian dollars obj1===obj0 was completed in obj03 has obj05 floors is
+obj0 location gujarat gujarat leadername===obj2 was the leader of gujura which is where
+obj6 ingredient banana leaf obj6 region===obj0 is javanese obj3 dish that comprises obj0
+obj4 obj12 cooking plantain obj4 main obj12===obj0 originates from the obj8 obj32 part of the
+obj4 obj12 cooking plantain obj4 main obj12===obj0 comes from the obj8 of colombiathe obj7 ingredients
+obj5 leadername carles puigdemont arròs negre obj8===arros negre is a traditional dish from cataloniaspain where
+obj2 obj11 stadio marc'antonio bentegodi obj2 fullname===the full name of obj0 is associazione obj10 obj7
+a e dimitra efxeinoupolis location obj6 obj6 obj2===the ae dimitea efxeinoupolis club is located in obj4
+obj2 obj8 paulo sousa paulo sousa obj9===paulo souza is obj2 of obj0 plays for obj1
+obj2 manager paulo sousa paulo sousa club===paulo souza plays for obj3 obj1 and the portuguese
+obj1 season 2015 campeonato brasileiro série c obj1 numberofmembers===the agremiação sportiva arapiraquense's full name isagremiação sportiva arapiraquense
+obj6 leadername klaus iohannis obj6 leadertitle===the obj0 is located in obj0 the prime minister
+obj6 leadername klaus iohannis obj6 leadertitle===the obj0 prime minister is klaus lohannis and he
+obj8 journal publisher wiley blackwell obj8 journal===the obj0 journal abbreviated to addiction was published by
+obj2 obj4 obj12 antioquia department country===obj4 an obj2 in antioquio columbian bed dish obj0 belongs
+obj2 ingredient obj12 antioquia department country===obj0 is a dish from the antioquia obj8 of
+obj6 leadername carles puigdemont arròs negre country===arros negre is a traditional dish from the obj11
+obj6 leadername carles puigdemont arròs negre obj10===arros negre is from the obj11 of cataloniaspain where
+obj6 leadername carles puigdemont obj11 currency===arros negre comes from the obj0 obj10 where carles
+obj9 obj11 kempe gowda i obj1 obj14===kempe gowda was the obj2 of the obj54 of

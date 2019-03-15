@@ -1,0 +1,41 @@
+obj0 location egg harbor township new jersey===obj0 is in egg harbor township nj
+obj2 birthdate 1932 03 15===obj0 was born on the 15th of march 1932
+obj2 birthdate 1932 03 15===obj0 was born on mar 15 1932
+obj2 birthdate 1932 03 15===obj0 was born on march 15 1932
+ac hotel bella sky obj1 location obj1===the ac hotel bella sky is in obj5
+ac hotel bella sky obj1 location obj1===the ac hotel bella sky is located in obj5
+obj0 largestcity anderson indiana===anderson is the largest city in obj0
+obj0 largestcity anderson indiana===anderson is the largest city of obj0
+big hero 6 film starring obj0===the film big hero 6 stars actor obj4
+big hero 6 film starring obj0===the film big hero 6 stars obj4
+a d isidro metapán manager obj0===obj4 manages the ad isidro metapan
+a d isidro metapán numberofmembers obj2===ad isidro metapan has obj4 members
+a d isidro metapán numberofmembers obj2===the number of members of isidro metapán is obj4
+agremiação sportiva arapiraquense season obj2===agremiacao sportiva arapiraquense play in obj4
+a t charlie johnson almamater obj1===obj4 is the alma mater of a t charlie johnson
+a t charlie johnson nationality obj1===a t charlie johnson is a obj4 national
+obj3 birthdate 1932 03 15 obj3 almamater===obj0 was born on march 15 1932 and received
+obj3 birthdate 1932 03 15 obj3 almamater===obj0 was born on the 15th of march 1932
+obj3 birthdate 1932 03 15 obj3 almamater obj0===obj9 was born on the 15th of march 1932
+obj3 birthdate 1932 03 15 obj3 almamater===obj0 was born on march 15 1932 and his
+obj3 birthdate 1932 03 15 obj3 birthplace obj0===obj9 was born in obj9 on mar 15 1932
+obj3 birthdate 1932 03 15 obj3 birthplace obj0===obj9 was born on mar 15 1932 in obj9
+obj3 birthdate 1932 03 15 obj3 birthplace obj0===obj9 was born in obj9 on march 15th 1932
+obj2 nationality americans auron comicscharacter creator obj2===the comic book character auron was created by obj0
+obj2 nationality americans auron comicscharacter obj5 obj2===american obj0 is the obj7 of the comic character auron
+obj2 nationality americans auron comicscharacter creator obj2===the american obj0 created the comic character auron
+a d isidro metapán manager obj0 obj0 obj5 obj3===obj4 manages the ad isidro metapan and plays for
+a d isidro metapán manager obj1 obj1 club obj0===obj4 manages the ad isidro metapan and plays for
+a d isidro metapán manager obj1 obj1 club obj0===obj4 who is a member of the obj9 also
+obj1 birthdate 1932 03 15 obj1 obj10 obj5===obj0 who obj00 born on 15th of march 1932
+ac hotel bella sky obj6 location obj6 obj2 foundationplace===obj6 which was founded in obj4 is the obj8
+ac hotel bella sky obj6 location obj6 obj2 foundationplace===obj6 obj8 of ac hotel bella sky in obj1
+obj1 fullname isidro metapán obj1 obj7===obj0 has obj8 members and their obj8 is in
+a d isidro metapán manager obj1 obj1 club===obj4 manages the ad isidro metapan he plays for
+ram rebellion mediatype e book 1634 the ram rebellion author===1634 the ram rebelllion written by obj3 has the
+ac hotel bella sky obj8 location obj8 obj2 foundationplace===the ac hotel bella sky in obj1 is part
+a d isidro metapán manager obj1 obj1 obj9===obj4 manages the ad isidro metapan and plays for
+a d isidro metapán manager obj1 obj1 obj9===obj4 clubs are obj6 and the obj7 obj7 he
+a d isidro metapán manager obj1 obj1 club===obj4 manages the ad isidro metapan he also plays
+ac hotel bella sky obj7 location obj11 obj11 leadername===the current obj14 of ac hotel bella sky in
+ac hotel bella sky obj7 obj9 obj11 obj11 leadername===the leader of obj5 is margrethe ii and the

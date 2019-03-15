@@ -1,0 +1,59 @@
+county limerick ispartof obj2===limerick county is part of obj2
+obj1 servin obj3 size obj2 obj3===serving size for the obj1 is 300g
+obj1 servin obj3 size obj2 obj3===the serving size of obj1 is 300g
+obj0 bird obj4 obj2 timeinspace===obj2 was born in obj0 the home of the
+adolf schärf birthplace obj2===adolf scharf was born in obj2
+obj2 militaryrank obj0===airey neave's military rank is obj0
+obj2 militaryrank obj0===obj2 was a obj0
+obj1 servicestartyear obj2===obj1 began his military career in obj2
+obj1 servicestartyear obj2===obj1 started serving in military in obj2
+obj1 servicestartyear obj2===obj1 began his service in obj2
+obj1 profession obj0===obj1 was a obj0
+obj1 profession obj0===obj1 was obj0
+obj1 predecessor obj0===obj0 preceded obj1 as president
+juan carlos i of spain obj2 obj1===the obj2 of juan carlos i f spain was obj1
+obj2 maidenvoyage 2013 03 17===the obj2 had its maiden voyage on march 17 2013
+obj2 maidenvoyage 2013 03 17===the ship obj2 had her maiden voyage on march
+obj2 maidenvoyage 2013 03 17===the obj2 had its maiden voyage on the 17th
+obj2 maidenvoyage 2013 03 17===obj2 ship's first journey took place on 17 03 2013
+obj2 maidenvoyage 2013 03 17===the ship obj2 had her maiden voyage on march
+obj1 modelstartyear obj2===production of the obj1 began in obj2
+obj1 modelstartyear obj2===the obj1 was first manufactured in obj2
+obj0 shipdraft obj2 obj3===the obj0 has a ship draft of 46m
+obj0 shipdraft obj2 obj3===the obj0 has a ship draft of obj2 metres
+obj1 position obj0===obj1 play in the obj0
+obj1 musicsubgenre obj2===obj1 has the sub genre obj2
+obj1 musicsubgenre obj2===obj2 is a sub genre of obj1
+obj1 musicsubgenre obj2===obj1 has a sub genre called obj2
+obj2 distributingcompany obj0===the distribution company for obj2 is obj0
+obj2 distributingcompany obj0===obj2 distribute through obj0
+obj1 maximumtemperature 165 0 kelvins===the maximum temperature of obj1 is 165 kelvins
+obj1 maximumtemperature 165 0 kelvins===the celestial body known as obj1 has a maximum
+obj1 hasdeputy obj0 obj3 successor obj1===obj1 who succeeded obj3 has a deputy named obj0
+aleksandr prudnikov club obj2 obj2 obj4===aleksandr prudinov plays for obj2 which plays in the
+obj1 shipclass obj2 obj1 obj6===the obj1 is obj5 millimetres in obj6 and classed
+obj1 shipclass obj2 obj1 length===the obj1 which is 1258 metres long is classed
+obj1 shipclass obj2 obj1 obj6===the obj1 obj2 is obj5 millimetres in obj6
+obj1 shipordered 2004 01 22 obj1 obj6===the obj1 ship which is obj5 millimetres in obj6
+obj1 shipordered 2004 01 22 obj1 length===the obj1 ship was ordered on the 22nd january
+obj3 obj obj6 obj5 metres obj3===the obj3 has obj6 rocket stages and a obj2
+obj3 obj obj6 obj5 metres obj3===the obj3 rocket has obj6 stages and a obj2
+obj1 profession obj4 obj1 successor===obj4 obj1 was born in mendoza in agentina and
+obj1 profession obj4 obj1 successor===obj1 was born in mendoza in argentina and was
+obj2 shipclass obj4 obj2 obj9===ordered on january 22nd 2004 the obj2 is classed
+obj2 fate eagle automobile obj6 manufacturer===obj6 is manufactured by obj2 where obj0 is a
+obj2 fate eagle automobile obj6 manufacturer===the obj6 is made by obj2 who has a
+obj2 fate eagle automobile obj6 manufacturer===obj0 is a key person at obj2 which was
+united petrotrin f c obj6 obj5 obj3 club===obj3 who plays for the obj0 previously played for
+obj0 meantemperature obj14 kelvins obj0 obj10===the mean temperature of obj0 is obj14 kelvins and
+obj0 meantemperature 265 0 kelvins obj0 obj10===obj0 with an average temperature of 265 kelvins and
+obj0 parentco obj12 pany obj6 obj3===the obj3 has a ship beam of obj11 obj12
+obj0 parentco obj12 pany obj6 a obj12===obj6 is the parent company of the obj0 co
+obj0 parentco obj12 pany obj6 obj3===obj6 is the parent company of obj0 who are
+obj5 activeyearsendyear obj11 obj5 obj10===obj5 performed in the obj1 obj10 and ended his
+obj5 activeyearsendyear obj11 obj5 obj10===ending his career in obj11 obj5 was a performer
+obj5 activeyearsendyear obj11 obj5 obj10===the musical obj10 of obj5 is obj1 and he
+post metal obj8 obj11 obj4 associatedband associatedmusicalartist===obj4 is a performer of the musical obj10 post
+obj5 unit obj1 obj1 obj8===obj5 fought in world war two with the obj1
+obj2 currentclub obj8 obj8 manager===obj2 belongs to obj8 and plays for obj6 and
+obj6 commander obj8 obj4 country===obj6 obj2 involved us born obj4 the obj6 was

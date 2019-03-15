@@ -1,0 +1,14 @@
+obj0 obj2 warm or cold===obj0 can be obj2 either warm or cold
+obj0 obj2 warm or cold===obj0 can be obj2 warm or cold
+obj2 was given obj9 'technical campus' obj7 by===obj9 obj0 which is located in obj6 gave obj9
+obj2 obj10 given obj9 'technical campus' obj7 by===it obj10 obj9 obj0 in obj6 that gave obj2
+obj3 was given obj15 'technical campus' obj13 obj17===obj15 obj0 in obj12 granted technical campus obj13 to
+obj3 was given obj28 'technical campus' status obj32===obj0 which is located in obj19 gave obj28 obj3
+obj2 launchsite mid atlantic regional spaceport===the launch site of obj2 was mid atlantic regional spaceport
+obj0 birthdate 1981 02 04===obj0 was born on february 4 1981
+obj0 birthdate 1981 02 04===allen forrest's birth date is 04th february 1981
+obj2 battles world war i obj2 obj5 obj0===obj2 fought in wwi and he was awarded the
+obj2 battles world war i obj2 obj5 obj0===obj2 fought in ww1 and received the obj0 obj5
+obj7 battles polish–soviet war polish–soviet war ispartofmilitaryconflict===the polish soviet war which was part of the obj4
+obj7 battles polish–soviet war polish–soviet war ispartofmilitaryconflict===obj5 was a obj6 in the polish soviet war part
+obj9 battles polish–soviet war polish–soviet war ispartofmilitaryconflict===obj9 who died in obj6 fought in the polish soviet

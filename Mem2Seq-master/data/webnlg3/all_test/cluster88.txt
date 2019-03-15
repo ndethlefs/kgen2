@@ -1,0 +1,4 @@
+obj2 nationality united states obj2 obj10 selected===american obj2 graduated from massachusetts institute of technology in
+obj1 almamater university of texas at austin obj1 deathplace===obj1 who graduated from the university of texas in
+obj3 almamater university of texas at austin obj6 leadername===obj3 a past graduate of the university of texas
+obj3 almamater university of texas at austin obj3 deathplace===obj3 was a national of the obj1 he was

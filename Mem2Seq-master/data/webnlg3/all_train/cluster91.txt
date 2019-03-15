@@ -1,0 +1,66 @@
+alderney leadername obj0===aldernay's leader is obj4
+belgium officiallanguage german language===belguim's official language is german
+punjab obj1 obj2 obj1===punjab is found in the obj3 obj5
+punjab obj1 country obj1===punjab is in obj5
+3arena obj1 28 0 metres===the obj2 of 3 arena is 28 metres
+3arena location obj1===3 arena is located in obj4
+gujarat leadername obj0===obj4 was the leader of gujurat
+japan ethnicgroup obj0===there is an ethnic group of obj4
+japan ethnicgroup obj0===there is an ethnic group of obj4
+fountain county indiana country obj1===fountain county is in indiana in the obj4
+fountain county indiana country united states===fountain county is in indiana in the us
+king county washington largestcity obj2===obj4 is the largest city in king county in washington
+monroe township madison county obj2 ispartof obj2===monroe township is in madison county which is a
+monroe township madison county obj2 ispartof obj2===monroe township madison county is in obj1
+monroe township madison county indiana ispartof madison county indiana===monroe township is part of madison county in indiana
+monroe township madison county indiana ispartof madison county indiana===monroe township is a part of madison county in indiana
+monroe township obj1 ispartof obj1===monroe township is part of obj5
+orange county california ispartof obj1===orange county is part of the obj4 in california
+orange county california ispartof obj1===orange county in california is part of the obj4
+pierce county washington obj2 obj1===the obj2 of pierce obj2 washington is obj4
+pierce county washington largestcity obj1===pierce county is the largest city in obj4
+pierce county washington largestcity obj1===obj4 is the largest city in pierce county
+randall county texas country obj1===randall county is in texas in the obj4
+randall county texas country obj1===randall county is located in texasunited states
+randall county texas country obj1===randall county in texas is located within the obj4
+richland township madison county indiana country united states===richland township is in madison county indiana us
+richland township madison county indiana country obj1===richland township in madison county indiana is in the obj4
+travis county texas countyseat austin texas===austin is the county seat of travis county in texas
+travis county texas countyseat obj1===the county seat for travis county is in obj4
+union township madison county indiana country obj1===union township is in madison county which is in
+washtenaw county michigan country obj1===washtenaw county in michigan is located within the obj4
+bakso obj1 obj0===obj4 is an obj2 in basko
+binignit mainingredients obj1===the main ingredient of bingnit is obj4
+chicharrón obj2 obj1===chicharron is from the obj4 obj2
+karnataka leadername obj0===obj4 is a leader of karnatka
+european university association headquarters obj2===the european university associatian headquarter is in obj4
+switzerland leadertitle obj0===the obj4 helps to lead the country
+cornell university state obj1===cornell unversity is in obj4
+1411 0 ardmore airport new zealand 3rd runway surfacetype obj4===the runway length of ardmore airport in new zealand
+authority of new york and new jersey obj1 runwayname obj5===obj9 is the name of a runway at obj0
+3arena location obj3 obj3 ispartof obj0===3 arena is in obj4 which is part of obj9
+ajoblanco obj0 obj3 obj3 obj5 obj2===the obj7 obj9 features almonds which are an obj9
+ajoblanco region obj2 obj2 leadername susana díaz===susana diaz of edger blanco is the leader of obj4
+districts in the united states obj0 established 1907 07 11===the obj5 was founded on july 11 1907 and
+law 1634 the ram rebellion precededby 1634 the galileo affair===the galileo affair was written in 1634 followed in
+ashgabat international airport operatingorganisation obj1 obj1 obj7===obj4 obj7 located in obj6 and operates the ashgabat
+birmingham leadername obj0 obj1 obj8===obj5 was designed by the obj7 jhon madin who
+ethiopia leadername obj1 obj0 location===obj5 is located in ethopia's obj2 which is run
+chicharrón country obj8 obj1 obj5===obj7 is a dish from the obj0 obj7 in
+chicharrón country obj8 obj1 obj5===chicharron is an obj7 in obj7 which comes from
+chicharrón country obj8 obj0 region===the obj5 chicharron is found in obj5 from the
+chicharrón country obj8 obj0 region===chicharron is a dish from obj4 and is an
+karnataka obj10 obj13 obj9 obj5 obj4 karnataka===the archarya institute of technology is located in karnatka
+pakistan leadername obj4 obj0 location===obj11 is served by the obj5 located in obj2
+pakistan leadername obj2 obj10 country===obj0 serves the city of obj5 in obj3 the
+ethiopia leadername obj1 obj3 ispartof===both obj2 and city hall are located in obj5
+ethiopia leadername obj1 obj3 ispartof===obj2 and obj0 is located in obj5 ethopia where
+ethiopia leadername obj2 obj0 country===ethiopa is lead by obj4 and uses the obj10
+ethiopia leadername obj2 obj0 country===obj5 is located in obj3 ethopia obj4 is the
+binignit main obj5 s obj2 obj2===obj6 are part of the obj11 of obj6 and
+3arena obj14 obj0 obj8 country===obj5 part of obj4 is in the obj2 and
+birmingham postalcode b postcode area obj2 obj13===birminham which has the b postcode is lead by
+batagor country obj6 obj6 leadername===obj4 led by joko widoto has a varied cuisine
+bionico country obj12 obj12 leadername===bianco from the obj2 obj10 is a obj14 variation
+karnataka obj16 obj19 obj15 obj9 obj8 obj0===the obj2 in karnatka is affiliated with the obj8
+karnataka has to its obj9 obj8 obj0===the obj2 is affiliated with obj8 it is located

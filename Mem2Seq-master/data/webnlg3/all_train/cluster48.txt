@@ -1,0 +1,225 @@
+obj1 runwaylength obj5 obj1 1st runway surfacetype obj4===the 1st runway at obj0 is made from obj9
+obj1 runwaylength obj5 obj1 1st runway surfacetype obj4===obj0 has a runway length of obj9 it is
+obj4 obj3 obj2 obj1 1st runway surfacetype obj4===the surface of the 1st runway at obj5 is
+obj4 obj3 obj2 obj1 1st runway surfacetype obj4===the 1st runway at obj5 is made from obj0
+obj1 obj5 obj4 obj0 deathplace obj1===obj5 is well known for the obj2 obj4 and
+obj1 obj5 obj4 obj0 deathplace obj1===obj5 died in obj5 which has as its obj2 obj4
+obj2 obj4 obj0 obj2 completiondate obj7===the architects obj4 designed obj4 which was completed in obj9
+obj2 obj4 obj0 obj2 completiondate obj7===obj4 are the architects of the obj4 completed in obj9
+obj2 obj4 obj0 obj2 completiondate obj7===obj4 were the architects of obj4 completed in obj9
+obj2 obj4 obj0 obj2 completiondate obj5===the obj9 responsible for obj4 was obj4 and the
+obj2 obj4 obj0 obj2 completiondate obj5===obj4 was the obj9 of obj4 which was completed
+obj1 country obj3 obj1 state===obj0 is located in the easter province obj4
+obj1 country obj3 obj1 state===obj0 is in eastern province a part of obj4
+obj0 numberofmembers obj4 obj0 manager obj5===obj9 managed by obj9 has obj4 members
+obj0 numberofmembers obj4 obj0 manager obj5===obj9 club has obj4 members and are managed by obj9
+obj0 club obj2 obj3 manager obj0===obj9 who manages obj5 played for obj4
+obj0 club obj2 obj3 manager obj0===obj9 plays for obj4 and manages obj5
+obj1 club obj0 obj3 manager obj1===obj4 plays for obj4 and manages obj5
+obj1 club obj0 obj3 manager obj1===obj4 who manages obj5 was once a player for obj4
+obj0 obj5 obj1 obj3 manager obj0===obj9 is attached to the obj2 obj4 and manages obj5
+obj1 obj4 obj3 obj1 author obj0===obj9 written by obj9 can be located by it's
+obj1 obj4 obj3 obj1 author obj0===obj9 is written by obj9 and has the obj2 obj4
+obj0 obj4 obj2 obj0 author obj3===obj5 written by obj9 can be located by it's
+obj0 obj4 obj2 obj0 author obj3===the book 1634 the bavarian crisis by obj9 has
+obj1 obj5 obj0 obj1 mediatype obj6==='1634 the bavarian crisis' which was authored by obj4
+obj1 obj5 obj0 obj1 mediatype obj6===obj4 are the authors of obj4 which was put
+obj0 obj4 obj2 obj0 mediatype obj5===obj4 is the obj4 of obj9 currently in obj9
+obj0 obj2 obj4 obj0 mediatype obj5===obj9 is available in obj9 and has the obj2 obj4
+obj0 obj2 obj4 obj0 mediatype obj5===the obj2 of the currently in obj9 book a
+obj0 obj2 obj4 obj0 mediatype obj5===the obj2 of a glastonbury romance is obj4 and
+obj0 obj5 obj2 obj0 publisher obj3===the obj4 of obj5 published by obj9 is obj4
+obj0 obj5 obj2 obj0 publisher obj3===the obj4 of obj5 is obj4 and it is
+obj0 obj5 obj2 obj0 publisher obj3===obj4 is the obj4 of obj5 which is published
+obj0 obj4 obj2 obj0 author obj3===obj4 is the obj4 of obj5 written by obj9
+obj0 obj4 obj2 obj0 author obj3===obj4 is the obj4 of obj5 written by obj9
+obj0 obj3 obj2 obj0 mediatype obj4===obj5 is available in obj9 and has the obj9
+obj0 obj3 obj2 obj0 mediatype obj4===the obj9 of the obj9 obj5 is obj9
+obj0 obj3 obj2 obj0 mediatype obj4===obj5 is available in obj9 and has the obj9 obj9
+obj0 obj2 obj5 obj0 mediatype obj3===the obj2 of obj5 is obj4 and is available
+obj0 obj2 obj5 obj0 mediatype obj3===the obj2 of obj5 is obj4 which is available
+obj0 obj2 obj5 obj0 mediatype obj3===the obj2 of obj5 is obj4 and is available
+obj0 country obj4 obj0 publisher obj2===obj5 comes from obj4 and was published by obj9
+obj0 country obj4 obj0 publisher obj2===obj5 was written in obj4 and published by obj9
+obj0 obj3 obj2 obj0 mediatype obj4===an obj9 of 0 374 26131 8 and is a
+obj0 obj3 obj2 obj0 mediatype obj4===obj5 is a obj9 book with the obj9 obj9
+obj0 obj2 obj4 obj0 mediatype obj5===assigned the obj2 obj4 'a severed wasp' can be
+obj0 obj2 obj4 obj0 mediatype obj5===obj9 available in obj9 has the obj2 obj4
+obj0 obj2 obj4 obj0 mediatype obj5===the book a severed wasp with obj2 obj4 is
+obj0 obj4 obj2 obj0 mediatype obj5===obj4 authored obj9 which was published in obj9
+obj0 obj2 obj4 obj0 author obj3===obj5 has the obj2 obj4 and was written by obj9
+obj0 obj2 obj4 obj0 author obj3==='above the veil' which was written by obj9 has
+obj0 obj4 obj3 obj0 mediatype obj5===obj9 a book produced in obj9 was authored by obj4
+obj0 obj4 obj3 obj0 mediatype obj5===obj4 is the obj2 of obj9 which was produced
+obj0 obj5 obj4 obj0 mediatype obj2===obj4 is the obj9 of obj5 which is available
+obj0 obj5 obj4 obj0 mediatype obj2===the obj9 of obj5 available in obj9 is obj4
+obj0 obj3 obj1 obj1 state obj4===obj9 is the obj2 of obj0 and is based
+obj0 obj3 obj1 obj1 state obj4===obj9 in obj9 is the obj2 of the obj0
+obj4 obj0 obj2 obj4 author obj1===obj5 was written by obj9 and has the obj5 obj5
+obj4 obj0 obj2 obj4 author obj1===obj5 was written by obj9 and its obj5 is obj5
+obj4 obj2 obj1 obj4 mediatype obj3===the obj2 of obj0 is obj5 and is available
+obj4 obj3 obj2 obj4 mediatype obj0===obj9 which is available in obj9 was written by
+obj4 obj3 obj2 obj4 mediatype obj0===the obj5 of the obj9 book obj9 is obj5
+obj0 obj2 obj4 obj0 mediatype obj5===obj9 is produced in obj9 and has an obj2
+obj2 country obj1 obj0 publisher obj2===obj5 is published by obj5 in the obj4
+obj2 country obj1 obj0 publisher obj2===the book 'a long long way' was published by
+obj1 runwaylength obj8 obj1 1st runway surfacetype===the city of obj6 is served by obj0 this
+obj1 runwaylength obj8 obj1 1st runway surfacetype===obj6 is served by obj0 where the 1st runway
+obj1 runwaylength obj8 obj1 1st runway surfacetype===obj6 is served by obj0 which has a runway
+obj1 runwaylength obj8 obj1 1st runway surfacetype===obj6 is served by obj0 which has a runway
+obj1 runwaylength obj8 obj1 1st runway surfacetype===the 1st runway at obj0 is made from obj7
+obj5 obj4 obj2 obj1 1st runway surfacetype===the 1st runway at obj5 is made from obj0
+obj5 obj4 obj2 obj1 1st runway surfacetype===the 1st runway at obj5 is made from obj0
+obj5 obj4 obj2 obj1 1st runway surfacetype===the surface of the first runway at obj5 is
+obj5 obj4 obj2 obj1 1st runway surfacetype===obj0 of the obj3 obj8 belongs to the obj4
+obj5 obj4 obj2 obj1 1st runway surfacetype===the 1st runway at obj5 is made from obj0
+obj5 obj4 obj2 obj1 1st runway surfacetype===the surface of the 1st runway at obj5 is
+obj4 obj3 obj2 obj1 1st runway surfacetype===the 1st runway at obj5 is made from obj0
+obj4 obj3 obj2 obj1 1st runway surfacetype===obj0 belongs to the obj4 of flowering plants obj8
+obj2 obj8 obj6 obj1 deathplace===obj5 died in obj0 california's senator was obj0 and
+obj2 obj8 obj6 obj1 deathplace===obj5 died in obj0 where senator is obj0 and
+obj2 almamater obj0 obj2 deathplace===obj4 who graduated from the obj4 died in obj7
+obj2 almamater obj0 obj2 deathplace===to obj4 and died in obj7 on 1966 02 08
+obj5 leadername obj1 obj3 deathplace===obj5 died in obj0 that used to be a
+obj5 leadername obj1 obj3 deathplace===obj5 died in obj0 in france where the mayor
+obj5 leadername obj1 obj3 deathplace===obj0 which is also a place in france is
+obj2 country obj5 obj2 state===obj0 is located in obj1 in the easter province
+obj3 country obj6 obj3 state===obj2 is the leader of the eastern provice obj4
+obj0 numberofmembers obj8 obj0 manager===obj5 with obj4 members managed by obj5 play in
+obj0 club obj4 obj5 manager===obj0 plays for obj4 and obj3 while managing obj5
+obj0 club obj4 obj5 manager===obj0 manages obj5 and also plays for obj4 and obj3
+obj0 club obj4 obj5 manager===obj0 played for obj4 he now manages obj5 and
+obj2 obj7 obj0 obj5 manager===obj4 was at the obj2 asd licita 1931 he
+obj2 obj7 obj0 obj5 manager===obj4 once played for obj4 is in the obj2
+obj2 obj7 obj0 obj5 manager===obj4 plays for obj4 and manages obj5 he is
+obj1 club obj3 obj5 manager===obj0 manages obj5 and is a former player of
+obj1 obj7 obj3 obj5 manager===attached to the obj2 obj4 obj0 manages obj5 and
+obj0 country obj8 obj0 state===obj5 is located in obj5 obj4 obj5 obj10 mahe
+obj0 country obj8 obj0 state===obj5 is located in obj5 obj4 which is southeast
+obj4 leadername obj7 obj0 state===the obj5 is in obj2 obj5 obj5 is led
+obj4 leadername obj7 obj0 state===obj5 is located in the obj8 of obj2 obj5
+obj0 obj5 obj3 obj0 mediatype===obj5 written by obj4 is available in obj8 form
+obj0 obj5 obj3 obj0 mediatype===obj5 was authored by obj4 and has a obj2
+obj0 obj8 obj5 obj0 mediatype===obj5 available as an obj7 was authored by obj4
+obj0 obj4 obj6 obj0 author===the book a fortress of grey ice by obj3
+obj0 obj4 obj6 obj0 author===obj5 by jv jones is in obj8 with obj2 obj4
+obj0 obj4 obj6 obj0 author===obj5 which was written by jv jones was made
+obj1 obj6 obj8 obj1 mediatype===obj0 has a obj2 of obj4 and a obj5
+obj1 obj6 obj8 obj1 mediatype===obj0 was published in both print obj9 paperback it
+obj1 obj6 obj8 obj1 mediatype===obj0 was published in print and paperback its obj5
+obj1 country obj7 obj1 publisher===obj0 from obj4 and published by obj4 was followed
+obj1 country obj7 obj1 publisher===obj0 was written in obj4 and published by obj0
+obj1 country obj7 obj1 publisher===obj0 is from obj4 and published by obj4 whose
+obj1 country obj7 obj1 publisher===obj0 comes from obj4 and was published by obj4
+obj2 country obj7 obj0 publisher===the novel obj5 which was written in obj4 was
+obj2 country obj7 obj0 publisher===the novel obj5 was written in obj4 and was
+obj0 obj7 obj4 obj0 mediatype===obj4 is the obj2 of obj5 which can be
+obj0 obj5 obj7 obj0 mediatype===the book a severed wasp is available in obj8
+obj0 obj5 obj7 obj0 mediatype===number 0 374 26131 8 is available in obj8 the
+obj1 obj6 obj7 obj1 author===obj0 by obj5 has obj2 obj4 and obj4 obj0
+obj1 obj6 obj7 obj1 author===obj0 written by obj5 has the obj2 obj4 ace
+obj0 obj4 obj6 obj0 author===the obj2 of obj5 is obj4 it was written
+obj0 obj4 obj6 obj0 author===obj5 by obj3 is in obj8 and has an
+obj0 obj5 obj7 obj0 author===obj5 was written by obj6 it has an obj4
+obj0 obj5 obj7 obj0 author===written by obj6 obj5 has the obj4 obj3 and
+obj0 obj5 obj7 obj0 author===obj5 written by obj6 has a obj2 of obj4
+obj0 obj3 obj6 obj0 author===the printed book obj5 was written by obj5 and
+obj0 obj3 obj6 obj0 author===obj5 was written by obj5 and printed with the
+obj0 obj7 obj6 obj0 mediatype===obj4 is the obj2 of obj5 which was produced
+obj6 obj2 obj4 obj6 author===obj0 was written by obj3 has an obj2 of
+obj6 obj2 obj4 obj6 author===obj0 which was written by obj3 has the obj2
+obj6 obj2 obj4 obj6 author===obj0 was written by obj3 and has the obj1
+obj6 obj0 obj4 obj6 author===obj2 written by obj3 is available in obj1 with
+obj6 obj0 obj4 obj6 author===the book obj2 by obj3 is available in obj1
+obj4 country obj3 obj1 publisher===obj0 in the obj4 published obj5 which was followed
+obj4 country obj3 obj1 publisher===the book a long long way was published by
+obj4 country obj3 obj1 publisher===located in the obj4 obj0 published obj5 the novel
+obj4 country obj3 obj1 publisher===obj5 is published by obj0 from the obj4 parent
+obj4 country obj3 obj1 publisher===obj0 in the obj4 is owned by its parent
+obj4 country obj3 obj1 publisher===obj0 is the parent company of obj0 in the
+obj2 runwaylength obj10 obj2 1st runway surfacetype===obj8 is served by obj0 which is 88 metres
+obj2 runwaylength obj10 obj2 1st runway surfacetype===obj8 is served by obj0 and is 88 metres
+obj2 runwaylength obj10 obj2 1st runway surfacetype===the obj0 serves obj8 and its elevation is 88
+obj2 runwaylength obj10 obj2 1st runway surfacetype===obj0 is 88 metres above sea level and has
+obj2 runwaylength obj10 obj2 1st runway surfacetype===obj8 is served by obj0 which is located 88
+obj2 runwaylength obj10 obj2 1st runway surfacetype===obj0 serves the city of obj8 and is 88
+obj5 obj4 obj2 obj1 1st runway surfacetype===obj0 belongs to the obj4 of flowering plants and
+obj5 obj4 obj2 obj1 1st runway surfacetype===obj0 which is the surface of the 1st runway
+obj5 obj4 obj2 obj1 1st runway surfacetype===poaceaea which belongs to the obj4 of flowering plants
+obj3 almamater obj0 obj3 deathplace===obj4 born in obj11 graduated from obj4 and was
+obj3 almamater obj0 obj3 deathplace===obj4 born in dallas went to the obj4 worked
+obj3 almamater obj0 obj3 deathplace===obj1 obj4 graduated from obj4 he was born in
+obj1 almamater obj0 obj1 deathplace===obj4 who obj43 born in obj40 and died in
+obj1 country obj6 obj1 state===obj0 is located in the obj2 in the eastern
+obj1 country obj6 obj1 state===obj0 is located in obj2 in the eastern province
+obj4 country obj7 obj4 state===obj0 is in the obj0 where obj3 is the
+obj0 location obj4 obj0 state===in obj11 the obj5 was erected in obj4 it
+obj0 location obj4 obj0 state===the obj5 established in 2000 is a obj5 located
+obj0 location obj4 obj0 state===the obj5 was erected in obj11 in obj4 and
+obj0 location obj5 obj0 state===falling under the obj8 of obj4 and completed in
+obj0 location obj5 obj0 state===the obj5 is a obj4 obj7 in obj11 and
+obj2 obj9 obj0 obj7 manager===obj4 is a player in obj4 and obj3 he
+obj8 obj5 obj1 a s obj12 obj11===previous obj2 of obj0 have been obj4 a s
+obj7 obj6 obj3 obj4 manager===obj0 plays for obj2 and manages obj5 who play
+obj7 obj6 obj3 obj4 manager===obj5 is managed by obj0 who was formerly involved
+obj1 obj7 obj5 obj1 mediatype===the authors of obj0 are obj0 it has obj01
+obj1 obj7 obj5 obj1 mediatype===obj0 obj2 obj4 was written by obj0 it is
+obj1 obj7 obj5 obj1 mediatype===be located by it's obj2 978 1 4165 4253 7
+obj0 obj7 obj4 obj0 mediatype===obj5 by obj5 which has obj11 pages and is
+obj0 obj7 obj4 obj0 mediatype===obj5 is a obj8 publication written by obj5 it
+obj0 obj7 obj4 obj0 mediatype===located by it's obj2 978 1 4165 4253 7 its
+obj0 obj10 obj7 obj0 mediatype===obj4 is the obj2 of obj5 which is a
+obj2 country obj10 obj2 publisher===obj0 written in obj4 has a sequel called obj0
+obj2 country obj10 obj2 publisher===obj0 was written in obj4 and published by obj6
+obj2 country obj10 obj2 publisher===obj1 is the parent company of obj6 who published
+obj1 obj10 obj7 obj1 mediatype===the obj00 of obj0 is obj4 and the obj01
+obj0 obj6 obj10 obj0 author===obj5 is available in obj7 and was written by
+obj0 obj6 obj10 obj0 author===obj5 was written by obj9 and is available in
+obj0 obj6 obj10 obj0 author===obj9 wrote obj5 which is available in obj7 this
+obj0 obj6 obj9 obj0 author===obj5 is written by obj8 and is produced in
+obj8 obj2 obj6 obj8 author===obj0 a obj3 book written by obj5 has an
+obj8 obj2 obj6 obj8 author===obj0 written by obj5 has the obj2 obj4 the
+obj7 obj2 obj5 obj7 author===obj0 written by obj4 is available in obj8 its
+obj7 obj2 obj5 obj7 author===obj0 written by obj4 was produced in obj8 with
+obj6 country obj5 obj2 publisher===obj1 is the parent company of obj0 which is
+obj6 country obj5 obj2 publisher===the book obj5 which was followed by the secret
+obj2 runwaylength obj13 obj2 1st runway surfacetype===obj10 is served by obj0 which is located 88
+obj2 runwaylength obj13 obj2 1st runway surfacetype===obj0 serves the city of obj10 and situated 88
+obj2 runwaylength obj13 obj2 1st runway surfacetype===obj0 serves the city of obj10 it is situated
+obj6 obj5 obj2 obj1 1st runway surfacetype===the surface of the 1st runway at obj5 is
+obj6 obj5 obj2 obj1 1st runway surfacetype===the 1st runway at obj5 is made from obj0
+obj3 almamater obj0 obj3 deathplace===obj4 was born in obj14 in 1927 he was
+obj3 almamater obj0 obj3 deathplace===obj4 died in obj12 he was a us national
+obj3 almamater obj0 obj3 deathplace===obj4 was born on 23 july 1927 in obj14
+obj1 almamater obj0 obj1 deathplace===obj4 obj46 born on 23 july 1927 in obj43
+obj3 almamater obj0 obj3 deathplace===obj4 was born in obj14 and graduated from the
+obj2 country obj8 obj2 state===located in the obj12 of obj4 in the eastern
+obj5 obj12 obj9 obj5 state===obj2 is the obj11 of obj4 in the eastern
+obj5 country obj9 obj5 state===the obj11 of obj4 is obj2 but the obj0
+obj0 country united obj13 s obj0===the obj7 iobj6 in the obj6 in the uobj6
+obj0 country obj7 obj0 state===the obj5 located in obj5 in the obj4 is
+obj0 location obj5 obj0 state===the obj5 is located in the obj8 of gettysburg
+obj3 obj11 obj0 obj0 state===the obj2 of obj4 is located at obj4 in
+obj4 obj11 obj0 obj0 state===obj4 is located in the obj13 of akron obj5
+obj3 almamater obj0 obj3 deathplace===obj4 23rd july 1927 28th february 1966 was
+obj1 almamater obj0 obj1 deathplace===obj4 obj49 born in obj46 in 1927 he graduated
+obj1 almamater obj0 obj1 deathplace===obj4 obj49 born in obj46 on the 23rd of
+obj3 almamater obj0 obj3 deathplace===obj4 was born in obj17 and was american he
+obj3 almamater obj0 obj3 deathplace===obj4 was an american born in obj17 and attended
+obj3 almamater obj0 obj3 deathplace===obj4 was originally from obj17 and graduated from the
+obj3 almamater obj0 obj3 deathplace===obj4 obj19 an american obj5 he attended the obj4
+obj3 almamater obj0 obj3 deathplace===obj1 national obj4 obj19 a student of obj4 before
+obj4 obj8 obj2 obj4 obj24 obj18===obj0 in obj10 an obj5 of obj5 in obj13
+obj2 city obj15 obj2 obj23===the obj0 in obj4 obj02 is affiliated with obj1
+obj2 city obj14 obj2 obj24===the obj0 is in obj4 obj03 in the obj02
+obj2 city obj14 obj2 obj24===the obj0 is in obj4 obj15 obj03 affiliated with
+obj2 city obj14 obj2 obj24===obj0 motto nurturing excellence is located at obj9 obj17
+obj3 almamater obj0 obj3 deathplace===obj4 obj22 born on july 23rd 1927 in obj19
+obj3 almamater obj0 obj3 deathplace===obj4 obj22 born in obj19 on the 23rd july
+obj3 almamater obj0 obj3 deathplace===obj4 obj4 was born on the 23rd of july
+obj3 almamater obj0 obj3 deathplace===obj4 who is from the obj1 was born in
+obj3 almamater obj0 obj3 deathplace===obj4 obj22 born in obj19 and went to the
+obj3 almamater obj0 obj3 deathplace===obj4 obj22 born in obj19 and graduated from the
+obj3 almamater obj0 obj3 deathplace===obj4 a us national obj22 born in obj19 and
+obj0 country united obj19 s obj0===the obj7 completed in 2000 iobj6 a obj9 found
+obj0 country united obj18 s obj6===the obj0 waobj7 obj13 in obj20 and iobj7 categoriobj7ed

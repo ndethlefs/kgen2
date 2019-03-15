@@ -1,0 +1,6 @@
+andrews county airport elevationabovethesealevel in metres obj2===andrews airport's is obj2 above sea level
+fulton county georgia country obj1===fulton county is in georgia in the obj1
+fulton county georgia country united states===fulton county in georgia is part of the us
+abner footballer birthplace obj2===the footballer abner was born in obj2
+abner footballer birthplace obj2===abner a footballer was born in obj2
+abner footballer birthplace obj2===football player abner was born in obj2

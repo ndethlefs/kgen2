@@ -1,0 +1,158 @@
+appleton international airport cityserved obj1===appletone international airport city served obj4
+egg harbor township new jersey country obj1===egg harbor township is located in new jersey in
+egg harbor township new jersey ispartof obj1===egg harbor township is a township in obj4 united states
+egg harbor township new jersey ispartof obj1===the egg harbor townshipnew jersey is a part of obj4
+egg harbor township obj1 ispartof obj1===egg harbor township is a part of obj5
+harrietstown obj1 ispartof obj1===harrietstown is part of obj5
+akita akita country obj2===akita is located in obj4
+albany georgia country obj1===albany is in georgia in the obj4
+albany georgia ispartof obj0===albany is a city in obj4
+albany georgia ispartof obj0===albany is located in obj4
+albany georgia ispartof obj1===albany is in georgia which is a part of
+albany obj2 ispartof obj2===albany is a city in obj1
+albany obj2 ispartof obj2===albany is part of obj1
+albuquerque obj1 ispartof obj1===albuquerque is in obj5
+albuquerque obj1 ispartof obj1===albuquerque is part of obj5
+alpharetta georgia country obj1===alpharetta is in georgia in the obj4
+alpharetta georgia ispartof obj0===alpharetta is part of obj4
+amarillo obj2 ispartof obj2===amarillo is a city in obj1
+amarillo obj2 ispartof obj2===amarillo is part of obj1
+anaheim california country united states===anaheim is in california in the us
+anaheim california elevationabovethesealevel obj2===anaheim in california has an elevation of 480m above
+anaheim obj1 ispartof obj1===anaheim is part of obj5
+anderson indiana ispartof obj0===anderson is part of obj4
+anderson indiana ispartof obj0===anderson is located within obj4
+anderson indiana ispartof obj0===anderson is part of obj4
+anderson obj2 ispartof obj2===anderson is a city in obj1
+anderson obj2 ispartof obj2===anderson is part of obj1
+anderson obj2 ispartof obj2===the city of anderson is part of obj1
+anderson indiana ispartof obj0===anderson is located in obj4
+anderson indiana ispartof obj0===anderson is part of obj4
+anderson indiana ispartof obj0===anderson is part of obj4
+angola obj2 ispartof obj2===angola is a city in obj1
+angola obj2 ispartof obj2===angola is part of the state of obj1
+angola indiana ispartof obj1===angola is part of indiana which is in the obj4
+angola indiana ispartof obj1===angola in indiana is part of the obj4
+arlington texas ispartof obj0===arlington is part of obj4
+arlington obj2 ispartof obj2===arlington is part of obj1
+arlington obj2 ispartof obj2===arlington is part of the state of obj1
+atlantic city new jersey country obj1===atlantic city is in new jersey in the obj4
+atlantic city new jersey ispartof obj0===atlantic city is part of obj4
+atlantic city new jersey obj2 obj1===obj4 is the obj2 of atlantic city new jersey
+atlantic city new jersey leadertitle obj0===a obj4 is the leader of atlantic city nj
+auburn washington ispartof obj0===auburn is part of obj4
+auburn washington ispartof obj0===auburn is in obj4
+auburn washington ispartof obj0===auburn forms part of obj4
+auburn washington ispartof obj0===auburn is part of obj4
+auburn washington ispartof obj0===auburn is part of obj4
+auburn washington leadertitle obj2===obj4 is the title of the leader of auburn
+taylor county texas country obj1===taylor county is in texas in the obj4
+washington state country obj1===washington state is located within the obj4
+washington state country obj1===washington is a state is obj4
+airman comicscharacter alternativename obj2===drake stevens is known as the comic character airman
+airman comicscharacter alternativename obj2===airman's alternative name is obj4
+airman comicscharacter alternativename obj2===the alternative name of airman comics character is drake stevens
+airman comicscharacter obj2 obj1===the obj2 of airman comics character is obj4
+airman comicscharacter obj2 obj1===the obj2 of airman comics character is obj4
+airman comicscharacter creator obj1===obj4 created the comic character airman
+airman comicscharacter creator obj1===the comic character airman was created by obj4
+airman comicscharacter obj2 obj1===the obj2 of airman comics character is obj4
+airman comicscharacter creator obj1===the comic book character airman was created by obj4
+arion comicscharacter alternativename obj2===the comic character arion is also known by he
+arion comicscharacter alternativename obj2===the comic book character arion is also known as obj4
+arion comicscharacter alternativename obj2===the comic character arion is also known as obj4
+arion comicscharacter creator obj1===the comic character arion was created by obj4
+arion comicscharacter creator obj1===the comic book character arion was created by obj4
+arion comicscharacter obj2 obj1===obj4 is the obj2 of the comic character arion
+arion comicscharacter creator obj1===the comic book character arion was created by obj4
+arion comicscharacter creator obj1===the comic character arion was created by obj4
+asterix comicscharacter alternativename obj2===the alternative name of asterix comics character is astérix
+asterix comicscharacter alternativename obj2===the comic character asterix is also known as obj4
+asterix comicscharacter alternativename obj2===the comic character asterix is sometimes called astérix
+asterix comicscharacter obj2 obj1===obj4 is the obj2 of the comic character asterix
+asterix comicscharacter creator obj1===the comic book character asterix was created by obj4
+asterix comicscharacter creator obj1===the comic strip character asterix was created by obj4
+auron comicscharacter obj2 obj1===the obj2 of auron comics character is obj4
+auron comicscharacter creator obj1===the comic book character auron was created by obj4
+auron comicscharacter obj2 obj1===obj4 is the obj2 of the comic character auron
+auron comicscharacter creator obj1===the comic character auron was created by obj4
+auron comicscharacter creator obj1===auron was created by obj4
+auron comicscharacter fullname obj2===the full name of auron comics character is lambien
+auron comicscharacter fullname obj2===the comic character auron's full name is obj4
+auron comicscharacter fullname obj2===the comic character auron's full name is obj4
+balder comicscharacter alternativename obj2===an alternative name for the comic character balder is obj4
+balder comicscharacter alternativename obj2===obj4 is also known by the name balder
+balder comicscharacter alternativename obj2===the comic character balder's alternative name is obj4
+balder comicscharacter creator obj1===obj4 created the comic character balder
+balder comicscharacter creator obj1===the comic character balder was created by obj4
+balder comicscharacter creator obj1===the comic character balder was created by obj4
+ballistic comicscharacter alternativename obj2===the comic character ballistic has the alternative name obj4
+ballistic comicscharacter alternativename obj2===ballistic is a fictional comic superhero who is sometimes
+ballistic comicscharacter creator obj1===the comic character ballistic was created by obj4
+ballistic comicscharacter creator obj1===the comic book character ballistic was created by obj4
+ballistic comicscharacter creator obj1===the comic character ballistic was created by obj4
+ballistic comicscharacter obj2 obj1===obj4 was the obj2 of the comic character ballistic
+ballistic comicscharacter creator obj1===obj4 created the comic character ballistic
+amatriciana sauce region obj2===amatriciana is a sauce from obj4
+addiction journal obj1 obj2===the journal addiction had the obj4 obj4
+addiction journal obj1 obj2===the addiction journal has an obj4 of obj4
+addiction journal obj1 obj2===the obj4 of addiction journeal is obj4
+addiction journal obj1 obj2===the journal addiction has the obj4 obj4
+addiction journal obj1 obj2===the obj4 of addiction journal is obj4
+addiction journal publisher obj0===the addiction journal is published by obj4
+addiction journal publisher obj0===addiction journal is published by obj4
+lengthfeet obj5 ardmore airport new zealand elevationabovethesealevel in metres obj4===ardmore airport in new zealand is elevated obj9 metres
+lengthfeet obj5 ardmore airport new zealand elevationabovethesealevel in metres obj4===the ardmore airport in new zealand is elevated obj9
+egg harbor township obj3 ispartof obj3 obj0 location===obj6 can be found in obj1 in egg harbor township
+egg harbor township obj3 ispartof obj3 obj0 location===obj6 is located in egg harbor township in obj1
+egg harbor township obj3 ispartof obj3 obj0 location===obj6 is located in egg harbor township in obj1
+asterix comicscharacter obj5 obj1 obj1 nationality french people===the obj2 of asterix a comics character is obj4
+balder comicscharacter creator obj2 obj2 nationality americans===the comic character balder was created by obj4 an american
+balder comicscharacter creator obj2 obj2 nationality americans===the american obj4 created the comic character balder
+amatriciana sauce country obj4 obj4 leadername obj1===amatricana sauce can be found in obj5 where obj9
+amatriciana sauce obj1 obj3 obj3 obj5 obj2===obj4 is an obj9 of amatariciana sauce and is
+addiction journal publisher obj2 obj2 parentcompany obj0===addiction journal is published by obj4 whose parent company
+addiction journal publisher obj2 obj2 parentcompany obj0===obj9 is the parent company of obj4 which published
+egg harbor township obj5 ispartof obj5 obj0 location===obj6 is located in egg harbor township which is
+egg harbor township obj5 ispartof obj5 obj0 location===obj6 is located at egg harbor township which is
+egg harbor township obj5 ispartof obj5 obj0 location===obj6 is located in egg harbor township a township
+egg harbor township obj5 ispartof obj5 obj0 location===obj6 is located in egg harbor township which is
+egg harbor township new jersey ispartof new jersey obj0 location===obj5 is in egg harbor township obj4
+asterix comicscharacter creator obj3 obj3 nationality===the comic character asterix also known as astérix was
+asterix comicscharacter creator obj3 obj3 nationality===the comic character asterix also know as obj7 was
+auron comicscharacter creator obj4 obj4 nationality===american obj5 and obj2 created the comic character auron
+auron comicscharacter creator obj4 obj4 nationality===the comic character auron was created by obj2 and
+auron comicscharacter creator obj4 obj4 nationality===the comic book character auron was created by obj2
+balder comicscharacter creator obj5 obj5 nationality===obj3 also known as balder is a
+balder comicscharacter creator obj5 obj5 nationality===the american obj4 created the comic character of balder
+balder comicscharacter creator obj3 obj3 nationality===obj6 and american obj4 created the comic character balder
+balder comicscharacter creator obj3 obj3 nationality===obj6 and the american obj4 created the comic character
+addiction journal publisher obj3 obj3 parentcompany===the addiction journal obj6 obj7 is published by obj4
+addiction journal publisher obj3 obj3 parentcompany===obj0 is the parent company of obj4 who publishes
+appleton international airport location obj4 obj4 ispartof===appletone international airport serves the city of appleton in
+egg harbor township new jersey ispartof new jersey obj0 location===obj5 is in egg harbor township part of atlantic
+egg harbor township obj9 ispartof obj9 obj2 operatingorganisation===obj6 is operated by the obj0 who has its
+egg harbor township new jersey ispartof new jersey obj2 operatingorganisation===obj5 located in egg harbor township nj is operated
+egg harbor township obj7 ispartof obj7 obj0 runwaylength===located in obj1 in the obj5 is egg harbor
+saranac lake obj9 ispartof obj3 obj3 ispartof===lake placid ew york and saranac lake part of
+balder comicscharacter creator obj6 obj6 nationality===balder is a comic character created by obj9 and
+balder comicscharacter creator obj6 obj6 nationality===the comic character of balder is also known as
+balder comicscharacter creator obj6 obj6 nationality===the comic character balder has the alternative name of
+indonesia obj12 obj11 obj14 region===obj4 is the obj2 of obj4 where obj1 and
+indonesia language obj0 obj10 region===obj5 is from the obj1 and is a food
+appleton international airport location obj3 obj3 ispartof===appletone international airport which serves the city of appleton
+egg harbor township new jersey ispartof new jersey obj1 location===obj5 is located obj54 feet above sea level in
+egg harbor township new jersey ispartof new jersey obj0 location===with a runway surface made of asphalt and concrete
+egg harbor township new jersey ispartof new jersey obj0 location===obj5 has a runway surface made of asphalt and
+egg harbor township obj11 ispartof obj11 obj2 operatingorganisation===obj6 is in egg harbor township which is in
+egg harbor township obj11 ispartof obj11 obj2 operatingorganisation===the obj7 is the headquarters of the obj0 which
+egg harbor township obj11 ispartof obj11 obj2 operatingorganisation===obj6 is operated by the port authority of new
+egg harbor township obj10 ispartof obj10 obj2 operatingorganisation===the port authority of obj12 and new jersey's headquartered
+egg harbor township obj9 ispartof obj9 obj0 runwaylength===the egg harbor township in obj1 is located in
+egg harbor township new jersey ispartof new jersey obj0 runwaylength===egg harbor township is a township in obj6 obj7
+egg harbor township new jersey ispartof new jersey obj0 runwaylength===obj5 which has a runway length of obj14 is
+egg harbor township new jersey ispartof new jersey obj0 runwayname===obj14 is the runway name for obj5 located in
+saranac lake obj11 ispartof obj3 obj3 ispartof===saranac lake is found in obj5 obj0 serves saranac
+akita akita ispartof obj2 obj12 ethnicgroup===the obj0 is found in akita obj4 obj5 where
+akita akita ispartof obj2 obj12 leadername===taro aso is the leader of obj5 which has
+akita akita ispartof obj2 obj12 leadername===the vietnamese are an ethnic group in obj5 where

@@ -1,0 +1,46 @@
+obj1 obj2 75 0 million dollars===the obj0 obj2 75 obj5 dollars
+obj1 obj2 75 0 million dollars===obj0 obj2 75 obj5 dollars
+obj2 significantbuilding chinatown san francisco===obj0 is the architect behind chinatown in san francisco
+obj1 leader christopher taylor politician===christopher taylor politician leads obj0
+obj1 leader christopher taylor politician===obj0 is led by the politician christopher taylor
+obj1 obj2 sumatra and malay peninsula===the dish obj0 comes from the obj2 of obj4
+obj1 obj7 given obj6 'technical campus' obj4 by===obj7 obj0 obj2 proud to give obj7 technical campus
+obj1 obj6 120 obj5 australian dollars obj1===obj0 obj2 obj4 obj5 australian dollars and has obj7 floors
+obj1 obj6 120 obj5 australian dollars obj1===obj0 has obj7 floors and obj2 obj4 obj5 australian dollars
+obj0 location buffalo obj3 buffalo obj3===obj0 is in buffalo which is part of obj5
+obj0 location buffalo obj3 buffalo obj3===obj0 is located in buffalo which is a part
+obj2 country republic of ireland republic of ireland leadername obj3===obj9 is the leader of the rebulic of ireland
+obj3 obj5 super obj5 greece super obj5===obj0 is in the obj4league of greece in which
+obj0 obj4 asa obj5 '' obj0===agremiação sportiva arapiraquense's obj2 is obj4 obj5 and has
+obj0 obj4 asa obj5 '' obj0===obj7 has a obj2 of obj4 obj5 and contains
+obj1 obj9 120 obj7 australian dollars obj1===obj0 which has obj00 floors was completed in obj8
+obj1 obj9 120 obj7 australian dollars obj1===obj0 obj2 obj4 obj5 aud has a floor count
+300 north lasalle location chicago chicago ispartof===located in the obj2 is 300 north laselle a
+obj3 obj5 fried obj7 fried obj7===obj5 which is then fried is an obj2 in
+obj3 obj8 super obj8 greece super obj8===obj0 is in the obj4league of greece previous champions
+obj0 obj5 asa obj6 '' obj0===the obj7 is nicknamed obj4 obj5 they have obj8
+obj0 obj5 asa obj6 '' obj0===the obj7 nicknamed obj4 gigante has obj8 members and
+obj1 obj5 admin obj9 q obj1===obj0 is published by obj0 the obj6 is obj8
+obj1 obj6 admin obj9 q obj1===obj0 is published by obj0 it comes under the
+journal of mathematics academicdiscipline mathematics american journal of mathematics firstpublicationyear===the american journal of mathmetics also known as am
+obj1 obj14 120 obj12 australian dollars obj1===obj0 a 39599 square metre obj05 floor building was
+obj1 obj14 120 obj12 australian dollars obj1===obj0 which was completed in obj03 has a floor
+obj3 obj10 super obj10 greece super obj10===aek obj8 fc's obj9 is in obj8 and they
+obj3 obj10 super obj10 greece super obj10===obj5 were past obj7 in the greece obj4league in
+obj3 obj10 super obj10 greece super obj10===obj0 were past obj8 in the greece obj4league and
+obj3 obj10 super obj10 greece super obj10===obj0 have obj11 members their obj9 is the obj0
+obj4 obj11 super obj11 greece super obj11===the olympic stadium at obj9 in athens is the
+obj3 obj16 given obj15 'technical campus' obj12 obj17===obj0 in obj8 obj2 awarded technical campus obj7 obj8
+obj1 abbreviation admin obj12 q obj1===obj0 abbreviated to adminsciq is a sage publication for
+buzz obj24 ldrin obj24 ltern obj24 tiven obj24===obj1 more commonly known as buzz obj20 born on
+buzz obj24 ldrin obj24 ltern obj24 tiven obj24===obj1 more usually known as buzz obj20 born on
+obj6 obj12 benitoite distinguished service medal united states navy obj14===diane feinstein represents the state of obj0 where one
+obj6 location haputale sri lanka obj6===the obj12 of obj0 is obj0 construction of the
+obj2 obj23 given obj22 'technical campus' obj14 obj26===obj02 obj15 of obj6 obj19 obj8 obj04 obj02 obj9
+obj2 obj23 given obj22 'technical campus' obj14 obj26===obj02 obj0 is in obj02 obj15 of obj6 it
+obj1 obj11 cornell university cornell university affiliation===cornell unversity is in obj8 and obj7 is the
+obj3 was given obj23 'technical campus' obj16 by===obj4 obj0 which is in obj12 in obj4 obj17
+obj2 was given obj23 'technical campus' obj18 obj26===obj03 obj0 in obj17 granted technical campus obj7 obj05
+obj4 obj33 ltern obj33 tiven obj33 mes===obj0 aka edwin obj32 obj20 jr obj27 born on
+obj4 obj33 ltern obj33 tiven obj33 mes===obj0 also called obj1 obj27 born on january 20
+obj3 obj25 given obj24 'technical campus' obj21 obj26===obj4 obj0 in obj20 granted technical campus obj7 to

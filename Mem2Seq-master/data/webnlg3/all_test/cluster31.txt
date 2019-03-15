@@ -1,0 +1,53 @@
+al taqaddum air base cityserved obj2===the al taqaddum air base serves the city of obj2
+obj1 deathdate 1966 02 28===obj1 died on 28 february 1966
+obj1 deathdate 1966 02 28===obj1 died on the 28th of february 1966
+obj1 deathdate 1966 02 28===obj1 died on february 28 1966
+obj1 deathdate 1966 02 28===obj1 lived until the 28th of february 1966
+obj1 deathdate 1966 02 28===obj1 died on february 281966
+los reyes leaderparty people's party obj8 adolfo suárez madrid–barajas airport===the people's party is the lead party of san
+obj4 postalcode b postcode area obj1 obj11===led by obj0 obj4 has postcode area 'b' and
+obj4 postalcode b postcode area obj1 obj11===obj4 has the b postcode is led by the
+obj4 postalcode b postcode area obj1 obj11===obj1 was designed by the obj11 obj7 who was
+obj5 postalcode b postcode area obj2 obj14===obj10 the obj14 who designed obj2 was born in
+obj5 postalcode b postcode area obj2 obj14===obj2 was designed by the obj14 obj10 who was
+obj5 postalcode b postcode area obj2 obj14===the city council led by labour politician john clancy
+obj1 office workedat workedas obj0===obj1 worked as obj0
+obj1 office workedat workedas obj0===obj1 was the obj0
+obj1 office workedat workedas obj0===obj1 worked as the obj0
+obj1 office workedat workedas obj0===obj1 was obj0
+obj1 office workedat workedas obj0===obj1 was the obj0
+obj1 office workedat workedas obj0===obj1 was obj0
+obj1 christeningdate 2005 04 07===the obj1 was christened on the 7th of april 2005
+obj1 christeningdate 2005 04 07===the obj1 was christened on the 7th april 2005
+obj1 christeningdate 2005 04 07===the obj1 was christened on 7th april 2005
+andrew white musician recordlabel obj1===andrew white is a musician signed to the record
+andrew white musician recordlabel obj1===the musician andrew white is signed to the record
+obj2 escapevelocity obj3 kilometreperseconds===obj2 has an escape velocity of obj3 kilometres per second
+obj2 escapevelocity obj3 kilometreperseconds===the escape velocity of obj2 is obj3 km sec
+obj1 office workedat workedas obj0 obj1===obj1 worked as obj10 obj0 and was succeded by obj3
+obj1 office workedat workedas obj0 obj1===obj1 worked as a obj0 and was succeeded by obj3
+obj1 office workedat workedas obj0 obj1===obj3 was obj10 obj5 to obj1 who worked as
+obj2 office workedat workedas obj1 obj2===obj2 obj1 was succeeded by james w reid
+obj2 office workedat workedas obj1 obj2===obj2 was obj1 and was succeeded by the politician
+obj2 office workedat workedas obj1 obj2===obj2 was obj1 and was succeeded by james w reid
+obj1 office workedat workedas obj0 obj1===obj1 worked as a obj0 he was succeed by obj3
+obj1 escapevelocity obj7 kilometreperseconds obj1 obj6===obj1 has an escape velocity of obj7 km s and
+obj1 escapevelocity obj7 kilometreperseconds obj1 obj6===obj1 has an obj6 of obj5 km and an
+obj1 escapevelocity obj7 kilometreperseconds obj1 obj6===obj1 has an escape velocity of obj7 kilometres per
+obj3 office workedat workedas obj0 obj3===obj3 was born in obj2 and was a obj0
+obj3 office workedat workedas obj0 obj3===obj3 was born in obj2 she was a obj0
+obj3 office workedat workedas obj0 obj3===obj3 born in obj2 graduated from obj1 and worked
+obj3 office workedat workedas obj0 obj3===obj3 served in obj17 democratic obj12 in obj17 us
+obj1 escapevelocity obj9 kilometreperseconds obj1 obj10===obj1 has an escape velocity of obj9 km per
+obj7 escapevelocity obj10 kilometreperseconds obj7 obj4===the celestial body known as obj7 has an escape
+obj7 escapevelocity obj10 kilometreperseconds obj7 obj4===the celestial body known as obj7 has a obj4
+obj7 escapevelocity obj10 kilometreperseconds obj7 obj4===103 hera has an escape velocity of obj10 kilometres
+obj3 office workedat workedas obj1 obj3===obj0 member and obj1 obj3 was born in galicia obj13
+obj2 office workedat workedas obj0 obj2===obj7 was obj16 obj11 to obj2 who was born
+obj2 office workedat workedas obj0 obj2===obj2 was born in mendoza in agentina and he
+obj2 office workedat workedas obj0 obj2===obj0 and obj6 obj2 was born in obj1 he
+obj3 office workedat workedas obj1 obj3===obj3 is from the obj13 of obj9 which has
+obj2 office workedat workedas obj0 obj2===democrat obj2 was born in obj10 obj21 died in
+obj2 office workedat workedas obj0 obj2===obj2 was born in mendoza in agentina on obj9
+obj2 office workedat workedas obj0 obj2===born on obj9 born in obj1 obj2 was a
+obj2 office workedat workedas obj0 obj2===obj2 was born in obj1 on 20 may 1891

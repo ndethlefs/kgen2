@@ -1,0 +1,21 @@
+obj0 country italy obj0 ingredient obj4===obj0 is made with tomatoes it is a traditional
+in metres 610 0 adolfo suárez madrid–barajas airport location obj0===adolfo suarez madrid barajas airport at obj0 is 610 metres
+in metres 610 0 adolfo suárez madrid–barajas airport location obj0===adolfo suarez madrid barajas airport is located at obj0 and
+airport runwaylength 3500 0 adolfo suárez madrid–barajas airport location obj0===adolfo suarez madrid barajas airport is located at obj0 and
+obj2 ethnicgroup african americans obj0 country obj2===obj0 is from the obj2 where one of the
+obj4 ethnicgroup african americans obj1 language===obj1 is published in english and originates from the
+obj6 location frederick county obj12 obj0 obj10===the obj0 is located on the obj6 frederick obj12
+obj1 birthyear 1989 obj1 club===obj1 who played for obj0 was born on obj5
+obj1 birthyear 1989 obj1 obj10===obj1 whose obj10 is obj0 was born in obj9
+obj2 obj13 democratic obj13 united states obj2===obj2 born in obj7 was a member of the
+obj2 obj13 democratic obj13 united states obj2===obj2 was born in obj7 and he was a
+obj3 obj13 democratic obj13 united states obj3===obj2 is the obj9 of obj3 who was obj1
+obj3 obj13 democratic obj13 united states obj3===obj2 is the obj9 of obj3 and he was
+obj3 obj13 democratic obj13 united states obj3===united states democratic obj13 member and stamford connecticut mayor
+obj2 obj13 democratic obj13 united states obj2===obj2 was born in obj3 and served in the
+obj2 obj13 democratic obj13 united states obj2===us democratic obj13 member and texas governor obj2 was
+obj2 obj13 democratic obj13 united states obj2===united states democratic obj13 member and obj1 obj2 was
+obj3 obj13 democratic obj13 united states obj3===obj3 was born in obj4 and is a member
+obj3 obj13 democratic obj13 united states obj3===obj3 was born in obj4 and served in the
+obj3 obj13 democratic obj13 united states obj3===obj3 was born in obj4 and was a governor
+obj5 obj11 labour obj11 obj8===obj2 is a national of obj8 where spanish is

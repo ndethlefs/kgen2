@@ -1,0 +1,74 @@
+obj0 obj3 obj5 obj0 category obj2===the obj0 is categorized as a obj2 and was
+obj0 obj3 obj5 obj0 category obj2===the obj0 was obj3 in the year obj5 and
+obj0 floorcount obj5 obj0 address obj2===obj0 is located at obj2 and has obj5 floors
+obj0 floorcount obj5 obj0 address obj2===the obj0 found at obj2 has obj5 floors
+obj1 location obj5 obj1 address obj0===obj1 is at obj0 in obj5
+obj0 location obj4 obj0 year obj14===obj13 obj0 was built in obj12 and are in
+obj0 location obj4 obj0 year obj14===obj13 obj0 in obj4 were built in obj12 and
+obj0 location obj4 obj0 year obj14===obj0 located in obj4 were constructed in obj12 and
+obj6 language english language arlington obj6 ispartof===arlington is part of obj6 where obj5 is the
+obj6 language english language arlington obj6 ispartof===in texas obj5 is the largest city arlington is
+obj2 ethnicgroup obj1 akron ohio country===the obj2 which includes the ethnic group of obj1
+obj2 ethnicgroup obj1 akron ohio country===akron is a part of obj0 in the obj2
+obj7 operatingorganisation obj2 obj2 aircraftfighter===obj7 is operated by the obj2 which carried out
+obj0 location obj6 obj6 capital===obj0 is located in obj6 austin and the obj3
+obj6 ispartof obj1 obj6 leaderparty===the leader party in obj6 which is part of
+obj6 ispartof obj1 obj6 leaderparty===obj0 is located in obj6 which is part of
+obj3 country obj6 obj3 ma obj13===fish obj9 obj13 obj11 obj12 obj10 sauce is called
+obj3 country obj6 obj3 ma obj13===the main ingredient of obj3 which hails from obj6
+obj3 obj8 obj4 obj4 capital===the capitol city of obj4 is obj1 the obj8
+obj8 language english language arlington obj8 ispartof===obj6 is the largest city in obj8 in the
+obj8 language english language arlington obj8 ispartof===obj8 where english is spoken is part of the
+obj4 language english language angola obj11 ispartof===angolaindiana us is home to one of its ethnic
+obj5 language english language angola indiana ispartof===angola is in pleasant township which is part of
+obj5 obj10 english obj10 angola indiana ispartof===english is the obj10 of the obj5 where there
+obj7 ingredient obj2 obj2 division===the obj7 recipe calls for sweet potatoes and obj11
+obj7 obj5 obj2 obj2 division===obj11 and obj2 are ingredients in obj7 obj2 belongs
+obj5 language english language angola indiana ispartof===obj10 live in the obj5 where english is spoken
+obj10 obj8 obj5 obj1 w obj18===obj1 obj18 us national although born in british hong
+obj3 obj12 obj9 obj1 w obj18===obj0 is senator obj17 obj3 the state in which
+obj3 obj12 obj9 obj1 w obj18===obj1 obj15 obj13 obj17 the obj14 obj7 mission died
+obj1 genre obj4 obj1 recordlabel obj0===obj1 is a obj4 musician signed to obj0
+obj1 obj5 obj4 obj1 recordlabel obj0===alison o'donnell's musical obj5 is obj4 and her recording
+obj1 genre obj4 obj1 recordlabel obj0===obj1 a obj4 artist signed to the record label obj0
+obj0 obj5 obj1 obj0 background obj3===obj0 is a obj3 whose obj5 is obj1
+obj2 genre obj1 obj2 recordlabel obj0===obj1 artist obj2 is signed with obj0
+obj2 obj5 obj1 obj2 recordlabel obj0===obj2 obj5 is obj1 and his record label is obj0
+obj2 obj5 obj1 obj2 recordlabel obj0===anders osborne's obj5 is obj1 and he is signed
+obj2 genre obj1 obj2 recordlabel obj0===obj1 artist obj2 performs under the obj0 label
+obj2 genre obj1 obj2 recordlabel obj0===obj2 performs obj1 music and is signed to obj0
+obj2 genre obj1 obj2 recordlabel obj0===obj2 performs obj1 music and his record label is obj0
+obj1 obj6 obj4 obj1 escapevelocity===obj1 with the obj6 date obj4 has an escape
+obj3 obj5 obj2 obj3 formername===obj3 was formally known as a919 ha 1927 wb
+obj4 obj9 obj3 obj4 formername===formerly named a894 obj11 a 904 vd obj4 has
+obj1 obj8 obj3 obj1 origin===obj1 was born in indianaunited states and his musical
+obj1 obj8 obj3 obj1 origin===from obj5 united states aaron deer's musical obj8 is obj3
+obj1 genre obj3 obj1 origin===american obj1 is an obj3 musician from obj5
+obj3 obj7 obj2 obj3 youth obj7===obj3 represented the obj7 obj1 at youth level and
+obj2 birthplace obj0 obj2 height===obj2 was born in obj0 and is obj6 m
+obj2 birthplace obj0 obj2 height===obj2 was born in obj0 and is obj6 m
+obj3 obj7 obj5 obj1 youth obj8===aleksandr prudnikov's obj8 is obj0 and he played youth
+obj3 ground obj5 obj1 youth obj8===obj1 plays for obj0 his youth football obj8 was
+obj7 obj10 obj0 obj3 youth obj11===obj3 was a member of youth obj11 obj7 that
+obj1 obj14 obj9 obj1 orbitalperiod===obj1 has an obj14 date of obj9 and an
+obj4 obj12 obj8 obj4 orbitalperiod===the dark asteroid called obj4 has an orbital period
+obj4 obj12 obj8 obj4 orbitalperiod===the obj12 of obj4 is obj8 it has an
+obj6 obj12 obj4 obj6 formername===obj6 previously called a894 obj14 obj13 vd has an
+obj6 obj12 obj4 obj6 formername===the obj12 of obj6 formerly known as a894 obj14
+obj4 genre obj2 obj4 origin===obj2 performer obj4 was born in obj1 he is
+obj4 genre obj2 obj4 origin===obj4 from obj1 us plays obj2 music his obj8
+obj1 genre obj11 obj1 recordlabel===obj9 obj11 musician obj1 records with the obj0 label
+obj1 genre obj11 obj1 recordlabel===obj1 is a obj11 musician whose record label is
+obj1 genre obj11 obj1 recordlabel===obj1 was once signed to obj9 based obj4 a
+obj1 genre obj11 obj1 recordlabel===obj1 who performs obj11 once was signed to obj4
+obj1 genre obj11 obj1 recordlabel===previously signed to the record label obj0 obj11 musician
+obj1 genre obj11 obj1 recordlabel===obj1 who performs obj11 music was once signed to
+obj1 battles obj0 obj1 award===obj0 soldier and obj6 recipient obj1 was born in
+obj6 ground obj11 obj0 youth obj13===aleksandr prudnikov's obj13 is obj4 although he previously played
+obj4 obj12 obj11 obj4 orbitalperiod===obj11 was the obj12 of obj4 that has an
+obj8 obj17 obj7 obj8 escapevelocity===the obj17 of 1089 tama whose former name was
+obj3 genre obj8 obj3 origin===american obj3 is an obj8 musician from obj11 he
+obj3 obj14 obj8 obj3 origin===obj3 comes from obj11 having been born in the
+obj3 genre obj8 obj3 origin===obj3 is an obj8 soloist formerly a member of
+obj6 occupation obj11 obj6 origin===obj6 who is from obj0 canada was born in
+obj6 occupation obj11 obj6 origin===obj6 is from obj3 obj0 obj13 and he is

@@ -1,0 +1,26 @@
+andrews county airport runwayname obj2===andrews country airport's runway name is obj4
+asherton texas country obj1===asherton is situated in texasunited states
+asherton texas obj2 obj1===asherton texas is in the obj2 of the obj4
+asherton texas ispartof obj0===asherton is part of obj4
+alexandria obj2 ispartof obj2===alexandria is part of obj1
+alexandria obj2 ispartof obj2===alexandria is located in obj1
+alexandria obj2 ispartof obj2===alexandria is part of the state of obj1
+antioch obj1 ispartof obj1===antioch is part of obj5
+antioch obj1 ispartof obj1===the city of antioch is located within obj5
+attica obj2 ispartof obj2===attica is part of obj1
+attica obj2 ispartof obj2===attica is part of the state of obj1
+potter county texas country obj1===potter county is in texas in the obj4
+turkey obj0 obj1===obj4 is the turkish obj2
+turkey obj1 obj0===the turkish obj2 is the obj4
+turkey obj1 ahmet davutoğlu===ahmet davutoglu is the turkish obj2
+turkey leadername ahmet davutoğlu===the turkish leader's name is ahmet davutoglu
+turkey leadertitle obj0===obj4 is the official title of the turkish leader
+asherton texas ispartof obj1 obj0 location asherton texas===obj5 is located in asherton a part of obj4
+asherton texas ispartof obj1 obj0 location asherton texas===obj5 is located in asherton obj4
+andrews county airport location obj6 obj6 obj4===in obj7 people are called texans and the obj7
+andrews county airport location obj6 obj6 obj3===the main airport in obj4 usa is andrews county
+philippines language obj0 obj8 country===the obj1 are part of one of the ethnic
+andrews county airport location obj8 obj8 language===austin the obj7 of obj4 is found in the
+philippines obj8 obj11 obj10 obj9===the igorot and obj0 are both ethnic groups in
+aarhus airport location obj6 obj6 country===aarhus airoprt is located in obj4 central obj11 obj12
+aarhus airport obj10 obj7 obj7 obj14===the obj2 of aarhus airort is obj4 which is

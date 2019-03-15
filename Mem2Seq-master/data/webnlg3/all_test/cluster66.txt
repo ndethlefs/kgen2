@@ -1,0 +1,59 @@
+obj0 cityserved abilene texas===obj0 serves the city of abilene in texas
+adolfo suárez madrid–barajas airport location obj0===adolfo suarez madrid barajas airport is located at obj0
+obj2 journal academicdiscipline obj2===obj2 journal is about obj2
+obj1 language spanish language===spanish is spoken in obj1
+obj2 obj1 spanish obj1===one of the languages of obj2 is spanish
+obj2 ethnicgroup native americans in the obj2 obj1 ispartof===the native americans are an ethnic group within the
+obj2 ethnicgroup native americans in the obj2 obj1 ispartof===the obj2 is the location of obj1 and includes
+obj2 ethnicgroup native americans in the obj2 obj1 ispartof===native americans are one of the ethnic groups in
+obj2 ethnicgroup native americans in the obj2 obj1 obj5===obj1 is located in the obj2 a obj5 where
+obj2 ethnicgroup native americans in the obj2 obj1 country===the native americans are an ethnic group in the
+obj2 ethnicgroup native americans in the obj2 obj1 obj5===the obj2 is the location of obj1 and the
+obj0 mediatype e book obj0 author obj2===obj0 was written by obj2 and can be found
+obj7 journal academicdiscipline obj7 obj7 journal===obj7 journal or obj7 is about obj7 and has
+obj7 journal academicdiscipline obj7 obj7 journal===the journal obj7 has the obj5 obj6 it is
+english language spokenin obj5 obj3 language===obj0 is from the obj3 where they speak english
+adolfo suárez madrid–barajas airport location obj1 obj1 country===adolfo suarez madrid barajas airport is in obj1 which is
+adolfo suárez madrid–barajas airport location obj1 obj1 country===adolfo suarez madrid barajas airport is located at obj1 which
+obj4 ethnicgroup native americans in the obj4 obj4 obj11===obj7 led the obj4 while the mayor is the
+obj1 cityserved abilene texas obj1 runwaylength===serving the city of abilene in texas the obj1
+obj1 cityserved abilene texas obj1 runwaylength===obj1 serves abilenetexas an f elevated obj11 metres above
+obj9 airport schiphol cityserved obj9 obj9 airport schiphol===the city of obj9 is served by obj9 schiphol
+obj0 cityserved atlantic city new jersey obj0 location===obj7 leads new jersey united states where the township
+obj0 cityserved atlantic city new jersey obj0 location===the obj0 is located in egg harbor township in
+obj0 cityserved atlantic city new jersey obj0 location===atlantic city in new jersey is led by obj7
+obj1 mediatype e book obj1 numberofpages===obj1 was written by obj0 and has obj14 pages
+english language spokenin obj7 obj4 ethnicgroup===asian americans is one of the ethnic group in the
+english language spokenin obj7 obj4 ethnicgroup===english is spoken in obj7 and the obj4 the
+english obj12 spokenin obj8 obj0 publisher===obj0 is published by obj10 in the obj5 a
+english obj12 spokenin obj8 obj0 publisher===english is the obj12 spoken in both obj8 and
+english obj12 spokenin obj8 obj0 publisher===obj0 is published by obj10 in the obj5 where
+english obj12 spokenin obj8 obj1 publisher===english is spoken in obj8 but is also the
+english obj12 spokenin obj8 obj1 publisher===obj1 is published by obj10 in the obj5 the
+english obj12 spokenin obj7 obj0 publisher===obj0 is published by obj9 located in the obj4
+english language spokenin obj7 obj0 publisher===obj0 was published by obj9 which is located in
+united states demonym obj10 united states obj13===albany is part of obj1 in the us where
+united states demonym obj9 united states ethnicgroup===in the us the obj12 is obj0 the citizens
+obj6 ethnicgroup native americans in the obj6 auburn obj12===auburn is part of lee county in obj12 in
+obj7 ethnicgroup native americans in the obj7 obj5 ispartof===the native americans are an ethnic group within the
+obj7 ethnicgroup native americans in the obj7 auburn obj13===lee county is in obj13 in the obj7 where
+obj4 ethnicgroup native americans in the obj4 obj8 largestcity===newark trenton and atlantic city are all part of
+obj4 ethnicgroup native americans in the obj4 obj8 largestcity===obj8 is in the obj4 where the native americans
+states ethnicgroup native americans in the united states obj8 largestcity===atlantic city is in obj8 whose largest city is
+obj4 leadertitle president of the obj4 obj4 demonym===the leader of the obj4 which includes the ethnic
+obj4 leadertitle president of the obj4 obj4 demonym===obj11 live in the obj4 where the leader if
+obj8 obj12 title obj1 obj8 obj12===ahmet davutoglu is the obj1 the leader while the
+obj8 obj12 title obj1 obj8 obj12===obj1 is the official title of the turkish obj12
+obj8 obj12 title obj1 obj8 obj12===the ataturk monument izmir is located in obj8 whose
+obj12 obj9 spanish obj9 obj5 obj11===spain's major ethnic group is the obj4 and the
+obj12 obj9 spanish obj9 obj5 region===the dish obj5 originates from obj12 and more specifically
+obj12 language spanish language obj5 obj11===obj4 the ethnic group of obj12 speak spanish obj5
+obj0 cityserved atlantic city obj10 obj2 ispartof===obj0 serves atlantic city in obj10 which is led
+obj0 cityserved atlantic city obj10 obj2 ispartof===atlantic city in obj10 is led by obj8 and
+obj4 has obj26 its obj17 obj3 obj4===obj4 is located obj26 the south of obj2 obj26
+obj1 obj21 obj23 obj20 obj16 obj22 obj9===obj1 obj13 obj21 obj23 obj16 obj22 nasa's obj9 after
+obj14 obj18 title obj4 obj14 obj18===the ataturk monument is a obj15 monument designed by
+obj14 obj18 title president of obj14 obj14===the ataturk monument izmir was designed by obj7 made
+obj1 ethnicgroup native americans in the obj1===native americans are on of the ethnic groups in
+obj1 ethnicgroup native americans in the obj1===the obj1 has an ethnic group called native americans
+united states demonym obj8 united states obj10===obj8 live in the us whose obj10 is obj1

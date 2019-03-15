@@ -1,0 +1,762 @@
+obj0 runwayname obj2===obj0 runway name is obj4
+obj0 runwayname obj2===obj4 is the runway name of the obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===the runway name at obj0 is 10r 28l
+obj0 runwayname obj2===obj4 is the runway name at obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj0 runway name is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===obj0 has the runway name obj4
+obj0 runwayname obj2===obj4 is the runway name at obj0
+obj0 runwayname obj2===the name of the runway at obj0 is obj4
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj0 has the runway name obj4
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name at obj0
+obj0 runwayname obj2===the afonso pena international airport's runway name is 15 33
+obj0 runwayname obj2===''08 26'' is the runway name at obj0
+obj0 runwayname obj2===obj4 is the runway name of the obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name at obj0
+obj0 runwayname obj2===the name of the runway at obj0 is obj4
+obj0 runwayname obj2===obj0 has the runway name obj4
+obj0 runwayname obj2===obj0 runway name is obj4
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===the runway at obj0 is named obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===the runway name at obj0 is obj4
+obj0 runwayname obj2===the allama iqbal international airport's runway name is 18l 36r
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the name of the runway of obj0
+obj0 runwayname obj2===the runway at obj0 is called 05l 23r
+obj0 runwayname obj2===obj4 is the runway name at obj0
+obj0 runwayname obj2===the runway at obj0 is named obj4
+obj0 runwayname obj1===south runway is a runway name at obj0
+obj0 runwayname obj1===the runway at obj0 is named obj4
+obj0 runwayname obj1===the name of obj0 runway is south runway
+obj0 owner obj1===obj0 is owned by obj4
+obj0 owner obj1===obj0 is owned by the obj4
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===the runway name at obj0 is obj4
+obj0 runwayname obj2===ardmore airport new zealand 's runway name is 03r 21l
+obj0 runwayname obj2===obj0 runway name is obj4
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===the runway name of obj0 is obj4
+obj0 runwayname obj2===obj4 is the runway name of the obj0
+obj0 runwayname obj2===obj0 has the runway name obj4
+obj0 runwayname obj2===obj0 has a runway named obj4
+obj0 runwayname obj2===obj0 runway name is obj4
+obj0 runwayname obj2===obj4 is the runway name of obj0
+obj0 runwayname obj2===obj0 has the runway name obj4
+obj2 demonym obj1===the people of obj0 are called obj4
+obj2 demonym obj1===the people of obj0 are known as texans
+obj2 demonym obj1===the people of obj0 are called texans
+obj0 status obj1===obj0 is obj4
+obj0 status obj1===obj0 has obj4
+obj0 status obj1===obj0 is now obj4
+obj0 birthdate obj1===obj0 was born on obj4
+obj0 status obj1===obj0 is obj4
+obj0 birthdate obj1===obj0 was born on obj4
+obj0 status obj1===obj0 is obj4
+obj0 status obj1===obj0 is now obj4
+obj0 status obj1===obj0 has obj4
+obj0 birthdate obj1===obj0 was born obj4
+obj0 status obj1===obj0 is obj4
+obj0 status obj1===obj0 is now obj4
+obj0 status obj1===obj0 has obj4
+obj0 completiondate obj2===obj0 was completed in obj4
+obj0 completiondate obj2===the building of obj0 was completed in obj4
+obj0 floorcount obj2===there are obj4 floors at obj0
+obj0 floorcount obj2===obj0 has obj4 floors
+obj0 completiondate obj2===obj0 was completed in obj4
+obj0 floorcount obj2===obj0 has a floor count of obj4
+obj0 floorcount obj2===there are obj4 floors at obj0
+obj0 floorcount obj2===obj0 has obj4 floors
+obj1 owner obj0===obj4 is owned by obj4
+obj0 floorcount obj2===there are obj4 floors at obj0
+obj0 floorcount obj2===obj0 has a floor count of obj4
+obj0 completiondate obj2===obj0 was completed in obj4
+obj0 floorcount obj2===there are obj4 floors at obj0
+obj0 floorcount obj2===obj0 has a floor count of obj4
+obj0 floorcount obj2===obj0 has obj4 floors
+obj0 floorcount obj2===there are a total of obj4 floors in obj0
+obj0 floorcount obj2===obj0 has a floor count of obj4
+obj0 completiondate obj2===obj0 was completed in obj4
+obj0 completiondate obj2===the building at obj0 was completed in obj4
+obj0 completiondate obj2===the construction of obj0 was completed in obj4
+obj0 completiondate obj2===obj0 was completed in obj4
+obj0 floorcount obj2===there are obj4 floors in obj0
+obj2 completiondate obj1===the completion date of obj0 is obj4
+obj2 completiondate obj1===the obj0 was completed in obj4
+obj1 owner obj0===obj4 is owned by obj4
+obj0 floorcount obj2===the obj0 has obj4 floors
+obj0 floorcount obj2===there are obj4 floors in the obj0
+obj0 owner obj1===obj0 is owned by obj4
+obj1 completiondate obj2===the construction of obj0 was completed in obj4
+obj1 completiondate obj2===obj0 was completed in obj4
+obj1 completiondate obj2===the completion date of obj0 is obj4
+obj0 completiondate obj2===addis ababa city hall's completion date was in obj4
+obj0 completiondate obj2===obj0 was completed in obj4
+obj1 completiondate obj2===obj0 was completed in obj4
+obj1 completiondate obj2===the construction of obj0 was completed in obj4
+obj1 completiondate obj2===obj0 was finished in obj4
+obj0 floorcount obj2===the obj0 has obj4 floors
+obj0 floorcount obj2===the obj0 obj4 floors
+obj0 completiondate obj2===obj0 was completed on 1 june 2009
+obj0 completiondate obj2===obj0 was completed in obj4
+obj0 demonym obj1===obj4 are the inhabitants of the obj0
+obj0 demonym obj1===obj4 inhabit the obj0
+obj0 demonym obj0===people from obj4 can say they are from obj4
+obj0 demonym obj1===the inhabitants of the obj0 are known as obj4
+obj1 alternativename obj1===obj0 is also known as ''aurakles''
+obj1 alternativename obj1===an alternative name for obj0 is obj0
+obj1 alternativename obj1===obj0 alternative name is also obj0
+obj1 starring obj0===obj4 stars in obj4
+obj1 starring obj0===obj4 stars obj4
+obj1 starring obj0===obj4 stared in obj4
+obj1 starring obj0===obj4 starred in obj4
+obj1 starring obj0===obj4 starred in obj4
+obj1 mainingredients obj0===obj4 are the main ingredients of obj4
+arem arem obj2 obj0===arem arem originates from the obj2 of obj4
+obj1 course obj0===obj4 can be served as a obj4
+arem arem dishvariation obj2===obj4 is a variation of arem arem
+arem arem obj1 obj0===obj4 is an obj2 in arem arem
+obj2 mainingredients obj0===the main ingredients of obj4 are obj4
+obj2 mainingredients obj0===the main ingredients of obj4 are obj4
+obj2 alternativename obj1===the alternative name for obj0 is obj4
+obj2 alternativename obj1===obj4 is also known as obj0
+obj2 alternativename obj1===an alternative name for obj0 is obj4
+obj2 mainingredients obj0===the main ingredients of obj4 are obj4
+obj0 course obj1===obj0 is a obj4
+obj1 mainingredients obj2===the main ingredient in a obj0 is obj4
+obj1 mainingredients obj2===obj4 is a main ingredient of obj0
+obj1 mainingredients obj2===obj4 is a main ingredient in obj0
+obj2 mainingredients obj0===obj4 are the main ingredients of obj4
+obj2 mainingredients obj0===obj4 are main ingredients in obj4
+obj0 course obj1===obj0 is a obj4
+obj0 course obj1===obj0 is classed as a obj4
+obj1 mainingredients obj0===the main ingredients of obj4 are obj4
+obj2 mainingredients obj0===obj4 are the main ingredients of obj4
+obj2 mainingredients obj0===the main ingredients in obj4 are obj4
+obj2 mainingredients obj0===the main ingredients of obj4 are red beans pork
+obj2 mainingredients obj0===the main ingredients of obj4 are obj4
+obj0 course obj2===obj0 is a type of obj4
+obj2 mainingredients obj0===the main ingredients of obj4 are obj4
+obj2 mainingredients obj0===obj4 are the main ingredients of obj4
+obj2 mainingredients obj0===the main ingredients for obj4 are obj4
+obj2 mainingredients obj0===obj4 are main ingredients in obj4
+obj0 course obj1===obj0 is a type of obj4
+obj0 course obj1===obj0 is a obj4
+obj1 mainingredients obj2===one of the main ingredients in obj0 is obj4
+obj1 mainingredients obj2===the main ingredient of obj0 is obj4
+obj2 mainingredients obj1===one of the main ingredients of obj0 is obj4
+obj1 mainingredients obj2===one of the main ingredients in obj0 is obj4
+obj1 mainingredients obj2===obj4 is the main ingredient in obj0
+obj1 mainingredients obj2===obj4 is the main ingredient of obj0
+obj2 mainingredients obj1===the main ingredients of obj0 are sweet potatotes
+obj2 mainingredients obj1===one of the main ingredients of obj0 is the obj4
+obj1 mainingredients obj2===obj4 is a main ingredient of obj0
+obj1 mainingredients obj2===one of the main ingredients of obj0 is obj4
+obj1 mainingredients obj2===obj4 is a main ingredient in obj0
+obj1 course obj0===obj4 is a dish served for obj4
+obj1 course obj0===obj4 is a obj4
+obj1 mainingredients obj2===a main ingredient of obj0 is obj4
+obj1 mainingredients obj2===the main ingredient of obj0 is obj4
+obj2 demonym obj0===obj4 are from obj4
+obj2 demonym obj0===obj4 are from obj4
+obj2 demonym obj0===obj4 is the name for the people of obj4
+obj0 owner obj1===the obj0 is owned by the obj4
+obj0 owner obj1===the obj4 looks after the obj0
+obj0 owner obj1===obj0 is owned by the obj4
+a c obj1 obj2 obj1===a gt c obj5 obj3 is in obj5
+obj1 fullname obj0===the full name of obj4 is associazione calcio chievoverona srl
+obj0 ground obj1===obj4 is the home to obj0
+obj0 ground obj1===obj0 play in obj4
+obj0 league obj1===obj0 play in obj4
+obj1 fullname obj0===the associazione calcio lumezzane spa is the full name
+obj1 fullname obj0===obj4 is abbreviated to obj4
+obj0 ground obj2===obj0 play in obj4
+obj0 league obj1===obj0 play in the obj4
+obj0 league obj1===obj0 play in obj4
+obj0 league obj1===obj0 play in the obj4
+obj1 ground obj0===obj4 are at obj4
+obj0 league obj1===obj0 play in the obj4
+obj1 league obj0===obj4 play in the obj4
+obj1 league obj0===obj4 play in the obj4
+obj1 league obj0===obj4 is part of the obj4
+obj1 fullname obj0===the full name of the obj4 is association football
+obj1 fullname obj0===obj4 has the full name association football club fylde
+obj1 ground obj0===obj4 are based at obj4
+obj1 ground obj0===obj4 are based at obj4
+obj1 league obj0===obj4 play in obj4
+obj1 fullname obj0===the full name of obj4 is associazione sportiva gubbio
+obj1 fullname obj0===the full name of obj4 is obj4
+obj0 league obj1===the obj0 football club play in obj4
+obj0 league obj1===obj0 play in obj4
+obj1 fullname obj0===obj4 has the full name of livorno calcio spa
+obj1 fullname obj0===obj4 is abbreviated to obj4
+obj0 ground obj1===obj0 is based in obj4
+obj0 league obj1===obj0 play in obj4
+obj1 fullname obj0===the associazione sportiva roma spa is the non abbreviated name
+obj0 league obj1===obj0 play in obj4
+obj1 fullname obj0===the full name of acf fiorentia is acf fiorentina spa
+obj1 fullname obj0===the full name of obj4 is obj4
+obj0 league obj1===obj0 play in obj4
+obj1 league obj0===obj4 compete in the obj4
+obj1 league obj0===obj4 play in the obj4
+obj2 fullname obj0===the full name of obj4 is amsterdamsche football club ajax
+obj2 fullname obj0===the full name of obj4 is obj4
+obj1 owner obj0===obj4 owns obj4
+obj1 fullname obj0===the full name of obj4 is amsterdamsche football club
+obj1 fullname obj0===the full name of obj4 is obj4
+obj1 fullname obj0===the obj4 complete name is the amsterdamsche football club
+obj2 fullname obj0===obj4 stands for azal peşəkar futbol klubu
+obj2 fullname obj0===azal pfk's full name is obj4
+obj1 ground obj0===obj4 play their home matches at the obj4
+obj1 fullname obj0===obj4 full name is alkmaar zaanstreek
+obj1 fullname obj0===obj4 is the full name of obj4
+obj1 owner obj0===obj4 owns obj4
+obj1 owner obj0===obj4 is owned by obj4
+obj1 fullname obj0===agremiação sportiva arapiraquense's full name is agremiação sportiva arapiraquense
+obj1 fullname obj0===the full name of obj4 is agremiação sportiva arapiraquense
+obj1 fullname obj0===the agremiação sportiva arapiraquense's full name isagremiação sportiva arapiraquense
+obj0 ground obj1===the obj0 team is based in obj4
+obj1 league obj0===obj4 play in the obj4
+obj2 demonym obj1===obj0 is inhabited by obj4
+obj2 demonym obj1===the people from obj0 are called obj4
+obj2 demonym obj1===obj4 inhabit obj0
+obj2 demonym obj0===obj4 is inhabited by obj4
+obj2 demonym obj0===obj4 are the people who live in obj4
+obj2 demonym obj0===obj4 inhabit obj4
+obj0 owner obj1===obj4 own obj0
+obj0 owner obj1===obj0 is owned by obj4
+obj0 followedby obj1===the novel obj0 is followed by obj4
+obj0 followedby obj1===obj0 was followed by obj4
+obj0 followedby obj1===obj0 is followed by obj4
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj1 precededby obj0===obj4 preceded obj4
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 precededby obj1===obj0 is preceded by obj4
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 precededby obj1===obj0 is preceded by obj4
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 precededby obj1===obj0 is the sequel to obj4
+obj0 followedby obj1===obj0 was followed by obj4
+obj0 followedby obj1===obj0 is followed by obj4
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj0 numberofpages obj2===obj0 is obj4 pages long
+obj1 precededby obj0===obj4 was preceded by obj4
+obj1 precededby obj0===obj4 is preceded by obj4
+obj0 abbreviation obj1===obj0 is abbreviated to obj4
+obj0 academicdiscipline obj2===obj0 is part of the academic discipline of obj4
+obj1 academicdiscipline obj2===obj0 comes under the academic discipline obj4
+obj1 abbreviation obj2===obj0 is abbreviated to obj4
+obj1 academicdiscipline obj2===obj0 is devoted to the study of obj4
+obj1 academicdiscipline obj2===obj0 covers the discipline of obj4
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj0 followedby obj1===the book a glastonbury romance was followed by weymouth sands
+obj0 followedby obj1===obj0 was followed by obj4
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 precededby obj1===obj0 is the sequel to obj4
+obj1 followedby obj0===the novel obj4 was followed by obj4
+obj1 followedby obj0===the book obj4 was followed by obj4
+obj1 followedby obj0===the book obj4 followed the book a long long way
+obj0 numberofpages obj2===obj0 is obj4 pages long
+obj0 numberofpages obj2===obj0 has obj4 pages in it
+obj0 precededby obj1===obj4 preceded obj0
+obj0 precededby obj1===obj0 is preceded by obj4
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 numberofpages obj2===obj0 is obj4 pages long
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj0 numberofpages obj2===obj4 is the number of pages obj0 has
+obj0 numberofpages obj2===there are obj4 pages in the book a severed wasp
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj0 numberofpages obj2===obj0 is obj4 pages long
+obj0 numberofpages obj2===there are obj4 pages in a wizard of mars
+obj0 numberofpages obj2===the book obj0 has obj4 pages
+obj0 precededby obj1===obj0 is preceded by obj4
+obj0 precededby obj1===obj4 preceded obj0
+obj0 precededby obj1===obj0 was preceded by obj4
+obj0 academicdiscipline obj2===obj0 is concerned with the academic discipline of obj4
+obj0 numberofpages obj2===obj0 is obj4 pages long
+obj0 numberofpages obj2===obj0 contains obj4 pages
+obj0 precededby obj2===obj0 was preceded by obj4
+obj0 precededby obj2===obj0 is the sequel to obj4
+obj0 abbreviation obj1===obj0 is abbreviated to obj4
+obj0 abbreviation obj1===the obj0 is abbreviated obj4
+obj0 abbreviation obj1===acta palaeontologica polonica's abbreviated name is obj4
+obj0 academicdiscipline obj2===obj4 is the academic discipine of obj0
+obj0 academicdiscipline obj2===obj0 is academically focused on obj4
+obj0 academicdiscipline obj2===the obj0 comes under the academic discipline of obj4
+obj0 abbreviation obj2===obj0 is abbreviated to obj4
+obj0 abbreviation obj1===obj0 is abbreviated to obj4
+obj0 academicdiscipline obj2===the obj0 comes under the academic discipline of obj4
+obj0 academicdiscipline obj2===the academic discipline of obj0 is obj4
+obj2 followedby obj0===the novel obj4 was followed by obj4
+obj2 followedby obj0===the book obj4 was followed up by obj4
+obj2 followedby obj0===obj4 followed the book obj4
+obj1 numberofpages obj2===obj0 is a book that has obj4 pages
+obj1 numberofpages obj2===obj0 is obj4 pages long
+obj1 numberofpages obj2===obj0 has a total of obj4 pages
+obj0 genre obj1===obj0 is obj4
+obj0 numberofpages obj2===obj0 is obj4 pages long
+obj0 numberofpages obj2===obj0 has obj4 pages
+obj0 abbreviation obj1===the obj0 is also known by the abbreviated title
+obj0 abbreviation obj1===the obj0 is abbreivated to obj4
+obj1 followedby obj0===the novel obj4 is followed by obj4
+obj1 followedby obj0===obj4 was followed by obj4
+obj0 spokenin obj1===the obj0 is spoken in obj4
+obj1 precededby obj0===obj4 is preceded by obj4
+obj1 precededby obj0===obj4 was preceded by obj4
+obj0 precededby obj1===obj0 was preceded by obj4
+obj1 precededby obj0===obj4 was written prior to ring of fire ii
+obj1 precededby obj0===obj4 was preceded by obj4
+obj0 precededby obj1===obj4 came before the book the secret scripture
+obj0 precededby obj1===obj0 is preceded by obj4
+obj1 demonym obj0===obj4 live in the obj4
+obj1 demonym obj0===the obj4 is populated by the obj4
+obj1 followedby obj0===obj4 was preceded by obj4
+obj1 followedby obj0===obj4 was followed by obj4
+obj1 followedby obj0===obj4 is the sequel to obj4
+obj0 owner obj2 obj0 cityserved obj4===obj5 is owned by the obj9 and serves the
+obj0 owner obj2 obj0 cityserved obj4===obj9 owns obj5 which serves the city of obj9
+obj0 owner obj2 obj0 cityserved obj4===obj5 serving the city of obj9 is owned by obj9
+obj1 owner obj4 obj1 operatingorganisation obj0===obj9 operates the obj9 which is owned by obj4
+obj1 owner obj4 obj1 operatingorganisation obj0===owned by the obj4 antwerp international airport's operation organization
+obj1 owner obj4 obj1 operatingorganisation obj0===the obj9 operates the obj9 as it is owned
+obj2 owner obj0 obj0 obj4 obj3===obj7 is owned by obj7 whose obj7 is obj9
+obj2 owner obj0 obj0 obj4 obj3===obj7 owned by obj7 who's obj7 is obj9
+obj2 owner obj0 obj0 leadername obj3===obj4 is owned by the obj4 whose leader is obj9
+obj2 owner obj0 obj0 leadername obj3===obj4 is owned by the obj4 which is headed
+obj3 birthdate obj1 obj3 almamater obj0===obj9 born 1932 03 15 's alma mater was obj9
+obj3 birthdate obj1 obj3 almamater===on 1932 03 15 graduated from ut austin in 1955
+obj1 status obj3 obj1 birthplace obj4===obj0 obj9 was born in obj9
+obj1 birthdate obj3 obj1 almamater===obj0 was born obj4 and he received a ms
+obj1 birthdate obj3 obj1 almamater===obj0 1933 10 17 graduated from afit in 1962
+obj1 birthdate obj3 obj1 almamater===obj0 born on 1933 10 17 graduated from afit ms
+obj0 completiondate obj5 obj0 location obj3===obj5 at obj9 was completed in obj4
+obj0 floorcount obj5 obj0 location obj2===obj5 actually on obj9 has obj4 floors
+obj0 completiondate obj5 obj0 obj4 obj3===the obj7 of obj5 completed in obj7 was obj9
+obj0 completiondate obj5 obj0 obj4 obj3===completed in obj7 the obj7 of obj5 was obj9
+obj0 floorcount obj5 obj0 obj4 obj2===obj5 has obj7 floors and it's obj7 is obj9
+obj1 floorcount obj5 obj1 location obj0===obj9 which has obj4 floors is located in obj9
+obj1 floorcount obj5 obj1 location obj0===there are obj4 floors of obj9 in obj9
+obj1 floorcount obj5 obj1 location obj0===obj9 which has a floor count of obj4 is
+obj3 owner obj0 obj3 location obj1===obj4 at the obj9 is owned by obj4
+obj3 owner obj0 obj3 location obj1===obj4 at obj9 is owned by obj4
+obj3 owner obj0 obj3 location obj2===obj4 in obj9 is owned by obj4
+obj3 owner obj0 obj3 location obj2===the obj4 located in dublin is owned by obj4
+obj3 owner obj0 obj3 location obj2===the obj4 is located in obj9 which is owned
+obj3 owner obj0 obj3 location obj1===obj4 is located in obj9 and is owned by obj4
+obj0 owner obj2 obj0 obj3 obj5===obj9 whose obj7 was obj9 is owned by obj4
+obj0 owner obj2 obj0 obj3 obj5===obj9 was designed by the architects of obj9 and
+obj0 owner obj2 obj0 obj3 obj5===obj9 was the obj7 of obj9 which is owned
+obj1 completiondate obj5 obj1 location obj3===obj0 obj9 was completed in obj4
+obj0 completiondate obj4 obj0 obj5 obj3===obj7 was completed on 1 obj6 2009 and it's
+obj4 demonym obj1 obj0 country obj4===obj5 is located in obj5 which is populated by obj9
+leadertitle president of the united states obj1 location united states===obj5 is located in the usa and it's leader
+obj3 starring obj1 obj1 birthplace obj4===obj9 born in rochdale stars in obj0
+obj3 starring obj1 obj1 birthplace obj4===obj9 who was born in obj9 starred in obj0
+obj3 starring obj1 obj1 birthplace obj4===obj0 starred obj9 who was born in obj9
+obj3 starring obj0 obj0 birthplace obj4===obj9 one of the stars of obj9 was born
+obj3 starring obj0 obj0 birthplace obj4===obj9 stars obj9 who was born in obj9
+obj3 starring obj0 obj0 birthplace obj4===obj9 born in obj9 stars in obj9
+obj3 starring obj0 obj0 obj2 obj5===obj9 is the obj7 of obj4 who starred in obj4
+obj3 starring obj0 obj0 birthplace obj5===born in obj9 obj4 starred in obj4
+obj3 starring obj0 obj0 birthplace obj5===obj4 born in obj9 starred in obj4
+obj4 starring obj0 obj0 birthplace obj2===born in the obj9 obj4 starred in obj4
+arem arem obj5 obj1 obj1 obj4 obj0===arem arem originates from the obj2 of obj7 which
+arem arem obj5 obj1 obj1 language obj0===arem arem originates from the obj2 of obj4 where
+arem arem country obj2 obj2 leadername obj0===the leader of obj4 is obj9 which commonly serves
+arem arem region obj1 obj1 obj4===arem arem comes from obj7 where the obj7 is
+arem arem region obj1 obj1 language===arem arem has its origins in indonesian speaking obj4
+arem arem region obj2 obj2 leadername obj0===arem arem is a food which comes from obj4
+arem arem region obj2 obj2 leadername obj0===obj9 is the leader in obj4 where arem arem
+arem arem region obj2 obj2 leadername obj0===the leader of obj4 is obj9 where arem arem
+obj2 alternativename obj12 obj11 obj12 obj8 obj10===obj4 can be added to a obj0 and its
+obj2 alternativename obj12 obj11 obj12 obj8 obj10===an obj5 in a obj0 is obj4 and it
+obj2 alternativename obj12 obj11 obj12 obj8 obj10===many condiments can be used to enhance the flavour
+obj2 alternativename obj12 obj11 obj12 obj8 obj10===a obj0 usually containing added condiments can also be
+obj2 alternativename obj12 obj11 obj12 obj8 obj10===the obj0 goes by the names obj9 obj5 obj9
+obj1 course obj2 obj2 dishvariation obj4===obj0 and cookies are both a type of obj9
+obj1 course obj2 obj2 dishvariation obj4===obj0 is a obj9 and a obj9 is also
+obj2 course obj3 obj3 dishvariation obj0===obj9 is a dish that can be served as
+obj3 mainingredients obj1 obj3 country obj2===one of the main ingredients of obj0 is obj4
+obj3 mainingredients obj1 obj3 country obj2===the main ingredient of obj0 found in the obj9
+obj3 mainingredients obj1 obj3 country obj2===the obj0 dish can be found in the obj9
+obj3 mainingredients obj1 obj3 country obj2===the obj0 dish can be found in the obj9
+obj2 mainingredients obj5 obj2 country obj1===the dish obj0 can be found in the obj9
+obj2 course obj3 obj2 obj1 obj0===obj9 is an obj7 used in the preparation of
+obj2 course obj3 obj2 obj1 obj0===obj9 is an obj7 in the preparation of obj9
+obj3 course obj1 obj1 dishvariation obj4===obj0 and cookies are both dishes served for obj9
+obj3 course obj1 obj1 dishvariation obj4===obj0 and obj9 are types of obj9
+obj3 course obj1 obj1 dishvariation obj4===obj0 and obj9 are both a type of obj9
+obj4 course obj2 obj2 dishvariation obj0===obj9 and obj9 are both served as desserts
+obj0 owner obj2 obj0 obj4 obj3===the obj5 is owned by the obj7 and is
+a c obj4 obj5 obj4 a c obj4===gt c obj1 obj3 is in obj1 the team is
+a c obj4 obj5 obj4 a c obj4===ac cesana play in obj2 and their obj3 is
+obj1 league obj3 obj1 obj4 obj0===ac cesena's obj7 is obj9 he played in obj7
+obj0 ground obj2 obj0 obj4 obj3===obj7 is the home to obj5 which is in
+obj0 ground obj2 obj0 obj4 obj3===obj7 is the home to obj5 playing in the
+obj2 ground obj1 obj2 obj4 obj0===obj9 is in the obj9 obj7 and are located
+obj1 ground obj3 obj1 obj4===obj0 is in obj7 and play in the english
+obj1 league obj3 obj3 obj2 obj0===the obj9 football club play in obj4 the obj7
+obj0 ground obj2 obj0 obj4 obj3===obj5 is based in obj7 and obj9 obj7
+obj0 league obj2 obj0 obj3 obj5===obj9 play in obj4 and have a obj7 in obj9
+obj1 league obj0 obj1 obj4 obj3===obj7 compete in the obj7 and obj7 is in obj9
+obj1 league obj0 obj1 obj4 obj3===obj7 play in the obj7 and their obj7 is
+obj3 league obj0 obj0 obj4 obj2===obj7 play in the obj7 the obj7 of which
+obj3 league obj0 obj0 obj4 obj2===obj7 compete in the obj7 obj9 are previous obj7
+obj4 ground obj1 obj1 location obj0===obj9 play their home matches at the obj4 in obj9
+obj2 league obj0 obj2 obj4 obj1===obj9 is the obj7 of obj7 who play in
+obj2 league obj0 obj0 obj4 obj3===obj7 play in the obj7 which obj9 were once
+obj2 league obj0 obj0 obj4 obj3===in the obj7 obj7 play and the obj7 are obj9
+obj4 demonym obj1 obj0 obj3 obj4===obj9 inhabit obj5 where the obj7 of obj5 is located
+obj4 demonym obj1 obj0 obj3 obj4===the obj7 of obj5 is located in obj5 where
+obj4 demonym obj1 obj0 obj3 obj4===the obj7 of obj5 is located in obj5 where
+obj1 precededby obj3 obj1 obj5 obj0===obj9 are the authors of obj9 which was preceded
+obj1 precededby obj3 obj1 obj5 obj0===obj9 was authored by obj9 it was preceded by obj4
+obj1 precededby obj3 obj1 obj5 obj0===obj9 are the authors of obj9 which was preceded
+obj1 precededby obj3 obj1 obj5 obj0===obj9 are the authors of obj9 which is preceded
+obj1 precededby obj3 obj1 obj5 obj0===obj9 are the authors of obj9 which is the
+obj0 abbreviation obj2 obj0 obj4 obj5===obj9 abbreviated to acm obj6 obj7 syst has the
+obj0 abbreviation obj2 obj0 obj4 obj5===the obj9 is abbreviated to obj7 and has the
+obj0 abbreviation obj4 obj0 obj3 obj5===obj9 abbreviated to aip adv has a obj7 of aaidbi
+obj0 abbreviation obj4 obj0 obj3 obj5===the obj7 for obj9 abbreviated aip adv is obj9
+obj0 followedby obj2 obj2 obj5 obj1==='a glastonbury romance' was followed by 'weymouth sands' which
+obj0 followedby obj2 obj2 obj5 obj1===the book a glastonbury romance was followed by weymouth
+obj0 numberofpages obj5 obj0 obj4 obj2===obj5 has obj7 pages and its obj7 is obj9
+obj0 numberofpages obj5 obj0 obj4 obj2===obj5 has obj7 pages and the obj7 obj9
+obj0 precededby obj2 obj2 obj5 obj1===obj9 is the obj7 of obj4 which is followed
+obj0 numberofpages obj5 obj0 obj4 obj2===severed wasp has an obj7 of 0 374 26131 8
+obj0 numberofpages obj5 obj0 obj4 obj2===obj7 of 0 374 26131 8 and has obj7 pages
+obj0 academicdiscipline obj4 obj0 obj5===abhmathseminunivhambg is the obj7 for obj7 and is concerned
+obj0 numberofpages obj5 obj0 obj4 obj2===obj5 is obj7 pages long and has the obj7 obj9
+obj0 numberofpages obj5 obj0 obj4 obj2===obj5 is obj7 pages long and obj7 is obj9
+obj0 numberofpages obj5 obj0 obj4 obj2===obj5 obj7 obj9 is obj7 pages long
+obj0 abbreviation obj2 obj0 obj4 obj5===the obj9 obj7 is amahe9 and is also known
+obj0 abbreviation obj2 obj0 obj5 obj6===obj7 abbreviated to acta obj4 pol has a obj7
+obj0 abbreviation obj2 obj0 obj5 obj6===the obj7 obj7 is apgpac and the abbreviated name
+obj0 abbreviation obj2 obj0 obj5 obj6===the obj7 for the obj7 abbreviated to obj4 is obj9
+obj0 abbreviation obj2 obj0 obj4 obj6===obj5 abbreviated to acta obj5 pol has the obj7 obj9
+obj0 abbreviation obj2 obj0 obj4 obj6===obj5 abbreviated acta obj5 pol has the obj7 1732 2421
+obj0 abbreviation obj2 obj0 obj4 obj6===the obj5 abbreviated acta obj5 pol has the obj7 obj9
+obj0 abbreviation obj4 obj0 obj3 obj5===obj9 abbreviated to addiction has the obj7 obj9
+obj0 abbreviation obj2 obj0 obj4 obj5===the obj7 for obj9 abbreviated as admin obj6 q
+obj0 abbreviation obj2 obj0 obj4 obj5===obj9 abbreviated obj7 has obj7 obj9
+obj0 abbreviation obj2 obj0 obj4 obj5===obj7 0001 8392 is for obj9 which abbreviates to obj7
+obj0 academicdiscipline obj5 obj0 obj4 obj3===the obj7 for the obj5 is obj9 and it
+obj3 numberofpages obj5 obj3 obj2 obj0===obj9 has a total of obj4 pages and the
+obj3 numberofpages obj5 obj3 obj2 obj0===obj9 is obj4 pages long and has the obj7 obj9
+obj3 numberofpages obj5 obj3 obj2 obj0===obj9 obj7 obj9 has obj4 pages
+obj0 abbreviation obj2 obj0 obj4 obj5===the obj9 has the abbreviated title of obj7 and
+obj0 abbreviation obj2 obj0 obj4 obj5===the obj9 abbreviated to am obj6 math has obj7 obj9
+obj0 abbreviation obj2 obj0 obj4 obj5===the book obj9 identified by obj7 obj9 is abbreviated
+obj0 abbreviation obj2 obj0 obj4 obj5===the obj9 also known as obj7 has an obj7 obj9
+obj1 runwayname obj7 obj1 runwaylength===obj0 can be found in obj0 the runway length
+obj2 owner obj6 obj2 operatingorganisation===obj0 operates the obj0 which is 12m asl obj12
+obj2 owner obj6 obj2 operatingorganisation===obj0 is operated by the obj0 obj12 owned by
+obj2 owner obj6 obj2 operatingorganisation===obj0 is owned by the obj4 operated by the
+obj1 birthdate obj0 obj1 obj10 obj5===born on 1932 03 15 obj40 obj8 obj41 obj9 in
+obj1 birthdate obj0 obj1 obj10 obj5===born on 1932 03 15 obj40 obj8 obj41 obj9 in
+obj0 floorcount obj8 obj0 location===obj5 was completed in obj7 is located at obj4
+obj0 floorcount obj8 obj0 location===obj5 has obj4 floors and was completed in obj7
+obj0 floorcount obj8 obj0 location===obj5 has obj4 floors and was completed in obj7
+obj0 floorcount obj8 obj0 obj6===obj4 was the obj7 of obj5 which was completed
+obj1 floorcount obj9 obj1 location===obj0 in obj0 and completed in obj7 has obj4 floors
+obj1 floorcount obj9 obj1 location===obj0 which has obj4 floors and was completed in
+obj1 floorcount obj9 obj1 location===obj0 completed in obj7 has obj4 floors and is
+obj0 floorcount obj8 obj0 location===obj5 us completed in obj7 has obj4 floors
+obj0 floorcount obj8 obj0 location===obj5 completed in obj7 has obj4 floors and is
+obj0 floorcount obj8 obj0 location===obj5 in the obj4 has obj4 floors it was
+obj6 owner obj0 obj6 location===the obj4 is located in obj4 obj1 and is
+obj6 owner obj0 obj6 location===obj4 is located in obj4 which is a part
+obj6 owner obj0 obj6 location===obj4 is owned by obj4 and is located in
+obj5 owner obj0 obj4 ispartof===obj5 is located in obj5 obj1 and is owned
+obj5 owner obj0 obj4 ispartof===obj5 is located in obj5 obj1 and owned by obj5
+obj5 owner obj0 obj4 ispartof===obj5 located in obj5 obj1 is owned by obj5
+obj5 owner obj0 obj4 leadername===obj1 was lord mayor of obj5 where the obj5
+obj5 owner obj0 obj4 leadername===obj5 is owned by obj5 obj5 is located in
+obj0 owner obj3 obj0 obj5===obj7 is owned by obj4 and has obj8 floors
+obj0 owner obj4 obj0 obj6===obj5 which has obj8 floors is owned by obj4
+obj3 completiondate obj8 obj3 obj6===the building of the obj0 was started in obj7
+obj3 completiondate obj8 obj3 obj6===the construction of obj0 with architectural design by obj0
+obj3 completiondate obj8 obj3 obj6===obj0 was the obj7 of obj0 which was started
+obj2 completiondate obj8 obj2 obj6===obj5 was the obj7 of the obj0 building which
+obj2 completiondate obj8 obj2 obj6===obj5 was the obj7 of the obj0 the building
+obj2 completiondate obj8 obj2 obj6===obj5 was the obj7 of obj0 the construction of
+obj0 completiondate obj10 obj0 obj8===in obj4 the obj5 was completed with a floor
+obj2 completiondate obj7 obj0 country===the obj5 currently tenant obj5 which was completed on
+obj6 demonym obj2 obj1 obj4===the residents of obj0 are the obj7 and the
+obj6 starring obj3 obj3 obj8===obj4 who stars in obj0 was born in obj1
+obj5 starring obj2 obj2 obj8===obj4 who starred in obj0 was born in obj6
+arem arem obj8 obj3 obj3 leadername===arem arem originates from the obj2 of obj4 where
+arem arem obj8 obj3 obj3 leadername===arem arem originates from the obj2 of obj4 where
+obj2 course obj4 obj2 country===obj0 coming from obj7 is a obj4 and can
+obj1 course obj4 obj4 dishvariation===obj0 a obj7 type obj5 comes from obj6
+obj1 course obj4 obj4 dishvariation===cookies and obj0 are both desserts but the latter
+obj1 course obj4 obj4 dishvariation===obj0 which comes from the obj3 france is a
+obj1 course obj5 obj5 dishvariation===a obj7 is a obj4 as too is obj0
+obj1 course obj5 obj5 dishvariation===an obj3 of obj0 is obj4 which along with
+obj1 course obj5 obj5 dishvariation===obj4 is an obj3 of the obj4 obj0 cookies
+obj1 course obj5 obj5 dishvariation===the obj4 of obj0 has obj4 as an obj3
+obj1 course obj5 obj5 dishvariation===obj4 is an obj3 of the obj4 called obj0
+obj2 course obj6 obj6 dishvariation===sandesh and obj0 which contains ice cream are both desserts
+obj2 course obj6 obj6 dishvariation===obj0 which has obj5 as an ingredient and sandesh
+obj2 course obj6 obj6 dishvariation===an obj4 of the obj4 obj0 is obj5 obj0
+obj2 course obj6 obj6 dishvariation===obj5 is an obj4 of the obj4 obj0 sandesh
+obj2 course obj6 obj6 dishvariation===obj4 is an obj5 of obj0 a obj4 sandesh
+obj2 course obj6 obj6 dishvariation===sandesh is a dish that can be served as
+obj2 course obj6 obj6 dishvariation===obj0 is a obj4 that contains obj4 sandesh is
+obj2 course obj8 obj2 creator===obj0 is a obj4 created obj11 1820 at the
+obj2 course obj8 obj2 creator===obj0 is a obj4 created obj11 1820 at the
+obj2 course obj8 obj2 creator===obj0 is a obj4 created obj11 obj1 some of
+obj3 mainingredients obj2 obj3 obj8===sweet potatoes are the main ingredient of obj0 which
+obj1 fullname obj0 obj1 obj8===the full name of obj4 is associazione obj9 obj5
+obj2 league obj5 obj2 obj6===obj0 play in the obj4 20 14 obj7 they have
+obj1 fullname obj0 obj1 obj7===the full name of obj4 is associazione obj5 obj8
+obj1 fullname obj0 obj1 obj7===the full name of obj4 is associazione obj5 obj8
+obj2 league obj0 obj0 obj5===obj4 who's grounds are in obj6 play in the
+obj2 league obj0 obj0 obj5===obj4 with their obj7 in obj6 play in the
+obj3 league obj1 obj1 obj6===obj0 compete in the obj4 are previous obj7 and
+obj3 fullname obj0 obj3 obj7===obj4 stands for azal obj2 obj8 klubu they competed
+obj5 league obj0 obj0 obj4===the obj7 with obj8 members competes in the obj7
+obj5 league obj0 obj0 obj4===qarabag fk are obj7 of the obj7 which obj7
+obj3 fullname obj1 obj3 obj7===obj0 has obj8 members and played in the eredivisie
+obj5 demonym obj1 obj5 obj2===the obj4 of obj0 is located in obj0 where
+obj5 demonym obj1 obj5 obj2===the obj4 of obj0 is located in obj0 the
+obj1 precededby obj3 obj3 language===obj4 is written in english and was preceded by
+obj1 precededby obj3 obj3 language===authored by obj0 '1634 the bavarian crisis' is preceded
+obj1 precededby obj3 obj3 language===authored byvirginia demarce and eric flint obj0 is preceded
+obj1 precededby obj4 obj1 obj9===authored by obj0 obj0 was preceded by obj4 which
+obj0 abbreviation obj3 obj0 obj6===obj5 or obj4 has a obj7 obj8 and an
+obj0 abbreviation obj3 obj0 obj6===obj5 abbreviated to acm obj9 obj10 syst has a
+obj0 abbreviation obj3 obj0 obj6===obj8 is the obj7 of obj5 and its obj5
+obj0 abbreviation obj3 obj0 obj6===obj5 is abbreviated to obj4 and has the obj7
+obj0 abbreviation obj3 obj0 obj6===obj5 is abbreviated to obj4 with the obj7 of
+obj1 abbreviation obj6 obj1 obj5===obj0 abbreviated to aip adv was edited by vicent
+obj1 abbreviation obj6 obj1 obj5===the editors of obj0 abbreviated to aip adv are
+obj1 abbreviation obj6 obj1 obj5===obj0 editors include vincent h crespi bernard s gerstman
+obj1 abbreviation obj6 obj1 obj5===with a obj7 of obj7 and an impact factor
+obj0 numberofpages obj8 obj0 obj6===obj5 is obj4 pages available in obj7 and authored
+obj0 numberofpages obj8 obj0 obj4===the obj7 for obj5 is obj6 it has obj7
+obj0 numberofpages obj8 obj0 obj4===obj5 is in obj7 has obj7 pages and the
+obj0 numberofpages obj8 obj0 obj4===obj5 has obj7 pages and is in obj7 with
+obj0 numberofpages obj8 obj0 obj5===obj7 available in obj6 has obj4 pages in it
+obj0 numberofpages obj8 obj0 obj5===available in obj6 obj7 is obj4 pages long and
+obj0 numberofpages obj8 obj0 obj5===obj7 with obj4 pages is available in obj6 its
+obj1 numberofpages obj8 obj1 obj5===obj0 was printed in print and paperback it has
+obj1 numberofpages obj8 obj1 obj5===obj0 is obj4 pages and was published in print
+obj0 numberofpages obj8 obj0 obj4===obj5 292 pages is available in obj5 and has
+obj0 numberofpages obj8 obj0 obj4===the book 'a long long way' with the obj7
+obj0 numberofpages obj8 obj0 obj4===obj5 is obj7 pages long and is available in
+obj0 numberofpages obj8 obj0 obj5===obj7 was published in hardback has the obj7 obj3
+obj0 numberofpages obj8 obj0 obj5===the hardback book obj7 has obj4 pages and has
+obj0 numberofpages obj8 obj0 obj5===obj7 is a obj6 book with obj4 pages and
+obj0 numberofpages obj8 obj0 obj4===obj5 has obj7 pages can be found in obj7
+obj0 numberofpages obj8 obj0 obj4===the printed book obj5 has obj7 pages and the
+obj0 numberofpages obj8 obj0 obj4===obj5 has obj7 pages and can be found in
+obj0 academicdiscipline obj5 obj0 obj6===obj5 is concerned with the academic discipline of obj4
+obj0 academicdiscipline obj5 obj0 obj6===obj5 is concerned with the academic discipline of obj4
+obj0 numberofpages obj8 obj0 obj6===the printed book obj5 is obj4 pages long and
+obj0 abbreviation obj3 obj0 obj8===obj5 abbreviated obj4 has the obj7 obj9
+obj0 abbreviation obj3 obj0 obj8===the obj5 is abbreviated obj4 and has the obj7
+obj0 abbreviation obj3 obj0 obj8===obj5 obj4 is in obj5 and has the obj7 obj9
+obj0 abbreviation obj7 obj0 obj5===obj7 or just obj4 has the obj7 obj6 and
+obj0 abbreviation obj3 obj0 obj6===the obj5 issn number 0001 8392 is abbreviated to obj4
+obj0 abbreviation obj3 obj0 obj6===obj5 known as obj4 has the obj7 of obj8
+obj1 abbreviation obj4 obj1 obj6===the obj7 of obj0 also known as admin obj9
+obj1 abbreviation obj4 obj1 obj6===obj0 obj7 of obj0 its abreviation is obj4 and
+obj0 academicdiscipline obj7 obj0 obj6===obj5 is abbreviated to obj4 and has the obj7
+obj5 numberofpages obj8 obj5 obj4===obj3 is the obj7 of the obj7 page obj1 obj0
+obj0 numberofpages obj8 obj0 obj4===the printed book obj5 has obj7 pages and an
+obj0 numberofpages obj8 obj0 obj4===obj5 is in obj7 and has obj7 pages the
+obj1 spokenin obj5 obj3 language===the obj0 is spoken in obj4 and the obj5
+obj0 runwayname obj8 obj0 runwaylength===operated by obj9 the obj5 is in obj10 it
+obj0 runwayname obj8 obj0 runwaylength===obj5 is found in obj10 and is operated by
+obj2 owner obj7 obj2 operatingorganisation===obj0 is owned by the obj4 obj15 operated by
+obj2 owner obj7 obj2 operatingorganisation===obj0 located in the obj4 is operated by the
+obj1 status obj9 obj1 birthplace===obj0 who obj03 obj8 obj04 obj02 in obj01 is
+obj1 status obj9 obj1 birthplace===the now obj4 obj0 obj03 born in obj0 on
+obj1 completiondate obj13 obj1 obj10===obj0 in obj5 england was designed by the obj00
+obj0 completiondate obj11 obj0 location===obj7 was an obj9 who was born in obj5
+obj0 completiondate obj11 obj0 location===the obj9 obj7 was born in obj5 and designed
+obj0 completiondate obj11 obj0 location===obj5 completed in obj4 is located at obj4 and
+obj1 floorcount obj13 obj1 obj10===designed by the obj00 obj7 born in birmingham obj0
+obj1 floorcount obj13 obj1 obj10===the obj00 obj7 was born in obj4 england and
+obj0 floorcount obj11 obj0 location===obj6 born in birmingham was the obj9 of obj5
+obj0 floorcount obj11 obj0 location===the obj4 floor building at obj5 in obj4 was
+obj1 floorcount obj14 obj1 location===completed in obj02 obj0 has obj04 floors and obj01
+obj1 floorcount obj14 obj1 location===obj0 in cleveland obj03 was completed in obj02 and
+obj0 floorcount obj13 obj0 location===obj5 is located in the obj5 it has obj4
+obj0 floorcount obj13 obj0 location===obj5 in the obj5 has obj4 floors a total
+obj0 floorcount obj13 obj0 location===completed in obj12 in the obj5 obj5 has obj4
+obj8 owner obj0 obj6 country===obj4 is located in obj5 which is part of
+obj8 owner obj0 obj6 country===obj4 is located in obj5 obj2 obj1 and is
+obj8 owner obj0 obj6 country===obj4 own obj4 in obj5 obj2 obj1
+obj8 owner obj0 obj6 country===obj4 owns obj4 in obj5 obj2 obj5 is lead
+obj8 owner obj0 obj6 leadername===the obj4 located in obj5 which is part of
+obj8 owner obj0 obj6 leadername===obj4 is owned by obj4 and is in obj5
+obj0 completiondate obj13 obj0 obj10===obj5 which was completed in obj4 has a obj7
+obj4 owner obj0 obj0 obj9===the obj2 which is located in the obj7 are
+obj6 starring obj2 obj2 birthplace===obj8 born obj4 starred in obj0 which was broadcast
+obj6 starring obj2 obj2 birthplace===obj8 born obj4 starred in the tv series
+obj6 starring obj2 obj2 birthplace===the obj10 based in obj0 london showed the tv
+arem arem country obj6 obj6 leadername===arem arem is a dish of obj0 and is
+arem arem obj10 obj4 obj4 leadername===arem arem is a javanese dish that originates from
+arem arem obj10 obj4 obj4 leadername===arem arem is from obj1 and is commonly served
+obj3 course obj6 obj3 country===the obj4 obj0 comes from obj9 where they speak
+obj3 course obj6 obj3 country===obj0 and obj0 can both be served as a
+obj3 course obj6 obj3 country===sandesh is a nice confectionery obj4 as is obj0
+obj3 course obj6 obj3 obj7===obj0 is a obj4 from obj9 the leader of
+obj3 course obj6 obj3 country===sandesh is a obj4 along with obj0 which comes
+obj3 course obj6 obj3 obj7===obj0 is a obj4 originates from obj9 and the
+obj3 course obj6 obj3 country===obj0 and obj0 can be served as a obj4
+obj3 course obj6 obj3 country===obj0 and obj0 are both served as desserts the
+obj2 course obj6 obj6 dishvariation===desserts include cookies and obj0 which comes from obj8
+obj2 course obj6 obj6 dishvariation===obj0 from obj8 is a obj4 cookies are desserts
+obj2 course obj6 obj6 dishvariation===obj0 and the obj10 are desserts the former originating
+obj2 course obj6 obj6 dishvariation===obj0 is a obj4 as is the cookie it
+obj2 course obj6 obj6 dishvariation===cookies and obj0 are types of obj4 the latter
+obj2 course obj6 obj6 dishvariation===obj0 and cookies are considered desserts obj0 originates from
+obj2 course obj6 obj6 dishvariation===obj0 from obj8 and cookies are types of desserts
+obj2 course obj6 obj6 dishvariation===obj0 is a type of obj4 from obj8 a
+obj2 course obj6 obj6 dishvariation===both obj0 and the obj10 are desserts obj0 comes
+obj4 course obj8 obj8 dishvariation===two types of obj4 are cookies and obj0 the
+obj4 course obj8 obj8 dishvariation===a obj10 is a obj4 and so is a
+obj5 course obj9 united states ethnicgroup===sandesh confectionery and obj0 are types of desserts the later
+obj5 course obj9 united states ethnicgroup===obj0 is a obj4 found in the usa obj1
+obj5 course obj9 united states ethnicgroup===sanesh is a obj4 as is obj0 which can
+obj5 course obj9 united states ethnicgroup===obj0 is a obj4 as is sandesh it is
+obj5 course obj9 united states ethnicgroup===obj0 from the us is a obj4 native americans are
+obj5 course obj9 obj2 ethnicgroup===obj0 is a dish from the obj5 and sandesh
+obj3 mainingredients obj0 obj3 region===obj4 a dish originating in obj14 is also popular
+obj3 mainingredients obj0 obj3 region===obj4 is from the obj7 of columbia it includes obj4
+obj5 course obj8 obj8 dishvariation===a obj10 is a obj4 and so is obj0
+obj5 course obj8 obj8 dishvariation===the obj0 are an ethnic group in the obj3
+obj6 course obj9 obj9 dishvariation===sandesh is a nice confectionery obj4 obj0 originates from
+obj6 course obj9 obj9 dishvariation===obj0 from the obj4 and sandesh are desserts the
+obj1 fullname obj0 obj1 obj10===the full name of obj4 which has obj42 members
+obj1 ground obj7 obj7 obj5===obj01 is the obj7 of obj4 which is inhabited
+obj1 ground obj7 obj7 obj5===obj01 is the obj7 city of obj4 which is
+obj1 ground obj7 obj7 obj4===petro grasso is the obj5 of obj7 which is
+obj1 ground obj7 obj7 obj4===obj0 play in obj7 where the obj7 is obj01
+obj0 ground obj7 obj7 obj4===in obj7 the citizens are called obj2 and the
+obj2 ground obj7 obj7 obj4===obj3 is the obj5 in obj7 where the obj0
+obj1 ground obj8 obj8 language===obj0 play in obj4 inhabited by italians where the
+obj1 ground obj6 obj1 obj8===obj0 full name obj0 plays at obj4 and has
+obj1 ground obj6 obj1 obj8===the obj7 of obj0 is obj0 it is in
+obj1 ground obj7 obj1 obj9===obj0 or obj0 is based in obj4 has obj01
+obj1 ground obj7 obj1 obj9===obj0 full name obj0 livorno calcio is based in
+obj4 fullname obj0 obj4 obj11===obj5 or obj5 for short has its obj7 in
+obj3 fullname obj0 obj3 obj10===obj4 is the full name of obj4 who have
+obj3 fullname obj0 obj3 obj10===obj4 known under the full name obj4 has obj11
+obj4 fullname obj0 obj4 obj11===obj5 or obj5 for short has the obj3 as
+obj3 league obj0 obj0 obj7===obj4 obj9 is in obj8 and they compete in
+obj2 league obj0 obj0 obj8===obj4 compete in the obj4 where obj3 are the
+obj2 league obj0 obj0 obj8===obj6 is associated with the obj5 football obj11 and
+obj6 league obj0 obj0 obj5===obj4 play out of the obj3 in the obj4
+obj6 league obj0 obj0 obj5===obj4 play their home matches at the obj3 which
+obj6 league obj0 obj0 obj5===azal pfk's obj10 is obj3 which is located in
+obj7 league obj1 obj1 obj5===obj4 the obj40 of obj0 is located in obj0
+obj7 league obj1 obj1 obj5===obj3 are the obj7 of the obj4 which obj0
+obj6 league obj1 obj1 obj5===obj4 are the obj7 of the obj4 in which
+obj2 league obj4 obj2 obj10===the obj6 were obj7 at the obj4 in which
+obj1 league obj3 obj3 country===obj6 have been obj7 of obj4 in obj01 in
+obj0 league obj2 obj2 country===obj0 the brazilian football team play their matches in
+obj1 fullname obj0 obj1 obj9===the full name of obj4 is ''akron obj42 obj41
+obj1 fullname obj0 obj1 obj9===obj4 akron obj42 obj41 obj45 obj40 assault has obj43
+obj7 demonym obj2 obj7 obj3===the obj5 of obj1 is located in obj0 which
+obj8 demonym obj4 obj8 obj7===the obj6 of obj2 is located in obj0 the
+obj8 demonym obj4 obj8 obj7===italian speaking obj0 is home to the obj2 grounds
+obj2 precededby obj5 obj5 language===obj15 english written book obj4 was written before obj15
+obj0 academicdiscipline obj6 obj0 obj9===obj5 is part of the academic discipline of obj4
+obj0 academicdiscipline obj6 obj0 obj9===obj5 abbreviated to obj4 is part of the academic
+obj0 academicdiscipline obj6 obj0 obj9===obj5 abbreviated acm obj12 obj13 syst is part of
+obj0 numberofpages obj11 obj0 obj7===obj5 with obj4 pages is available in obj10 its
+obj0 numberofpages obj11 obj0 obj7===obj5 which has obj4 pages is in obj10 and
+obj0 numberofpages obj11 obj0 obj7===the printed copy of obj5 has obj4 pages an
+obj0 numberofpages obj11 obj0 obj7===obj5 available in obj8 has obj4 pages the obj7
+obj0 numberofpages obj11 obj0 obj7===obj5 is available in hardcoverisbn number obj4 obj7 obj10
+obj0 numberofpages obj11 obj0 obj7===obj5 is available in obj8 and has obj4 pages
+obj1 numberofpages obj12 obj1 obj8===obj0 has obj02 pages and was published in both
+obj1 numberofpages obj12 obj1 obj8===obj0 with obj02 pages was published in print obj01
+obj1 numberofpages obj12 obj1 obj8===obj0 is obj02 pages long and was published in
+obj1 precededby obj7 obj5 country===obj0 was a book which followed obj0 published by
+obj1 precededby obj7 obj5 country===obj4 preceded the book obj0 published by obj5 located
+obj1 precededby obj7 obj5 country===obj0 is published by obj5 which is based in
+obj0 numberofpages obj11 obj0 obj7===the printed book obj5 has obj4 pages an obj7
+obj0 numberofpages obj11 obj0 obj7===the book obj5 is available in obj10 and has
+obj0 numberofpages obj11 obj0 obj7===obj5 with obj4 pages can be found in obj10
+obj1 abbreviation obj5 obj1 obj8===obj0 is published by obj0 it is abbreviated to
+obj0 numberofpages obj11 obj0 obj7===obj5 has obj4 pages and is produced in obj10
+obj0 numberofpages obj11 obj0 obj7===available in obj10 obj5 is obj4 pages long with
+obj0 numberofpages obj11 obj0 obj7===produced in obj10 obj5 has an obj7 of obj9
+obj2 spokenin obj7 obj1 country===obj5 is published in the obj4 where native americans
+obj1 spokenin obj7 obj4 ethnicgroup===the obj0 is spoken in obj5 and the obj5
+obj1 spokenin obj7 obj4 language===obj3 is from the obj5 where the native americans
+obj1 spokenin obj7 obj4 language===the obj0 is spoken in both obj5 and the
+obj1 runwayname obj14 obj1 runwaylength===obj0 can be found in obj0 it is operated
+obj0 runwayname obj10 obj0 runwaylength===obj5 is elevated 610 metres above sea level in
+obj4 status obj10 obj4 obj16 obj9===obj0 is obj5 his birth place obj7 obj3 where
+obj0 floorcount obj14 obj0 location===designed by obj6 born obj11 john madin103 obj5 was
+obj0 floorcount obj14 obj0 location===obj11 obj8 born in birmingham designed obj5 in obj13
+obj11 owner obj0 obj8 country===obj4 owned by live nation entertainment is located in
+obj11 owner obj0 obj8 country===obj4 owns obj4 in obj5 obj4 obj2 obj5 is
+obj10 owner obj0 obj8 leadername===obj4 is owned by obj4 and it is located
+obj10 owner obj0 obj8 leadername===obj4 owned by obj4 is in obj5 which is
+obj10 owner obj0 obj8 leadername===obj4 owned by obj4 is located in obj5 in
+obj10 owner obj0 obj8 leadername===obj4 owns obj4 in obj5 obj3 the lord mayor
+obj6 starring obj1 obj6 creator===obj0 was broadcast by obj44 between 3 october 1983
+obj6 starring obj1 obj6 creator===obj0 first aired on obj44 on october 3rd 1983
+obj6 starring obj1 obj6 creator===obj0 was broadcast by obj44 from 3 october 1983
+arem arem obj15 obj7 obj7 leadername===arem arem originates from the island of java and
+arem arem obj13 obj6 obj6 leadername===obj3 and obj2 are leaders in obj4 where the
+arem arem obj13 obj6 obj6 leadername===the javanese dish arem arem is commonly served inindonesia
+arem arem obj13 obj5 obj5 leadername===arem arem is a javanese dish from the obj2
+obj2 mainingredients obj14 obj11 obj2===the obj0 is a main dish from kansas city
+obj4 mainingredients obj1 obj4 obj14===obj0 is a obj50 from the obj51 obj54 of
+obj4 mainingredients obj1 obj4 obj14===obj0 comes from the obj2 from the obj54 of
+obj4 mainingredients obj1 obj4 obj14===the obj50 obj0 includes obj5 and obj52 it is
+obj9 demonym obj5 obj9 obj7===the obj7 of obj0 is obj14 and is where
+obj9 demonym obj5 obj9 obj7===obj0 is a traditional dish from obj0 where the
+obj9 demonym obj5 obj9 obj7===the obj7 city of obj0 is obj14 and its
+obj9 demonym obj5 obj9 obj7===obj0 is a traditional dish from obj0 where the
+obj9 demonym obj5 obj9 obj7===amatricana sauce comes from obj0 where obj4 live and
+obj2 ground obj9 obj9 obj6===obj0 play in obj4 where obj14 is the obj7
+obj2 ground obj9 obj9 obj6===obj0 play in obj4 where the obj7 city is
+obj2 ground obj9 obj9 obj6===obj3 leads obj4 whose obj7 is obj14 the language
+obj2 league obj5 obj11 obj6===obj0 are located in obj5 and play in obj4
+obj2 league obj5 obj11 obj6===the obj4 of obj4 are obj1 in which obj0
+obj2 league obj7 obj12 leader===obj0 are obj5 of obj4 in which obj0 also
+obj2 league obj7 obj12 leader===the obj9 of obj0 is located in obj5 the
+obj2 league obj7 obj12 leader===obj0 italy play in obj4 obj0 are obj5 of
+obj1 league obj5 obj11 obj9===obj0 are obj4 of obj4 in which obj0 also
+obj1 league obj5 obj11 obj9===the obj8 of obj0 is located in obj01 where
+obj6 league obj0 obj0 obj5===obj3 are the obj7 of the obj4 which obj4
+obj6 league obj0 obj0 obj5===obj4 who play at the obj4 and have a
+obj6 league obj0 obj0 obj5===the obj4 with obj14 members competes in the obj4
+obj7 league obj1 obj1 obj6===obj4 are the obj7 of the obj4 in which
+obj9 demonym obj4 obj9 obj5===obj4 are the people who live in obj0 where
+obj1 followedby obj8 obj8 language===the authors of obj0 are obj0 obj07 was preceded
+obj1 followedby obj8 obj8 language===the novel obj0 authored by virginia obj04 obj07 obj06
+obj1 precededby obj8 obj1 country===obj0 was written in obj02 where obj6 live and
+obj2 spokenin obj9 obj5 obj14===obj3 is the obj7 of the obj5 the obj0
+obj1 spokenin obj9 obj5 ethnicgroup===obj4 is a book that originates from the obj5
+obj1 spokenin obj9 obj5 ethnicgroup===the obj0 of the us is also spoken in
+obj1 spokenin obj8 obj4 ethnicgroup===the obj0 is spoken in obj5 and the obj5
+obj2 obj26 obj15 obj2 obj17===the obj0 in the obj06 of obj4 obj03 is
+obj1 obj26 obj19 obj3 obj16===the obj5 in the obj24 of obj05 obj23 is
+obj1 obj26 obj19 obj3 obj16===the obj5 is located in the obj24 of obj05

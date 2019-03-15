@@ -1,0 +1,399 @@
+obj4 operatingorganisation obj0 obj0 attackaircraft obj3===obj4 is operated by the obj4 whose aircraft carriers
+obj4 almamater obj0 obj0 affiliations obj2===obj4 graduated from the obj4 affiliated to the obj9
+obj4 almamater obj0 obj0 affiliations obj2===obj4 was a student at the obj4 which is
+obj4 almamater obj0 obj0 affiliations obj2===obj4 graduated from the obj4 which is affiliated with
+obj4 almamater obj0 obj0 affiliations obj2===elliot see's alma mater is the obj4 which is
+obj0 completiondate obj3 obj0 floorarea===obj5 was completed in obj4 and has a floor
+obj0 completiondate obj3 obj0 floorarea===obj5 was completed in obj4 and has a floor
+obj0 location obj2 obj0 floorarea===obj5 obj4 has a floor area of obj7 square metres
+obj0 location obj2 obj0 floorarea===obj5 is located in obj4 and has a floor
+obj0 location obj2 obj0 floorarea===obj5 has a floor area of obj7 square metres
+obj4 obj5 obj2 obj2 significantbuilding obj0===the obj4 of obj9 is obj4 who also designed
+obj0 completiondate obj7 obj0 floorarea===obj5 with a obj4 obj6 obj5 floor area was
+obj0 completiondate obj7 obj0 floorarea===obj5 with a floor area of obj4 square metres
+obj0 floorcount obj7 obj0 floorarea===the obj5 has obj4 floors and obj6 square metres
+obj0 floorcount obj7 obj0 floorarea===the obj5 is located on obj4 floors and is
+obj0 location obj3 obj0 referencenumber obj12===obj5 located obj8 obj4 has obj10 reference number obj4
+obj0 location obj3 obj0 referencenumber obj12===obj5 is located obj8 obj4 and has a reference
+obj0 location obj3 obj0 referencenumber obj12===obj10 reference number obj8 obj10 obj7 obj6 obj11 obj5
+obj0 obj5 obj3 obj3 significantbuilding obj1===obj9 is one of the significant buildings designed by
+obj0 obj5 obj3 obj3 significantbuilding obj1===the obj2 of obj0 was obj4 who also designed
+obj0 obj5 obj3 obj3 significantbuilding obj1===obj4 was the obj2 of the obj0 and the obj9
+obj0 location obj2 obj0 referencenumber obj12===obj5 are located obj8 obj4 and has obj10 reference
+obj0 location obj2 obj0 referencenumber obj12===obj5 is located obj8 obj4 obj4 is it's reference
+obj0 main obj4 s bacon obj5 obj0===bacon exploobj4ion'obj4 obj2 ingredientobj4 are obj7 and bacon
+obj0 main obj4 s bacon obj5 obj0===ingredientobj4 uobj4ed in a obj8 are bacon and obj7
+obj1 obj6 obj0 obj1 material obj3===the designers of the obj9 obj4 are obj4
+obj0 location obj3 obj0 material obj2===the obj5 made of obj9 can be found in obj4
+obj0 location obj3 obj0 material obj2===obj5 is located in obj4 and made of obj9
+obj2 obj5 obj0 obj0 operator obj3===obj9 amateurs 's obj2 obj4 is operated by obj9
+obj2 obj5 obj0 obj0 operator obj3===obj4 is the obj2 of obj4 and it is
+obj2 obj5 obj0 obj0 operator obj3===obj9 amateurs 's obj2 is obj4 operated by obj9
+obj0 obj4 obj3 obj0 season obj2===the obj9 of obj5 who play in the obj9
+obj0 manager obj3 obj0 season obj2===obj5 managed by denzil antonio played in the obj9
+obj0 obj4 obj3 obj0 season obj2===obj4 was the obj9 of obj5 and they participated
+obj0 obj4 obj3 obj0 academicstaffsize obj5===obj4 is obj2 of the obj9 where there is
+obj0 obj4 obj3 obj0 academicstaffsize obj5===the obj9 has an academic staff of obj9 and
+obj0 obj5 obj3 obj3 influencedby obj1===obj4 obj2 of '1634 the ram rebellion' was influenced
+obj0 obj5 obj3 obj3 influencedby obj1===obj4 is the obj2 of obj0 and was influenced
+obj0 author obj3 obj3 influencedby obj1===obj4 who wrote the book 1634 the ram rebellion
+obj3 publisher obj0 obj0 parentcompany obj2===the obj4 is published by obj4 whose parent company
+obj0 obj5 obj3 obj3 parentcompany===a fortress of grey ice was published by obj4
+obj0 publisher obj3 obj3 parentcompany obj1===obj9 are the parent company of obj4 who publish obj0
+obj3 obj5 obj0 obj0 influencedby obj2===obj4 obj9 of obj4 was influenced by obj9
+obj3 author obj0 obj0 influencedby obj2===obj4 who is influenced by obj9 wrote a severed wasp
+obj3 publisher obj0 obj0 parentcompany obj2===obj9 is the parent company of obj4 who published obj4
+obj3 publisher obj0 obj0 parentcompany obj2===obj4 was published by obj4 a subsidiary of obj9
+obj3 publisher obj0 obj0 parentcompany obj2===obj4 was published by obj4 which is a subsidiary
+obj1 elevationabovethesealevel in metres 23 0 obj1 location===at 23 metres above sea level obj0 is located
+obj1 elevationabovethesealevel in metres 23 0 obj1 location===obj0 is located at obj3 obj5 and is 23
+obj6 almamater obj0 obj0 affiliations===the obj4 where obj4 was a student is affiliated
+obj6 almamater obj0 obj0 affiliations===elliot see's attended obj4 which competed obj9 obj4 and
+obj0 floorcount obj10 obj0 floorarea===completed in obj9 obj5 has obj4 floors covering obj8
+obj0 floorcount obj10 obj0 floorarea===the obj5 was completed in obj9 it is obj8
+obj0 location obj4 obj0 buildingstartdate===obj5 has obj8 floors it's construction began in obj5
+obj0 location obj4 obj0 buildingstartdate===obj5 was the start date of building obj5 which
+obj0 location obj4 obj0 buildingstartdate===the obj8 floor construction project of obj5 in obj4
+obj0 location obj3 obj0 floorarea===there are obj10 floors at obj5 obj4 with a
+obj0 obj6 obj3 obj0 floorarea===obj5 is a obj2 in obj4 it has a
+obj0 location obj3 obj0 floorarea===obj5 obj4 has obj10 floors and a floor area
+obj0 location obj7 obj2 foundationplace===obj0 is located in denmarkmarriott international was founded in obj4
+obj0 location obj7 obj2 foundationplace===the obj8 of the obj0 in obj4 is the
+obj0 completiondate obj10 obj0 buildingstartdate===construction on obj5 which has a obj6 obj8 obj7
+obj0 completiondate obj10 obj0 buildingstartdate===obj5 started in obj9 and completed in obj4 has
+obj0 floorcount obj10 obj0 floorarea===the obj5 at 142 nakadori has obj4 floors with
+obj0 floorcount obj10 obj0 floorarea===the obj5 has obj4 floors and a total floor
+obj0 location obj5 obj0 referencenumber obj15===obj5 is located obj8 obj4 which was was built
+obj0 location obj5 obj0 referencenumber obj15===obj5 is located obj8 obj4 and was built obj8
+obj0 location obj5 obj0 referencenumber obj15===obj5 is located obj8 obj4 it was constructed obj8
+obj0 location obj5 obj0 referencenumber obj15===obj13 obj5 is located on obj4 and was built
+obj0 location obj5 obj0 referencenumber obj15===obj5 built obj8 obj12 is located at obj4 and
+obj1 obj8 obj5 obj5 significantbuilding===obj4 obj2 of the obj0 designed the significant los
+obj0 obj8 obj5 obj5 significantbuilding===obj4 was the obj2 and designer of many significant
+obj1 location obj0 obj1 referencenumber obj18===obj4 is located on obj4 it was constructed obj48
+obj1 location obj0 obj1 referencenumber obj18===obj46 obj4 constructed obj48 obj45 and located on obj4
+obj1 obj10 obj0 obj1 referencenumber obj18===obj46 obj40 obj47 obj4 constructed 1913 is obj4 and
+obj0 location obj3 obj0 referencenumber obj15===obj5 constructed obj8 obj12 is located obj8 obj4 and
+obj0 location obj3 obj0 referencenumber obj15===obj5 obj8 obj4 reference number obj6 obj8 obj13 obj9
+obj0 location obj5 obj0 referencenumber obj22===obj5 is located obj8 obj4 and was obj16 obj20
+obj0 location obj4 obj0 referencenumber obj22===located obj8 obj4 obj5 were obj16 obj20 obj17 obj8
+obj0 location obj4 obj0 referencenumber obj22===obj5 are located obj8 obj4 and was obj16 obj20
+obj1 location obj4 obj1 foundationplace===obj0 founded in obj5 is located in obj4 and
+obj1 location obj4 obj1 foundationplace===the obj8 of the obj0 is obj0 the company
+obj1 location obj8 obj1 dedicatedto===the obj0 in obj4 made with rock is dedicated
+obj1 location obj8 obj1 dedicatedto===obj0 in obj4 is made of rock and dedicated
+obj2 location obj7 obj2 dedicatedto===obj0 which is located in obj4 is dedicated to
+obj2 location obj7 obj2 dedicatedto===the obj0 dedicated to obj0 is located in obj4
+obj2 location obj7 obj2 dedicatedto===the obj0 dedicated to obj0 is located in obj4
+obj2 obj7 obj5 obj2 season===obj0 has obj8 members and are in the obj4
+obj2 obj7 obj5 obj2 season===obj0 with obj8 members is in the obj4 obj5
+obj2 league obj5 obj2 season===obj0 has obj8 members and will play in obj4
+obj3 obj8 obj0 obj0 operator===obj5 amateurs 's obj2 is obj4 where obj4 also play
+obj3 obj8 obj0 obj0 operator===obj5 amateurs 's obj2 is obj4 tenanted by obj4 and
+obj3 obj8 obj0 obj0 operator===obj5 amateurs 's obj2 is obj4 which is operated by
+obj3 obj8 obj0 obj0 operator===obj5 amateurs 's obj2 is obj4 operated by obj5 the
+obj1 numberofmembers obj8 obj1 season===the full name of obj0 is agremiação sportiva arapiraquense
+obj1 numberofmembers obj8 obj1 season===the agremiação sportiva arapiraquense's full name isagremiação sportiva arapiraquense
+obj1 numberofmembers obj8 obj1 season===agremiação sportiva arapiraquense's full name is agremiação sportiva arapiraquense
+obj0 obj4 obj7 obj0 academicstaffsize===there are obj8 academic staff at the obj5 in
+obj0 obj4 obj7 obj0 academicstaffsize===obj5 was obj2 in obj4 in obj5 it has
+obj0 obj4 obj7 obj0 academicstaffsize===the obj5 was obj2 in obj4 in obj5 and
+obj0 city obj5 obj0 numberofstudents===the obj5 is in obj4 it has obj8 students
+obj0 obj6 obj5 obj0 numberofstudents===the obj5 is located in the obj2 of obj4
+obj0 obj7 obj4 obj0 academicstaffsize===the obj5 has obj8 academic staff and is located
+obj0 country obj4 obj0 numberofstudents===obj5 is located in obj5 obj4 and has obj8 students
+obj0 country obj4 obj0 numberofstudents===the obj5 is in obj5 obj4 it has obj8 students
+obj0 country obj4 obj0 numberofstudents===the obj5 in obj4 obj5 has a student count
+obj0 obj6 obj5 obj0 numberofstudents===the obj5 has obj7 academic staff and obj8 students
+obj0 obj6 obj5 obj0 numberofstudents===the obj2 of obj5 is obj4 there are obj8
+obj0 obj6 obj5 obj0 numberofstudents===the obj2 of obj5 is obj4 the university has
+obj4 leadername obj7 obj0 academicstaffsize===obj5 at obj5 has obj8 academic staff kerala's leader
+obj4 leadername obj7 obj0 academicstaffsize===obj4 is the leader of obj5 which is the
+obj4 leadername obj7 obj0 academicstaffsize===with a staff compliment of obj8 obj5 is located
+obj0 obj8 obj6 obj6 influencedby===obj4 obj2 of obj0 which was preceded by obj2
+obj0 obj8 obj6 obj6 influencedby===obj4 influenced by obj3 is the obj2 of obj0
+obj0 author obj6 obj6 influencedby===obj0 is preceded by obj2 the books were written
+obj0 author obj6 obj6 influencedby===obj4 was influenced by obj3 and wrote obj0 which
+obj0 obj8 obj6 obj6 influencedby===obj0 was preceded by obj2 the obj2 obj4 was
+obj0 author obj6 obj6 influencedby===obj0 is the sequel to 1634 the ram rebellion written
+obj0 obj8 obj6 obj6 influencedby===obj4 was influenced by obj3 and is the obj2
+obj0 obj8 obj6 obj6 influencedby===influenced by obj3 obj4 is the obj2 of obj0
+obj0 obj8 obj6 obj6 influencedby===obj4 is the obj2 of obj0 which was preceded
+obj0 author obj6 obj6 influencedby===obj0 which was preceded by obj2 was written by
+obj0 author obj6 obj6 influencedby===obj4 influenced by obj3 wrote obj0 it is the
+obj0 obj8 obj6 obj6 influencedby===obj4 influenced by obj3 is the obj2 of obj0
+obj0 author obj6 obj6 influencedby===obj4 who was influenced by obj3 wrote obj0 which
+obj0 author obj6 obj6 influencedby===obj0 is the sequel to obj2 written by obj4
+obj0 author obj6 obj6 influencedby===obj0 was written by obj4 who was influenced by
+obj0 author obj5 obj5 influencedby===obj4 who was born in obj1 was influenced by
+obj0 obj8 obj5 obj5 influencedby===obj4 born in obj1 is the obj2 of obj0
+obj0 obj8 obj5 obj5 influencedby===born obj1 obj4 obj2 of obj0 was influenced by obj2
+obj2 publisher obj5 obj5 parentcompany===the novel obj0 followed by obj0 was published by
+obj2 publisher obj5 obj5 parentcompany===obj0 and it's sequel obj0 is published by obj4
+obj2 publisher obj5 obj5 parentcompany===obj4 published a long long way the book is
+obj1 publisher obj3 obj3 parentcompany===obj0 is the parent company of obj4 who published
+obj1 publisher obj3 obj3 parentcompany===obj0 abbreviated to addiction is published by obj4 who
+obj0 location obj4 obj7 locationcity===obj0 is in obj4 obj5 is the operating organization
+obj0 location obj4 obj7 locationcity===the obj0 located in obj4 is operated by obj5
+obj9 operatingorganisation obj2 obj2 attackaircraft===the obj8 an attack aircraft and the obj0 aircraft
+obj9 operatingorganisation obj2 obj2 attackaircraft===the obj4 which operates obj0 was involved in the
+obj9 operatingorganisation obj2 obj2 attackaircraft===the obj0 is operated by the obj4 which houses
+obj9 operatingorganisation obj2 obj2 attackaircraft===the obj4 is the operating organisation for obj0 and
+obj9 operatingorganisation obj2 obj2 attackaircraft===obj0 is operated by the obj4 there you can
+obj8 operatingorganisation obj1 obj1 attackaircraft===the obj4 who is the operating organisation for obj0
+obj8 operatingorganisation obj1 obj1 attackaircraft===obj0 is operated by the obj4 which has fought
+obj9 operatingorganisation obj2 obj2 attackaircraft===the obj4 who is the operating organisation for obj0
+obj9 operatingorganisation obj2 obj2 attackaircraft===obj0 is operated by the obj4 that airforce was
+obj8 operatingorganisation obj1 obj1 attackaircraft===obj0 is operated by the obj4 who fought obj41
+obj8 operatingorganisation obj1 obj1 attackaircraft===the obj4 deploy the aircraft fighter obj0 and the
+obj8 operatingorganisation obj1 obj1 attackaircraft===the obj4 uses the obj7 attack aircraft and obj0
+obj7 operatingorganisation obj1 obj1 attackaircraft===obj0 is operated by the obj4 which has the
+obj7 operatingorganisation obj1 obj1 attackaircraft===the obj4 is the operating organization for obj0 the
+obj7 operatingorganisation obj1 obj1 attackaircraft===obj0 is operated by the obj4 and fought in
+obj7 operatingorganisation obj1 obj1 attackaircraft===the operating organisation for obj0 is the obj4 who
+obj7 operatingorganisation obj1 obj1 attackaircraft===the obj4 is the operating organisation for obj0 and
+obj7 operatingorganisation obj1 obj1 attackaircraft===the obj4 usaf was involved in the obj9 and
+obj8 operatingorganisation obj2 obj2 attackaircraft===the obj7 an an attack aircraft is used by
+obj8 operatingorganisation obj2 obj2 attackaircraft===the obj7 a us fighter jet operates out of
+obj8 operatingorganisation obj2 obj2 attackaircraft===the obj4 who operate obj0 were involved in the
+obj1 elevationabovethesealevel in metres 23 0 obj1 location===obj0 is in obj3 atlantic county obj7 and is
+obj1 elevationabovethesealevel in metres 23 0 obj1 location===obj0 is located at egg harbor township obj6 in
+obj6 almamater obj0 obj0 affiliations===obj4 was born in obj10 and graduated from obj4
+obj6 almamater obj0 obj0 affiliations===obj4 born in dallas went to the obj4 which
+obj5 almamater obj0 obj0 affiliations===obj4 was a obj6 born in obj11 he graduated
+obj5 almamater obj0 obj0 affiliations===obj4 born in dallas went to the obj4 which
+obj6 almamater obj0 obj0 affiliations===obj4 obj9 competed obj12 the obj4 and graduated from
+obj6 almamater obj0 obj0 affiliations===obj4 went to obj4 which is affiliated with the
+obj8 almamater obj0 obj0 affiliations===obj4 graduated from the obj4 which is affiliated to
+obj0 location obj7 obj0 floorarea===obj5 with obj13 floors covering obj11 square metres is
+obj0 location obj7 obj0 floorarea===obj5 obj4 with obj13 floors covering obj11 square metres
+obj0 location obj7 obj0 floorarea===obj5 which was completed in obj12 has obj13 floors
+obj1 location obj0 obj1 floorarea===obj4 has a floor area of obj41 square metres
+obj1 location obj0 obj1 floorarea===completed in obj42 with obj43 floors and obj41 square
+obj1 location obj0 obj1 floorarea===the obj4 was completed in 1984 it is located
+obj0 location obj5 obj0 buildingstartdate===obj5 is located in obj4 and has obj13 floors
+obj0 location obj5 obj0 buildingstartdate===obj5 construction began in obj6 in obj4 with a
+obj0 location obj6 obj0 buildingstartdate===obj5 obj4 has obj13 floors covering an area of
+obj0 location obj6 obj0 buildingstartdate===the building of obj5 obj4 began in obj5 the
+obj0 location obj11 obj0 floorarea===obj5 in obj4 has obj13 floors and a total
+obj0 location obj11 obj0 floorarea===obj5 obj4 is obj7 square metres completed in obj12
+obj0 location obj11 obj0 floorarea===obj5 obj4 has obj13 floors and a floor area
+obj0 location obj10 obj2 foundationplace===obj7 is one of the key people at obj5
+obj0 location obj10 obj2 foundationplace===obj5 was founded in obj5 by obj7 it is
+obj0 location obj9 obj2 foundationplace===obj5 founded in washington dc is the obj11 of
+obj0 obj11 obj5 obj5 significantbuilding===the obj2 of obj0 was obj4 born in obj9
+obj0 obj11 obj5 obj5 significantbuilding===californian born obj2 obj4 designed the obj0 along with
+obj1 obj11 obj5 obj5 significantbuilding===the obj01 of obj0 was obj4 born in obj9
+obj0 obj11 obj5 obj5 significantbuilding===obj4 was born in obj9 she is the obj2
+obj0 obj11 obj5 obj5 significantbuilding===californian born obj2 obj4 designed the obj0 as well
+obj2 location obj1 obj2 referencenumber obj21===obj0 which are designed based on obj49 obj8 style
+obj2 obj13 obj1 obj2 referencenumber obj21===obj49 obj5 obj00 obj0 constructed obj01 obj48 is obj4
+obj2 obj13 obj1 obj2 referencenumber obj21===obj49 obj5 obj00 obj0 built obj01 obj48 obj01 obj49
+obj1 location obj5 obj1 referencenumber obj18===obj0 are located obj08 obj4 was constructed obj08 obj05
+obj1 location obj5 obj1 referencenumber obj18===obj06 obj0 built obj08 obj05 is located at obj4
+obj1 location obj5 obj1 referencenumber obj18===obj06 obj0 is located at obj4 and it was
+obj1 location obj0 obj1 referencenumber obj30===obj24 obj4 constructed obj8 obj20 are obj8 obj4 they
+obj0 location obj7 obj0 referencenumber obj25===obj5 are located obj8 obj4 and were constructed obj8
+obj0 location obj7 obj0 referencenumber obj25===obj20 obj5 was built obj8 obj19 and is located
+obj0 location obj7 obj0 referencenumber obj25===located obj8 obj4 obj5 were constructed obj8 obj19 and
+obj0 location obj6 obj0 referencenumber obj25===obj20 obj5 constructed obj8 obj19 are located obj8 obj4
+obj0 location obj6 obj0 referencenumber obj25===built obj8 obj19 and obj18 obj23 obj20 obj10 obj9
+obj0 obj15 obj6 obj0 referencenumber obj25===obj20 obj2 obj22 obj5 built obj8 obj19 is obj4
+obj3 leadername obj0 obj3 postalcode===obj1 was designed by the obj11 obj5 who was
+obj3 leadername obj0 obj3 postalcode===obj5 born in obj4 designed obj1 the b postcode
+obj3 leadername obj0 obj3 postalcode===designer of obj1 john madin's obj11 was obj4 a
+obj3 leadername obj0 obj3 postalcode===the obj10 obj4 who designed obj1 was born in
+obj1 location obj5 obj1 foundationplace===bill marriot is the key person at obj0 which
+obj6 obj12 obj17 obj1 material===obj58 obj5 which is made obj20 obj4 is dedicated
+obj5 obj11 obj13 obj1 material===the obj5 which is made from obj3 is in
+obj3 obj9 obj2 obj3 season===obj4 is the location of the home obj4 for
+obj4 ground obj0 obj0 operator===obj4 is owned and operated by obj6 and their
+obj4 ground obj0 obj0 operator===obj7 own and operate obj4 tenants include obj4 obj5
+obj4 obj11 obj0 obj0 operator===obj7 amateurs 's obj2 which they operate is obj4 the
+obj0 country obj8 obj0 academicstaffsize===the obj5 is to be found in the indian
+obj0 country obj8 obj0 academicstaffsize===the obj5 in obj4 obj4 has obj11 academic staff
+obj0 obj10 obj6 obj0 academicstaffsize===the obj5 has an academic staff of obj11 and
+obj0 obj10 obj6 obj0 academicstaffsize===obj5 in obj4 has a staff size of obj11
+obj0 obj10 obj6 obj0 academicstaffsize===with an academic staff of obj11 the obj5 is
+obj0 country obj6 obj0 numberofstudents===the obj5 is located in obj7 obj4 it was
+obj0 country obj6 obj0 numberofstudents===the obj5 obj5 in obj9 is located in the
+obj0 country obj6 obj0 numberofstudents===the obj5 in obj4 has obj11 students and was
+obj0 country obj5 obj0 numberofstudents===the obj5 is located in obj9 obj6 obj4 it
+obj0 country obj5 obj0 numberofstudents===obj3 is the leader of obj4 where the obj5
+obj0 obj9 obj5 obj0 numberofstudents===the obj5 in obj4 was obj6 in obj10 and
+obj0 country obj5 obj0 numberofstudents===the obj5 was obj6 in obj4 in obj10 it
+obj0 obj10 obj6 obj0 numberofstudents===the obj5 has obj11 students and is located in
+obj0 obj10 obj6 obj0 numberofstudents===obj5 in obj4 has a student population of obj11
+obj0 obj10 obj6 obj0 numberofstudents===with obj11 students the obj5 is located in obj4
+obj0 country obj6 obj0 numberofstudents===the obj5 has obj11 students and has a leader
+obj0 obj10 obj6 obj0 numberofstudents===the obj5 of obj4 has obj11 students obj3 is
+obj13 leadername obj2 obj0 headquarters===obj42 obj18 obj47 obj9 obj43 obj17 obj8 obj46 obj42
+obj0 obj11 obj7 obj7 influencedby===influenced by obj4 obj4 is the obj2 of obj2
+obj0 obj11 obj7 obj7 influencedby===obj4 was born in obj3 and was influenced by
+obj0 author obj7 obj7 influencedby===obj2 preceded obj0 which was written by obj4 of
+obj0 obj11 obj7 obj7 influencedby===obj4 is the obj2 of obj0 which was preceded
+obj0 obj11 obj7 obj7 influencedby===obj4 born in burbank california is the obj2 of
+obj0 author obj7 obj7 influencedby===obj4 influenced by robert a heinlin burbank ca wrote
+obj0 obj11 obj7 obj7 influencedby===obj4 was born in obj3 and was influenced by
+obj0 author obj7 obj7 influencedby===obj0 was written by obj4 born in obj3 who
+obj0 author obj8 obj8 influencedby===obj4 was born in obj3 and was influenced by
+obj0 obj11 obj8 obj8 influencedby===influenced by obj4 obj4 is the obj2 of obj0
+obj0 author obj8 obj8 influencedby===obj4 was born in obj3 and his work was
+obj0 obj11 obj8 obj8 influencedby===obj4 was born in obj3 and was influenced by
+obj1 author obj8 obj8 influencedby===obj4 who was born in obj3 wrote the book
+obj1 obj11 obj8 obj8 influencedby===influenced by obj4 obj4 born burbank ca is the
+obj1 author obj8 obj8 influencedby===obj0 was preceded by 1634 the galileo affair it
+obj12 operatingorganisation obj3 obj3 attackaircraft===the obj4 the entity that was involved in the
+obj12 operatingorganisation obj3 obj3 attackaircraft===the operating organisation for obj0 is the obj4 they
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj0 is operated by the obj4 who were part
+obj11 operatingorganisation obj2 obj2 attackaircraft===the obj4 which fought in the obj13 operates the
+obj11 operatingorganisation obj2 obj2 attackaircraft===obj0 is operated by the obj4 who fought in
+obj10 operatingorganisation obj1 obj1 attackaircraft===obj0 is operated by the obj4 which fought in
+obj12 operatingorganisation obj3 obj3 attackaircraft===the obj4 has the obj11 an attack aircraft and
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj0 is operated by the obj4 that airbase has
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj0 is operated by the obj4 which fought in
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj0 is operated by the obj4 and uses obj1
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj0 is operated by the obj4 and uses obj11
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj0 is operated by the obj4 who were involved
+obj10 operatingorganisation obj2 obj2 attackaircraft===obj0 is operated by the obj4 which has several
+obj10 operatingorganisation obj2 obj2 attackaircraft===obj0 is operated by the obj4 who fought in
+obj10 operatingorganisation obj2 obj2 attackaircraft===obj0 is operated by the obj4 the usaf has
+obj13 ispartof obj4 obj12 locationcity===obj5 located in obj0 is the operating organisation of
+obj13 ispartof obj4 obj12 locationcity===adolfo suarez madrid barajas airport is located at obj0 obj6
+obj2 ispartof obj6 obj11 locationcity===obj0 is found in obj0 which is located in
+obj5 almamater obj0 obj0 affiliations===obj4 was born in obj14 on 23 july 1927
+obj5 almamater obj0 obj0 affiliations===obj4 has died in obj11 he was born in
+obj9 almamater obj0 obj0 affiliations===obj4 was born obj15 the obj5 on july 23rd
+obj9 almamater obj0 obj0 affiliations===american obj4 born on 07 23 1927 attended the obj4
+obj9 almamater obj0 obj0 affiliations===obj4 was born obj15 1927 and graduated from the
+obj9 almamater obj0 obj0 affiliations===us national obj4 from obj14 attended the obj4 which
+obj9 almamater obj0 obj0 affiliations===obj4 a us national born obj15 texas was educated
+obj7 almamater obj0 obj0 affiliations===obj14 born obj8 obj4 attended the obj4 this university
+obj7 almamater obj0 obj0 affiliations===obj4 was born obj15 obj14 and attended the obj4
+obj8 almamater obj0 obj0 affiliations===obj4 was a student at obj4 affiliated to the
+obj7 almamater obj0 obj0 affiliations===obj4 attended the obj4 which is affiliated to the
+obj7 almamater obj0 obj0 affiliations===obj4 attended the obj4 who are competing obj15 the
+obj7 almamater obj0 obj0 affiliations===obj4 graduated from the obj4 who are competing obj15
+obj8 almamater obj0 obj0 affiliations===obj4 attended the obj4 who were affiliated to the
+obj8 almamater obj0 obj0 affiliations===the obj4 which is competing obj15 the obj5 is
+obj10 almamater obj0 obj0 affiliations===obj4 was a student at obj4 which is affiliated
+obj1 location obj4 obj1 floorarea===obj0 in obj4 obj0 obj3 has a floor area
+obj1 location obj4 obj1 floorarea===measuring obj05 square metres obj0 is located in obj4
+obj1 location obj4 obj1 floorarea===obj0 has a floor area of obj05 square metres
+obj1 location obj8 obj1 buildingstartdate===construction of obj0 obj4 began in obj7 the building
+obj1 location obj8 obj1 buildingstartdate===construction of obj0 in the obj4 began in obj7
+obj0 location obj10 obj2 foundationplace===the obj11 of obj4 is obj8 and lars lokke
+obj0 location obj12 obj2 foundationplace===obj8 is one of the key people of obj5
+obj7 obj11 obj4 obj4 significantbuilding===obj5 born in bloomsbury was the obj2 of obj0
+obj7 obj11 obj4 obj4 significantbuilding===the obj2 obj5 was born in obj9 he designed
+obj1 obj14 obj7 obj7 significantbuilding===obj4 was born in obj02 and is the obj04
+obj0 obj14 obj7 obj7 significantbuilding===the obj2 of obj0 was obj4 but she has
+obj0 obj14 obj7 obj7 significantbuilding===californian born obj2 obj4 designed the obj0 as well
+obj5 leadername obj1 obj5 postalcode===obj0 is lead by the obj0 and the obj4
+obj5 leadername obj1 obj5 postalcode===obj0 is lead by obj4 is governed by the
+obj1 dishvariation obj12 united kingdom leadername===bltis a type of sandwich containing bacon and obj01
+obj1 dishvariation obj12 united kingdom leadername===bacon sandwiches are popular in the uk where obj6
+obj5 country obj12 obj0 foundationplace===obj5 founded in obj10 is the obj9 of obj5
+obj5 country obj12 obj0 foundationplace===francois hollande and obj3 are leaders of obj4 a
+obj5 country obj12 obj0 foundationplace===created by obj5 founded n chicago obj5 come from
+obj5 obj11 obj12 obj0 foundationplace===obj5 originates from obj4 where the country's leaders are
+obj5 country obj12 obj0 foundationplace===obj5 can be found in obj4 where the leaders
+obj5 country obj12 obj0 foundationplace===obj5 come from obj4 where the leaders are obj3
+obj5 country obj12 obj0 foundationplace===obj5 come from obj4 and were invented by the
+obj6 ethnicgroup obj3 obj6 official obj12===the obj4 and the obj4 are ethnic groups from
+obj6 ethnicgroup obj3 obj6 official obj12===obj14 is a dish eaten in the phillipines where
+obj5 ethnicgroup obj9 obj5 official obj12===ethnic groups in the obj0 include the obj4 and
+obj5 obj11 obj14 obj5 official obj11===obj13 is a dish from the obj0 where the
+obj4 obj11 obj14 obj4 official obj11===obj13 is a dish that comes from the obj0
+obj4 obj11 obj14 obj4 official obj11===obj13 is eaten in the obj0 where obj0 is
+obj4 obj11 obj14 obj4 official obj11===languages spoken in the obj0 include english and obj5
+obj8 obj14 obj18 obj2 dedicatedto===obj5 designed by obj1 is dedicated to obj19 obj0
+obj10 leader obj4 obj0 designer===the obj5 located in obj5 was designed by obj5
+obj5 obj13 obj0 obj0 operator===obj8 and obj6 are tenants of obj4 the home
+obj5 obj13 obj0 obj0 operator===obj9 amateurs 's obj2 is obj4 which is operated by
+obj5 obj13 obj0 obj0 operator===obj9 amateurs 's obj2 is obj4 it is owned and
+obj0 country obj12 obj0 academicstaffsize===the obj5 in obj5 obj9 obj4 obj15 obj16 academic
+obj0 country obj12 obj0 academicstaffsize===mahe obj4 is located obj7 of the obj11 of
+obj0 country obj11 obj0 academicstaffsize===the obj5 in obj8 obj4 obj15 obj16 academic staff
+obj0 obj6 obj11 obj0 academicstaffsize===one of the rivers of obj4 is the obj7
+obj0 country obj8 obj0 numberofstudents===the obj5 is located in obj11 obj4 its obj12
+obj0 country obj8 obj0 numberofstudents===the obj12 of the obj5 is obj7 the accademia
+obj0 country obj8 obj0 numberofstudents===obj5 of obj11 obj4 had an academic staff of
+obj0 country obj8 obj0 numberofstudents===the obj5 in obj9 obj4 was obj6 in obj11
+obj0 country obj8 obj0 numberofstudents===the obj5 was obj6 in obj11 and is situated
+obj0 obj11 obj6 obj0 numberofstudents===obj5 in obj10 obj4 has obj14 students and was
+obj0 country obj6 obj0 numberofstudents===the obj5 was obj7 in obj13 in obj10 obj4
+obj11 leadername obj0 obj18 obj33 obj8 obj28===obj27 leader in obj4 known as obj1 is obj4
+obj1 obj14 obj10 obj10 influencedby===obj00 was born in obj5 and came under the
+obj1 obj14 obj10 obj10 influencedby===obj00 born in obj5 is the obj04 of obj0
+obj1 obj14 obj10 obj10 influencedby===obj00 born in obj5 and influenced by obj6 is
+obj1 author obj10 obj10 influencedby===obj00 who was born in obj5 was influenced by
+obj1 obj14 obj10 obj10 influencedby===iinfluenced by obj6 obj00 born in burbank california is
+obj1 author obj11 obj11 influencedby===after demarce short stories were published in the grantville
+obj1 obj14 obj11 obj11 influencedby===obj01 was born in obj5 and is the obj04
+obj0 author obj11 obj11 influencedby===obj0 was the sequel to obj3 it was written
+obj0 author obj11 obj11 influencedby===influenced by obj6 obj0 was written by obj4 who
+obj0 obj14 obj9 obj9 influencedby===obj2 is the birth place of obj4 who was
+obj0 author obj9 obj9 influencedby===obj0 was written by obj4 who was born in
+obj0 obj14 obj9 obj9 influencedby===obj4 who was born in obj2 and was influenced
+obj10 almamater obj0 obj0 affiliations===obj4 was born obj18 obj16 texas he attended the
+obj10 almamater obj0 obj0 affiliations===obj4 was born obj18 obj16 texas he graduated from
+obj10 almamater obj0 obj0 affiliations===obj4 was born obj18 obj16 texas he was a
+obj7 almamater obj0 obj0 affiliations===obj4 was born on the 23rd july 1927 obj18
+obj7 almamater obj0 obj0 affiliations===obj4 was born on 23rd july 1927 obj18 dallashe
+obj7 almamater obj0 obj0 affiliations===obj4 was born obj18 obj17 on the 23rd of
+obj7 almamater obj0 obj0 affiliations===obj4 graduated for the obj4 which is affiliated with
+obj9 almamater obj0 obj0 affiliations===obj4 was born obj18 obj17 on the 23rd of
+obj9 almamater obj0 obj0 affiliations===american obj4 joined obj18 obj21 obj17 and died obj21
+obj9 almamater obj0 obj0 affiliations===obj4 is an american who attended the obj4 which
+obj6 almamater obj0 obj0 affiliations===obj4 was born obj18 obj17 and is dead was
+obj6 almamater obj0 obj0 affiliations===obj4 was born obj18 obj17 was a obj9 and
+obj7 almamater obj0 obj0 affiliations===obj4 was born in obj17 in the us he
+obj7 almamater obj0 obj0 affiliations===american obj4 was born in obj17 died in obj15
+obj7 almamater obj0 obj0 affiliations===obj4 attended the obj4 which is affiliated with the
+obj7 almamater obj0 obj0 affiliations===obj4 died obj18 obj15 on 28 february 1966 and
+obj10 almamater obj0 obj0 affiliations===the obj4 is an affiliate of the obj4 its
+obj10 almamater obj0 obj0 affiliations===obj4 died obj18 obj13 whose mayor is obj7 and
+obj10 almamater obj0 obj0 affiliations===obj4 was born obj18 obj14 obj5 he was a
+obj11 almamater obj0 obj0 affiliations===the obj4 is affiliated to the obj5 it will
+obj11 almamater obj0 obj0 affiliations===gregory lfenves is appointed obj13 on the obj4 who
+obj12 obj19 obj24 obj2 material===obj5 made obj57 obj7 is dedicated to obj55 obj0
+obj12 obj19 obj24 obj2 material===obj4 is obj55 obj5 obj57 obj0 obj55 obj5 is
+obj0 country obj9 obj0 numberofstudents===the obj5 is located in obj13 obj10 obj4 it
+obj0 country obj9 obj0 numberofstudents===the obj15 of obj10 in obj13 obj4 is the
+obj0 country obj9 obj0 numberofstudents===the obj5 is located in obj13 obj10 obj4 it
+obj0 country obj10 obj0 numberofstudents===the obj5 in obj11 obj4 was obj8 in obj13
+obj0 country obj9 obj0 numberofstudents===the obj5 is located in obj12 obj4 and it
+obj0 country obj9 obj0 numberofstudents===the obj14 of obj12 in obj4 which is led
+obj0 country obj9 obj0 numberofstudents===obj4 is governed by the federal chancellor and is
+obj0 country obj7 obj0 numberofstudents===the obj5 is located in obj11 obj14 obj4 it
+obj0 country obj7 obj0 numberofstudents===obj5 is the leader of obj4 which is the
+obj0 country obj7 obj0 numberofstudents===obj4 with the governor johann schneider ammann is also
+obj0 country obj8 obj0 numberofstudents===the obj5 in obj14 obj4 was obj9 in obj15
+obj0 country obj8 obj0 numberofstudents===obj5 is located in obj14 obj4 which leader is
+obj7 almamater obj0 obj0 affiliations===obj4 was an american who attended the obj4 which
+obj7 almamater obj0 obj0 affiliations===american obj4 was born in obj20 on the 23rd
+obj8 almamater obj0 obj0 affiliations===obj4 was an american who was born obj21 obj20
+obj8 almamater obj0 obj0 affiliations===obj4 was born obj21 obj20 and went onto be
+obj8 almamater obj0 obj0 affiliations===obj4 was born obj21 obj20 and is an american
+obj8 almamater obj0 obj0 affiliations===obj4 was born an american obj21 obj20 texas he
+obj7 almamater obj0 obj0 affiliations===obj4 was born obj21 obj20 on the 23rd july
+obj5 almamater obj0 obj0 affiliations===obj11 obj4 was born in obj20 and died february
+obj5 almamater obj0 obj0 affiliations===obj4 was born in obj20 and he was a
+obj6 almamater obj0 obj0 affiliations===obj4 was a us national who was born in
+obj6 almamater obj0 obj0 affiliations===obj3 national obj4 was born in obj20 he graduated
+obj6 almamater obj0 obj0 affiliations===obj4 has died in obj16 born in obj20 he
+obj12 almamater obj0 obj0 affiliations===obj4 was born obj21 obj18 texas and attended the
+obj12 almamater obj0 obj0 affiliations===obj4 attended the obj4 where obj7 is the obj15
+obj12 almamater obj0 obj0 affiliations===obj4 graduated from the obj4 and died obj21 obj14
+obj15 obj25 obj10 obj2 material===obj5 made from obj8 is dedicated to obj58 obj0
+obj15 leader obj10 obj2 material===obj58 obj5 known as turk sehitleri aniti obj31 obj58
+obj15 obj25 obj10 obj2 material===obj4 is is obj58 prime minister obj59 obj58 obj5
+obj15 leadertitle obj4 obj0 designer===the obj5 found in obj5 is made of obj16
+obj0 country obj11 obj0 numberofstudents===the obj5 is located in obj12 obj15 obj4 it
+obj0 country obj11 obj0 numberofstudents===obj5 in obj12 obj4 is located in obj15 its
+obj0 country obj10 obj0 numberofstudents===obj5 located in obj17 obj4 was created in obj18
+obj0 obj16 obj10 obj0 numberofstudents===obj12 in obj18 the obj5 in obj17 obj4 has
+obj0 country obj10 obj0 numberofstudents===the obj5 in obj17 obj4 was obj12 in obj18
+obj0 country obj9 obj0 numberofstudents===the obj5 is located in obj14 obj17 obj4 was
+obj0 country obj9 obj0 numberofstudents===the obj5 is located in obj17 obj4 it was

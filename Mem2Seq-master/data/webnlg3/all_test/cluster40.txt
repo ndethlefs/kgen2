@@ -1,0 +1,94 @@
+obj1 location obj0===obj1 can be found in obj0
+obj2 language obj0===the obj0 is spoken in obj2
+obj2 ispartof obj0===obj2 is part of the obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj1 ispartof obj0===obj1 is in obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj0 ispartof obj1===obj0 is part of the obj1
+obj2 leadername obj0===the leader of obj2 is obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj0 leadername obj1===the leader of obj0 is obj1
+obj0 leadername obj1===obj1 is the leader of obj0
+obj0 leadername obj1===the leader of obj0 is obj1
+obj0 ispartof obj2===obj0 is a part of obj2
+obj0 ispartof obj2===obj0 is part of obj2
+obj2 leadername obj0===obj0 was lord mayor of obj2
+obj2 leadername obj0===obj0 is an ethiopian leader
+obj2 leadername obj0===the name of the leader in obj2 is obj0
+obj1 location obj0===obj1 is located at obj0
+obj1 location obj0===obj1 is located in obj0
+obj0 ispartof obj1===obj0 is part of obj1
+obj0 ispartof obj1===obj0 is a part of obj1
+obj1 ispartof obj0===obj1 is a part of obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj1 ispartof obj0===obj1 was part of obj0
+obj0 ispartof obj1===obj0 is part of obj1
+obj1 ethnicgroup obj0===the white south africans are an ethnic group of obj1
+obj1 ethnicgroup obj0===one of the ethnic groups in obj1 is white
+obj0 leadername obj1===the leader of the obj0 is obj1
+obj0 leadername obj1===the leader of obj0 is obj1
+obj1 language obj0===obj1 is written in the obj0
+obj0 language obj1===obj0 is written in the obj1
+obj1 ethnicgroup obj0===the obj1 has an ethnic group called obj0
+obj1 ethnicgroup obj0===obj0 is one of the ethnic groups in the obj1
+obj1 location obj0===obj1 is located in obj0
+obj1 location obj0===obj1 is in obj0
+obj0 ispartof obj1===obj0 is part of the obj1
+obj1 ispartof obj0===obj1 is part of obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj1 ispartof obj0===obj1 is a part of obj0
+obj1 language obj0===the obj0 is spoken in obj1
+obj2 leadername obj0===obj0 is a leader in obj2
+obj2 leadername obj0===obj0 is the leader of obj2
+obj2 leadername obj0===obj0 is the leader of obj2
+obj2 ethnicgroup obj0===the obj0 are an ethnic group from obj2
+obj2 ethnicgroup obj0===the obj0 are an ethnic group in obj2
+obj2 ethnicgroup obj0===obj0 is one of the ethnic groups in obj2
+obj2 ethnicgroup obj0===obj0 is an ethnic group in obj2
+obj2 leadername obj0===the leader of obj2 is obj0
+obj2 leadername obj0===the name of the leader of obj2 is obj0
+obj2 leadername obj0===the name of the leader in obj2 is obj0
+obj0 leadername obj1===obj1 is the leader of the obj0
+obj0 leadername obj1===obj1 is a leader in the obj0
+obj2 leadername obj0 obj5 obj4 obj2===obj2 is the obj4 obj5 comes from and the
+obj2 leadername obj5 obj0 obj4 obj2===obj0 is in the obj4 of obj2 whose leader
+obj0 ispartof obj5 obj2 location obj0===obj2 can be found in obj0 which is part
+obj0 ispartof obj5 obj2 location obj0===obj2 is located in obj0 which is part of obj5
+obj0 ispartof obj5 obj2 location obj0===obj2 is located in obj0 which is part of obj5
+obj3 ispartof obj0 obj4 location obj3===the obj4 is in obj3 which is part of
+obj3 ispartof obj0 obj4 location obj3===the obj4 is located in obj3 in the obj0
+obj3 ispartof obj0 obj4 location obj3===the obj4 is located in obj3 which is part
+obj2 leadername obj0 obj1 obj7===the leader of obj2 is the obj0 this city
+obj7 leadername obj2 obj0 obj5===obj2 is the leader of obj7 the obj5 of
+obj2 ispartof obj0 obj0 country===obj2 is in obj0 us where new york is
+obj3 language obj0 obj2 country===obj2 is located in the obj3 where the obj0
+obj3 language obj0 obj2 country===the obj3 where the obj1 are an ethnic group
+obj5 leadername obj1 obj5 obj4===the obj0 is found in obj5 where the obj4
+obj3 ispartof obj0 obj3 country===obj3 is in the obj5 where one of the
+obj3 ispartof obj2 obj7 obj9===the obj0 is located in obj3 part of obj2
+obj3 ispartof obj2 obj7 obj9===obj0 is located in obj3 obj2 obj7 the obj9
+obj1 leadername obj0===obj0 is a leader in obj1
+obj1 leadername obj0===the leader of obj1 is called obj0
+obj1 leadername obj0===the leader of obj1 is obj0
+obj0 leadername obj1===the leader of the obj0 is obj1
+obj2 leadername obj0===obj0 is the leader of obj2
+obj1 location obj0===obj1 is located in obj0
+obj1 location obj0===obj1 is in obj0
+obj2 leadername obj0===obj0 is a leader in obj2
+obj2 leadername obj0===the leader of obj2 is obj0
+obj2 leadername obj0===obj2 has a leader named obj0
+obj2 leadername obj0===the leader of obj2 is obj0
+obj2 leadername obj0===obj0 is a leader of obj2
+obj0 city obj1===obj0 play in obj1
+obj2 language obj0===obj0 is spoken in obj2
+obj2 language obj0===the obj0 is spoken in obj2
+obj2 language obj0===the obj0 is spoken in obj2
+obj1 city obj0===obj1 are based in obj0
+obj1 ispartof obj0===obj1 is a part of obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj1 ispartof obj0===obj1 is part of obj0
+obj1 ispartof obj0===obj1 is a part of obj0
+obj1 ispartof obj0===obj1 is part of the obj0 area
+obj4 language obj0 obj1 obj2 obj4===the obj0 is spoken in obj4 which is the
+obj4 ispartof obj0 obj6 obj3===obj4 part of obj0 is led by obj1 and
+obj5 ispartof obj2 obj0 obj7===the obj7 of obj0 is obj5 part of greater

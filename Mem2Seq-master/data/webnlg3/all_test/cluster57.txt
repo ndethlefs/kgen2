@@ -1,0 +1,7 @@
+obj0 location new york city new york city country===obj0 are in new york usa obj5 is the
+obj0 obj4 obj14 obj21 obj30 obj11 obj26===obj25 obj0 has its obj4 in obj14 obj25 obj21
+obj3 associatedband associatedmusicalartist twilight band obj3 genre obj1===obj3 performs obj1 and played with the band twilight
+obj3 associatedband associatedmusicalartist twilight band obj3 genre obj1===obj3 performs obj1 and he played with the band twilight
+obj3 associatedband associatedmusicalartist twilight band obj3 genre obj1===obj3 was with the band twilight and plays obj1
+obj5 obj8 obj13 al anderson obj14 band===al anderson is a member of the obj14 band
+obj5 obj8 obj13 al anderson obj14 band===country musician al anderson twho plays with the band

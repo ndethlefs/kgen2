@@ -1,0 +1,32 @@
+amsterdam airport schiphol runwayname 09 27 'buitenveldertbaan'===amsterdam airport schipol runway name is 09 27 buitenvelderbaan
+amsterdam airport schiphol runwayname 09 27 'buitenveldertbaan'===amsterdam schiphol airport has a runway named 09 27 buitenveldertbaan
+amsterdam airport schiphol runwayname 18c 36c 'zwanenburgbaan'===runway name of amsterdam's schiphol airport is 18c 36c zwanenburgbaan
+amsterdam airport schiphol runwayname 18l 36r 'aalsmeerbaan'===amserdam airport schiphol runway name is 18l 36r aalsmeerbaan
+amsterdam airport schiphol runwayname 18l 36r 'aalsmeerbaan'===amsterdam schiphol airport has the runway name 18l 36r 'aalsmeerbaan
+amsterdam airport schiphol runwayname 18r 36l 'polderbaan'===36l plderbaan is the runway name at amsterdam airport schipol
+amsterdam airport schiphol runwayname 18r 36l 'polderbaan'===runway at amsterdam sciphol airport is called 18r 36l polderbaan
+obj2 mainingredients meringue ice cream sponge cake===the main ingredients of a obj0 are meringue obj5
+obj1 mainingredients ground almond jam butter eggs===some main ingredients in obj0 are obj4 almonds jam
+obj1 mainingredients ground almond jam butter eggs===obj0 has obj4 almond jam butter and obj8 as
+obj2 mainingredients ground beef tapioca noodle rice===the main ingredients of obj0 are obj4 beef tapioca
+obj2 mainingredients ground beef tapioca noodle rice===obj4 beef tapioca noodle obj8 vermicelli beef broth kailan
+obj2 mainingredients noodles pork organs vegetables chicken===the main ingredients of obj0 are noodles obj5 organs
+obj2 mainingredients noodles pork organs vegetables chicken===the main ingredients of obj0 are noodles obj5 organs
+obj2 mainingredients chopped fruits sour cream condensed===obj6 cream obj4 fruits obj8 milk granola raisins and
+obj2 mainingredients chopped fruits sour cream condensed===the main ingredients of obj0 are obj4 fruits obj6
+obj2 mainingredients chopped fruits sour cream condensed===obj4 fruits obj6 cream obj8 milk granola shredded coconut
+agremiação sportiva arapiraquense obj2 asa gigante ''===agremiacao sportiva arapiraquense have the obj2 obj4 obj5
+obj1 obj2 a s d licata 1931===obj0 was at the obj2 asd licita 1931
+peter stöger club fc admira wacker mödling===peter stoger plays for fc admira wacker modling
+obj0 obj2 abh math semin univ hambg===abhmathseminunivhambg is the obj2 for obj0
+obj1 floorcount obj5 obj1 owner redefine properties limited===obj0 which has obj4 floors is owned by redefine properties
+obj0 location obj2 obj2 obj4 pound sterling===obj0 is located within the obj7 where the obj7
+arròs negre country spain spain ethnicgroup spaniards===the spanish dish arros negre is traditional
+baku turkish martyrs' memorial designer hüseyin bütüner obj8 obj7 güner===huseyin butuner obj6 obj7 guner designed the baku turkish
+obj0 location obj4 obj4 ethnicgroups british arabs===the obj0 is in obj5 honoring the british arab
+chievo verona obj4 rolando maran rolando maran club calcio catania===rolando naran is a member of the calio cantania
+obj0 location obj4 obj4 obj3 prokopis pavlopoulos===the obj0 club is located in obj5 where prokopis
+obj0 publisher obj1 obj1 obj4 elizabeth garrett===obj0 was published by obj7 where elizabetth garrett is
+obj6 starring bill oddie bill oddie child===billie oddie who starred in obj0 is kate hardie's
+addiction journal publisher wiley blackwell wiley blackwell parentcompany===the journal addiction was published by wiley blackwell parent
+obj3 ma obj36 obj36 gredients kway teow===obj0 is from obj9 it is popular obj06 obj10

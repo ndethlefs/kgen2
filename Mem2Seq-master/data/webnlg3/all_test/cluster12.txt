@@ -1,0 +1,11 @@
+obj1 servin obj3 size 30 0 obj3===obj1 can be served in 30 gram sizes
+obj3 inofficewhileprimeminister obj5 new democracy greece obj6===obj3 a member of the greek new democracy obj7
+obj2 shipdisplacement 1850 0 tonnes obj2 topspeed===obj2 has a ship displacement of 1850 tonnes and
+obj2 shipdisplacement 1850 0 tonnes obj2 topspeed===the obj2 which is 1258 metres long has a
+obj0 productionendyear obj8 obj0 bodystyle===the obj0 with its straight four obj6 completed production
+obj0 productionendyear obj8 obj0 bodystyle===the obj0 has a obj3 and a obj7 body
+obj6 draftteam obj0 obj4 generalmanager===obj6 was originally drafted to the obj0 out of
+obj6 draftteam obj0 obj4 generalmanager===obj8 is general manager for the obj4 the team
+obj6 draftteam obj0 obj4 generalmanager===obj6 was drafted with the obj0 in obj2 he
+obj7 inofficewhilemonarch obj1 obj1 predecessor===obj7 born in galicia spain held office during the
+obj7 inofficewhilemonarch obj1 obj1 predecessor===obj7 born in galicia spain served office during prime

@@ -1,0 +1,37 @@
+madrid–barajas airport location obj2 adolfo suárez madrid–barajas airport runwaylength obj5===the runway length of adolfo suarez madrid barajas airport obj4
+obj0 country obj5 obj0 location akita akita===obj5 is located in akita obj4
+obj0 country obj5 obj0 location akita akita===the obj5 is located in akitaakita obj4
+obj0 country obj5 obj0 location akita akita===the obj5 is located in akita obj4
+obj1 obj4 obj5 obj5 turkish martyrs' memorial location===turkish martyrs' memorial is located in obj4 the obj2
+obj1 obj4 obj5 obj5 turkish martyrs' memorial location===the turkish martyrs memorial is located in obj4 the
+obj0 country obj3 obj3 ethnicgroup white people===obj0 comes from obj4 where the ethnic group is white
+obj0 country obj2 obj2 obj4 washington d c===obj0 is published in the obj7 the obj7 of
+obj0 country obj2 obj2 obj4 washington d c===obj0 is published in the obj7 which has as
+states leadername obj3 1634 the ram rebellion country united states===1634 the ram rebellion was written in the us
+obj1 leadername obj3 1634 the ram rebellion country obj1===1634 the ram rebellion comes from the obj0 where
+states leadername obj3 1634 the ram rebellion country united states===1634 the ram rebellion was written in the us
+the united states 1634 the ram rebellion country united states===1634 the ram rebellion was written in the us
+runway surfacetype obj6 ardmore airport new zealand elevationabovethesealevel in metres===the 3rd runway at ardmore airport in new zealand
+ardmore airport new zealand 3rd runway surfacetype obj5 obj5 division===ardmore airport's 3rd runway is made of obj4 a
+zealand runwaylength obj7 ardmore airport new zealand 3rd runway surfacetype===the ardmore airport in new zealand located 34 meters
+zealand runwaylength obj7 ardmore airport new zealand 3rd runway surfacetype===new zealand's ardmore airport is obj8 metres above sea
+zealand runwaylength obj7 ardmore airport new zealand 3rd runway surfacetype===the ardmore airport in new zealand located 34 meters
+obj3 obj7 obj8 obj8 turkish martyrs' memorial location===the obj4 turkish martyr's memorial is located in the
+obj3 obj7 obj8 obj8 turkish martyrs' memorial location===obj1 is the leader of obj0 the obj2 is
+obj3 obj7 obj8 obj8 turkish martyrs' memorial location===the obj4 turkish martyr's memorial is located in obj4
+obj3 obj8 obj2 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 which
+obj3 obj8 obj2 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 which
+obj3 obj8 obj1 1634 the ram rebellion country===1634 the ram rebellion was written in the obj0
+obj2 leadername obj5 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 where
+obj2 leadername obj5 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 where
+obj2 leadername obj5 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 where
+obj2 leadername obj5 1634 the ram rebellion obj8===1634 the ram rebellion comes from the obj0 where
+obj2 leadername obj5 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 where
+obj2 leadername obj5 1634 the ram rebellion country===1634 the ram rebellion comes from the obj0 where
+runway surfacetype obj9 ardmore airport new zealand elevationabovethesealevel in metres===ardmore airport in new zealand is 34 metres above
+runway surfacetype obj8 ardmore airport new zealand elevationabovethesealevel in metres===ardmore airportnew zealand is elevated obj11 meters above sea
+zealand runwaylength obj10 ardmore airport new zealand 3rd runway surfacetype===ardmore airport in new zealand is 34 meters above
+zealand runwaylength obj9 ardmore airport new zealand 3rd runway surfacetype===the runway name of ardmore airport which is 34
+zealand runwaylength obj10 ardmore airport new zealand 3rd runway surfacetype===ardmore airport in new zealand is 34 metres above
+zealand 3rd runway surfacetype obj11 ardmore airport new zealand operatingorganisation===the obj0 is the operating organisation for ardmore airport
+zealand runwaylength obj13 ardmore airport new zealand 3rd runway surfacetype===the obj0 is the operating organisation for ardmore airport

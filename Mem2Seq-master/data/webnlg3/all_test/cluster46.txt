@@ -1,0 +1,21 @@
+asilomar conference grounds obj2 obj1===obj1 was the obj2 of the grounds of asilomar conference
+aek athens f c league obj0 obj0 obj5===aek athens's obj7 is in obj6 and it competes
+aek athens f c manager obj3 obj3 obj7===aek athens are managed by obj3 who is associated
+asilomar conference grounds obj8 obj4 obj4 birthplace===obj4 was born in obj3 and is the obj8
+british hong kong obj4 obj6 obj2 obj13 obj15===born in hong kong obj2 obj13 obj15 obj12 obj11
+aek athens f c manager obj6 obj6 obj13===obj6 is in the obj4 obj13 and previously played
+aek athens f c obj11 obj6 obj6 club===obj6 is the obj11 of aek athens who play
+al asad airbase operatingorganisation obj3 obj3 attackaircraft===al asad air base is operated by the obj3
+asilomar conference grounds obj14 obj8 obj8 birthplace===the obj14 obj8 was born in obj7 and designed
+alaa abdul zahra obj5 obj0 obj0 manager obj3===alaa abdul zahra's obj5 is obj0 managed by obj3
+alaa abdul zahra club obj0 obj0 manager obj3===alaa abdul zahra plays for obj0 managed by obj3
+aleksey chirikov icebreaker obj5 obj8 aleksey chirikov icebreaker builder===obj3 built the icebreaker aleksey chirikov with a obj8
+alaa abdul zahra birthplace obj8 alaa abdul zahra club===alaa abdul zahra born in obj8 plays for obj1
+alaa abdul zahra obj7 obj1 obj1 ground===obj0 is one of the clubs of alaa abdul
+alaa abdul zahra club obj1 obj1 ground===alaa abdul zahra played for the iraq national under
+alaa abdul zahra club obj1 obj1 ground===alaa abdul zahra plays for obj1 in obj8 and
+alaa abdul zahra club obj1 obj1 ground===alaa abdul zahra plays for obj1 that has its
+aleksey chirikov icebreaker builder obj6 obj6 demonym===the icebreaker ship aleksey chirikov was built in obj4
+aleksey chirikov icebreaker builder obj6 obj6 obj7===the icebreaker aleksey chirikov was built in obj4 obj6
+aleksey chirikov icebreaker builder obj6 obj6 demonym===the natives of obj6 are known as obj11 and
+aleksey chirikov icebreaker obj7 obj11 aleksey chirikov icebreaker status===the icebreaker aleksey chirikov was built in obj6 by

@@ -146,31 +146,7 @@ class TripletsReader:
 		with open(file, 'w') as fp:
 		    json.dump(self.graph_delex, fp)				
 			
-			
-'''def storeMoreData(filename):
-	lines = [line.rstrip('\n') for line in open(filename)]
 
-	for line in lines:
-		triplet = line.split(',')
-		key = triplet[2]
-		_key = triplet[1]
-		_val = triplet[0]
-		list = []
-	
-		if not key in graph:
-			subgraph = {}
-		
-		else:
-			subgraph = graph[key]
-			if _key in subgraph:
-				list = subgraph[_key]
-			
-		list.append(_val)
-		subgraph[_key] = list
-		graph[key] = subgraph	
-	
-		print triplet
-	print graph'''
 
 
 start_time = time.time()
@@ -188,11 +164,6 @@ start_time = time.time()
 #print('delex',reader.graph_delex["lenny randle"])
 #print(reader.graph_delex)
 #printDictionary()
-#reader.query("aaron hohlbein")
-#query("USA")
-#query("walter extra")
-#query("Will Smith")
-#query("Simon Cowell")
 
 
 #graph_delex = reader.delexicalise_graph()

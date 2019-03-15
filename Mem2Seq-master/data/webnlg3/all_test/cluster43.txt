@@ -1,0 +1,131 @@
+obj1 elevationabovethesealevel in metres 12 0===obj1 is 12 metres above sea level
+obj1 elevationabovethesealevel obj7 obj1 areatotal===obj1 is obj7 metres above sea level and has
+obj1 elevationabovethesealevel obj7 obj1 areatotal===obj1 lies obj7 metres above sea level and covers
+obj1 elevationabovethesealevel obj7 obj1 areatotal===obj1 located obj7 above sea level covers an area
+obj1 publisher obj3 obj3 parentcompany obj0===obj0 is the parent company of obj3 which published obj1
+obj1 publisher obj3 obj3 parentcompany obj0===obj1 was published by obj3 a subsidiary of obj0
+obj1 publisher obj3 obj3 parentcompany obj0===the book a long long way was published by
+obj0 obj5 obj1 obj1 parentcompany obj3===obj3 is the parent company of obj1 the obj5
+obj0 obj5 obj1 obj1 parentcompany obj3===obj1 is the obj5 of the obj0 with obj3
+obj0 floorcount obj7 obj0 floorarea===obj0 has an area of obj6 square metres and
+obj0 floorcount obj7 obj0 floorarea===obj0 has obj7 floors and has a floor area
+obj0 floorcount obj7 obj0 floorarea===obj0 has obj7 floors and obj6 square metres
+obj1 obj8 obj3 obj3 parentcompany===obj3 whose parent company is obj0 is the obj8
+obj0 location obj3 obj0 floorarea===obj0 in the obj3 has obj10 floors that cover
+obj0 location obj3 obj0 floorarea===obj0 in the obj3 has obj10 floors with a
+obj0 location obj3 obj0 floorarea===obj0 is located in the obj3 it has a
+obj5 obj8 obj2 obj2 significantbuilding===obj2 who was born in obj6 is the obj8
+obj0 obj8 obj3 obj3 significantbuilding===obj3 who was born in obj6 is the obj8
+obj0 obj8 obj3 obj3 significantbuilding===obj3 who was born in obj6 was the obj8
+obj0 country obj7 obj0 academicstaffsize===obj0 is located in obj5 obj7 and it has
+obj0 country obj7 obj0 academicstaffsize===obj0 has an academic staff of obj8 and is
+obj0 country obj7 obj0 academicstaffsize===obj0 in obj5 obj7 has a staff of obj8
+obj0 location obj8 obj0 floorarea===the building at obj0 obj8 completed in obj12 has
+obj0 location obj8 obj0 floorarea===obj0 a obj7 square metre obj13 floor building in
+obj0 location obj8 obj0 floorarea===obj0 in obj8 was completed in obj12 and has
+obj10 leadertitle obj3 obj0 designer===obj3 is the official title of the turkish leader
+obj4 obj10 english obj10 albany georgia country===native americans are an ethnic group in the obj4
+obj4 language english language albany georgia country===english is spoken in the obj4 where native americans
+obj4 obj10 english obj10 albany georgia country===albanygeorgia is located in the obj4 where english is
+obj3 ground obj1 obj3 season===based at obj1 is obj3 the full name of
+obj3 obj10 obj1 obj3 season===obj3 association football club fylde played in obj12 and
+obj4 obj10 obj0 obj0 operator===obj7 amateurs 's obj10 is obj0 operated by obj7 and
+obj4 obj10 obj0 obj0 operator===obj7 amateurs 's obj10 is obj0 which is operated by
+obj4 obj10 obj0 obj0 operator===obj7 amateurs 's obj10 is obj0 which is operated by
+obj6 leadername obj9 obj0 academicstaffsize===the obj0 is located in obj4 obj6 and it
+obj6 leadername obj9 obj0 academicstaffsize===obj9 is leader of obj6 obj8 where the obj0
+obj6 leadername obj9 obj0 academicstaffsize===the obj0 in obj4 obj6 has a staff of
+obj4 obj12 english obj12 albuquerque obj10===albuquerquenew mexico is located in the obj4 and english
+obj0 obj7 obj13 obj0 academicstaffsize===obj0 is located southeast of mahe in obj5 obj9
+obj0 obj7 obj13 obj0 academicstaffsize===obj9 obj11 which obj15 mahe india obj17 it's obj8
+obj12 operatingorganisation obj3 obj3 attackaircraft===the obj11 can be found on usaf aircraft carriers
+obj12 operatingorganisation obj3 obj3 attackaircraft===obj12 is operated by the obj3 which was involved
+obj0 location obj12 obj2 foundationplace===obj2 was founded in obj6 and is the obj14
+obj0 location obj11 obj2 foundationplace===obj0 is in obj11 where the leader is obj4
+obj3 genre obj1 obj1 stylisticorigin obj4===obj3 is an exponent of obj1 a style that
+obj3 obj5 obj1 obj1 stylisticorigin obj4===the musical obj5 of obj3 is obj1 which has
+obj3 obj5 obj1 obj1 stylisticorigin obj4===ace wilder's musical obj5 is obj1 which has its
+obj4 genre obj2 obj2 stylisticorigin obj1===obj4 plays obj2 which originated from obj1
+obj4 obj5 obj2 obj2 stylisticorigin obj1===alan frews' musical obj5 is obj2 which originated from obj1
+obj4 genre obj2 obj2 stylisticorigin obj1===obj4 plays obj2 which has its roots in obj1
+obj1 genre obj4 obj4 stylisticorigin obj2===obj4 music originated from obj2 music obj1 is a
+obj1 genre obj4 obj4 stylisticorigin obj2===obj1 plays obj4 which originated from obj2 music
+obj1 genre obj4 obj4 stylisticorigin obj2===the origins of obj4 is obj2 and a obj4
+obj4 genre obj2 obj2 stylisticorigin obj1===obj4 plays obj2 which originated from obj1
+obj4 genre obj2 obj2 stylisticorigin obj1===obj4 performs obj2 music which has its stylistic origin
+obj4 genre obj2 obj2 stylisticorigin obj1===obj4 plays obj2 which is derived from obj1
+obj0 birthplace obj4 obj0 birthyear obj5===obj0 was in obj4 in obj5
+obj0 birthplace obj4 obj0 birthyear obj5===obj0 was born in obj4 in obj5
+obj0 birthplace obj4 obj0 birthyear obj5===obj0 was born in obj5 in obj4
+obj0 obj5 obj2 obj0 discoverer obj3===obj0 which was discovered by obj3 has a obj5
+obj0 location obj5 obj2 operator obj0===obj0 is located in obj5 and is operated by obj2
+obj0 location obj5 obj2 operator obj0===the ship obj2 is operated by obj0 which is
+obj0 location obj5 obj3 operator obj0===the obj3 is operated by obj0 which are located
+obj0 location obj5 obj3 operator obj0===obj3 is operated by obj0 from obj5
+obj1 obj4 obj5 obj1 relatedmeanoftransportation obj3===as they are both cars the obj3 and the
+obj1 leadername obj3 obj0 assembly obj1===the obj0 is assembled in the obj1 the leader
+obj1 leadername obj3 obj0 assembly obj1===obj0 was assembled in the obj1 which is ruled
+obj1 leadername obj3 obj0 assembly obj1===the obj0 is assembled in the obj1 where the
+obj5 obj7 obj2 obj2 stylisticorigin===obj2 with origins in obj6 and obj8 is the
+obj5 obj7 obj2 obj2 stylisticorigin===the musical obj7 of obj5 is obj2 obj3 originates
+obj7 obj8 obj4 obj4 stylisticorigin===alan frew's obj8 is obj4 which originated from obj3
+obj7 genre obj4 obj4 stylisticorigin===obj7 is a performer of obj4 which originated from
+obj7 obj8 obj4 obj4 stylisticorigin===the bhangra music is part of the fusion genrepartly
+obj2 genre obj6 obj6 stylisticorigin===obj2 plays obj6 music which originated from obj4 music
+obj2 obj5 obj6 obj6 stylisticorigin===obj2 is a obj6 musician obj6 comes from obj4
+obj2 genre obj6 obj6 stylisticorigin===obj2 plays obj6 which originates from obj4 music obj3
+obj6 obj8 obj3 obj3 stylisticorigin===the musical obj8 of obj6 is obj3 which originated
+obj6 obj8 obj3 obj3 stylisticorigin===the musical obj8 of obj6 is obj3 a form
+obj6 genre obj3 obj3 stylisticorigin===obj6 performs obj3 music which originated from obj7 and
+obj1 location obj7 obj3 operator===obj1 are based in obj7 and owned by obj0
+obj5 obj3 obj8 obj5 relatedmeanoftransportation===obj8 is the obj3 of the obj5 it the
+obj0 location obj8 obj3 operator===the ship obj3 is operated by obj2 which is
+obj0 location obj8 obj3 operator===obj3 is operated by obj2 and owned by obj0
+obj1 location obj10 obj4 operator===the ship obj4 is operated by obj10 based obj1
+obj1 location obj10 obj4 operator===located at obj10 obj1 operate obj4 ship which was
+obj4 alternativename obj0 obj4 assembly===the obj4 is also known as obj0 and is
+obj4 alternativename obj0 obj4 assembly===the obj4 which is assembled in obj6 is also
+obj4 alternativename obj0 obj4 assembly===made in obj6 the obj4 has an obj2 and
+obj4 alternativename obj7 obj4 assembly===the mid size obj4 or obj7 has an obj0 and
+obj4 alternativename obj7 obj4 assembly===the obj4 alternative name vam classic was assembled in
+obj4 alternativename obj7 obj4 assembly===the obj4 which is also known as the obj7
+obj0 location obj9 obj0 foundationplace===obj0 was founded in obj5 and located in illinoisaida
+obj0 location obj9 obj0 foundationplace===obj0 was founded in obj5 and is located in
+obj0 location obj9 obj0 foundationplace===obj0 was founded in obj5 and is located in
+obj0 location obj11 obj4 operator===obj0 located in obj11 is the obj10 of obj4
+obj0 location obj11 obj4 operator===the obj4 was built by obj3 and is operated
+obj0 location obj11 obj4 operator===the obj4 owned by obj0 genoa and built by
+obj7 leadername obj0 obj1 locationcity===obj0 is a leader of obj7 where obj9 is
+obj7 leadername obj0 obj1 locationcity===obj1 built the obj4 at obj9 obj7 where obj0
+obj7 leadername obj0 obj1 locationcity===the obj6 of the a rosa is obj1 which is
+obj2 obj7 obj0 obj2 birthyear===obj3 obj2 who has a obj7 as a obj0
+obj2 obj7 obj0 obj2 birthyear===the obj3 obj2 was born in obj10 in obj11
+obj2 obj9 obj10 obj10 stylisticorigin===obj0 are one of the ethnic groups in the
+obj2 genre obj10 obj10 stylisticorigin===obj2 performs obj10 music which originated its style from
+obj2 genre obj10 obj10 stylisticorigin===obj0 are an ethnic group in the us the
+obj1 genre obj4 obj1 birthyear===obj1 was born obj16 obj14 obj16 fort obj9 obj15
+obj4 location obj13 obj1 parentcompany===obj7 was built by obj6 owned by obj1 the
+obj4 location obj13 obj1 parentcompany===obj0 is the parent company of obj1 which is
+obj6 alternativename obj0 obj6 assembly===the obj6 also known as the american obj14 matador
+obj6 alternativename obj0 obj6 assembly===the obj6 also known as obj0 was assembled in
+obj6 alternativename obj0 obj6 assembly===the obj6 aka the obj0 is assemebled in obj1
+obj1 location obj14 obj1 parentcompany===obj0 is the parent company of obj1 in obj14
+obj1 location obj14 obj1 parentcompany===the obj7 which was built by obj6 is operated
+obj1 location obj14 obj1 parentcompany===obj6 built the obj7 which is operated by the
+obj7 obj12 obj14 obj1 locationcity===the a rosa luna was built on the obj1
+obj7 obj12 obj14 obj1 locationcity===the obj6 of the a rosa is obj1 whose hq
+obj7 obj12 obj14 obj1 locationcity===the a rosa was built by obj1 in obj9 obj7
+obj1 deathplace obj12 obj1 party===obj1 was born in obj11 in the state tyrol
+obj1 deathplace obj12 obj1 party===alfons gorbach's place of birth was the state tyrol
+obj1 deathplace obj12 obj1 party===obj1 who was a member of the obj0 was
+obj1 deathplace obj11 obj1 party===a member of the obj0 obj1 was born in
+obj1 deathplace obj11 obj1 party===obj1 was born in obj13 in tyrol and died
+obj1 deathplace obj11 obj1 party===obj0 obj1 was born in obj13 tyrol and died
+obj2 obj8 obj0 obj2 birthyear===obj2 has a musical obj8 as a obj0 was
+obj2 obj9 obj0 obj2 birthyear===obj2 was born in obj12 on july 23 obj14
+obj9 obj13 obj2 obj2 stylisticorigin===obj3 derives its sounds from obj2 which originated from
+obj9 genre obj2 obj2 stylisticorigin===hip hop musician obj9 was born in obj11 hip
+obj9 obj13 obj2 obj2 stylisticorigin===obj11 is the obj8 of hip hop musician obj9
+obj1 genre obj10 obj10 stylisticorigin===obj1 is a singer who plays the bodhran percussion
+obj1 genre obj10 obj10 stylisticorigin===obj10 singer obj1 plays the bodhran percussion and autoharp
+obj1 genre obj10 obj10 stylisticorigin===obj10 musician obj1 uses voice bodhran percussion and the

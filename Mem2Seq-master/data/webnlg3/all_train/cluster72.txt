@@ -1,0 +1,45 @@
+obj4 location obj1 obj4 architect populous company===the obj0 designed by the company populous is located
+obj4 location obj1 obj4 architect populous company===the obj0 is located at north obj6 quay and
+obj0 dishvariation obj5 obj0 ingredient bacon===a better variation of the obj5 is obj4 which
+obj1 club obj0 a c cesena obj4 obj1===obj7 plays for obj7 and has been the obj7
+obj0 obj5 obj1 a c cesena obj4 obj0===obj9 is attached to the obj2 obj7 and he
+obj0 obj5 obj1 a c cesena obj4 obj0===obj9 is attached to the obj2 obj7 and has
+obj1 obj5 obj0 1 fc köln obj4 obj1===peter stöger's obj2 is the obj7 and he is
+obj0 obj5 obj1 1 fc köln obj4 obj0===the obj7 of 1 fc koln ispeter stöger who
+obj3 operatingorganisation united states air force obj3 location===the usaf operating the obj0 which is located in
+obj2 operatingorganisation united states air force obj2 location===obj0 operated by the usaf is found in obj8
+obj2 operatingorganisation united states air force obj2 location===the usaf operates the obj0 which is in obj8
+obj3 obj8 college of william amp mary obj3 location===the college of william and mary is the obj2
+obj3 obj8 college of william amp mary obj3 location===the college of william and mary is the obj2
+obj3 obj8 college of william amp mary obj3 location===the college of william and mary is the obj2
+bolt comicscharacter creator obj6 ernie colón nationality===ernie colon a puerto rican national created bolt along
+bolt comicscharacter creator obj6 ernie colón nationality===obj4 and the puerto rican national ernie colon created
+bolt comicscharacter creator obj6 ernie colón nationality===the comic character bolt was created by obj4 and
+bolt comicscharacter creator obj3 ernie colón nationality===bolt is a comic character created by obj4 and
+bolt comicscharacter creator obj3 ernie colón nationality===puerto rican ernie colon and obj4 created the comic
+obj2 obj7 obj1 a c cesena obj6===obj0 has been the obj7 of a c cesena
+obj2 club obj1 a c cesena obj6===obj0 has been the obj7 of a c cesena
+obj2 club obj1 a c cesena manager===obj0 played for obj0 he now plays for obj4
+obj2 obj7 obj0 a c cesena obj6===obj4 has been the obj7 of a c cesena
+obj2 obj7 obj0 a c cesena obj6===obj4 was once a player for obj4 and has
+obj2 obj7 obj0 a c cesena obj6===obj4 plays for us castrovillari calcio he has been
+obj2 obj7 obj0 1 fc köln obj6===obj4 is a player in obj4 he is also
+obj2 obj7 obj0 1 fc köln obj6===obj4 is the obj7 of 1 fc koln his
+obj1 obj7 obj3 1 fc köln manager===obj0 previously of obj4 is affiliated with the obj0
+obj2 obj11 college of william amp mary obj2 location===obj0 in obj1 was designed by robert am stern
+obj4 obj11 college of william amp mary obj4 location===the college of william and mary is the obj2
+bolt comicscharacter creator obj6 ernie colón nationality===bolt larry bolatinsky is a comic character that was
+bolt comicscharacter creator obj6 ernie colón nationality===bolt is a comic character otherwise know as obj3
+bolt comicscharacter creator obj6 ernie colón nationality===the character bolt also known as obj3 was created
+obj3 country obj9 obj3 ma obj36===obj0 is a popular dish obj06 obj4 obj03 indonesia
+obj3 country obj9 obj3 ma obj36===obj0 is a popular dish obj06 obj4 obj03 available
+obj3 country obj9 obj3 ma obj36===obj0 is a popular dish obj06 obj4 it is
+obj2 obj9 obj0 1 fc köln obj8===obj4 is the obj7 of fc kolin and has
+obj3 operatingorganisation united states air force obj3 location===the obj0 in obj14 is operated by the usaf
+obj4 operatingorganisation united states air force obj4 runwaylength===th united state air force operates the obj0 located
+obj2 obj15 college of william amp mary obj2 completiondate===the college of william and mary is the obj5
+obj1 location obj0 obj1 obj24 obj31===obj4 was constructed obj29 obj25 and is located on
+obj1 location obj0 obj1 obj24 obj31===obj4 which was constructed obj29 obj25 obj29 obj26 architectural
+obj1 location obj0 obj1 obj24 obj31===obj4 constructed obj29 obj25 obj29 obj26 obj6 architectural style
+obj1 obj18 obj0 obj1 obj24 obj31===obj26 obj48 obj28 obj4 which were constructed obj29 obj25
+obj3 dateofretirement obj14 obj3 obj22 selected===obj0 obj7 born on the 17th of october 1933

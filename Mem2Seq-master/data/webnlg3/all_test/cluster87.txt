@@ -1,0 +1,28 @@
+obj0 runwayname 06 24 'kaagbaan'===obj0 runway name is 06 24 kaagbaan
+obj0 runwayname 06 24 'kaagbaan'===06 24 kaagbaan is the runway name of obj0
+obj0 runwayname 06 24 'kaagbaan'===the runway name of obj0 is 06 24 kaagbaan
+obj2 buildingstartdate 30 obj9 2007 obj0===obj2 was started on obj9 302007 and has the
+obj2 buildingstartdate 30 obj9 2007 obj0===alan b miller hall's building opened in 30th obj9
+obj1 obj2 2 0 grampercubiccentimetres===the celestial body known as obj1 has a obj2
+obj2 award obj1 obj2 unit obj0===obj2 received the obj1 and served in the obj0
+obj0 obj5 2004 07 14 obj0 orbitalperiod obj3===obj0 has an orbital period of obj3 and an
+obj0 obj5 2004 07 14 obj0 orbitalperiod obj3===the asteroid called obj0 has an orbital period of
+obj0 obj5 2004 07 14 obj0 rotationperiod obj4===the rotation period of obj0 is obj4 and its
+obj1 assembly obj0 obj1 modelyears obj5===obj5 is one of the model years of the
+obj1 assembly obj0 obj1 modelyears obj5===the obj1 is available in a obj5 model and
+obj1 assembly obj0 obj1 modelyears obj5===the obj1 is available in a obj5 model and
+obj2 designer obj0 obj0 employer obj3===obj0 is emplyed by obj3 and designed the obj2
+obj2 designer obj0 obj0 employer obj3===obj0 is the obj3 employee who designed the obj2
+obj2 designer obj0 obj0 employer obj3===the obj2 was designed by obj0 who workes for obj3
+obj5 almamater erasmus university rotterdam obj5 obj8===obj5 was born in the obj2 belongs to the
+obj1 genre obj7 obj7 derivative===obj7 musician obj1 is a vocalist and also plays
+obj1 genre obj7 obj7 derivative===obj7 musician obj1 is signed with obj0 obj7 is
+andra singer associatedband associatedmusicalartist puya singer andra singer associatedband associatedmusicalartist===andra a singer of obj6 music is associated with
+andra singer associatedband associatedmusicalartist puya singer andra singer associatedband associatedmusicalartist===andra is a singer and her music obj7 is
+andra singer associatedband associatedmusicalartist puya singer andra singer associatedband associatedmusicalartist===andra is a singer associated with the singer puya
+obj4 relatedmeanoftransportation aston martin dbs obj4 assembly===the obj4 is similar to the dbs and has
+obj4 builder obj0 obj4 cylindercount===the obj4 has obj13 cylinders and a obj2 it
+obj4 builder obj0 obj4 cylindercount===the obj4 was built by the obj0 and produced
+obj4 builder obj0 obj4 cylindercount===the obj4 has obj13 cylinders and a obj2 it
+obj3 office workedat workedas secretary of obj13 of===obj3 worked in obj9 where he was secretary of
+obj3 office workedat workedas secretary of obj13 of===obj9 secretary of obj13 and 3rd congressional district representative

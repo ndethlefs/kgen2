@@ -1,0 +1,4 @@
+obj1 rotationperiod obj4 obj1 obj5 2006 12 31===the celestial body known as obj1 has a rotation
+obj1 rotationperiod obj4 obj1 obj5 2006 12 31===the celestial body known as obj1 has a rotation
+obj1 rotationperiod obj4 obj1 obj5 2006 12 31===obj1 has a rotational period of obj4 and its
+obj3 musicfusion obj11 obj10 obj3 stylisticorigin===the musician andrew white who has worked with obj8

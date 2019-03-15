@@ -1,0 +1,55 @@
+alpena county regional airport elevationabovethesealevel in metres obj2===lpena county regional airport elevation above the sea level
+alpena county regional airport elevationabovethesealevel in metres obj2===aplena county regional airport is elevated obj4 metres above
+amsterdam airport schiphol 1st runway surfacetype obj2===the first runway at amsterdam's schiphol airport is made
+amsterdam airport schiphol elevationabovethesealevel in metres obj2===amsterdam airport schipol is obj4 above sea level
+amsterdam airport schiphol location obj1===amsterdam's schiphol airport is located in obj4
+amsterdam airport schiphol runwaylength obj2===the runway length at amsterdam airport schipol is obj4
+amsterdam airport schiphol runwaylength obj2===the runway length of amsterdam airport schipol is obj4
+amsterdam airport schiphol runwaylength obj2===the runway length at amsterdam airport schipol is obj4
+amsterdam airport schiphol runwaylength obj2===the runway length at amsterdam airport schipol is obj4
+amsterdam airport schiphol runwaylength obj2===the runway length of amsterdam airport is obj4 metres
+amsterdam airport schiphol runwaylength obj2===the runway length at amsterdam airport schipol is obj4
+harrietstown new york country obj1===harrietsown new york is located in obj4
+adams township madison county indiana country obj1===adams township is in madison county in indiana in
+albany georgia areatotal obj4 square kilometres===the total area of albany georgia is obj4 square kilometres
+albany georgia populationdensity obj5 inhabitants obj6 obj4 kilometre===albany in georgia has a population density of obj7
+albuquerque new mexico areatotal obj4 square kilometres===albuquerque in new mexico has a total are of
+albuquerque new mexico country obj1===albuquerque is in new mexico in the obj4
+albuquerque new mexico ispartof obj0===albuquerque is part of obj4
+albuquerque new mexico obj2 obj1===the obj2 of albuquerque new mexico is obj4
+albuquerque new mexico obj2 obj1===the obj2 of albuquerque in new mexico is obj4
+albuquerque new mexico leadertitle obj1===the leader of albuquerque new mexico is called the obj4
+albuquerque new mexico leadertitle obj1===albuquerque in new mexico is led by the obj4
+albuquerque new mexico leadertitle obj0===in albuquerque new mexico the leader is called the obj4
+albuquerque new mexico leadertitle obj0===the leader for albuquerque in new mexico is the obj4
+alpharetta georgia areatotal obj4 square kilometres===alpharetta in georgia has a total area of obj4
+anaheim california areacode obj2 obj3===obj4 and obj5 are area codes for anaheim ca
+anaheim california areacode obj2 obj3===anaheim in california has the area code obj4 obj5
+anderson indiana areacode obj2===the area code of anderson in indiana is obj4
+anderson township madison county indiana obj2 obj1===anderson township of madison county indiana is in the
+angola indiana areatotal obj4 square kilometres===angola in indiana has a total area of obj4
+angola indiana populationdensity obj5 obj2 obj6 obj4 obj3===the population density of angola indians is obj7 obj5
+antioch california utcoffset obj2===antioch in california has a utc offset of obj4
+antioch california postalcode obj2 obj3===obj4 and obj5 are postal codes for antioch ca
+arlington texas areatotal obj4 square kilometres===the total area of arlington in texas is obj4
+attica indiana areatotal obj4 square kilometres===attica in indiana has a total area of obj4
+attica indiana populationdensity obj5 inhabitants obj6 obj4 kilometre===the population density of attica indiana is obj7 inhabitants
+lee county alabama country united states===lee county in alabama is in the us
+lee county alabama country obj1===lee county in alabama is located within the obj4
+madison county indiana country obj1===madison county is in indiana which is in the obj4
+adams county pennsylvania has to its obj2 obj0===obj7 is obj5 of adams count pennsylvania
+agremiação sportiva arapiraquense numberofmembers obj2===agremiacao sportiva arapiraquense has obj4 members
+jorge humberto rodríguez obj2 obj1===jorge humberto rodgriguez plays for the obj4 obj2
+jorge humberto rodríguez club obj1===jorge humberto rodriguez plays for obj4
+jorge humberto rodríguez club obj1===jorge humberto rodriquez plays for the obj4
+jorge humberto rodríguez club obj1===jorge humberto rodriguez plays for obj4
+jorge humberto rodríguez club obj0===jorge humberto rodriguez plays for the obj4
+adams county pennsylvania has obj8 its obj4 obj3 obj0===obj7 the obj5 of adams county pennsylvania where obj8
+reyes ispartof community of madrid adolfo suárez madrid–barajas airport location===the adolfo suarez madrid barajas airport is located in
+reyes ispartof community of madrid adolfo suárez madrid–barajas airport location===san sebastian de los reyes part of the madrid
+agremiação sportiva arapiraquense obj12 obj3 obj3 country===obj0 their full name play in the obj4 obj2
+agremiação sportiva arapiraquense obj11 obj3 obj3 country===estadio minicipal coaracy da mata fonseca is the obj9
+agremiação sportiva arapiraquense obj11 obj3 obj3 country===agremiacao sportiva arapiraquense is located in the esadii minicipal
+accademia di architettura di obj8 country obj3 obj3 obj10===the accademia di architetttura di obj1 is located in
+agremiação sportiva arapiraquense obj13 obj4 obj4 country===agremiacao sportiva arapiraquense's obj11 is the estadio minicipal coaracy
+accademia di architettura di obj11 obj12 obj4 obj4 obj13===obj5 is a obj3 which has obj3 as the

@@ -1,0 +1,339 @@
+obj0 location obj4 obj4 demonym obj3===obj0 is located in obj5 who's inhabitants are called obj9
+obj0 location obj4 obj4 demonym obj3===obj0 is located in obj5 where the inhabitants are
+obj0 location obj4 obj4 demonym obj3===obj0 is located in obj5 where the locals are
+obj1 nationality obj0 obj1 status obj4===obj9 now obj9 was born in the obj9
+obj0 location obj2 obj2 demonym obj1===obj0 is located in the obj4 where we call
+obj0 location obj2 obj2 demonym obj1===obj0 is in the obj4 where the denonym for
+obj0 location obj5 obj0 architect obj2===obj5 is located in obj4 and was designed by obj9
+obj1 location obj0 obj1 architecturalstyle obj3===obj4 with the obj9 architectural style is located at obj4
+obj1 location obj0 obj1 architecturalstyle obj3===obj4 which has the architectural style of obj9 is
+obj1 location obj0 obj1 architecturalstyle obj3===obj4 is located on obj4 and has the architectural
+obj0 location obj2 obj0 architecturalstyle obj3===the obj5 with an obj9 style architecture is located
+obj0 location obj2 obj0 architecturalstyle obj3===obj5 with an architectural style of the obj9 is
+obj0 location obj2 obj0 architecturalstyle obj3===obj5 are located in obj4 and has the architectural
+obj2 obj4 obj1 obj2 broadcastedby obj5===obj9 broadcast obj0 obj9 obj4
+obj2 creator obj1 obj2 fullname obj0===the character obj9 obj9 was created by obj4
+obj2 creator obj1 obj2 fullname obj0===ben urich's full name is actually obj9 the character
+obj2 creator obj1 obj2 fullname obj0===obj9 full name obj9 was created by obj4
+obj0 creator obj3 obj0 fullname obj2===obj9 full name bibbo bibbowski was created by obj4
+obj0 creator obj2 obj0 fullname obj3===created by obj4 the full name of obj5 is
+obj0 obj5 obj2 obj0 fullname obj3===obj4 is the obj4 of obj5 whose alter ego
+obj1 obj3 obj4 obj4 demonym obj0===obj9 originates from the obj2 of obj5 where the
+obj1 country obj4 obj4 demonym obj0===obj9 is from obj5 as are obj9
+obj1 obj3 obj4 obj4 demonym obj0===obj9 originates from the obj2 of obj5 where obj9
+obj0 country obj4 obj4 demonym obj1===obj0 is from obj5 where obj9 live
+obj0 country obj4 obj4 demonym obj1===obj9 is the name for the people of obj5
+states united states ethnicgroup native americans in the united states===native americans are an ethnic group in usa which
+obj0 obj5 obj2 obj0 ground obj3===obj5 is in the obj4 obj4 and play in obj9
+obj0 location obj4 obj4 demonym obj3===obj0 is located in obj5 where the obj9 live
+obj0 location obj4 obj4 demonym obj3===the obj0 club is located in obj5 where the
+obj0 location obj4 obj4 demonym obj3===the obj0 club is located in obj5 inhabited by obj9
+obj1 obj5 obj3 obj1 league obj0===obj9 play at their obj2 in obj4 and is
+obj1 obj5 obj3 obj1 league obj0===obj9 whose obj2 is located in obj4 plays in
+obj1 obj5 obj3 obj1 league obj0===obj9 the grounds of which are in blackpool play
+obj0 obj5 obj2 obj0 league obj3===obj4 is the location of the obj4 of obj5
+obj0 obj5 obj2 obj0 league obj3===as livorno calcio's obj4 is in obj4 and the
+obj1 obj5 obj0 obj1 league obj3===obj4 has the obj2 obj4 and play in obj9
+obj1 obj5 obj0 obj1 league obj3===obj4 play in obj9 and their obj2 is the obj4
+obj1 obj5 obj4 obj1 league obj0===aek athens fc's grounds are in obj4 and obviously
+obj3 numberofmembers obj5 obj3 fullname obj0===afc stands for obj9 is obj9 its current membership
+obj3 numberofmembers obj5 obj3 fullname obj0===obj9 full name amsterdamsche football club ajax has obj4 members
+obj2 obj4 obj0 obj0 owner obj3===afc ajax amateurs 's obj2 is obj4 which is owned
+obj2 obj4 obj0 obj0 owner obj3===obj4 obj2 is obj4 which is owned by obj9
+obj1 numberofmembers obj5 obj1 fullname obj0===obj9 abbreviated to afc ajax amateurs has obj4 members
+obj1 numberofmembers obj5 obj1 fullname obj0===the full name of obj9 which has obj4 members
+obj1 numberofmembers obj5 obj1 fullname obj0===the full name of obj9 is obj9 and it
+obj3 obj2 obj1 obj0 league obj3===obj5 play in obj5 where obj4 have been obj2
+obj3 obj2 obj1 obj0 league obj3===obj4 are former obj2 of obj5 and obj5 are
+obj3 obj2 obj0 obj1 league obj3===obj4 are former obj2 of obj4 obj5 also play
+obj1 city obj4 obj1 affiliation obj0===the obj9 in obj4 is affiliated with obj9
+obj1 obj5 obj4 obj1 affiliation obj0===the obj9 in the obj2 of obj4 is affiliated
+obj1 city obj4 obj1 affiliation obj0===obj9 in obj4 is affiliated with obj9
+obj1 country obj5 obj1 affiliation obj0===obj9 in obj4 is affiliated with obj9
+obj1 country obj5 obj1 affiliation obj0===obj9 is affiliated with obj9 in obj4
+obj0 obj5 obj4 obj0 precededby obj2===obj4 was the obj9 of obj5 which was preceded
+obj0 obj5 obj4 obj0 precededby obj2===obj4 is the obj9 of obj5 which was the
+obj0 obj5 obj4 obj0 precededby obj2===obj4 is the obj9 of obj5 which was preceded
+obj0 obj5 obj4 obj0 precededby obj2===obj4 is the obj9 of obj5 which was preceded
+obj0 obj5 obj4 obj0 precededby obj2===obj4 is the obj9 of obj5 which is the
+obj0 obj5 obj4 obj0 precededby obj2===obj4 is the obj9 of obj5 which was preceded
+states united states ethnicgroup native americans in the united states===the american book the ram rebellion was written in
+states united states ethnicgroup native americans in the united states===1634 the ram rebellion was written in the us
+obj0 obj4 obj5 obj0 abbreviation obj2===obj5 has an obj9 of obj4 an is abbreviated
+obj0 obj5 obj2 obj0 academicdiscipline obj4===obj5 has the obj9 of obj9 and is part
+obj0 obj5 obj2 obj0 academicdiscipline obj4===obj9 is the obj9 of obj5 which is part
+obj0 obj5 obj2 obj0 academicdiscipline obj4===the obj9 acm obj6 obj7 syst is for obj5
+obj1 country obj4 obj1 followedby obj0===the book obj9 followed the book a long long
+obj1 country obj4 obj1 followedby obj0===the book obj9 was written in obj4 and the
+obj1 country obj4 obj1 followedby obj0===obj9 was written in obj4 and is followed by
+states united states ethnicgroup native americans in the united states===in almost unrelated facts both the native americans ethnic
+states united states ethnicgroup native americans in the united states===native americans are an ethnic group located in the
+states united states ethnicgroup native americans in the united states===obj0 is american literature native americans are the original
+obj0 obj4 obj5 obj0 abbreviation===with a obj2 obj4 obj5 abbreviated form is abhmathseminunivhambg
+obj0 obj4 obj5 obj0 abbreviation obj2===the obj9 of obj5 abbreviated to abh math semin
+obj0 obj4 obj5 obj0 abbreviation obj2===obj5 abbreviated to acta math hungar has the obj9 obj4
+obj0 obj4 obj3 obj0 academicdiscipline obj5===the obj2 of obj9 is obj4 and covers the
+obj0 obj4 obj5 obj0 abbreviation obj2===obj5 which is abbreviated to obj9 has a obj9
+obj0 obj4 obj5 obj0 abbreviation obj2===acta palaeontologica polonica's has the abbreviated name obj9 and
+obj0 obj3 obj5 obj0 abbreviation obj4===obj5 has the obj2 obj9 and is abbreviated to obj9
+obj1 publisher obj2 obj2 affiliation obj0===obj9 was published by obj4 which is affiliated with
+obj1 obj5 obj2 obj2 affiliation obj0===obj4 is affiliated with the obj9 and is the
+obj1 publisher obj2 obj2 affiliation obj0===as well as being affiliated with the obj9 obj4
+obj4 country obj1 obj0 precededby obj4===obj5 is the sequel to obj5 which was written
+obj1 author obj3 obj1 followedby obj0===obj9 was written by obj4 and was followed by obj9
+obj1 author obj3 obj1 followedby obj0===obj9 written by obj4 is followed by obj9
+obj1 author obj3 obj1 followedby obj0===the book obj9 is followed by the book obj9
+obj4 obj3 obj2 obj1 academicdiscipline obj4===the obj5 is the academic discipline of obj0 which
+obj7 operatingorganisation obj1 obj1 battles===the obj4 is the operating organisation for obj0 they
+obj6 operatingorganisation obj1 obj1 battles===the obj4 operates the obj0 and previously fought in
+obj6 operatingorganisation obj1 obj1 battles===obj0 is operated by the obj4 which was involved
+obj6 operatingorganisation obj1 obj1 battles===the obj4 fought in the obj7 and now it
+obj6 operatingorganisation obj1 obj1 battles===obj0 is operated by the obj4 and fought in
+obj5 operatingorganisation obj1 obj1 battles===obj0 is operated by the obj4 which was involved
+obj5 operatingorganisation obj1 obj1 battles===the obj4 fought in the obj6 bombed libya in
+obj5 operatingorganisation obj1 obj1 battles===the obj4 has fought in the obj6 and were
+obj5 operatingorganisation obj1 obj1 battles===the obj4 who are the operating organisation for obj0
+obj0 location obj5 obj5 demonym===obj0 is located in obj4 whose indigenes are called
+obj0 location obj5 obj5 demonym===obj0 is located in obj4 obj1 where the people
+obj6 nationality obj1 obj6 occupation===obj0 was born in obj0 obj4 and served as
+obj6 nationality obj1 obj6 occupation===obj0 born in obj0 of the obj4 served as
+obj3 birthplace obj1 obj3 occupation===obj0 who was born in obj4 and graduated in
+obj3 birthplace obj1 obj3 occupation===obj0 was born in obj4 and graduated with a
+obj3 birthplace obj1 obj3 occupation===obj0 who was born in obj4 graduated from mit
+obj3 birthplace obj1 obj3 occupation===obj0 born in glen ridge new jersey was a
+obj2 birthplace obj0 obj2 occupation===obj4 who was born in obj4 on 20 january
+obj3 almamater obj0 obj3 status===obj4 who was a student of the obj4 and
+obj3 almamater obj0 obj3 status===obj4 went to the obj4 and served as a
+obj6 almamater obj0 obj0 affiliation===the obj4 where obj4 was a student and obj4
+obj6 almamater obj0 obj0 affiliation===obj4 is the appointed obj7 of the obj4 affiliated
+obj0 birthplace obj7 obj0 occupation===obj5 who obj10 born in obj4 and flew as
+obj0 birthplace obj7 obj0 occupation===obj5 who obj10 chosen obj11 obj9 in obj8 to
+obj0 birthplace obj7 obj0 occupation===born in obj4 obj5 served as a obj1 before
+obj0 birthplace obj7 obj0 occupation===obj5 obj10 born in obj4 and became a obj1
+obj0 birthplace obj7 obj0 occupation===obj5 obj10 born in obj4 and worked as a
+obj1 birthplace obj5 obj1 status===the late obj0 was born in obj4 which is
+obj1 birthplace obj5 obj1 status===the obj4 obj0 was born in obj4 obj0
+obj1 birthplace obj5 obj1 status===obj0 who was born in obj4 collin county texas
+obj0 location obj2 obj2 demonym===obj0 is located within the obj4 whose natives are
+obj0 location obj1 obj1 demonym===obj5 is a leader in the obj4 where the
+obj0 location obj1 obj1 demonym===obj0 is located in the obj4 whose leader is
+obj6 location obj0 obj6 architect===obj5 designed the obj4 completed in obj2 and located
+obj6 location obj1 obj6 architect===the obj0 at obj4 was designed by populous and
+obj6 location obj1 obj6 architect===the obj0 designed by the company populous is located
+obj6 location obj1 obj6 architect===the obj0 designed by the populous company and completed
+obj6 location obj0 obj6 architect===obj4 located at obj4 was designed by obj5 and
+obj4 location obj1 obj4 architecturalstyle===obj0 completed in obj8 in the architectural tudor revival
+obj4 location obj1 obj4 architecturalstyle===obj0 obj5 was built in tudor revival style and
+obj2 leadername obj0 obj1 architect===obj3 who designed obj5 comes from obj4 which is
+obj5 obj4 obj7 obj5 largestcity===the ataturk monument izmir is located in obj0 where
+obj5 obj4 obj7 obj5 largestcity===the atatürk monument is located in obj0 where the
+obj5 obj4 obj7 obj5 largestcity===the atatürk monument is located in i̇zmir obj0 where
+obj3 numberofmembers obj10 obj3 fullname===the full name of the obj0 is association obj6
+obj3 numberofmembers obj10 obj3 fullname===obj0 has the full name association obj6 obj9 fylde
+obj3 numberofmembers obj10 obj3 fullname===obj0 has the full name association obj6 obj9 fylde
+obj2 numberofmembers obj8 obj2 fullname===the full name of obj0 is obj0 they have
+obj3 numberofmembers obj9 obj3 fullname===obj0 play at the obj1 have obj4 members and
+obj3 numberofmembers obj9 obj3 fullname===obj0 or obj0 for short has the obj1 as
+obj2 numberofmembers obj8 obj2 fullname===obj0 full name obj0 spa competed in the obj9
+obj3 numberofmembers obj9 obj3 fullname===the full name of obj0 is obj0 they have
+obj3 numberofmembers obj9 obj3 fullname===the full name of acf fiorentia is acf obj6
+obj3 numberofmembers obj9 obj3 fullname===obj0 or obj0 has obj4 members and played in
+obj6 obj5 obj1 obj6 demonym===the obj4 of obj0 is located in obj0 where
+obj6 obj5 obj1 obj6 demonym===the obj4 of obj0 is located in obj0 the
+obj5 obj4 obj3 obj0 league===obj2 is the home to obj5 who played in
+obj5 obj4 obj3 obj0 league===obj2 is home to obj5 who play in obj5
+obj4 obj3 obj2 obj0 league===ac chievo verona's playing obj7 is at obj6 and
+obj5 obj4 obj0 obj2 ground===obj5 plays in the obj4 obj7 in obj1 but
+obj0 obj8 obj5 obj0 precededby===the obj2 obj4 wrote obj2 and followed this with
+obj0 obj8 obj5 obj0 precededby===obj4 was born in obj3 and is the obj2
+obj0 obj8 obj5 obj0 precededby===obj4 who was born in obj3 is the obj2
+obj0 obj8 obj5 obj0 precededby===obj4 born in obj3 is the obj2 of obj5
+obj0 obj8 obj5 obj0 precededby===obj4 born in obj3 is the obj2 of obj5
+obj0 obj7 obj8 obj0 abbreviation===obj5 abbreviated to acm obj9 obj10 syst is part
+obj4 obj8 obj0 obj4 abbreviation===the obj2 of aip advances abbreviated to aip adv is
+obj1 obj5 obj8 obj1 precededby===obj0 which was published in print amp paperback was
+obj1 obj5 obj8 obj1 precededby===obj0 preceded by obj4 was published in print amp
+obj1 obj5 obj8 obj1 precededby===preceded by obj4 obj0 was published in print amp
+obj0 obj7 obj8 obj0 academicdiscipline===obj5 is concerned with the academic discipline of obj5
+obj0 obj6 obj8 obj0 abbreviation===obj5 or obj3 has a obj2 of obj4 and
+obj0 obj6 obj8 obj0 abbreviation===the obj2 for obj5 is obj4 it is also
+obj0 obj6 obj8 obj0 abbreviation===obj5 is abbreviated to obj3 it has the obj2
+obj0 obj7 obj8 obj0 abbreviation===obj5 or obj4 focuses on obj9 and has a
+obj0 obj8 obj9 obj0 abbreviation===acta palaeontologica polonica's abbreviated to acta obj7 pol comes
+obj0 obj8 obj9 obj0 abbreviation===obj5 abbreviated to acta obj7 pol is academically focused
+obj0 obj8 obj9 obj0 abbreviation===the obj5 or obj3 focuses on obj5 and has
+obj0 obj8 obj9 obj0 abbreviation===the obj5 has a obj2 of obj4 and the
+obj0 obj7 obj8 obj0 academicdiscipline===obj5 abbreviated obj3 with a obj2 of obj4 is
+obj0 obj7 obj8 obj0 academicdiscipline===the obj5 abbreviated to obj3 comes under the academic
+obj0 obj7 obj8 obj0 academicdiscipline===obj5 which is abbreviated to acta palaeontol pol comes
+obj1 obj6 obj5 obj1 academicdiscipline===obj0 is the obj8 of obj0 it's academic discipline
+obj0 obj8 obj4 obj0 academicdiscipline===obj4 is the obj2 of obj5 which academic discipline
+obj1 obj7 obj2 obj2 affiliation===obj4 which is in obj5 and affiliated with the
+obj1 publisher obj2 obj2 affiliation===obj4 obj5 publishes obj0 and is affiliated with the obj0
+obj1 obj7 obj2 obj2 affiliation===obj4 in obj5 is affiliated with the obj0 and
+obj1 obj8 obj2 obj2 affiliation===obj4 where the obj7 is obj5 is affiliated with
+obj1 publisher obj2 obj2 affiliation===obj0 was published by obj4 affiliated with the obj0
+obj1 obj8 obj2 obj2 affiliation===obj4 affiliated with the association of american universities is
+obj2 publisher obj3 obj3 affiliation===obj4 which publishes of obj0 is affiliated with both
+obj2 obj8 obj3 obj3 affiliation===obj4 is affiliated with the association of public and
+obj2 publisher obj3 obj3 affiliation===obj4 which published obj0 is affiliated with the association
+obj1 publisher obj2 obj2 affiliation===obj4 is situated in obj5 and is affiliated with
+obj1 obj7 obj2 obj2 affiliation===obj4 in obj5 is the obj4 of obj0 and
+obj1 obj7 obj2 obj2 affiliation===obj4 obj5 is affiliated with the association of public
+obj1 publisher obj2 obj2 affiliation===the obj0 is published by obj4 president elizabeth garrett
+obj1 publisher obj2 obj2 affiliation===obj5 is obj7 of obj4 which is affiliated with
+obj1 obj6 obj2 obj2 affiliation===obj4 obj7 affiliated with the association of public and
+obj1 obj6 obj2 obj2 affiliation===obj4 of new york is the obj4 of obj0
+obj1 publisher obj2 obj2 affiliation===obj4 in the obj8 of obj7 is affiliated with
+obj6 country obj2 obj1 precededby===obj0 was written by obj4 it was preceded by
+obj3 birthplace obj4 obj2 followedby===obj0 born in obj4 authored obj5 and obj0
+obj3 birthplace obj4 obj2 followedby===alcatraz versus the scrivener's bone written after obj5 was
+obj8 operatingorganisation obj1 obj1 battles===obj0 is operated by the obj4 the usaf was
+obj8 operatingorganisation obj1 obj1 battles===obj0 is operated by the obj4 the usaf was
+obj6 nationality obj1 obj6 occupation===obj0 is a national of the obj4 he obj43
+obj2 deathplace obj10 obj2 occupation===american obj0 was a obj8 who was born in
+obj2 deathplace obj10 obj2 occupation===obj0 was a national of the obj0 he was
+obj3 birthplace obj1 obj3 occupation===obj0 was born in obj4 he obtained an obj44
+obj3 birthplace obj1 obj3 occupation===obj0 now obj42 was born in obj4 after graduating
+obj4 almamater obj0 obj4 occupation===obj5 graduated from the obj5 which competes obj12 the
+obj3 almamater obj0 obj3 status===obj4 born in dallas went to the obj4 and
+obj3 almamater obj0 obj3 status===obj1 obj4 deceased was born in obj10 and studied
+obj1 location obj9 obj1 architect===obj0 a rafael vinoly building is in obj4 a
+obj1 location obj9 obj1 architect===obj4 is the leader of obj4 which is led
+obj0 obj10 obj2 obj2 demonym===obj7 is a leader in the obj4 which is
+obj0 location obj9 obj0 architect===obj4 designed obj5 obj4 which has obj11 floors and
+obj0 location obj9 obj0 architect===obj5 in obj4 was completed in obj10 has obj11
+obj0 location obj8 obj0 architect===obj5 obj4 with obj11 floors was designed by obj4
+obj0 obj8 obj4 obj0 owner===obj5 has obj11 floors obj10 rooms is owned by
+obj0 obj8 obj4 obj0 owner===with obj11 floors and obj10 rooms obj5 is owned
+obj0 obj8 obj4 obj0 owner===obj4 is the obj2 of obj5 which has obj11
+obj0 obj9 obj4 obj0 owner===obj5 owns the obj11 floor obj5 in obj7 whose
+obj3 location obj10 obj3 architect===obj0 a obj11 building in obj4 obj1 was designed
+obj3 location obj10 obj3 architect===obj0 designed by obj0 was completed in obj11 and
+obj5 location obj1 obj5 architecturalstyle===obj0 was constructed in the tudor revival style between
+obj5 location obj1 obj5 architecturalstyle===obj0 is in obj4 it was started in obj40
+obj1 location obj8 obj1 architect===the current tenants of the obj4 designed obj0 in
+obj1 obj6 obj7 obj7 demonym===like obj3 obj0 can be found in obj4 where
+obj1 country obj7 obj7 demonym===obj0 is a leader in obj4 where obj3 come
+obj1 country obj7 obj7 demonym===obj0 comes from obj4 where obj0 is the leader
+obj8 leadername obj1 obj8 largestcity===the atatürk monument is located in izmir obj0 where
+obj8 leadername obj1 obj8 largestcity===turkey's largest city is obj7 the obj6 is the
+obj2 obj12 obj1 obj2 fullname===obj0 is the full name of obj0 the home
+obj0 numberofmembers obj12 obj0 fullname===the obj10 of obj5 is located in the town
+obj0 numberofmembers obj12 obj0 fullname===obj5 has obj4 members played in the obj11 obj9
+obj3 obj8 obj0 obj3 ground===the obj2 of obj4 is obj4 and he also
+obj4 obj9 obj0 obj4 ground===as roma's obj2 is obj5 and they play at
+obj7 obj6 obj1 obj7 demonym===the obj5 of obj0 is located in obj0 which
+obj9 obj6 obj1 obj3 fullname===obj4 former obj2 of obj0 compete with obj5 known
+obj9 obj6 obj1 obj3 fullname===obj4 are obj2 of obj0 in which obj5 also
+obj9 obj6 obj1 obj3 fullname===obj4 have been obj2 of obj0 in which obj5
+obj1 obj11 obj8 obj1 precededby===obj4 was born in obj5 and is the obj01
+obj0 obj11 obj8 obj0 precededby===obj4 was born in obj5 and is the obj2
+obj0 obj11 obj8 obj0 precededby===obj4 born in burbank california is the obj2 of
+obj1 obj11 obj8 obj1 precededby===obj4 born in obj5 is the obj01 of obj0
+obj0 obj9 obj11 obj0 abbreviation===obj5 abbreviated to acm obj12 obj13 syst has the
+obj0 obj9 obj11 obj0 abbreviation===obj4 is the obj2 for obj5 and the obj7
+obj0 obj9 obj11 obj0 abbreviation===obj5 acta obj12 hungar which has a discipline of
+obj1 obj8 obj11 obj1 abbreviation===obj0 is published by the obj0 and has the
+obj1 obj8 obj11 obj1 abbreviation===obj0 was published by the obj0 and its title
+obj1 obj8 obj11 obj1 abbreviation===obj0 which is abbreviated to acta palaeontolpol was published
+obj0 obj10 obj4 obj0 abbreviation===obj4 is the obj2 of obj5 which is abbreviated
+obj1 publisher obj2 obj2 affiliation===obj4 affiliated with the obj0 publishes the obj0 it's
+obj1 publisher obj2 obj2 affiliation===obj6 is obj9 of obj4 in obj7 the university
+obj1 publisher obj2 obj2 affiliation===affiliated with the obj0 obj4 is in the obj01
+obj2 obj10 obj3 obj3 affiliation===obj4 of obj7 is the obj2 of obj0 the
+obj2 obj10 obj3 obj3 affiliation===located in new york obj4 the obj2 of obj0
+obj2 publisher obj3 obj3 affiliation===obj4 in obj7 is affiliated with the association of
+obj1 obj10 obj2 obj2 affiliation===obj4 is in obj7 and the obj9 is obj6
+obj1 obj10 obj2 obj2 affiliation===obj4 of obj7 is the obj00 of obj0 the
+obj1 obj10 obj2 obj2 affiliation===located in obj7 obj4 is the obj00 of the
+obj0 obj6 obj5 obj0 academicdiscipline===obj5 issn number obj9 its obj2 is obj4 and
+obj4 birthplace obj3 obj6 followedby===obj0 is written by obj0 who wa born in
+obj4 birthplace obj3 obj6 followedby===the obj11 of obj0 is obj0 who was born
+obj4 birthplace obj3 obj6 followedby===obj0 was written by obj0 who was born in
+obj3 birthplace obj2 obj5 followedby===obj0 obj11 of obj0 obj5 and maiden castle in
+obj3 birthplace obj2 obj5 followedby===obj0 was born in obj4 and is the obj11
+obj3 obj10 obj2 obj5 followedby===obj4 is the obj4 of obj0 the obj11 of
+obj11 operatingorganisation obj2 obj2 battles===the obj10 an attack aircraft and the obj1 a
+obj11 operatingorganisation obj2 obj2 battles===obj0 is operated by the obj4 the usaf was
+obj12 operatingorganisation obj2 obj2 battles===obj0 is operated by the obj4 which uses obj11
+obj12 operatingorganisation obj2 obj2 battles===obj0 is operated by the obj4 who battled in
+obj12 operatingorganisation obj2 obj2 battles===he obj4 is the operating organisation for obj0 the
+obj12 operatingorganisation obj2 obj2 battles===the obj4 operates the obj0 the obj4 was involved
+obj11 operatingorganisation obj2 obj2 battles===obj0 is operated by the obj4 the usaf bombed
+obj10 operatingorganisation obj1 obj1 battles===obj0 is operated by the obj4 the us air
+obj10 operatingorganisation obj1 obj1 battles===the obj4 is the operating organisation for obj0 the
+obj0 obj4 obj10 obj10 largestcity===obj4 in the obj1 is the obj2 of obj0
+obj0 location obj10 obj10 largestcity===the capitol of obj4 united states is austin but
+obj0 location obj10 obj10 largestcity===obj4 maintains the obj7 as austin and is the
+obj0 location obj9 obj9 largestcity===in obj4 united states the are called texans and
+obj0 location obj9 obj9 largestcity===obj0 can be found in obj4 where the largest
+obj0 location obj9 obj9 largestcity===obj0 can be found in obj4 where the largest
+obj0 location obj10 obj10 largestcity===obj0 can be found in obj4 in the usa
+obj0 location obj10 obj10 largestcity===obj0 is located in obj4 in the us austin
+obj0 location obj10 obj10 largestcity===obj0 is located in obj4 in the us the
+obj0 location obj10 obj10 largestcity===obj0 is located in obj4 where austin is the
+obj0 location obj10 obj10 largestcity===obj0 is located in obj4 where the inhabitants are
+obj0 location obj10 obj10 largestcity===obj0 is located in obj4 where obj8 is the
+obj0 obj5 obj10 obj10 largestcity===obj8 is the largest city in obj4 but the
+obj0 location obj10 obj10 largestcity===obj0 is located in texasthe state's obj7 is austin
+obj1 deathplace obj10 obj1 occupation===obj0 obj06 born in obj0 on november 18th 1923
+obj1 deathplace obj10 obj1 occupation===obj0 obj06 born on 18 november 1923 in obj0
+obj3 almamater obj0 obj3 status===obj4 who was originally from obj13 graduated from the
+obj2 almamater obj0 obj2 status===was born in obj13 on 07 23 1927 he attended
+obj2 almamater obj0 obj2 status===obj4 was born on 23 july 1927 in obj13
+obj1 almamater obj0 obj1 status===obj4 obj46 born in obj42 and attended the obj4
+obj1 location obj5 obj1 architect===obj0 is located in obj4 obj0 obj3 and was
+obj5 location obj10 obj5 architecturalstyle===obj0 was started to be built in obj13 and
+obj2 location obj10 obj2 architect===obj0 designed by obj6 is situated in obj4 obj8
+obj2 location obj0 obj2 architecturalstyle===obj4 constructed obj33 obj43 obj33 a romanesque revival style
+obj2 location obj0 obj2 architecturalstyle===obj4 are located on obj4 it has obj47 romanesque
+obj1 location obj10 obj1 architecturalstyle===obj23 obj0 built obj28 obj22 with a romanesque revival
+obj1 location obj10 obj1 architecturalstyle===obj23 obj0 are obj28 obj00 and were constructed obj28
+obj1 location obj10 obj1 architecturalstyle===built obj28 obj22 and located obj28 obj00 obj23 obj0
+obj1 location obj9 obj1 architecturalstyle===obj0 are located obj28 obj4 they were constructed obj28
+obj1 location obj9 obj1 architecturalstyle===obj0 are located obj28 obj4 they were constructed obj28
+obj1 location obj9 obj1 architecturalstyle===obj0 were constructed obj28 obj22 obj28 obj23 romanesque revival
+obj6 creator obj2 obj6 starring===obj0 first aired on obj14 on october 3rd 1983
+obj6 creator obj2 obj6 starring===the tv character obj0 was created by obj4 the
+obj6 creator obj2 obj6 starring===obj0 first aired on obj14 on october 3rd 1983
+obj9 obj7 obj2 obj9 demonym===the obj6 of obj1 is located in obj0 where
+obj9 obj7 obj2 obj9 demonym===obj0 is the location of the home obj6 of
+obj9 obj7 obj2 obj9 demonym===obj4 and obj0 are italian leaders in obj0 the
+obj1 obj11 obj2 obj2 affiliation===obj4 is in obj8 and their obj00 is obj7
+obj1 obj11 obj2 obj2 affiliation===obj7 is obj00 at obj4 obj8 the university is
+obj2 publisher obj3 obj3 affiliation===the obj0 is published by obj4 obj8 obj4 is
+obj2 obj11 obj3 obj3 affiliation===obj4 is the obj2 of obj0 affiliated with obj1
+obj1 obj11 obj2 obj2 affiliation===affiliated with the association of public and land grant
+obj1 obj11 obj2 obj2 affiliation===affiliated with the association of public and land grant
+obj5 birthplace obj4 obj7 followedby===the obj14 of obj0 is obj0 who was born
+obj5 birthplace obj4 obj7 followedby===obj0 the sequel to obj9 was written by obj0
+obj4 birthplace obj3 obj6 followedby===obj0 was born in obj4 and wrote wolf solent
+obj4 obj13 obj3 obj6 followedby===obj4 is the obj2 of obj0 who wrote wolf
+obj4 birthplace obj3 obj6 followedby===obj0 was followed by obj5 which is sequeled to
+obj4 birthplace obj3 obj6 followedby===obj0 was born in obj4 and was the obj14
+obj4 birthplace obj3 obj6 followedby===maiden castle preceded by weymouth sands was written by
+obj8 nationality obj2 obj8 occupation===obj4 obj6 obj0 obj41 born in obj1 in 1955
+obj3 almamater obj0 obj3 status===obj4 was an american citizen who was born on
+obj3 almamater obj0 obj3 status===obj4 was an american who was born on july
+obj3 almamater obj0 obj3 status===us national obj4 who was born on 23rd july
+obj3 almamater obj0 obj3 status===obj4 was born in obj16 on the 23rd of
+obj1 almamater obj0 obj1 status===obj4 obj49 born on july 23 1927 in obj45
+obj1 almamater obj0 obj1 status===obj4 obj49 born in obj45 on the 23rd july
+obj1 almamater obj0 obj1 status===obj4 obj49 born on july 23rd 1927 in obj45
+obj3 almamater obj0 obj3 status===obj4 born in dallas was a student at obj4
+obj3 almamater obj0 obj3 status===obj4 was born in obj16 and died in obj13
+obj4 almamater obj0 obj4 occupation===obj5 was born obj21 obj20 and attended the obj5
+obj4 almamater obj0 obj4 occupation===obj5 died obj21 obj15 on 28 february 1966 he
+obj6 almamater obj0 obj6 occupation===obj4 was born on 23rd july 1927 obj21 obj20
+obj6 almamater obj0 obj6 occupation===obj4 a us national has died obj21 obj16 born
+obj3 almamater obj0 obj3 status===obj4 is an american and obj22 born on 23rd
+obj3 almamater obj0 obj3 status===obj4 obj22 born on 23 july 1927 and is
+obj3 almamater obj0 obj3 status===obj4 is a obj1 national born on july 23rd
+obj3 almamater obj0 obj3 status===obj4 born on july 23 1927 in obj19 and
+obj3 almamater obj0 obj3 status===obj4 was born in america in the city of
+obj1 almamater obj0 obj1 status===obj4 obj22 born on july 23rd 1927 in obj48
+obj1 almamater obj0 obj1 status===obj22 born in obj48 on 07 23 1927 he attended
+obj3 almamater obj0 obj3 status===american obj4 was born in obj19 on 23rd july
+obj1 almamater obj0 obj1 status===obj4 obj22 born in obj48 on the 23rd of
+obj1 almamater obj0 obj1 status===obj4 has died in obj44 he obj22 born in

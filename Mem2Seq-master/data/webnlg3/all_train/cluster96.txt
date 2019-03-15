@@ -1,0 +1,329 @@
+obj0 largestcity obj1===obj4 is the largest city in obj0
+obj2 locationcity obj1===obj0 is in the city of obj4
+obj2 locationcity obj1===obj0 is located in the city of obj4
+obj2 locationcity obj1===obj0 is located in obj4
+obj0 battles obj1===the obj0 battled in the obj4
+obj0 battles obj1===the obj0 has fought in the obj4
+obj1 battles obj0===obj4 was a battle involving the obj4
+obj1 battles obj0===the obj4 was a battle involving the obj4
+obj2 dateofretirement obj1===obj0 retired on obj4
+obj2 dateofretirement obj1===obj0 retired in obj4
+obj2 dateofretirement obj1===alan bean's retirement was in obj4
+obj2 dateofretirement obj1===obj0 retired in obj4
+obj2 occupation obj0===obj4 was a obj4
+obj2 occupation obj0===obj4 served as a obj4
+obj2 occupation obj0===obj4 performed as a obj4
+obj2 occupation obj0===obj4 performs as a obj4
+obj1 dateofretirement obj2===obj0 retired on obj4
+obj1 dateofretirement obj2===obj0 retired obj4
+obj0 occupation obj1===obj0 served as a obj4
+obj0 occupation obj1===obj0 was a obj4
+obj1 title obj0===obj4 was the obj4
+obj1 title obj0===obj4 served as the obj4
+obj1 title obj0===obj4 performed as the obj4
+obj0 operator obj2===obj0 was operated by obj4
+obj0 operator obj2===the obj0 program was organized by obj4
+obj0 operator obj2===obj4 operated obj0
+obj0 operator obj2===the obj0 mission was operated by obj4
+obj0 operator obj2===obj0 is operated by obj4
+obj1 dateofretirement obj2===buzz aldrin's retirement date is 1971 07 01
+obj1 dateofretirement obj2===obj0 retired on obj4
+obj1 occupation obj0===obj4 was a obj4
+obj1 occupation obj0===obj4 served as a obj4
+obj1 occupation obj0===obj4 performed as a obj4
+obj0 affiliation obj1===obj0 is affiliated with obj4
+obj1 dateofretirement obj2===obj0 retired in obj4
+obj1 dateofretirement obj2===obj0 retired obj4
+obj0 occupation obj1===obj0 was a obj4
+obj0 occupation obj1===obj0 served as a obj4
+obj0 occupation obj1===obj0 is a obj4
+obj1 title obj0===obj4 is the obj4
+obj2 architecturalstyle obj0===the architecture style of obj4 falls under obj4
+obj2 architecturalstyle obj0===obj4 is in the architectural style brutalist architecture
+obj0 floorarea obj4 square metres===obj0 has a floor area of obj4 square metres
+obj0 floorarea obj4 square metres===obj0 has a floor area of obj4 square metres
+obj0 floorarea obj4 square metres===obj0 is obj4 square metres
+obj0 architect obj1===obj4 designed obj0
+obj0 floorarea obj4 square metres===obj0 has a floor area of obj4 square metres
+obj0 floorarea obj4 square metres===obj0 has a floor area of obj4 square metres
+obj0 floorarea obj4 obj3 obj2===obj0 has a floor area of obj4 obj5 obj6
+obj0 floorarea obj2 square metres===the floor area of obj0 is obj4 square metres
+obj0 floorarea obj2 obj4 obj3===the floor area of obj0 is obj5 obj5 obj6
+obj0 floorarea obj2 obj4 obj3===obj0 has a obj5 obj5 obj6 floor area
+obj0 floorarea obj2 square metres===obj0 has a floor area of obj4 square metres
+obj2 architecturalstyle obj0===adisham halls architectural style is obj4
+obj2 architecturalstyle obj0===the architecture style of obj4 is obj4
+obj0 floorarea obj4 obj3 obj2===the obj0 has a floor area of obj4 obj5 obj6
+obj0 floorarea obj4 square metres===the floor area of the obj0 is obj4 square metres
+obj0 floorarea obj4 square metres===the obj0 has a floor area of obj4 square metres
+obj1 architecturalstyle obj0===obj4 was built in the obj4 style
+obj0 architecturalstyle obj1===the obj0 have the architectural style of obj4
+obj0 architecturalstyle obj1===obj0 has the architectural style of the obj4
+obj0 architecturalstyle obj1===the obj0 has an obj4 style architecture
+obj0 architecturalstyle obj1===the obj0 are in the architectural style of the obj4
+obj1 architecturalstyle obj0===the obj4 are in the architectural sytle of obj4
+obj0 foundationplace obj1===obj0 was founded in obj4
+obj1 populationdensity obj5 obj2 obj6 obj4 obj3===obj0 has a population density of obj7 obj5 obj6
+obj1 populationdensity obj5 obj2 obj6 obj4 obj3===the population density of obj0 is obj7 obj5 obj6
+obj1 populationdensity obj5 obj2 obj6 obj4 obj3===the population density in obj0 is obj7 obj5 obj6
+obj0 areatotal obj4 obj3 obj1===the total area in obj0 is obj4 obj5 obj6
+obj3 areatotal obj4 obj2 obj0===the total area of obj6 is obj4 obj5 obj6
+obj1 populationdensity obj5 obj2 obj6 obj4 obj3===the population density of obj0 is obj7 obj5 obj6
+obj0 areatotal obj4 obj3 obj1===the area of obj0 is obj4 obj5 obj6
+obj0 largestcity obj1===the largest city in obj0 is obj4
+obj0 largestcity obj2===obj4 is the largest city in obj0
+obj0 largestcity obj2===obj4 is the largest city in obj0
+obj2 largestcity obj1===obj4 is the largest city in obj0
+obj0 largestcity obj1===obj4 is the largest city in obj0
+obj1 largestcity obj0===obj4 is the largest city of the obj4
+obj1 largestcity obj0===the largest city in obj4 is obj4
+obj2 locationcity obj0===the location of the obj4 is the obj4 in london
+obj2 locationcity obj0===the obj4 headquarters is called obj4
+obj2 locationcity obj0===obj4 is the home of the obj4 which is
+obj2 locationcity obj1===obj0 is located in obj4
+obj2 locationcity obj1===the obj0 location city is obj4
+obj2 locationcity obj1===the obj0 is located in obj4
+obj0 foundationplace obj2===obj0 was founded in obj4
+united kingdom obj1 obj2===obj4 is the obj4 of the uk
+united kingdom language english language===english is spoken in the uk
+united kingdom leadername obj1===obj4 is the leader of the uk
+obj1 dedicatedto obj0===obj4 is dedicated to the obj4
+obj1 dedicatedto obj0===the obj4 is dedicated to the obj4
+obj1 designer obj0===obj4 designed the obj4
+obj1 dedicatedto obj0===the obj4 is dedicated to obj4
+obj1 dedicatedto obj0===obj4 is dedicated to obj4
+obj2 largestcity obj1===the largest city in obj0 is obj4
+obj2 largestcity obj1===obj4 is the largest city in obj0
+obj2 largestcity obj1===turkey's largest city is obj4
+obj0 season obj2===obj0 played in obj4
+obj0 season obj1===obj0 play in the obj4
+peter stöger club obj0===peter stoger plays for the obj4
+peter stöger obj2 obj0===peter stoger is a member of the obj4 soccer obj2
+peter stöger club obj0===peter stoger plays for obj4
+peter stöger club obj0===peter stoger plays for obj4
+peter stöger obj2 obj0===peter stoger is attached to the obj2 obj4
+peter stöger club obj1===peter stoger plays for obj4
+peter stöger club obj0===peter stoger plays for obj4
+peter stöger obj2 obj0===peterstöger plays for obj4 obj2
+peter stöger club obj0===peter stoger plays for obj4
+obj0 operator obj1===obj0 is operated by obj4
+obj0 operator obj1===obj4 operate obj0
+obj0 academicstaffsize obj2===the academic staff at the obj0 number obj4
+obj0 academicstaffsize obj2===the obj0 has academic staff size of obj4
+obj0 academicstaffsize obj2===obj0 has an academic staff of obj4
+obj0 numberofstudents obj2===there are obj4 students at the obj0
+obj0 numberofstudents obj2===the obj0 has obj4 students
+obj0 numberofstudents obj2===obj0 has obj4 students enrolled
+obj0 numberofstudents obj2===there are obj4 students attending the obj0
+obj0 academicstaffsize obj2===acharya institute of technology's academic staff total is obj4
+obj1 affiliation obj0===obj4 is affiliated to obj4
+obj1 affiliation obj0===the obj4 is affiliated with the obj4
+obj1 affiliation obj0===obj4 is affiliated to the obj4
+obj1 affiliation obj0===obj4 is affilaited with obj4
+obj2 largestcity obj1===the largest city in obj0 is obj4
+obj2 largestcity obj1===obj4 is india's largest city
+obj1 affiliation obj0===obj4 is affiliated with the obj4
+obj2 influencedby obj0===obj4 was influenced by obj4
+obj2 influencedby obj0===obj4 was influenced by obj4
+obj1 largestcity obj2===the largest city in obj0 is obj4
+obj1 largestcity obj2===obj4 is the largest city in obj0
+obj1 largestcity obj2===obj4 is ireland's largest city
+obj0 parentcompany obj1===obj4 is the parent company of the obj0
+obj0 parentcompany obj1===obj4 is the parent company of obj0
+obj0 parentcompany obj1===obj4 is the parent company of obj0
+obj0 parentcompany obj1===the parent company of obj0 is obj4
+obj0 influencedby obj1===obj0 was influenced by obj4
+obj0 influencedby obj1===obj0 is influenced by obj4
+obj2 parentcompany obj0===obj4 is the parent company of obj4
+obj2 parentcompany obj0===obj4 owns obj4
+obj2 parentcompany obj0===obj4 are the parent company of obj4
+united kingdom obj1 obj2===obj4 is the obj4 city in the uk
+united kingdom demonym obj0===obj4 inhabit the uk
+united kingdom leadername obj1===obj4 is a leader in the uk
+obj2 parentcompany obj0===obj4 is the parent company of obj4
+obj1 parentcompany obj0===the parent company of obj4 is obj4
+obj1 parentcompany obj0===obj4 is the parent company of obj4
+obj3 locationcity obj4 obj0 operatingorganisation obj3===the obj5 is operated by obj5 in obj4
+obj4 occupation obj2 obj4 birthplace obj0===obj9 who was born in obj9 performed as a obj5
+obj4 occupation obj2 obj4 birthplace obj0===obj9 born in obj9 performs as a obj5
+obj4 occupation obj2 obj4 birthplace obj0===obj9 was a obj5 who was born in obj9
+obj4 occupation obj2 obj4 birthplace obj0===obj9 was born in obj9 and pursued a career
+obj4 occupation obj2 obj4 birthplace obj0===obj9 born in wheeler texas served as a obj5
+obj4 occupation obj2 obj4 birthplace obj0===alan bean born in wheeler texas served as obj5
+obj4 occupation obj2 obj4 birthplace obj0===obj9 a obj5 was born in obj9
+obj2 title obj0 obj2 birthplace obj1===obj4 was born in obj9 and he served as
+obj2 title obj0 obj2 birthplace obj1===obj4 who was born in obj9 later became the obj4
+obj2 title obj0 obj2 birthplace obj1===obj4 who was born in obj9 held the position
+obj2 title obj0 obj2 birthplace obj1===obj4 is obj4 and was born in obj9
+obj2 title obj0 obj2 birthplace obj1===obj4 who was born in obj9 is the obj4
+obj1 occupation obj3 obj1 birthplace obj0===obj9 was born in obj9 and later in life
+obj1 occupation obj3 obj1 birthplace obj0===obj9 was a obj4 who was born in obj9
+obj1 occupation obj3 obj1 birthplace obj0===obj9 born in british hong kong served as a obj4
+obj1 occupation obj3 obj1 birthplace obj0===obj9 born in obj9 was a obj4
+obj0 architect obj3 obj3 birthplace obj1===obj0 was designed by obj4 born in obj9
+obj0 floorarea obj6 square metres obj0===obj7 has obj7 floors and a total floor area
+obj0 floorarea obj6 square metres obj0===obj7 has a floor area of obj4 square metres
+obj2 architect obj0 obj0 birthplace obj3===obj4 born in obj9 is the creator of obj4
+obj2 architecturalstyle obj0 obj2 location obj4===obj9 whose architectural style is obj9 is located in obj9
+obj2 architecturalstyle obj0 obj2 location obj4===the architecture style of obj9 of obj9 is obj9
+obj0 architect obj1 obj1 birthplace obj3===obj0 was designed by obj4 who was born in obj9
+obj0 architect obj2 obj2 birthplace obj1===obj4 from obj9 was the designer of the obj0
+obj1 foundationplace obj3 obj0 obj5 obj1===obj7 which was founded in obj4 is the obj7
+obj1 foundationplace obj3 obj0 obj5 obj1===the obj7 of the obj7 is the obj7 hotel
+obj1 foundationplace obj3 obj0 obj5 obj1===obj7 is a obj7 of obj7 and was founded
+obj0 foundationplace obj5 obj3 creator obj0===obj5 were created by obj9 which was founded in obj4
+obj0 foundationplace obj5 obj3 obj4 obj0===obj9 founded in obj7 is the obj7 of obj5
+obj0 season obj5 obj0 numberofmembers obj4===obj5 has obj9 members and play in obj9
+obj0 academicstaffsize obj5 obj0 obj4 obj3===there are obj7 academic staff at the obj5 in
+obj0 academicstaffsize obj5 obj0 city obj3===obj5 in obj9 has an academic staff size of
+obj0 academicstaffsize obj5 obj0 obj4 obj3===obj5 has a staff size of obj7 and is
+obj0 numberofstudents obj5 obj0 obj3 obj4===the number of students at the obj5 which was
+obj0 numberofstudents obj5 obj0 obj3 obj4===obj5 which has obj9 students was obj7 in obj9
+obj0 numberofstudents obj5 obj0 obj3 obj4===obj5 was obj7 in obj9 and has obj9 students
+obj1 affiliation obj0 obj1 obj5 obj4===located in the obj7 of obj9 obj9 is an
+united kingdom obj4 english obj4 obj2 country===obj6 is published in the uk where english is
+obj6 occupation obj4 obj6 birthplace===the obj4 obj0 who spent 100305 minutes in space
+obj1 occupation obj6 obj1 birthplace===obj4 obj0 was born in obj0 on november 18 1923
+obj1 occupation obj6 obj1 birthplace===obj4 obj0 was born november 18th 1923 in obj0
+obj1 occupation obj6 obj1 birthplace===obj0 who served as a obj4 was born in
+obj1 occupation obj6 obj1 birthplace===obj0 born on obj4 in new hampshire served as
+obj1 occupation obj6 obj1 birthplace===obj0 was a obj4 who was born in obj0
+obj3 title obj0 obj3 birthplace===obj4 obj4 was born in obj1 and graduated from
+obj3 title obj0 obj3 birthplace===obj4 was born in obj1 and went to obj2
+obj1 architect obj6 obj6 birthplace===john clancy is the leader of obj3 where obj4
+obj2 architect obj4 obj0 country===the obj5 in the us are currently tenants of
+obj3 architecturalstyle obj2 obj0 country===obj5 built in the obj4 style currently hosts the
+obj0 architect obj3 obj3 birthplace===californian born obj4 designed the obj0 and other significant
+obj0 architect obj4 obj4 birthplace===obj5 born san francisco designed obj0 and also obj1
+obj1 architect obj4 obj4 birthplace===obj5 born in obj3 designed the california landmark los
+obj4 broadcastedby obj8 obj4 obj7===obj0 obj7 obj0 is broadcast by the obj5 and
+obj6 largestcity obj5 obj6 obj4===turkey's largest city is obj7 it's obj7 is the
+obj6 largestcity obj5 obj6 obj4===obj7 is the largest city in obj0 but the
+obj0 academicstaffsize obj8 obj0 state===the obj5 is located in obj4 obj5 and it
+obj0 academicstaffsize obj8 obj0 obj6===there is an academic staff of obj4 at the
+obj0 academicstaffsize obj8 obj0 state===obj5 is located in obj4 obj5 and has a
+obj0 numberofstudents obj8 obj0 obj7===the obj5 is located in obj5 its obj7 is
+obj0 numberofstudents obj8 obj0 obj7===there are obj4 students at the obj5 which has
+obj0 numberofstudents obj8 obj0 obj7===the obj7 of obj5 is obj4 and it has
+obj0 numberofstudents obj8 obj0 obj5===obj7 was obj7 in obj6 it has obj7 staff
+obj0 academicstaffsize obj8 obj0 obj7===the obj5 in obj6 was an academic staff of
+obj1 affiliation obj0 obj1 city===the obj4 is located in banglaore obj7 it is
+obj1 affiliation obj0 obj1 city===the obj4 is in obj5 obj7 it's affiliated with
+obj1 affiliation obj0 obj1 city===the obj4 in obj5 obj7 is affiliated with the obj4
+obj1 affiliation obj0 obj1 city===the obj4 is in obj6 obj5 it is associated
+obj1 affiliation obj0 obj1 city===the obj4 of obj6 obj5 is affiliated with obj4
+obj3 affiliation obj1 obj1 city===the obj0 is in soldevanahalli its address is acharya
+obj3 affiliation obj1 obj1 city===the obj0 is affiliated with the obj4 in obj6
+united kingdom obj7 english obj7 obj2 country===obj6 is published by obj0 in the uk where
+obj8 locationcity obj9 obj0 location===the obj5 located at san sebastian de los reyes
+obj8 locationcity obj9 obj0 location===obj5 is found in obj2 in obj11 which is
+obj7 locationcity obj8 obj8 country===operated by obj0 madrid spain the obj0 is in obj2
+obj7 locationcity obj8 obj8 country===obj0 is located in obj4 which in turn is
+obj7 locationcity obj8 obj8 country===obj0 is the operating organisation for adolfo suarez madrid barajas
+obj5 occupation obj3 obj5 almamater===obj0 is a obj10 obj4 who was born in
+obj3 dateofretirement obj8 obj3 obj13 obj10===obj0 born in british hong kong obj7 obj8 obj14
+obj1 architect obj8 obj1 location===obj0 in obj6 england was completed in obj01 and
+obj2 architecturalstyle obj0 obj2 location===obj4 is located at obj5 and designed by obj8
+obj5 architecturalstyle obj1 obj5 location===adisham halls constructed from obj40 to obj41 is located
+obj0 architect obj6 obj6 birthplace===obj4 born in obj5 designed significant buildings in obj1
+obj0 architect obj6 obj6 birthplace===obj5 born obj4 has designed many significant buildings including
+obj1 architect obj6 obj6 birthplace===obj4 was born in san fransico and she designed
+obj1 architect obj6 obj6 birthplace===obj4 was born in san fransisco and she has
+obj0 architect obj6 obj6 birthplace===obj4 born in obj5 designed several significant buildings such
+obj0 architect obj6 obj6 birthplace===born in obj5 obj4 designed the obj0 the obj2
+obj0 architect obj6 obj6 birthplace===obj4 born in obj5 designed obj0 the obj2 and
+obj5 broadcastedby obj8 obj8 obj6===1st baron john reith was the founder of the
+obj5 broadcastedby obj11 obj5 creator===obj4 stars in obj0 which was created by obj1
+obj5 broadcastedby obj11 obj5 creator===obj0 created by obj1 and obj9 obj4 was first
+obj5 broadcastedby obj11 obj5 creator===obj0 which was first broadcast by the obj4 on
+obj5 broadcastedby obj11 obj5 creator===obj2 created obj0 which was first aired by the
+obj5 broadcastedby obj11 obj5 creator===obj0 was first aired on 3 october 1983 by
+obj5 broadcastedby obj11 obj5 obj9===obj0 obj7 obj0 created by obj2 first aired on
+obj2 dedicatedto obj0 obj2 location===obj16 obj4 obj18 baku obj8 where obj5 is leader
+obj2 dedicatedto obj0 obj2 location===obj17 obj4 located obj19 obj10 known locally as obj6
+obj1 dedicatedto obj0 obj1 location===obj47 obj4 obj49 obj40 is made from obj5 is
+obj1 dedicatedto obj0 obj1 location===obj47 obj4 which is made from obj5 is found
+obj2 season obj11 obj2 obj8===with obj10 members and a home obj7 called obj6
+obj2 season obj11 obj2 numberofmembers===obj0 full name association football club fylde played in
+obj1 season obj11 obj1 numberofmembers===the full name of obj0 is agremiação sportiva arapiraquense
+obj0 academicstaffsize obj13 obj0 state===the obj5 is located in obj4 obj7 and it
+obj0 academicstaffsize obj13 obj0 obj9===mahe india is obj6 of obj7 obj7 where the
+obj0 academicstaffsize obj13 obj0 obj9===obj5 is located in obj4 obj10 obj7 obj7 this
+obj0 numberofstudents obj11 obj0 obj9===the obj5 in the obj7 of obj7 was obj6
+obj0 numberofstudents obj11 obj0 city===the obj5 obj6 in obj8 currently has obj10 staff
+obj0 numberofstudents obj11 obj0 city===the obj5 is located in obj7 and it was
+obj0 numberofstudents obj11 obj0 obj9===the obj8 of obj7 is the location of the
+obj0 numberofstudents obj11 obj0 obj9===the obj7 of the obj5 is obj6 it has
+obj0 numberofstudents obj11 obj0 obj9===the obj5 was obj6 in obj8 its obj7 is
+obj0 numberofstudents obj11 obj0 obj9===the obj7 of the obj5 is obj7 the accademia
+obj0 numberofstudents obj11 obj0 obj9===the obj7 of the obj5 is obj7 the academy
+obj1 affiliation obj0 obj1 obj11===the obj4 is located in the obj41 of obj7
+obj1 affiliation obj0 obj1 city===affiliated with obj4 the obj4 is located in obj7
+obj1 affiliation obj0 obj1 obj11===the obj4 is located in the obj41 of obj7
+obj8 largestcity obj6 obj0 obj4===obj5 india has an academic staff of obj11 the
+obj8 largestcity obj6 obj0 country===obj5 in obj4 obj5 has a staff size of
+obj8 largestcity obj7 obj0 country===obj5 india has obj11 academic staff and was obj4
+obj8 largestcity obj7 obj0 country===obj4 in obj10 in obj4 obj5 obj5 has an
+obj9 largest obj11 obj7 obj0 country===the obj6 is located in obj3 obj6 obj6 obj5
+obj9 largest obj11 obj7 obj0 country===the obj6 is located in the obj3 of obj3
+obj10 largestcity obj8 obj0 country===obj5 is in the obj9 of obj6 which obj13
+obj10 largestcity obj8 obj0 obj5===obj7 is in obj4 obj7 in the obj9 of
+united kingdom leadername obj8 obj3 country===obj2 is the parent company of obj0 who publish
+united kingdom leadername obj6 obj1 country===the obj5 is published in the uk by obj0
+united kingdom leadername obj6 obj1 country===obj4 is a leader in the uk and the
+obj5 occupation obj3 obj5 almamater===obj12 obj16 obj4 chosen obj15 obj0 obj18 a student
+obj5 occupation obj3 obj5 almamater===obj0 who obj18 born in obj1 graduated from ut
+obj6 architecturalstyle obj2 obj6 location===the architecture style of obj0 is obj4 it was
+obj0 architect obj8 obj8 birthplace===obj4 was born in obj7 and has designed buildings
+obj7 broadcastedby obj14 obj7 creator===obj0 first aired on the obj4 on october 3rd
+obj7 broadcastedby obj14 obj7 creator===obj0 first aired on the obj4 on october 3rd
+obj7 broadcastedby obj14 obj7 creator===obj0 first aired on the obj4 on october 3rd
+obj7 broadcastedby obj14 obj7 creator===obj0 first aired on the obj4 on october 3rd
+obj7 broadcastedby obj14 obj7 creator===obj0 was shown by the obj4 and aired between
+obj7 broadcastedby obj14 obj7 creator===obj0 was the tv series shown by the obj4
+obj7 broadcastedby obj14 obj7 obj13===first aired on the obj4 10 03 1983 and its
+obj7 broadcastedby obj14 obj7 creator===obj0 first aired on the obj4 on october 3rd
+obj6 official obj12 obj1 obj6 obj12===obj5 is the obj2 obj3 of the obj0 where
+united kingdom leadername obj8 obj13 dishvariation===bacon sandwiches are from the uk where obj4 was
+obj0 numberofstudents obj14 obj0 city===the obj5 in obj10 obj8 was obj7 in obj11
+obj0 numberofstudents obj14 obj0 city===the obj5 is located in obj8 obj10 it was
+obj0 numberofstudents obj14 obj0 city===the obj5 in obj10 was obj7 obj11 it has
+obj0 numberofstudents obj14 obj0 obj12===the obj5 in obj8 obj10 has obj13 academic staff
+obj0 numberofstudents obj14 obj0 obj12===the obj5 is located in obj8 obj10 and has
+obj0 numberofstudents obj14 obj0 obj12===the obj5 in obj10 has a staff of obj13
+obj0 numberofstudents obj14 obj0 obj12===the obj5 in obj9 was obj7 in obj10 it
+obj0 numberofstudents obj14 obj0 obj12===obj9 is the location of the obj5 which was
+obj0 numberofstudents obj14 obj0 obj12===the obj5 in switzerland was obj7 obj10 it has
+obj1 affiliation obj0 obj1 obj10===b m reddy is the obj40 of the obj4
+obj1 affiliation obj0 obj1 obj10===obj4 president b m reddy is located in obj9
+obj3 affiliation obj1 obj1 city===the obj0 is located obj0 obj8 obj42 it is
+obj11 largest obj13 obj9 obj0 country===the obj2 obj3 in obj6 is obj5 but the
+obj10 largestcity obj8 obj0 country===the obj5 obj4 in obj13 is located in obj5
+united kingdom obj12 english obj12 aids journal obj14===the aids journal is published by obj0 in the
+united kingdom language obj1 united kingdom leadername===obj8 is leader of the uk where the obj4
+obj1 affiliation obj0 obj1 obj12===the obj4 in obj41 obj40 obj45 was obj7 in
+obj1 affiliation obj0 obj1 obj12===the obj47 of obj41 in the obj44 of obj40
+obj1 affiliation obj0 obj1 obj12===obj7 in obj46 the obj4 is in obj41 obj40
+obj3 affiliation obj1 obj1 obj17===the obj0 in obj44 is affiliated to the obj4
+obj12 largest obj15 obj10 obj0 obj8===obj6 in obj5 obj6 has obj17 employees and was
+obj12 largest obj15 obj10 obj0 obj8===obj6 in obj16 the obj6 in obj5 obj6 currently
+obj12 largest obj15 obj10 obj0 obj8===obj6 of obj5 obj6 was obj6 in obj16 and
+obj13 largest obj17 obj11 obj0 country===the obj6 is located in obj3 obj9 obj6 obj9
+obj13 largest obj17 obj11 obj0 obj7===the obj6 is located in the obj3 of obj3
+obj13 largest obj17 obj11 obj0 country===obj6 is located in obj3 obj9 obj14 in obj6
+obj14 largest obj16 obj11 obj0 country===the obj6 in obj5 obj9 obj6 has obj17 academic
+obj14 largest obj16 obj11 obj0 country===the obj2 obj3 in obj6 is obj5 but the
+obj14 largest obj16 obj11 obj0 country===obj6 in obj5 obj6 is in the obj12 of
+obj13 largestcity obj11 obj0 country===obj5 is located in obj8 obj5 obj8 obj19 mahe
+obj13 largestcity obj11 obj0 obj6===the largest city in obj5 is obj4 and one
+obj13 largestcity obj11 obj0 country===obj5 with it's largest city of obj4 and the
+obj16 largest obj18 obj14 obj0 obj11===the obj6 is located in the obj3 of obj6
+obj16 largest obj18 obj14 obj0 country===obj6 in obj6 obj6 is in the obj15 of
+obj16 largest obj18 obj14 obj0 country===the obj6 was obj8 in obj19 in the obj3
+obj17 largestcity obj14 obj0 obj10===the obj5 is located in the obj15 of obj11
+obj17 largestcity obj14 obj0 obj10===obj5 in obj5 was created in obj19 and obj21
+obj17 largestcity obj14 obj0 country===the obj5 was obj6 in obj19 in the obj15
+obj14 largest obj19 obj12 obj0 country===the obj13 obj9 flows through obj6 where the obj2
+obj14 largest obj19 obj12 obj0 country===the obj6 is located in obj4 obj10 obj6 and
+obj14 largest obj19 obj12 obj0 obj8===obj6 in obj4 obj6 was obj5 in obj20 the
+obj1 obj29 obj20 obj3 obj14===obj0 is the location of the obj5 obj04 in

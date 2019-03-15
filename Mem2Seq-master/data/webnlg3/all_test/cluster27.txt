@@ -1,0 +1,23 @@
+obj2 obj5 obj0 amarillo texas country obj2===amarillo is in texas in the obj2 the obj5
+obj2 obj5 obj0 amarillo texas obj4 obj2===obj0 is the obj5 of the obj2 which is
+obj1 1st runway lengthfeet obj4 obj1 elevationabovethesealevel in metres obj5===the 1st runway at obj1 is obj4 feet in
+obj1 1st runway lengthfeet obj4 obj1 elevationabovethesealevel in metres obj5===the obj1 is obj5 metres above sea level and
+obj1 1st runway lengthfeet obj4 obj1 elevationabovethesealevel in metres obj5===obj1 is elevated obj5 metres above sea level and
+a s obj3 calcio ground obj3 a s obj3===the as obj3 club in obj2 plays in obj3
+obj6 language obj1 arlington obj6 ispartof===arlington is part of obj6 where the largest city
+obj4 obj8 obj1 attica indiana country===the obj4 which has the obj8 city of obj1
+obj4 obj8 obj1 attica indiana country===attica obj0 is in the united states where obj1
+obj4 obj8 obj1 attica indiana country===attica is part of obj0 in the obj4 the
+obj0 cityserved lake placid new york obj0 runwaylength===obj0 serves both lake placid and obj3 the length
+obj0 cityserved lake placid new york obj0 runwaylength===lake placid ny is served by the obj0 where
+obj1 cityserved lake placid new york obj1 runwaylength===lake placid and the city of saranac lake both
+obj1 cityserved lake placid new york obj1 runwaylength===obj1 serves the city of lake placid and the
+obj1 cityserved lake placid new york obj1 runwaylength===obj1 serves the city of saranac lake and lake
+amarillo obj11 ispartof potter county obj11 obj11===in amarillo pottery county obj11 us the native obj7
+amarillo obj11 ispartof potter county obj11 obj11===amarillo potter county is located in english speaking obj11
+amarillo obj11 ispartof potter county obj11 obj11===english is spoken in obj11 obj6 austin is the
+amarillo obj11 ispartof potter county obj11 obj11===english is spoken in us obj13 of obj11 where
+obj9 obj13 obj5 alexandria obj9 ispartof===alexandria part of obj0 is in the us the
+obj9 obj13 obj5 alexandria obj9 ispartof===alexandria is part of madison county indianaus obj5 is
+obj9 obj13 obj5 alexandria obj9 ispartof===alexandria is part of the state of obj9 obj4
+obj4 language obj3 albuquerque obj10 ispartof===the obj14 of the obj4 which uses the obj3

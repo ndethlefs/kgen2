@@ -1,0 +1,10 @@
+obj2 creator steven t seagle===obj0 was created by steve t seagle
+obj2 leadername jesús casillas romero===the name of the leader in obj0 is jesus
+obj1 club i̇stanbulspor a ş===obj0 plays for istanbulspor as
+obj1 obj2 deșteaptă te române===the obj2 of obj0 is called desteapta te romane
+romania obj2 deșteaptă te române===desteapta te romane is the romanan obj2
+obj1 obj2 deșteaptă te române===the national obj2 of obj0 is desteapta te romane
+obj3 ground warton fylde lancashire obj3===the full name of obj0 the obj9 member strong
+obj0 obj7 empoli f c obj5 obj6===obj0 is a obj7 for the obj5 obj2 and
+obj9 leadername haider al abadi al taqaddum air base cityserved===obj5 is served by the al taqaddum air base
+obj1 city belgaum obj3 director===obj5 in obj25 is affiliated with obj0 in belgium

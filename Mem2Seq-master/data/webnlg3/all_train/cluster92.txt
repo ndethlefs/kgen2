@@ -1,0 +1,223 @@
+obj0 1st runway surfacetype obj2===the first runway at obj0 is made from obj4
+obj0 1st runway surfacetype obj2===the 1st runway at obj0 is made of obj4
+obj1 1st runway surfacetype obj2===the first runway at obj0 is made of obj4
+obj1 1st runway surfacetype obj2===the 1st runway at obj0 has an obj4 surface
+obj1 1st runway surfacetype obj2===the 1st runway at obj0 is made from obj4
+obj1 1st runway surfacetype obj2===the surface of the 1st runway at obj0 is obj4
+obj1 1st runway surfacetype obj2===the 1st runway at obj0 is made from obj4
+obj0 1st runway surfacetype obj2===the first runway of obj0 is made in obj4
+obj0 1st runway surfacetype obj2===the 1st runway at obj0 is made from obj4
+ardmore airport new zealand elevationabovethesealevel in metres obj2===ardmore airport new zealand is elevated obj4 metres above
+ardmore airport new zealand operatingorganisation obj0===the obj4 is the operating organisation for ardmore airport
+ardmore airport new zealand operatingorganisation obj0===ardmore airport in new zeland is operated by the obj4
+ardmore airport new zealand runwaylength obj2===the runway length at ardmore airport new zealand is obj4
+ardmore airport new zealand runwaylength obj2===the runway length of ardmore airport new zealand is obj4
+obj2 obj1 english americans===in obj0 the obj2 spoken is american english
+obj2 obj1 english americans===the obj2 in obj0 is american english
+obj1 country united kingdom===bacon sandwiches are popular in the uk
+obj1 obj2 stuart parker footballer===obj0 have had stuart parker as their obj2
+united states ethnicgroup native americans in the united states===native americans are an ethnic group in the us
+obj1 1st runway surfacetype obj4 obj1 elevationabovethesealevel in metres obj5===abilene regional airportis obj9 metres above sea level and
+obj1 1st runway surfacetype obj4 obj1 elevationabovethesealevel in metres obj5===the first runway at obj0 elevation obj9 metres above
+obj1 1st runway surfacetype obj4 obj1 elevationabovethesealevel in metres obj5===obj0 is located obj9 metres above sea level and
+obj1 1st runway surfacetype obj5 obj1 cityserved obj4===the city of obj9 is served by the obj0
+obj1 1st runway surfacetype obj5 obj1 cityserved obj4===the first runway at obj0 which serves obj9 has
+obj1 1st runway surfacetype obj5 obj1 cityserved obj4===obj9 is served by obj0 where the 1st runway
+obj1 1st runway surfacetype obj5 obj1 cityserved obj4===serving the city of obj9 alderney airport's 1st runway
+obj1 1st runway surfacetype obj5 obj1 cityserved obj4===obj0 serves the city of obj9 and the surface
+obj1 1st runway surfacetype obj5 obj1 cityserved obj4===the surface of the 1st runway at obj0 which
+obj1 1st runway surfacetype obj4 obj1 runwaylength obj5===the surface type of the obj9 long runway at
+obj1 1st runway surfacetype obj4 obj1 runwaylength obj5===the runway length of obj0 is obj9 and the
+obj1 1st runway surfacetype obj4 obj1 runwaylength obj5===the 1st runway at obj0 which is obj9 in
+obj1 1st runway surfacetype obj4 obj1 runwaylength obj5===obj0 has a runway with a length of obj9
+obj1 1st runway surfacetype obj3 obj3 obj5 obj2===the surface of the 1st runway at obj0 is
+obj1 1st runway surfacetype obj3 obj3 obj5 obj2===the 1st runway at obj0 is made from obj4
+obj1 1st runway surfacetype obj2 obj2 obj5 obj4===the surface of the 1st runway at obj0 is
+obj1 1st runway surfacetype obj2 obj2 obj5 obj4===the 1st runway at obj0 is made from obj9
+obj1 1st runway surfacetype obj2 obj2 obj5 obj4===the first runway at obj0 is made from obj9
+obj1 1st runway surfacetype obj4 obj1 elevationabovethesealevel in metres obj5===obj0 is obj9 metres above the sea level and
+obj1 1st runway surfacetype obj4 obj1 elevationabovethesealevel in metres obj5===obj4 is the surface of the first runway of
+obj0 country united kingdom obj0 obj3 obj5===the uk is famous for its liking of the
+obj0 country united kingdom obj0 obj4 obj3===obj9 is an obj7 in a obj5 which are
+obj0 country united kingdom obj0 ingredient obj3===a obj5 with obj9 is popular in the uk
+obj0 country united kingdom obj0 obj4 obj3===an obj7 in a bacon sandwhich is obj9 and
+obj0 country united kingdom obj0 obj3 obj4===bacon sandwiches are popular in the uk and condiments
+obj0 country united kingdom obj0 obj3 obj4===obj9 can be an obj7 in a obj5 which
+obj0 country united kingdom obj0 ingredient obj4===a tasty addition to a obj5 is obj9 which
+obj4 main obj3 s obj2 obj4===the obj6 ingredientobj7 of obj0 are the obj6 and obj1
+obj4 main obj3 s obj2 obj4===one of the obj6 ingredientobj7 of obj0 iobj7 the
+obj4 main obj3 s obj2 obj4===the obj6 ingredientobj7 of obj0 are obj7weet potatoteobj7 and
+obj3 main obj2 s obj1 obj3===obj0 includeobj4 the obj6 aobj4 a obj7 obj7 and obj5
+obj3 main obj2 s obj1 obj3===obj0 containobj4 the obj7 obj7 of obj4weet potatoeobj4 and
+obj3 main obj2 s obj1 obj3===obj0 includeobj4 obj6 aobj4 a obj7 obj7 aobj4 well
+obj3 main obj2 s obj1 obj3===binignitobj4 obj7 obj7 iobj4 obj6 and alobj4o obj5
+obj3 main obj2 s obj1 obj3===obj4weet potatoeobj4 are a obj7 obj7 of obj0 and
+obj3 leadername obj0 arròs negre obj5 obj3===arros negre is found in the obj7 of obj4
+obj3 leadername obj0 arròs negre region obj3===arros negre originates from obj4 led by carles puigdemont
+obj3 obj1 obj5 arròs negre country obj3===the obj4 is the obj2 of obj0 where arros
+obj3 obj2 obj4 atatürk monument i̇zmir location obj3===the atatürk monument is located in izmir obj0 where
+obj3 obj2 obj4 atatürk monument i̇zmir location obj3===the atatürk monument is located in i̇zmir obj0 which
+obj1 language obj0 aids journal country obj1===the aids journal was published in the obj4 where
+obj0 leadername obj3 aids journal country obj0===aids journal is from the obj9 where the leader
+obj1 1st runway surfacetype obj7 obj1 runwaylength===obj6 is served by obj0 this airport's 1st runway
+obj1 1st runway surfacetype obj7 obj1 runwaylength===the 1st runway of obj0 which serves the city
+obj1 1st runway surfacetype obj7 obj1 runwaylength===the obj0 serves the island of obj6 and its
+obj1 1st runway surfacetype obj4 obj4 obj8===the 1st runway at obj0 is made from obj5
+obj1 1st runway surfacetype obj4 obj4 obj8===at obj0 the 1st runway is made from obj5
+obj1 1st runway surfacetype obj4 obj4 obj8===the surface of the 1st runway at obj0 is
+obj1 1st runway surfacetype obj3 obj3 obj8===the 1st runway at obj0 is made from obj4
+obj1 1st runway surfacetype obj3 obj3 obj8===the surface of the 1st runway at obj0 is
+obj1 1st runway surfacetype obj3 obj3 obj7===the surface of the 1st runway at obj0 is
+obj1 1st runway surfacetype obj3 obj3 obj7===the surface of the 1st runway at obj0 is
+obj1 1st runway surfacetype obj3 obj3 obj7===obj4 from the obj7 of obj6 and the obj7
+obj1 ispartof new jersey obj0 location===obj5 can be found in obj5 in the usa
+obj3 nationality americans auron comicscharacter fullname===the comic character auron's full name is obj8 and
+obj3 nationality americans auron comicscharacter fullname===auron full name obj8 is a comic
+obj2 country united kingdom obj2 alternativename===popular in the uk a obj0 includes the obj6
+obj2 country united kingdom obj2 alternativename===popular in the uk the obj0 the main obj6
+obj2 country united kingdom obj2 alternativename===a obj0 can also be known as a obj11
+obj2 country united kingdom obj2 alternativename===a obj0 is also known as a obj11 obj13
+obj2 country united kingdom obj2 alternativename===the uk dish of a obj0 which has obj14
+obj2 country united kingdom obj2 alternativename===the uk dish of obj12 sandwiches ingredients include condiments
+obj2 country united kingdom obj2 obj6===popular in the uk bacon sandwiches which can have
+obj2 country united kingdom obj2 obj6===the obj0 which originates in the uk can also
+obj3 main obj2 s obj7 obj3===the obj7 obj7 of obj0 iobj4 obj6 along with
+obj3 main obj2 s obj7 obj3===obj6 iobj4 one of the obj7 ingredientobj4 in the
+obj3 main obj2 s obj7 obj3===obj0 haobj4 the obj7 obj7 of obj6 but alobj4o
+obj3 main obj2 s obj7 obj3===one of the obj7 ingredientobj4 in obj0 iobj4 obj6
+obj4 main obj3 s obj1 obj4===the obj2 obj3 of obj0 iobj7 obj6 and it
+obj4 main obj3 s obj1 obj4===the obj2 obj3 in the philippine diobj7h of obj0
+obj4 main obj3 s obj1 obj4===obj0 comeobj7 from the obj2 the obj2 obj3 iobj7
+obj4 main obj3 s obj1 obj4===the obj2 obj3 in obj0 iobj7 obj7weet potatoeobj7 but
+obj4 main obj3 s obj1 obj4===obj0 containobj7 the ingredientobj7 obj6 and obj8 and comeobj7
+obj5 main obj4 s obj2 obj5===one of the obj6 ingredientobj4 of the cuiobj4ine of
+obj5 main obj4 s obj2 obj5===the filippino diobj4h of obj0 haobj4 obj4weet potatoeobj4 and
+obj4 main obj3 s obj1 obj4===the filippino diobj7h of obj0 haobj7 obj7weet potatoeobj7 and
+obj4 main obj3 s obj1 obj4===obj8 iobj7 an obj3 in the philippine diobj7h of
+obj4 main obj3 s obj1 obj4===one of the obj2 ingredientobj7 of obj0 iobj7 the
+obj6 main obj4 s obj1 obj6===obj2 iobj4 an obj3 of obj0 along with obj4weet
+obj6 main obj4 s obj1 obj6===obj4weet potatoeobj4 which are part of the obj8 of
+obj6 main obj4 s obj1 obj6===the obj2 ingredientobj4 of obj0 are obj4weet potatoteobj4 that
+obj5 main obj3 s obj1 obj5===one of the obj2 ingredientobj4 of obj0 iobj4 the
+obj5 main obj3 s obj1 obj5===the obj7 of obj4 containobj4 obj6 which along with
+obj5 main obj3 s obj1 obj5===obj6 part of the obj7 of obj4 are the
+obj5 main obj3 s obj1 obj5===obj4weet potatoeobj4 are part of the obj7 of obj4
+obj5 main obj3 s obj1 obj5===obj8 iobj4 an obj3 in obj0 along with the
+obj4 leadername obj0 arròs negre country===arros negre is from the obj4 obj7 in obj8
+obj4 leadername obj0 arròs negre country===arros negre is from the obj4 obj7 of obj8
+obj3 obj6 obj3 n obj6 obj3===obj1 is the leader of obj0 where the obj2
+obj3 obj6 obj3 n obj6 obj3===obj8 is a dish from the obj7 of obj0
+obj3 country united kingdom obj3 publisher===obj0 is published in the uk by obj0 whose
+obj3 language obj1 aids journal country===the aids journal is published by obj0 in the
+united states leadertitle president of the united states obj1 country===obj5 was written in the us which is home
+obj2 1st runway surfacetype obj9 obj2 runwaylength===obj8 is served by obj0 which is 88 metres
+obj2 1st runway surfacetype obj9 obj2 runwaylength===obj8 is served by obj0 which is located 88
+obj2 1st runway surfacetype obj9 obj2 runwaylength===obj8 is served by obj0 which is located 88
+obj2 1st runway surfacetype obj9 obj2 runwaylength===obj8 is served by obj0 which is 88 meters
+obj2 1st runway surfacetype obj9 obj2 runwaylength===obj8 is served by obj0 located at a height
+obj1 1st runway surfacetype obj4 obj4 obj10===the 1st runway at obj0 is made from obj5
+obj1 1st runway surfacetype obj4 obj4 obj10===the surface of the 1st runway at obj0 is
+obj3 ispartof new jersey obj1 elevationabovethesealevel in metres===obj5 located in obj0 us is obj51 meters above
+obj1 ispartof new jersey obj0 location===obj5 is located in obj5 in the obj6 and
+obj4 ispartof new jersey obj2 operatingorganisation===with its headquarters in the obj6 the obj0 is
+obj4 ispartof new jersey obj2 operatingorganisation===the obj6 is the headquarters of the obj0 who
+obj4 ispartof new jersey obj2 operatingorganisation===obj5 located at obj0 is operated by the obj0
+obj4 ispartof new jersey obj2 operatingorganisation===the obj0 which has their hq in obj10 is
+obj2 ispartof new jersey obj0 runwaylength===obj5 obj5 is the obj8 of obj5 which has
+obj5 nationality americans auron comicscharacter fullname===the comic character auron obj11 was created
+obj5 nationality americans auron comicscharacter fullname===auron obj11 is a comic character that
+obj5 nationality americans auron comicscharacter fullname===obj3 and the american obj0 are the creators of
+obj5 nationality americans auron comicscharacter fullname===the comic character of auron whose full name is
+obj5 nationality americans auron comicscharacter fullname===the comic character of auron has the full name
+obj5 nationality americans auron comicscharacter fullname===the comic book character auron with the full name
+obj6 nationality obj7 bolt comicscharacter creator===bolt also known as obj4 is a comic book
+obj2 main obj8 s obj11 obj9===the diobj4h bacon exploobj4ion iobj4 from the obj0 itobj4
+obj2 main obj8 s obj11 obj9===obj0 a diobj4h from the obj0 includeobj4 the obj2
+obj2 main obj8 s obj11 obj9===obj0 iobj4 from the obj0 the obj2 ingredientobj4 are
+obj2 main obj8 s obj11 obj9===obj0 iobj4 from kanobj4aobj4 city uobj4a the obj2 ingredientobj4
+obj2 main obj8 s obj11 obj9===the obj2 ingredientobj4 of obj0 are obj6 and obj8
+obj2 main obj8 s obj11 obj9===obj0 originateobj4 from the kanobj4aobj4 city metropolitan areathe obj2
+obj4 main obj8 s obj0 obj4===obj6 iobj7 from either france the obj14 obj13 obj17
+obj4 main obj9 s obj0 obj4===obj6 are obj2 ingredientobj7 in obj6 which can be
+obj3 main obj7 s obj9 obj19===obj0 comeobj4 from either obj1 and iobj4 enjoyed in
+obj3 main obj7 s obj0 obj3===the obj2 ingredientobj4 of obj6 are obj6 the diobj4h
+obj4 main obj11 s obj0 obj4===obj6 iobj7 found in the obj1 of columbia the
+obj4 main obj11 s obj0 obj4===the obj2 ingredientobj7 of obj6 are obj6 the diobj7h
+obj4 main obj10 s obj0 obj4===the obj2 ingredientobj7 of obj6 are obj6 the diobj7h
+obj3 main obj11 s obj0 obj3===obj6 iobj4 from the obj7 it iobj4 a typical
+obj3 main obj11 s obj0 obj3===obj6 originateobj4 from the obj7 of columbia the obj2
+obj3 main obj11 s obj0 obj3===obj6 originateobj4 from the obj7 columbia the obj2 ingredientobj4
+obj3 main obj10 s obj0 obj3===obj6 iobj4 from the obj7 columbia the obj2 ingredientobj4
+obj3 main obj10 s obj0 obj3===the obj2 ingredientobj4 of obj6 are obj6 the diobj4h
+obj3 main obj8 s obj0 obj3===obj6 iobj4 found in obj9 obj62 obj4ingapore itobj4 obj2
+obj3 main obj8 s obj0 obj3===obj6 iobj4 commonly found in obj1 obj6 are the
+obj3 main obj2 s obj11 obj3===obj0 comeobj4 from the obj4 obj10 and can be
+obj3 main obj2 s obj11 obj3===the obj7 obj7 of obj0 iobj4 obj6 and it
+obj3 main obj2 s obj11 obj3===obj6 iobj4 the obj7 obj7 of obj0 which alobj4o
+obj5 main obj4 s obj3 obj5===obj0 iobj4 a obj8 itobj4 obj2 obj6 iobj4 obj6
+obj5 main obj4 s obj3 obj5===obj11 and obj6 are ingredientobj4 in the obj8 obj0
+obj4 main obj3 s obj1 obj4===obj0 iobj7 a diobj7h from the obj60 of obj9
+obj4 main obj3 s obj1 obj4===obj0 haobj7 the obj2 obj3 of obj7weet potatoeobj7 and
+obj4 main obj3 s obj1 obj4===the obj2 obj3 of obj0 iobj7 obj6 and it
+obj7 main obj5 s obj2 obj2===the obj6 ingredientobj4 of obj0 are obj4weet potatoteobj4 and
+obj7 main obj5 s obj2 obj2===one of the obj6 ingredientobj4 of obj0 along with
+obj8 main obj6 s obj2 obj2===the obj6 ingredientobj4 of obj0 are obj4weet potatoteobj4 flowering
+obj8 main obj6 s obj2 obj2===obj3 iobj4 an obj3 of obj0 which alobj4o containobj4
+obj7 main obj5 s obj2 obj2===obj0 includeobj4 the ingredientobj4 obj11 and obj6 the latter
+obj7 main obj5 s obj2 obj2===obj0 includeobj4 the ingredientobj4 of obj11 and obj6 the
+obj7 main obj5 s obj2 obj2===obj0 includeobj4 the ingredientobj4 obj6 a obj0 of the
+obj7 main obj5 s obj2 obj2===binignit'obj4 obj6 ingredientobj4 are obj4weet potatoeobj4 which belongobj4 to
+obj6 leadername obj1 arròs negre country===obj0 is the leader of obj40 where one of
+obj6 leadername obj1 arròs negre obj8===arros negre is a traditional dish from the obj0
+obj4 obj7 obj4 n obj7 obj10===obj7 is made in china and found in obj0
+obj4 obj7 obj4 n obj7 obj10===indonesian is the obj2 of obj0 where obj2 is
+obj3 obj7 obj3 n obj7 obj10===obj7 is a dish originates from indonesiathe country's leader
+obj3 obj7 obj3 n obj7 obj10===obj7 is a dish found in obj0 where obj1
+obj4 language obj4 n language obj4 leadername===obj10 is a food found in obj0 and china
+obj4 obj7 obj4 n obj7 obj4===obj0 has obj2 as a leader indonesian as a
+obj3 language obj3 n language obj3 leadername===obj1 is a leader in obj0 where they speak
+obj3 obj7 obj3 n obj7 obj3===obj10 is an indonesian dishthe obj8 leader is obj1
+obj3 obj8 stuart parker footballer obj3 obj10===the uk labour party are the leaders of the
+obj2 obj8 stuart parker footballer obj6 obj10===obj5 is one of the leaders in obj5 which
+a s obj13 fullname obj0 a s obj13===obj5 abbreviated to asroma has obj12 members their obj11
+a s obj13 fullname obj0 a s obj13===obj5 abbreviated to asroma have obj12 members and there
+obj4 leadername obj8 aids journal country===in the obj0 obj4 is the leader and the
+obj4 leadername obj8 aids journal country===the aids journal is published by obj0 whose parent
+obj2 leadername obj6 aids journal country===the aids journal is published by obj0 in the
+obj2 1st runway surfacetype obj11 obj2 runwaylength===the obj0 which serves obj10 has an elevation which
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj0 is located 88 metres above sea level and
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj10 is served by obj0 which is located 88
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj10 is served by obj0 which is located 88
+obj2 1st runway surfacetype obj11 obj2 runwaylength===the obj0 serves obj10 which is 88 metres above
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj0 serves the city of obj10 and is situated
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj10 is served by obj0 which is 88 metres
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj10 is served by obj0 which is 88 metres
+obj2 1st runway surfacetype obj11 obj2 runwaylength===obj0 which is located 88 meters above sea level
+obj3 ispartof new jersey obj1 elevationabovethesealevel in metres===obj5 which lies 23 metres above sea level is
+obj3 ispartof new jersey obj1 location===obj5 has an elevation of obj54 feet above sea
+obj3 ispartof new jersey obj1 location===at obj54 metres above sea level the obj5 is
+obj4 ispartof new jersey obj2 operatingorganisation===based in obj12 the obj0 is the operating organisation
+obj4 ispartof new jersey obj2 operatingorganisation===the obj0 is the operating organisation of obj5 with
+obj2 ispartof new jersey obj0 runwaylength===obj5 in obj5 is in the usa the airport
+obj2 ispartof new jersey obj0 runwayname===obj5 in obj5 is part of atlantic county in
+obj2 ispartof new jersey obj0 runwayname===obj5 is located in obj5 in the united statesthe
+obj2 ispartof new jersey obj0 runwayname===obj14 is the runway name of obj5 which is
+obj2 ispartof new jersey obj0 runwayname===obj5 has the runway name obj14 and is located
+obj2 ispartof new jersey obj0 runwayname===obj5 part of atlantic county in the obj7 is
+obj1 obj18 obj20 obj17 obj13 obj19 obj8===obj0 who graduated from afit in 1962 with an
+obj2 main obj10 s obj14 obj11===the obj2 ingredientobj4 in a obj0 a obj2 courobj4e are
+obj2 main obj10 s obj14 obj11===the obj2 ingredientobj4 of obj0 are obj6 and obj8
+obj2 main obj10 s obj14 obj11===obj6 and obj8 are obj2 ingredientobj4 in a obj0
+obj2 main obj10 s obj14 obj11===the obj2 ingredientobj4 of obj0 are obj6 and obj8
+obj3 main obj2 s obj13 obj3===obj0 iobj4 a obj10 diobj4h from the obj4 obj11
+obj6 leadername obj1 arròs negre obj10===felipe vi is the leader of obj42 a obj40
+obj2 language obj1 aids journal country===the obj4 is spoken in the obj0 where obj8
+obj4 leadername obj9 aids journal country===the aids journal is published by obj0 which parent
+obj1 leadername obj7 aids journal country===obj8 and obj4 are the leaders of the obj0
+obj1 leadername obj7 aids journal country===aids journal is published by obj0 in the obj0
+obj4 obj19 obj21 obj18 obj16 obj20 obj10===obj0 obj2 obj3 obj4 obj5 obj6 the obj17 operated
+obj5 obj19 obj21 obj18 obj15 obj20 obj10===obj0 obj2 born in obj3 home obj6 the obj7
+obj0 obj12 obj17 adams county pennsylvania has to===south of obj5 lies adams county the obj13 of
+obj0 obj12 obj17 adams county pennsylvania has to===obj5 is found obj16 of adams county which is
+obj2 obj22 obj17 obj23 obj21 obj20 obj2===obj0 has obj18 he is a us national who
+obj10 obj22 obj25 obj21 obj14 obj13 obj1===the obj8 is located in obj82 obj0 obj4 offered

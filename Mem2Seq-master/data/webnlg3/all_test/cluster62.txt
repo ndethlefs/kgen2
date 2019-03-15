@@ -1,0 +1,123 @@
+obj0 established obj2===the obj0 was completed in obj2
+obj0 nativename obj1===the native name for the obj0 is obj1
+obj0 nativename obj1===the obj0 is known locally as obj1
+obj0 buildingstartdate obj2===the building of obj0 started in obj2
+obj0 buildingstartdate obj2===construction of the obj0 began in obj2
+obj0 referencenumber obj9 obj7 obj5 obj4 obj8 obj3===obj0 has obj7 reference number obj2 obj9 obj7 obj5
+obj0 referencenumber obj9 obj7 obj5 obj4 obj8 obj3===obj7 obj0 has a reference number obj8 obj2 obj9
+obj0 referencenumber obj9 obj7 obj5 obj4 obj8 obj3===obj7 reference number obj9 obj7 obj5 obj4 obj8 obj3
+obj0 yearofconstruction obj2===the obj0 were constructed in obj2
+obj0 yearofconstruction obj2===the obj0 was constructed in obj2
+akron ohio location obj0===akron is located in obj0
+obj1 neighboringmunicipality obj2===obj1 and obj2 are neighboring municipalities
+obj1 neighboringmunicipality obj2===obj1 is a neighbouring municipality of obj2
+obj1 deathdate obj0===obj1 died in obj0
+obj1 award obj0===obj1 won the obj0
+obj0 award obj1===obj0 has won the obj1
+obj0 award obj1===obj0 won the obj1
+obj0 areacode obj2===the area code for obj0 is obj2
+obj0 areacode obj2===the area code for obj0 is obj2
+obj0 areacode obj2===the area code for obj0 is obj2
+obj0 areacode obj2===obj0 has the area code obj2
+auburn alabama ispartof obj0===auburn is part of obj0
+obj5 leaderparty obj1 obj0 location===obj0 is found in obj5 obj8 where the leading
+obj5 leaderparty obj1 obj0 location===obj1 is the leading party of obj5 obj8 obj0
+obj4 postalcode obj2 obj1 obj11===obj1 was designed by the obj11 obj7 who was
+auburn alabama ispartof obj0 obj0 country===auburn in obj0 is in the usa which is
+auburn alabama ispartof obj0 obj0 obj10===auburn is part of obj0 in the obj5 one
+obj8 keyperson obj2 obj5 broadcastedby===obj2 is the key person for the obj8 whose
+obj8 keyperson obj2 obj5 broadcastedby===obj2 is a key person for the obj8 which
+obj8 keyperson obj2 obj5 broadcastedby===obj2 is a key person for the obj8 who
+obj3 aircrafthelicopter obj0 obj8 obj13===obj5 is part of both obj14 and obj10 it
+obj3 aircrafthelicopter obj0 obj8 obj13===obj5 is part of obj14 and obj10 it is
+obj3 aircrafthelicopter obj0 obj8 location===the obj0 is a helicopter used by the obj3
+obj3 aircrafthelicopter obj0 obj8 location===obj8 is in uttar pradesh part of bundelkhand and operated
+obj3 aircrafthelicopter obj0 obj8 location===obj8 is located in uttar pradesh part of bundelkhand and
+obj0 militarybranch obj2===obj0 served in the obj2
+obj0 militarybranch obj2===obj0 was a member of the obj2
+obj2 militarybranch obj0===obj2 served in the obj0
+obj2 launchsite obj0===the launch site of the obj2 was the obj0
+obj1 builder obj0===the obj1 was built by the obj0
+obj1 builder obj0===the obj0 built the obj1
+obj2 launchsite obj0===obj0 was the launch site of the obj2
+obj2 launchsite obj0===the obj2 was launched from the obj0
+obj2 launchsite obj0===obj2 was launched from the obj0
+obj2 launchsite obj0===obj2 was launched from obj0
+obj2 launchsite obj0===the obj2 was launched from obj0
+obj2 formerteam obj0===akeem dent's former team is the obj0
+obj2 formerteam obj0===obj2 used to play for the obj0
+obj0 height obj2===obj0 is 1905m tall
+obj2 recordlabel obj0===obj2 has been signed to the record label obj0
+obj2 recordlabel obj0===obj2 is signed to the record label obj0
+obj2 recordlabel obj0===aaron deer's record label is called obj0
+aleksandra kovač birthplace obj1===aleksandra kovac was born in obj1
+aleksandra kovač birthplace obj1===the birth place of aleksandra kovac is obj1
+aleksandra kovač obj2 obj1===the musical obj2 of aleksandra kovac is obj1
+aleksandra kovač obj2 obj1===aleksandra kovac's obj2 is obj1
+aleksandra kovač genre obj1===aleksandra kovac is an exponent of obj1
+obj0 recordlabel obj1===obj0 was signed to the obj1 label
+obj0 recordlabel obj1===alfredo zitarrosa's record label is obj1
+obj0 recordlabel obj1===obj0 has a recording label in obj1
+obj1 recordlabel obj0===obj1 was signed to the record label 'alligator records'
+obj1 recordlabel obj0===obj1 is signed to the record label obj0
+obj1 recordlabel obj0===anders osborne's record label is obj0
+obj0 instrument obj2===obj0 plays the obj2
+obj0 instrument obj2===obj0 plays obj2
+obj2 escapevelocity obj3 obj0===the escape velocity of obj2 is obj3 obj0
+obj1 formername obj0===obj1 was formerly known as obj0
+obj1 formername obj0===the former name of obj1 is 1923 oaa907 xc
+obj1 formername obj0===1001 gaussia's former name was obj0
+obj2 formername obj0===obj2 had the former name of a894 va a904 vd
+obj2 formername obj0===obj2 was formerly called a894 va a904 vd
+obj2 formername obj0===the former name of obj2 is a894 va a904 vd
+obj1 award obj3 obj1 battles obj0===obj1 fought in the obj0 and received the obj3
+obj3 militarybranch obj0 obj0 battles obj4===obj3 serve in the obj0 which took part in
+obj3 militarybranch obj0 obj0 battles obj4===obj3 served in the obj0 which fought in the obj4
+obj3 militarybranch obj1 obj1 battles obj0===obj3 served in the obj1 which fought in the obj0
+obj3 militarybranch obj1 obj1 battles obj0===obj3 served in the obj1 which battled in the obj0
+obj4 recordlabel obj0 obj4 obj3 obj1===obj4 has a obj3 as a obj1 and is
+obj0 background obj2 obj0 genre obj4===obj0 started out as a obj2 and is an
+obj3 launchsite obj5 obj3 obj1 obj0===the obj0 are the manufacturers of the obj3 the
+obj1 award obj4 obj1 birthplace===born in obj7 obj4 recipient obj1 has fought in
+obj1 award obj4 obj1 birthplace===obj1 born in obj7 fought in the obj0 he
+obj0 orbitalperiod obj7 obj0 obj8===obj0 which was discovered by obj5 has an orbital
+obj0 orbitalperiod obj7 obj0 obj8===discovered by obj5 obj0 has a obj8 of obj3
+obj2 origin united states obj2 genre===obj2 is an american from obj5 who performs obj1 music
+obj2 origin united states obj2 obj8===american obj2 whose obj8 is obj1 is from obj5
+obj2 origin united states obj2 genre===american obj2 comes from obj5 and performs obj1 music
+obj3 recordlabel obj1 obj3 obj8===obj3 whose obj8 is obj6 is signed to the
+obj3 recordlabel obj1 obj3 obj8===anders osborne’s musical obj8 is obj6 and record label
+obj3 recordlabel obj1 obj3 obj8===obj3 is signed to the record label obj1 and
+obj3 builder obj0 obj3 obj9===the obj0 built the obj3 which has a 4 stroke
+obj5 builder obj0 obj5 obj9===the obj0 was founded in obj2 and built the
+obj5 builder obj0 obj5 length===the obj0 founded in obj2 built the obj7 millimetre obj5
+obj1 height obj6 obj1 obj8===19304m tall obj1 was born in obj5 and has
+obj1 height obj6 obj1 obj8===born in obj5 obj1 is obj6 metres tall and
+obj3 youth obj10 obj7 obj3 obj10===obj3 plays for the obj10 obj1 and played for
+obj3 youth obj10 obj7 obj3 obj10===obj3 was a member of youth obj10 obj7 managed
+obj3 youth obj10 obj7 obj3 obj10===obj3 has played for obj2 and plays for the
+obj2 formerteam obj1 obj2 birthdate===obj2 was born july 10 obj11 and debuted with
+obj2 formerteam obj1 obj2 birthdate===akeem ayers was born on 10th july obj11 made
+obj2 formerteam obj1 obj2 birthdate===obj2 was born july 10th obj11 and debuted with
+obj4 operator obj2 obj4 length===obj4 is obj8 millimetres long and was built by
+obj5 builder obj0 obj5 obj12===the obj0 built the obj5 and it was produced
+obj5 builder obj0 obj5 obj12===the obj5 has a obj3 and a obj12 of
+obj5 builder obj0 obj5 obj12===the obj5 which was built by the obj0 was
+obj8 builder obj0 obj8 obj12===the obj8 whose obj12 is 170688mm was built by
+obj3 background obj2 obj3 genre===obj1 obj2 obj3 is from obj0 obj8
+obj3 background obj2 obj3 genre===solo singeraaron deer performs obj1 music and is from
+obj0 recordlabel obj5 obj0 birthplace===obj0 was born in obj10 and has a obj7
+obj0 recordlabel obj5 obj0 birthplace===with a obj7 as a obj4 obj10 born obj0
+obj0 recordlabel obj5 obj0 birthplace===alfredo zitarrosa's birth place was obj10 and has a
+obj4 recordlabel obj1 obj1 genre===obj4 was signed to the obj0 label obj4 was
+obj4 recordlabel obj1 obj1 obj11===obj1 is based in obj9 and the main obj11
+obj4 recordlabel obj1 obj1 genre===obj4 was signed to the obj0 label as well
+obj5 instrument obj13 obj2 obj10 associatedband associatedmusicalartist===obj2 obj10 performs obj5 and also was a member
+obj1 militarybranch obj3 obj3 battles===us house of representatives 4th district obj8 member obj1
+obj5 builder obj0 obj5 length===the obj5 built by the obj0 was produced between
+obj5 builder obj0 obj5 obj15===the obj5 was built by the obj0 and was
+obj5 builder obj0 obj5 length===the obj5 was made from may obj16 until obj14
+obj6 builder obj0 obj6 obj14===the obj6 produced between may 1950 and august 1956
+obj6 builder obj0 obj6 length===the obj6 built by the obj0 has a v12
+obj6 builder obj0 obj6 length===the obj6 was produced from may 1950 to august
+obj2 current obj13 obj8 obj8 manager===obj2 is a member of the italian national under

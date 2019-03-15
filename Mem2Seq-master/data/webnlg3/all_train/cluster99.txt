@@ -1,0 +1,120 @@
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 sq km
+obj1 areatotal obj4 square kilometres===obj0 has a total area of obj4 square kilometres
+obj1 areatotal obj4 square kilometres===the total area of obj0 is obj4 sq km
+obj1 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 sqkm
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 sqkm
+obj0 areatotal obj4 square kilometres===the area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 sq km
+obj0 areatotal obj4 square kilometres===the total area for obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===obj0 has an area of obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square km
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 square km
+obj0 areatotal obj4 square kilometres===obj0 has an area of obj4 sqk
+obj3 areatotal obj4 square kilometres===the total area of obj0 is obj4 sqkm
+obj3 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===the area of obj0 is obj4 sqkm
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 sq km
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 sq km
+obj0 areatotal obj4 square kilometres===the total area of obj0 is obj4 square kilometres
+obj0 areatotal obj4 square kilometres===obj0 has a total area of obj4 square kilometres
+runway lengthfeet obj4 abilene regional airport elevationabovethesealevel in metres obj5===abilene regional airpot is obj9 metres above sea level
+obj0 buildingstartdate obj3 obj0 floorarea===obj5 has a floor area of obj7 square metres
+obj0 buildingstartdate obj3 obj0 floorarea===construction of obj5 began in obj4 and the building
+obj0 buildingstartdate obj7 obj0 floorarea===obj5 began being constructed in obj4 and has a
+obj0 buildingstartdate obj7 obj0 floorarea===obj5 began construction in obj4 and has a floor
+obj0 buildingstartdate obj7 obj0 floorarea===the obj5 was built in obj4 and has 140000
+obj0 inaugurationdate obj4 obj0 address obj3===obj5 which is located at obj9 was inagurated on obj4
+obj3 broadcastedby obj4 obj4 locationcity obj0===obj9 is broadcast by the obj5 which is headquartered
+obj3 broadcastedby obj4 obj4 locationcity obj0===obj9 the tv series was shown on the obj5
+obj3 broadcastedby obj4 obj4 locationcity obj0===obj9 is broadcasted by the obj5 which is based
+obj2 broadcastedby obj4 obj4 locationcity obj3===located in obj9 the obj5 broadcast obj0
+obj2 broadcastedby obj4 obj4 locationcity obj3===obj0 is broadcast by the obj5 which is based
+obj2 broadcastedby obj4 obj4 locationcity obj3===obj0 the tv series was shown on the obj5
+obj2 broadcastedby obj5 obj2 starring obj1===the obj4 broadcasted obj0 which starred obj9
+obj2 broadcastedby obj5 obj2 starring obj1===bill oddies stars in obj0 broadcasted by the obj4
+obj2 starring obj1 obj2 broadcastedby obj5===obj4 starred in obj0 broadcast by obj9
+obj2 starring obj1 obj2 broadcastedby obj5===obj4 stared in obj0 broadcasted by obj9
+obj2 starring obj1 obj2 broadcastedby obj5===obj4 starred in obj0 broadcasted by obj9
+obj2 starring obj1 obj2 broadcastedby obj5===obj0 which stars obj4 is broadcasted by obj9
+obj2 starring obj0 obj2 broadcastedby obj5===obj4 starred in obj4 which was broadcasted by obj9
+obj2 starring obj0 obj2 broadcastedby obj5===obj4 starred in obj4 which is broadcast by obj9
+obj2 starring obj0 obj2 broadcastedby obj5===obj4 starred as obj4 which was broadcast by obj9
+obj2 starring obj0 obj2 broadcastedby obj5===obj4 starred in obj4 broadcasted by the obj9
+obj0 inaugurationdate obj3 obj0 material obj5===the inauguration date for the obj9 made of obj9
+obj2 dateofretirement obj7 obj2 birthdate===obj0 who was born in obj0 on october 17th
+obj2 dateofretirement obj7 obj2 birthdate===obj0 was born on obj6 in obj0 and retired
+obj2 dateofretirement obj7 obj2 birthdate===william anders born on obj6 in british hong kong
+obj0 w obj15 s selected by obj10===obj0 born obj3 joined obj7 in obj9 to obj4erve
+obj0 buildingstartdate obj4 obj0 floorarea===construction of obj5 began in obj4 and has obj10
+obj1 architect obj3 obj3 significantbuilding===obj4 born in obj6 designed the obj6 landmark los
+obj0 architect obj3 obj3 significantbuilding===obj0 was designed by obj4 at the riverside art
+obj0 architect obj3 obj3 significantbuilding===californian born obj4 designed obj0 and also the significant
+obj0 architect obj5 obj5 significantbuilding===obj0 was designed by obj4 the riverside art musuem
+obj5 broadcastedby obj6 obj6 locationcity===obj0 the tv series was shown on the obj4
+obj5 broadcastedby obj6 obj6 locationcity===1st baronjohn reith was the founder of obj4 whose
+obj4 broadcastedby obj6 obj6 locationcity===the obj4 which is located in obj5 and broadcast
+obj4 broadcastedby obj6 obj6 locationcity===the obj4 which broadcast obj0 is located in obj5
+obj4 broadcastedby obj8 obj4 starring===obj3 starred in obj0 which was broadcast by the
+obj4 broadcastedby obj8 obj4 starring===obj0 a obj5 tv series which stars obj3 first
+obj4 broadcastedby obj8 obj4 starring===obj3 stars in obj0 which first aired on 3
+obj4 broadcastedby obj8 obj4 starring===obj0 stars in obj0 which is broadcast by the
+obj4 broadcastedby obj8 obj4 starring===obj0 stars in the tv series of obj0 which
+obj4 broadcastedby obj8 obj4 starring===the obj5 broadcast obj0 which was first aired on
+obj4 starring obj0 obj4 broadcastedby===the obj8 broadcast obj5 which was first aired on
+obj4 starring obj0 obj4 broadcastedby===obj5 which first aired on october 3rd 1983 on
+obj2 dedicatedto obj0 obj2 designer===obj16 obj4 designed by huseyin butuner obj15 obj13 guner
+obj1 season obj8 obj1 league===obj0 with obj7 members plays in the obj4 and
+obj4 fullname obj1 obj4 season===obj0 stands for azal obj3 obj9 klubu and they
+obj4 fullname obj1 obj4 season===azal pfk's full name is obj5 they played in
+obj4 fullname obj1 obj4 season===the obj0 abbreviated from azal obj3 obj9 klubu with
+obj3 fullname obj1 obj3 season===obj4 abbreviated to az alkmaar has obj8 members and
+obj0 numberofstudents obj8 obj0 academicstaffsize===obj5 is located in obj6 it has obj4 students
+obj0 numberofstudents obj8 obj0 academicstaffsize===the obj5 is located in obj6 there are obj4
+obj0 numberofstudents obj8 obj0 academicstaffsize===obj5 in obj6 has a staff of obj7 and
+obj3 architect obj7 obj3 architecturalstyle===the georgian obj0 designed by obj4 in virginia usa
+obj0 architect obj5 obj5 significantbuilding===californian born obj4 designed the significant buildings of obj2
+obj0 architect obj5 obj5 significantbuilding===obj4 was born in obj9 where she designed the
+obj0 architect obj5 obj5 significantbuilding===obj0 was designed by californian born obj4 who also
+obj0 architect obj5 obj5 significantbuilding===obj4 was born in obj9 she designed significant buildings
+obj5 broadcastedby obj11 obj5 starring===obj2 created the tv character obj0 which was first
+obj5 broadcastedby obj11 obj5 starring===obj2 created the fictional comic superhero of obj0 which
+obj5 broadcastedby obj11 obj5 starring===obj0 was first broadcast by the obj4 on 3
+obj7 starring obj5 obj7 broadcastedby===obj3 born obj4 was the star of obj0 broadcasted
+obj6 starring obj4 obj6 broadcastedby===obj2 born obj4 starred in obj0 it was broadcast
+obj6 starring obj4 obj6 broadcastedby===obj0 that starred obj2 born obj4 is broadcast by
+obj6 starring obj4 obj6 broadcastedby===obj2 born obj4 starred in the tv series obj0
+obj6 starring obj4 obj6 broadcastedby===obj8 born obj4 starred in the tv series obj0
+obj6 starring obj4 obj6 broadcastedby===the obj10 broadcast obj0 which starred obj8 born obj4
+obj6 starring obj4 obj6 broadcastedby===obj8 born obj4 starred in obj0 which was a
+obj5 starring obj3 obj5 broadcastedby===obj0 the tv series was shown on the obj10
+obj5 starring obj3 obj5 broadcastedby===the obj10 which is located in obj9 showed the
+obj5 starring obj3 obj5 broadcastedby===obj0 is a tv series which starred obj7 born
+obj5 starring obj0 obj5 broadcastedby===obj4 starred in obj4 which was created by obj2
+obj5 starring obj0 obj5 broadcastedby===was first aired on 10 03 1983 and was broadcast
+obj5 starring obj0 obj5 broadcastedby===the fictional comic superhero obj4 was created by obj2
+obj5 starring obj0 obj5 broadcastedby===obj4 was created by obj2 and starred obj4 it
+obj5 starring obj0 obj5 broadcastedby===obj4 created by obj2 was first broadcasted by
+obj5 postalcode obj3 obj2 architect===obj0 on the obj4 is governed by the obj0
+obj7 broadcastedby obj14 obj7 starring===the obj4 aired the tv series of obj0 between
+obj7 broadcastedby obj14 obj7 starring===began airing on the obj4 on 10 03 1983 and
+obj7 broadcastedby obj14 obj7 starring===obj0 was broadcast by the obj4 airing between 3
+obj7 starring obj0 obj7 broadcastedby===obj14 began broadcasting obj4 on 10 03 1983 and its
+obj7 starring obj0 obj7 broadcastedby===obj4 first aired on the obj14 on october 3rd
+obj0 headquarters obj14 obj21 obj30 obj11 obj26===obj25 obj5 obj6 obj7 obj8 obj20 obj10 obj29 obj19
+obj0 headquarters obj14 obj21 obj30 obj11 obj26===obj25 obj5 obj6 obj7 obj8 obj20 obj10 obj29 obj25
+obj3 dateofretirement obj13 obj3 status===obj0 was a obj9 born in obj0 on october
+obj1 w obj24 s selected by obj19===american obj0 born on october 17 1933 in britiobj4h
+obj3 material obj8 obj3 dedicatedto===obj01 obj0 known as turk sehitleri aniti was designed
+obj3 affiliation obj2 obj3 obj27 obj21===obj0 in obj13 is affiliated with obj4 obj46 school
+obj3 affiliation obj2 obj3 obj27 obj21===obj11 obj40 which is positioned with obj46 obj8 obj48
+obj3 affiliation obj2 obj3 obj27 obj21===obj46 obj4 affiliated obj0 in obj13 obj11 obj47 obj41
+obj4 affiliation obj2 obj4 obj29 obj21===obj58 obj0 in obj10 obj50 is affiliated with obj5
+obj4 affiliation obj2 obj4 obj29 obj21===obj58 obj0 is in obj10 which is southwest of

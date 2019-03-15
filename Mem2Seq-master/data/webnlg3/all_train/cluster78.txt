@@ -1,0 +1,148 @@
+obj0 1st runway number obj2===obj0 1st runway is number obj4
+obj0 1st runway number obj2===obj4 is the number of the first runway of obj0
+obj0 1st runway number obj2===angola international airport's 1st runway has the number obj4
+obj0 3rd runway surfacetype obj2===airport new zealand 's 3rd runway surface type is obj4
+obj0 3rd runway surfacetype obj2===the 3rd runway at obj0 is made of obj4
+auburn washington ispartof washington state===auburn is part of washington state
+auburn washington ispartof washington state===auburn is located within the state of washington
+obj0 largestcity abilene texas===abilene is the largest city in obj0
+obj0 largestcity abilene texas===abilene is the largest city in obj0
+obj0 largestcity austin texas===austin is the largest city in obj0
+obj0 largestcity austin texas===the largest city in obj0 is austin
+big hero 6 film obj2 obj0===obj4 is the obj2 of the film big hero 6
+st vincent–st mary high school obj2 obj1===st vincent st mary high school is located in
+st vincent–st mary high school city obj1===st vincent st mary high school is in obj4
+st vincent–st mary high school obj1 obj2===st vincent st mary high school is located in the
+a t charlie johnson obj2 obj1===the obj4 is the obj2 of a t charlie johnson
+obj1 1st runway number obj5 obj1 elevationabovethesealevel in metres obj4===obj0 is obj9 metres above sea level and the
+obj1 1st runway number obj5 obj1 elevationabovethesealevel in metres obj4===the number of the 1st runway at obj0 is
+obj1 1st runway number obj5 obj1 elevationabovethesealevel in metres obj4===obj9 is the number of the first runway of
+obj1 1st runway number obj5 obj1 elevationabovethesealevel in metres obj4===the first runway at obj0 is known as obj9
+obj1 1st runway number obj5 obj1 elevationabovethesealevel in metres obj4===angola international airport's 1st runway has the number obj9
+obj0 3rd runway surfacetype obj4 obj0 runwaylength obj5===the 3rd runway at obj9 is made of obj4
+obj0 3rd runway surfacetype obj5 obj0 runwayname obj4===ardmore airport new zealand 's runway name is obj9 and
+obj0 3rd runway surfacetype obj5 obj0 runwayname obj4===the 3rd runway at obj5 which is called 03r 21l
+obj0 3rd runway surfacetype obj5 obj0 runwayname obj4===ardmore airport new zealand 's 3rd runway surface type is
+obj0 3rd runway surfacetype obj4 obj4 obj3 obj2===the third runway at obj0 is made of obj5
+obj0 3rd runway surfacetype obj3 obj3 obj5 obj2===ardmore airport new zealand 's 3rd runway surface type is
+obj0 3rd runway surfacetype obj3 obj3 obj5 obj2===the 3rd runway at obj0 is made of obj4
+obj0 3rd runway surfacetype obj2 obj2 obj5 obj4===the 3rd runway at obj0 is made of obj9
+obj0 3rd runway surfacetype obj2 obj2 obj5 obj4===the 3rd runway at obj0 is made of obj9
+obj4 largestcity obj3 atatürk monument i̇zmir location obj4===the atatürk monument is in obj0 which largest city
+obj4 largestcity obj3 atatürk monument i̇zmir location obj4===obj9 is the largest city in obj0 where the
+obj1 3rd runway surfacetype obj6 obj1 elevationabovethesealevel in metres===obj0 is 34 metres above sea level a runway
+obj1 3rd runway surfacetype obj6 obj1 elevationabovethesealevel in metres===the 3rd runway at obj0 is made of obj4
+obj0 3rd runway surfacetype obj5 obj5 obj8===ardmore airport new zealand 's 3rd runway surface type is
+obj0 3rd runway surfacetype obj5 obj5 obj8===ardmore airport new zealand 's 3rd runway surface type is
+obj0 3rd runway surfacetype obj4 obj4 obj8===the 3rd runway at obj0 is made of obj5
+obj0 3rd runway surfacetype obj3 obj3 obj8===ardmore airport new zealand 's 3rd runway surface type is
+obj0 3rd runway surfacetype obj3 obj3 obj8===the 3rd runway at obj0 is made of obj4
+obj0 3rd runway surfacetype obj5 obj5 obj4===ardmore airport new zealand 's 3rd runway surface type is
+saranac lake new york ispartof obj1 obj0 cityserved===obj5 serves the city of saranac lake obj4 obj5
+saranac lake new york ispartof obj1 obj0 cityserved===obj5 serves the city of saranac lake which is
+saranac lake new york ispartof obj2 obj2 ispartof===saranac lake is part of obj4 and has an
+saranac lake new york ispartof obj2 obj2 ispartof===obj0 serves the city of saranac lake obj4
+obj2 birthpl obj12 ce obj0 obj2===obj6 obj3 obj8 obj11 the obj7 obj9 obj10 born
+obj2 birthpl obj12 ce obj0 obj2===obj6 obj10 an american obj9 obj8 on obj7 having
+obj2 birthpl obj12 ce obj0 obj2===obj6 obj10 obj3 us national being born in obj6
+obj2 birthpl obj12 ce obj0 obj2===obj6 is an american who obj10 born in obj6
+obj3 birthpl obj12 ce obj1 obj3===obj0 obj7 obj9 obj8 obj61 obj6 obj60 born in
+obj3 birthpl obj12 ce obj1 obj3===obj0 obj60 born in obj6 situated in the essex
+obj1 fullname isidro metapán obj1 ground===obj0 is located in obj0 it has obj8 members
+obj1 3rd runway surfacetype obj9 obj1 elevationabovethesealevel in metres===the surface of the 3rd runway at obj0 is
+obj1 3rd runway surfacetype obj9 obj1 elevationabovethesealevel in metres===obj0 is 34 meters above sea level and has
+obj1 3rd runway surfacetype obj8 obj1 elevationabovethesealevel in metres===obj0 has a 3rd runway made of obj4 and
+obj1 3rd runway surfacetype obj8 obj1 elevationabovethesealevel in metres===obj0 is located 34 meters above sea level and
+obj0 3rd runway surfacetype obj5 obj5 obj11===ardmore airport new zealand 's 3rd runway surface type is
+obj0 3rd runway surfacetype obj5 obj5 obj11===the 3rd runway at obj0 is made of obj4
+obj0 3rd runway surfacetype obj5 obj5 obj10===obj0 has a 3rd runway surfaced with obj4 which
+saranac lake new york ispartof obj2 obj0 cityserved===obj5 serves the city of saranac lake part of
+saranac lake new york ispartof obj3 obj3 ispartof===obj0 serves obj6 and also saranac lake which is
+saranac lake new york ispartof obj3 obj3 ispartof===obj0 serves the city of saranac lake part of
+saranac lake new york ispartof obj3 obj3 ispartof===obj0 serves the city of saranac lake which is
+obj2 birthpl obj15 ce obj0 obj2===american obj6 obj13 born in obj6 on january 20th
+obj2 birthpl obj15 ce obj0 obj2===obj6 is obj3 national obj14 the obj1 he obj13
+obj2 birthpl obj15 ce obj0 obj2===obj6 obj3 obj1 citizen who served as obj12 obj11
+obj3 birthpl obj15 ce obj0 obj3===american obj6 who obj13 born in obj6 obj13 part
+obj3 birthpl obj15 ce obj0 obj3===obj6 is obj7 obj2 national and obj13 born in
+obj2 birthpl obj16 ce obj0 obj2===obj6 born in glen ridge new jersey obj14 obj3
+obj2 birthpl obj16 ce obj0 obj2===obj6 originally from obj6 worked for obj12 and became
+obj2 birthpl obj19 ce obj1 obj2===obj0 obj66 born in obj6 on obj7 he attended
+obj2 birthpl obj19 ce obj1 obj2===obj0 obj66 born in obj6 on 20 january 1930
+obj1 birthpl obj15 ce obj0 obj1===obj6 who obj63 born in obj6 obj63 part obj64
+obj1 birthpl obj15 ce obj0 obj1===obj6 now obj8 obj63 born in obj6 and obj63
+obj1 birthpl obj18 ce obj0 obj1===obj6 obj64 born in obj6 now obj8 he obj64
+obj1 birthpl obj18 ce obj0 obj1===obj6 born in obj6 obj64 obj7 obj67 obj63 in
+obj2 3rd runway surfacetype obj12 obj2 operatingorganisation===operated by the obj0 ardmore airport new zealand 's 3rd
+obj2 3rd runway surfacetype obj12 obj2 operatingorganisation===obj0 is located at 34 meters above sea level
+obj2 3rd runway surfacetype obj12 obj2 operatingorganisation===obj0 is operated by the obj0 is located 34
+obj2 3rd runway surfacetype obj11 obj2 operatingorganisation===obj0 is operated by the obj0 and is located
+obj0 3rd runway surfacetype obj6 obj6 obj12===the 3rd runway at obj0 is made of obj4
+saranac lake new york ispartof obj4 obj4 ispartof===obj0 serves the cities of lake placid ny and
+obj2 birthpl obj18 ce obj0 obj2===obj6 obj16 born in obj6 in 1930 he obj16
+obj2 birthpl obj18 ce obj0 obj2===obj6 is obj3 us national who obj16 born on
+obj2 birthpl obj18 ce obj0 obj2===obj6 is obj3 us national who obj16 born on
+obj4 birthpl obj18 ce obj1 obj4===obj0 obj66 obj3 obj3 national who obj66 born in
+obj3 birthpl obj21 ce obj1 obj3===american obj0 obj67 born in obj6 graduated in obj65
+obj2 birthpl obj21 ce obj0 obj2===obj6 obj17 born in obj6 and is obj61 obj1
+obj3 birthpl obj22 ce obj1 obj3===obj0 obj69 born in obj6 on obj7 he graduated
+obj3 birthpl obj22 ce obj1 obj3===obj0 obj69 born in obj6 on 20th obj20 january
+obj2 birthpl obj18 ce obj0 obj2===obj6 obj3 obj12 obj1 obj16 born in obj6 on
+obj2 birthpl obj18 ce obj0 obj2===obj6 obj16 born in obj6 on 20 january 1930
+obj4 birthpl obj19 ce obj1 obj4===obj0 who is originally from obj6 joined obj65 and
+obj2 birthpl obj25 ce obj1 obj2===obj0 obj00 born on january 20 1930 in obj6
+obj2 birthpl obj25 ce obj1 obj2===obj0 obj00 born on the 20th obj02 january 1930
+obj2 birthpl obj25 ce obj1 obj2===obj0 obj00 born on 20 january 1930 in obj6
+obj3 birthpl obj21 ce obj1 obj3===obj0 obj67 born in obj6 and graduated from mit
+obj3 birthpl obj21 ce obj1 obj3===obj0 who is originally from obj6 graduated from massachusetts
+obj2 birthpl obj21 ce obj0 obj2===born in obj6 on 1930 01 20 obj17 obj12 to
+obj2 birthpl obj21 ce obj0 obj2===obj6 obj17 born on january 20 1930 in obj6
+obj5 manager stuart parker footballer obj8 obj12===obj7 is a obj7 in obj5 where obj0 is
+obj5 manager stuart parker footballer obj8 obj12===obj7 is the obj7 in obj5 which is the
+obj5 manager stuart parker footballer obj8 obj12===obj7 is the obj7 in obj5 where obj0 is
+obj3 birthpl obj21 ce obj0 obj3===obj6 is obj7 us national who obj19 born in
+obj4 birthpl obj25 ce obj1 obj4===american obj0 obj22 born in obj6 on january 20th
+obj4 birthpl obj25 ce obj1 obj4===american obj0 obj22 born on the 20th obj23 january
+obj2 birthpl obj24 ce obj0 obj2===obj6 born january 20th 1930 in glen ridge new
+obj2 birthpl obj24 ce obj0 obj2===obj6 is an american who obj60 born in obj6
+obj2 birthpl obj24 ce obj0 obj2===obj6 obj60 born on january 20th 1930 in obj6
+obj3 birthpl obj24 ce obj0 obj3===obj6 obj20 an american obj1 who obj20 born in
+obj3 birthpl obj24 ce obj0 obj3===obj6 obj7 us national is obj14 but obj20 born
+obj3 birthpl obj21 ce obj0 obj3===american obj1 obj6 obj19 born on january 20 1930
+obj3 birthpl obj21 ce obj0 obj3===obj6 obj19 born on january 20 1930 in obj6
+obj3 birthpl obj21 ce obj0 obj3===obj6 obj19 an american born in obj6 in 1930
+obj4 birthpl obj28 ce obj1 obj4===obj0 obj23 born in obj6 in the obj2 he
+obj4 birthpl obj28 ce obj1 obj4===obj0 is originally from obj6 and graduated from massachusetts
+obj6 birthpl obj22 ce obj1 obj6===american obj0 obj20 part obj21 nasa's obj70 mission which
+obj5 birthpl obj22 ce obj0 obj5===obj6 is an american who obj20 born in obj6
+obj5 birthpl obj22 ce obj0 obj5===obj6 obj20 born in obj6 obj6 obj20 obj3 obj19
+obj3 birthpl obj21 ce obj0 obj3===obj6 obj19 born january 20th 1930 in obj6 now
+obj4 birthpl obj25 ce obj1 obj4===obj0 obj22 born in obj6 and graduated from mit
+obj4 birthpl obj25 ce obj1 obj4===obj0 obj22 born in obj6 graduated from massachusetts obj62
+obj6 birthpl obj29 ce obj1 obj6===american obj0 obj24 born in obj7 his real name
+obj5 birthpl obj30 ce obj1 obj5===obj2 also known as obj0 obj26 born on jan
+obj3 birthpl obj24 ce obj0 obj3===obj6 is an american born in obj6 on jan
+obj3 birthpl obj24 ce obj0 obj3===obj6 obj22 an american who obj22 born in obj6
+obj3 birthpl obj24 ce obj0 obj3===american obj6 obj22 born in obj6 in obj12 he
+obj4 birthpl obj28 ce obj1 obj4===obj0 obj25 born january 30 1930 in obj6 he
+obj4 birthpl obj28 ce obj1 obj4===american obj0 who is now obj20 obj25 obj3 obj2
+obj4 birthpl obj28 ce obj1 obj4===obj0 obj3 obj3 national obj25 born in obj6 on
+obj4 birthpl obj27 ce obj1 obj4===american obj0 obj23 born in obj6 he graduated in
+obj4 birthpl obj27 ce obj1 obj4===obj0 obj23 an american who obj23 born in obj6
+obj4 birthpl obj27 ce obj1 obj4===obj0 obj23 an american born obj2 who obj23 born in
+obj4 birthpl obj28 ce obj1 obj4===obj0 obj24 born january 30th 1930 in obj6 he
+obj4 birthpl obj28 ce obj1 obj4===american obj0 obj24 born in obj6 on january 20th
+obj4 birthpl obj28 ce obj1 obj4===obj0 is obj3 us national who obj24 born in
+obj5 birthpl obj28 ce obj1 obj5===obj0 obj25 born in obj6 on 20th january 1930
+obj5 birthpl obj28 ce obj1 obj5===obj0 is obj3 us national born in obj6 on
+obj5 birthpl obj28 ce obj1 obj5===american obj0 obj25 born in obj6 on january 20
+obj3 birthpl obj25 ce obj0 obj3===obj6 born on january 20 1930 in glen ridge
+obj3 birthpl obj25 ce obj0 obj3===obj6 born on january 20 1930 in glen ridge
+obj3 birthpl obj24 ce obj0 obj3===obj6 obj22 born in obj6 he became obj7 obj21
+obj3 birthpl obj24 ce obj0 obj3===american obj6 obj22 obj7 obj1 and part obj23 nasa's
+obj3 birthpl obj24 ce obj0 obj3===obj6 is obj7 us national who obj22 born in
+obj3 birthpl obj27 ce obj0 obj3===american obj6 obj23 obj7 obj1 who obj23 picked obj25
+obj3 birthpl obj27 ce obj0 obj3===obj6 is now obj16 obj7 us national he obj23
+obj3 birthpl obj27 ce obj0 obj3===american obj6 obj23 born in obj6 he obj23 obj15
+obj10 obj22 obj25 obj21 obj13 obj12 obj0===the obj2 is located in karnatka and it is
+obj10 obj22 obj25 obj21 obj13 obj12 obj0===the obj2 is affiliated with obj8 in belgium the

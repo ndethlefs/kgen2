@@ -1,0 +1,18 @@
+amsterdam airport schiphol 1st runway number obj2===the first runway at amsterdam's schiphol airport is known
+jorge humberto rodríguez club obj1===jorge humberto rodriguez plays for obj1
+albany georgia areacode obj2===the area code of albany in georgia is obj2
+albuquerque new mexico leadertitle obj2===the obj2 is the leader in albuquerque nm
+albuquerque new mexico leadertitle obj0===the obj0 is what the leader in albuquerque new
+albuquerque new mexico leadertitle obj1===the obj1 leads albuquerque in new mexico
+antioch california areacode obj2===obj2 is the area code of antioch in california
+adams county pennsylvania obj10 obj11 obj9 obj7 obj5 obj0===the obj0 is located in obj4 in adams county
+california language chinese language obj3 leadertitle===obj3 is led by the obj0 located in the
+agremiação sportiva arapiraquense obj11 obj4 obj4 country===agremiacao sportiva arapiraquense's obj9 is the estadio municipal coaracy
+harrietstown new york country united states obj1 ispartof===obj0 serves the city of obj1 part of harrietstown
+harrietstown new york country obj7 obj1 ispartof===obj0 serves harrietstown essex county and obj1 united states
+alpena county regional airport location obj0 obj0 obj12===obj14 metres above sea level in the obj0 usa
+antares rocket launchsite obj0===the antares rocket was launched at the obj0
+antares rocket launchsite obj0===the launch site of the antares rocket was the obj0
+antares rocket launchsite obj0===the launch site of the rocket antares was the obj0
+alaa abdul zahra birthplace obj2===alaa abdul zahra was born in obj2
+alaa abdul zahra club obj0===alaa abdul zahra plays for obj0

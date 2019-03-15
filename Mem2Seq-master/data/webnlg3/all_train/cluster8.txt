@@ -1,0 +1,40 @@
+obj2 commander obj0===obj4 was commanded by obj4
+11 diagonal street obj2 obj0===obj4 is the obj2 of 11 diagonal strret
+obj0 developer obj1===the obj0 was developed by the obj4
+obj1 governmenttype obj0===obj4 is governed by the obj4
+obj1 governmenttype obj0===obj4 governs obj4
+obj2 lastaired 1986 04 15===obj0 last aired on april 15th 1986
+obj2 lastaired 1986 04 15===obj0 last aired on 15th april 1986
+obj2 creatorofdish obj0===obj4 is a dish that was created within obj4
+obj2 creatorofdish obj0===obj4 has resulted in the creation of the dish obj4
+obj1 carbohydrate 18 0 obj3===obj0 have 18 grams of carbs
+obj1 administrativecounty obj2===obj0 is found in the county of obj4
+obj0 foundingdate obj2===obj0 was founded obj4
+obj0 foundingdate 1907 07 11===the obj0 was started on 11th july 1907
+obj0 foundingdate obj2===the 14th new jersey volunteer infantry monument's founding date
+obj2 legislature national assembly obj2===the national assembly is the legislative branch of government
+obj0 nearestcity obj1===the city nearest to obj0 is obj4
+obj0 nearestcity obj1===the nearest city to obj0 is obj4
+obj0 chairmantitle obj2===the president is the chairman title of the obj0
+james pallotta birthplace obj2===james pallota was born in obj4
+obj2 governmenttype obj1===the type of government of obj0 is obj4
+obj2 governmenttype obj1===the city of obj0 is governed by magistrates
+obj2 legislature federal assembly obj2===the federal assembly legislates in obj0
+obj0 frequency obj1===the obj0 is published obj4
+obj0 frequency bimonthly===the obj0 is published bi monthly
+locationidentifier apn alpena county regional airport elevationabovethesealevel in metres obj4===ipena county regional airport ipn is obj9 metres above
+obj1 gemstone obj4 obj0 deathplace obj1===obj5 died in obj5 the common place to find
+obj3 patronsaint obj1 obj0 obj4 obj3===the obj5 is in the obj7 of obj5 who
+obj1 timeinsp obj12 ce 13017 0 minutes obj1===alan shepard's time in spaobj4 is 13017 minutes he
+obj1 timeinsp obj12 ce 13017 0 minutes obj1===obj0 who obj00 born in obj0 obj00 obj02 obj9
+obj1 timeinsp obj12 ce obj7 minutes obj1===obj0 born in new hampshire obj00 obj02 obj9 obj8
+obj1 timeinsp obj12 ce obj7 minutes obj1===obj0 obj00 born in obj0 obj00 obj02 obj9 obj8
+obj2 gemstone obj6 obj1 deathplace===obj0 is senator in obj0 the same place obj4
+the veil followedby into battle novel above the veil precededby===the novel castle came out followed by obj7 and
+runwaylength 597 0 ardmore airport new zealand 3rd runway surfacetype===new zealand's adrmore airport has a runway length of
+obj5 class obj3 obj5 division===obj0 monocotyledon and polales are flowering plants that are
+obj3 bird obj7 obj0 obj10===obj5 who was born in obj5 well known for
+runwaylength 2215 0 afonso pena international airport elevationabovethesealevel in metres===the obj10 of afonso pena international icao code
+runwaylength 597 0 ardmore airport new zealand 3rd runway surfacetype===ardmore airport in new zealand has a third runway
+runwaylength 597 0 ardmore airport new zealand 3rd runway surfacetype===the obj0 is the operating organization for ardmore airport
+obj28 pollo 12 obj18 obj19 obj1 obj6===obj7 obj24 born in obj0 he obj24 obj0 obj4

@@ -1,0 +1,88 @@
+al asad airbase runwayname obj2===the ai asad airbase's runway name is 09l 27r
+obj2 leaderparty people's party spain===the leader party at obj0 is the peoples party spain
+obj2 administrativearrondissement arrondissement of obj2===obj0 is admin arrondissement of arrondissement
+obj2 timeinspace 100305 0 minutes===obj0 spent 1003050 minutes in space
+obj2 timeinspace 100305 0 minutes===obj0 spent 100305 minutes in space
+obj2 timeinspace 100305 0 minutes===1003050 minutes is the time obj0 spent in space
+obj2 timeinspace 100305 0 minutes===obj0 was in space 100305 minutes
+obj2 timeinspace 100305 0 minutes===obj0 spent over 69 days in space 100305 minutes
+obj2 timeinspace 100305 0 minutes===alan bean's time in space was 1003050 minutes
+obj2 timeinspace 100305 0 minutes===obj0 spend a total of 100305 minutes in space
+obj0 deathdate 1998 07 21===obj0 died on the 21st of july 1998
+obj0 deathdate 1998 07 21===obj0 died july 21st 1998
+obj0 deathdate 1998 07 21===obj0 died on july 21 1998
+obj1 timeinspace 13017 0 minutes===alan shepard's time in space amounted to 130170 minutes
+obj1 timeinspace 13017 0 minutes===obj0 spent 13017 minutes in space
+obj1 timeinspace 13017 0 minutes===130170 minutes is the time obj0 spent in space
+obj1 timeinspace 13017 0 minutes===obj0 spent 130017 minutes in space
+obj1 timeinspace 13017 0 minutes===obj0 spent just over 9 days in space
+obj1 timeinspace 13017 0 minutes===alan shepard's time in space is 13017 minutes
+obj1 timeinspace 13017 0 minutes===obj0 spent 130170 minutes in space
+obj1 dateofretirement 1971 07 01===obj0 retired on the 7th of january 1971
+obj1 dateofretirement 1971 07 01===obj0 date of retirement was 1971 07 01
+obj1 dateofretirement 1971 07 01===obj0 retired on july 1st 1971
+obj1 dateofretirement 1971 07 01===obj0 retired on july 1 1971
+obj1 dateofretirement 1971 07 01===obj0 retired on the 1st of july 1971
+obj1 dateofretirement 1971 07 01===obj0 retired on jul 1 1971
+obj2 timeinspace 52 0 minutes===obj0 was in space for 52 minutes
+obj2 timeinspace 52 0 minutes===obj0 spent a total of 520 minutes in space
+obj2 timeinspace 52 0 minutes===obj0 spent 520 minutes in space
+obj2 timeinspace 52 0 minutes===obj0 spent 52 minutes in space
+obj2 timeinspace 52 0 minutes===obj0 walked in space 520 minutes
+obj2 partstype list of counties in texas===obj0 is a county in texas
+obj1 timeinspace 8820 0 minutes===obj0 spent 8820 minutes in space
+obj1 timeinspace 8820 0 minutes===obj0 spent 88200 minutes in space
+obj1 timeinspace 8820 0 minutes===obj0 time in space has been 88200 minutes
+obj1 timeinspace 8820 0 minutes===obj0 walked in space 88200 minutes
+obj1 timeinspace 8820 0 minutes===obj0 time in space is 88200 minutes
+obj0 inaugurationdate 2009 10 02===the inauguration date of the obj0 was 2nd october 2009
+obj2 significantbuilding riverside art museum===the riverside art musuem is one of julia morgan's
+akron ohio areaofwater 0 88 square kilometres===akron in ohio has 88 square kilometres of water
+obj0 utcoffset 7===obj0 has a utc offset of 7
+anaheim california areaofwater obj4 square kilometres===the area of water in anaheim california is obj4
+anaheim california areaofwater obj4 square kilometres===anaheim ca has obj4 square kilometres of water
+obj0 utcoffset 7===obj0 has a utc offset of 7
+obj0 areaofland 686 0 square kilometres===obj0 has a land area of 686 square kilometres
+obj0 countyseat covington indiana===covington is the county seat of obj0
+obj0 countyseat opelika alabama===opelika is the county seat of obj0
+obj0 countyseat georgetown texas===georgetown is the county seat of obj0
+obj2 languages cornish language===cornish is a language spoken in the cornwall region
+akron summit assault obj2 obj1===akrons summit assault obj2 is obj4
+obj0 academicstaffsize 500===the obj0 employs about 500 academic staff
+obj0 academicstaffsize 500===approximately 500 employees make up the academic staff at obj0
+a glastonbury romance publisher obj1===a glastonbuy romance is published by obj4
+obj3 leaderparty people's party spain obj0 location obj3===obj5 is located in obj5 where the leader party
+obj3 leaderparty people's party spain obj0 location obj3===obj5 is in obj5 where the peoples party spain
+obj1 countyseat andrews texas obj0 owner obj1===obj5 is owned by obj5 which has its seat
+obj1 timeinspace 100305 0 minutes obj1 was selected===obj0 hired obj8 obj6 in obj5 spent over 69
+obj1 timeinspace 100305 0 minutes obj1 was selected===after being recruited obj8 obj6 in obj5 obj0 spent
+obj1 timeinspace 100305 0 minutes obj1 obj7 selected===obj0 who obj7 picked obj8 obj6 in obj5 for
+obj1 timeinspace 13017 0 minutes obj1 birthplace obj0===obj9 born in obj9 spent 13017 minutes in space
+obj1 timeinspace 13017 0 minutes obj1 birthplace obj0===obj9 was born in obj9 and spent 13017 minutes
+obj2 alternativenames edwin obj7 obj6 jr obj2===obj4 obj5 obj6 who was born on 20th january
+obj2 alternativenames edwin obj7 obj6 jr obj2===obj4 obj5 obj6 junior's nickname was obj0 and he
+obj4 partstype list of counties in texas obj2 birthplace obj4===obj5 was born in obj0 texas
+obj4 partstype list of counties in texas obj2 birthplace obj4===obj5 was born in obj0 county obj0 texas
+obj0 inaugurationdate 2009 10 02 obj0 address obj3===the inauguration date of obj5 located at obj9 was
+category historic districts in the united states obj0 obj3 obj4===the obj5 is categorised as a historic district in
+akron summit assault league obj0 obj0 obj4 obj3===the obj7 has obj9 who have been champions and
+obj0 academicstaffsize 500 obj0 obj4 obj2===the obj7 of the obj5 is nurturing excellence and
+obj0 academicstaffsize 500 obj0 obj4 obj2===the obj7 of obj5 which has about 500 employees
+obj0 academicstaffsize 500 obj0 obj4 obj2===obj5 has an academic staff size of 500 and
+of technology numberofundergraduatestudents obj5 acharya institute of technology country obj4===the archarya institute of technology in obj9 has obj9
+a glastonbury romance publisher obj2 obj2 obj5 obj0===a glastonbuy romance is published by obj4 whose obj7
+john cowper powys birthplace obj1 obj0 author john cowper powys===john cowpher powys wrote obj5 and was born in obj4
+obj3 leaderparty people's party obj8 adolfo suárez madrid–barajas airport===adolfo suárez madrid barajas airport is found in obj0
+obj3 leaderparty people's party obj8 obj0===obj7 is located in obj5 at obj7 where the
+obj3 leaderparty people's party obj8 adolfo suárez madrid–barajas airport===adolfo suarez madrid barajas airport is located in obj0 obj5
+obj1 leaderparty people's party spain obj1 ispartof===the obj0 is located n obj0 which is lead
+obj1 leaderparty people's party spain obj1 ispartof===the obj0 is located in san sebastián de los
+obj5 partstype list of counties in texas obj3 birthplace===obj5 was born in obj0 obj1
+obj5 partstype list of counties in texas obj3 birthplace===obj5 was born in obj0 located in the collin
+obj0 academicstaffsize 500 obj0 obj7===obj5 has an academic staff of 500 it is
+obj0 academicstaffsize 500 obj0 obj7===the obj5 in obj6 has a staff of about
+al asad airbase operatingorganisation obj0 obj0 obj10===al asad air base is operated by the obj4
+al asad airbase operatingorganisation obj1 obj1 battles===both the obj6 and the invasion of panama involved
+obj1 leaderparty people's party obj11 obj1===obj0 is found in obj0 in obj01 the people's
+beef kway teow region obj5 obj5 language===beefkway teow is popular in obj6 and originates in
+al asad airbase operatingorganisation obj1 obj1 obj13===al asad air base is operated by the obj4

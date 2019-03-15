@@ -1,0 +1,60 @@
+al taqaddum air base location obj1===al taqaddum air base is located in obj4
+al taqaddum air base runwaylength obj2===the runway length of al taqaddum air base is obj4
+san sebastián de los reyes ispartof obj1===san sebastian de los reyes is part of the obj4
+akita museum of art obj2 obj1===obj4 is the obj2 of akita museum
+obj2 areaofwater 0 88 square kilometres===the area of water with obj0 is 88 sq km
+dane whitman black knight comicscharacter alternativename obj2===obj4 is the alternative name for the comic character
+dane whitman black knight comicscharacter alternativename obj2===the comic character obj4 black knight is also known
+dane whitman black knight comicscharacter creator obj1===dane whitman alter ego black knight was created by obj4
+dane whitman black knight comicscharacter creator obj1===dane whitman aka black knight was created by obj4
+dane whitman black knight comicscharacter creator obj1===dane whitman from the black knight was created by obj4
+dane whitman black knight comicscharacter creator obj1===the comic character dane whitman black knight was created
+dane whitman black knight comicscharacter creator obj1===dane whitman black knight is a comic character created
+dane whitman black knight comicscharacter creator obj1===the comic book character dane whitman alter ego black
+a f c fylde obj2 obj0===afcfylde's obj2 is obj4
+a f c fylde league obj0===afc is a member of the obj4
+a f c fylde obj2 obj0===fylde played in the obj4 obj2
+a loyal character dancer author obj1===a loyal character was written by obj4
+al taqaddum air base cityserved obj2 obj2 country obj5===the al taqaddum air base serves the city of
+al taqaddum air base cityserved obj2 obj2 obj4 obj5===the al taqaddum air base serves the city of
+obj1 countyseat obj3 andrews county airport owner obj1===obj0 has its county seat in obj4 and owns
+dane whitman black knight comicscharacter creator obj1 obj1 nationality americans===dane whitman alter ego black knight was created by
+dane whitman black knight comicscharacter creator obj1 obj1 nationality americans===dane whitman aka black knight was created by obj4
+dane whitman black knight comicscharacter creator obj1 obj1 nationality americans===dane whitman aka black knight was created by obj4
+dane whitman black knight comicscharacter creator obj2 obj2 nationality===the comic character dane whitman black knight was created
+dane whitman black knight comicscharacter creator obj2 obj2 nationality===the comic book character dane whitman also known as
+ground estadio jorge calero suárez a d isidro metapán numberofmembers===ad asociacion deportiva isidro metapan play at the estadio
+ground estadio jorge calero suárez a d isidro metapán numberofmembers===ad isidro metapan play at the estadio jorge calero
+sebastián de los reyes ispartof obj6 obj0 elevationabovethesealevel in metres===obj5 is elevated 610 metres above sea level and
+obj4 postalcode b postcode area obj1 obj11===obj0 has the b postcode and one of the
+obj4 postalcode b postcode area obj1 obj11===obj5 was designed by obj0 born obj51 obj7 the
+obj4 postalcode b postcode area obj1 obj11===obj5 was designed by the obj51 obj7 who was
+obj4 postalcode b postcode area obj1 obj10===obj0 which has the b postcode is lead by
+obj4 postalcode b postcode area obj1 obj10===obj5 was designed by the obj50 obj6 who was
+obj3 postalcode b postcode area obj3 leadername===the conservative party lead obj0 which has the b
+obj3 postalcode b postcode area obj3 leadername===obj1 was designed by the obj11 obj5 who was
+obj3 postalcode b postcode area obj3 leadername===the leader of obj0 which has the b postcode
+obj3 postalcode b postcode area obj3 leadername===obj1 was designed by the obj10 obj4 from obj0
+obj3 postalcode b postcode area obj3 leadername===tory controlled obj0 postcode area b is home to obj4
+a fortress of grey ice obj9 english obj9 english obj9===a fortress of grey is written in english which
+a loyal character dancer obj10 english obj10 english obj10===in obj6 english is the primary obj2 the book
+sebastián de los reyes ispartof obj7 obj0 elevationabovethesealevel in metres===obj5 is elevated 610 metres above sea level in
+san sebastián de los reyes ispartof obj6 obj11 locationcity===obj5 in the city of obj12 is the operator
+san sebastián de los reyes ispartof obj6 obj11 locationcity===obj5 is located in the city of obj12 and
+obj6 postalcode b postcode area obj2 obj14===obj7 obj10 born in birmingham designed 103 colmore row
+obj6 postalcode b postcode area obj2 obj14===obj5 obj0 postcode area 'b' was designed by the
+obj5 postalcode b postcode area obj2 obj14===obj5 was designed by the obj7 obj10 who was
+obj5 postalcode b postcode area obj2 obj14===birmingham's governing body is the city council and khalid
+obj6 postalcode b postcode area obj2 obj13===the governing body of obj0 is the city council
+obj6 postalcode b postcode area obj2 obj13===obj7 obj9 of obj0 designed 103 colmore row obj0
+obj6 postalcode b postcode area obj2 obj13===obj0 is lead by the city council and the
+obj6 postalcode b postcode area obj2 obj13===the governing body of obj0 which has the b
+obj5 postalcode b postcode area obj2 obj13===obj5 was designed by the obj7 obj9 who originated
+obj5 postalcode b postcode area obj2 obj13===the governing body of obj0 which has the b
+obj5 postalcode b postcode area obj2 obj13===obj5 was designed by the obj7 obj9 who was
+obj5 postalcode b postcode area obj2 obj13===the governing body of obj0 is the city council
+obj5 postalcode b postcode area obj5 leadername===obj7 who was the obj13 of obj2 was born
+obj5 postalcode b postcode area obj5 leadername===obj0 governs the city of obj0 which has the
+obj5 postalcode b postcode area obj5 leadername===obj2 was designed by the obj13 obj7 who was
+acharya institute of technology affiliation obj1 obj1 obj14===achaya institute of tachnology located in the obj43 of
+acharya institute of technology affiliation obj1 obj1 city===the acharya institue of technology's obj43 is in soldevanahalli

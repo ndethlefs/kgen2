@@ -1,0 +1,94 @@
+obj2 country obj4 obj2 mainingredients===a dish popular in obj4 is obj2 which is
+obj2 obj5 obj4 obj2 mainingredients===fish is cooked in sour and hot sauce to
+obj2 country obj4 obj2 mainingredients===obj2 is a dish of fish cooked in a
+obj1 dishvariation obj5 obj2 course obj1===obj2 is a dish served for obj1 as is obj5
+obj1 dishvariation obj5 obj2 course obj1===a variation of obj5 is obj1 and obj2 is
+obj0 runwaylength obj5 obj0 3rd runway surfacetype obj4===the 3rd runway at obj0 is made of obj4
+obj0 runwaylength obj5 obj0 3rd runway surfacetype obj4===the runway length of obj0 is obj5 and its
+obj1 operatingorganisation obj0 obj1 runwayname obj5===obj5 is the runway name of obj1 which is
+obj1 operatingorganisation obj0 obj1 runwayname obj5===the obj0 operate the obj1 which has a runway
+obj0 author obj4 obj0 precededby obj2===obj0 was written by obj4 and preceded by obj2
+obj0 author obj4 obj0 precededby obj2==='1634 the bavarian crisis' which was written by obj4
+obj1 birthplace obj0 obj1 birthdate obj3===obj1 was born on obj3 in obj0
+obj1 birthplace obj0 obj1 birthdate obj3===obj1 was born on obj3 in obj0
+obj1 birthplace obj0 obj1 birthdate obj3===obj1 was born on obj3 in obj0
+obj0 location obj4 obj0 floorcount obj5===there are obj5 floors at obj0 which is located
+obj0 location obj4 obj0 floorcount obj5===obj0 is located in obj4 and has obj5 floors
+obj0 location obj4 obj0 floorcount obj5===obj0 obj4 has obj5 floors
+obj0 language obj2 obj2 spokenin===obj0 is from the obj4 and written in the
+obj3 obj6 obj0 obj3 completiondate===obj3 was designed by obj6 obj0 and construction finished
+obj3 obj6 obj0 obj3 completiondate===adare manor's obj6 was obj0 and it was completed
+obj3 obj6 obj0 obj3 completiondate===designed by obj6 obj0 the obj3 was completed in
+obj0 location obj3 obj0 runwayname===obj0 in obj3 has a runway known as obj7
+obj0 location obj3 obj0 runwayname===obj0 whose runway name is 18l 36 is located in
+obj0 location obj3 obj0 runwayname===obj0 is located in obj3 with the runway's name
+obj1 obj8 obj3 obj1 course===bakewell pudding's main ingredients are almond jam butter and
+obj1 region obj3 obj1 course===obj1 is a obj6 that originates from the obj3
+obj1 obj8 obj3 obj1 course===the main ingredients of obj1 are obj0 it is
+obj6 country obj3 obj6 mainingredients===obj6 is a dish eaten in the obj3 it
+obj2 obj1 obj8 obj2 course===obj8 is an obj1 in obj2 which is a
+obj2 obj1 obj8 obj2 course===obj2 is a obj4 which contains the obj1 of
+obj2 obj1 obj8 obj2 course===obj2 is a type of obj4 with the obj1
+obj2 obj1 obj8 obj2 course===cookies and obj2 are types of obj4 a key
+obj2 obj1 obj8 obj2 course===obj8 is an obj1 in obj2 which is a
+obj2 obj1 obj8 obj2 course===obj6 is a type of obj4 sames as obj2
+obj1 location obj7 obj1 completiondate===the building of obj1 began in obj9 and it
+obj3 obj11 obj1 new jersey country===obj0 is located within the obj3 which the biggest
+obj1 cityserved obj9 obj1 runwayname===serving the city of obj9 obj1 is obj10 metres
+obj1 cityserved obj9 obj1 runwayname===obj1 serves the city of obj9 and is obj10
+obj1 cityserved obj9 obj1 runwayname===obj1 is obj10 above sea level has a runway
+obj1 cityserved obj9 obj1 runwayname===obj9 is served by obj1 which is obj10 above
+obj1 operatingorganisation obj6 obj1 owner===obj1 is operated by the obj6 owned by the
+obj1 operatingorganisation obj6 obj1 owner===the obj6 operate obj1 which is owned by the
+obj1 operatingorganisation obj6 obj1 owner===obj1 is owned by the obj7 and operated by
+obj0 obj10 obj12 obj0 academicdiscipline===the obj0 has a obj10 of obj12 and comes
+obj0 obj10 obj12 obj0 academicdiscipline===obj7 is an academic discipline of obj0 acta obj9
+obj0 language obj3 obj3 spokenin===english is spoken in obj7 and the obj5 where
+obj3 region obj9 obj3 mainingredients===obj3 comes from obj9 france the obj13 obj12 obj19
+obj3 ingredient obj10 obj3 mainingredients===obj3 originates from the obj7 obj32 is part of
+obj7 obj11 obj6 obj7 mainingredients===obj7 aka bhaji or bajji is from the obj6
+obj2 country obj11 obj2 course===using one of the required ingredients obj1 obj2 is
+obj2 country obj11 obj2 course===obj2 a obj5 found in the obj3 obj9 of
+obj2 country obj11 obj2 course===the granola based obj5 obj2 is a food found in
+obj2 obj6 obj0 obj4 course===obj10 is a type of obj8 as too is
+obj2 obj6 obj0 obj4 course===cookies and obj4 are types of obj8 the latter
+obj3 obj7 obj1 obj5 course===sandesh and obj5 are desserts obj5 comes from the
+obj3 language obj1 obj5 course===obj0 and obj5 are both dishes served as obj9
+obj3 leadername obj8 obj3 demonym===the obj3 is inhabited by obj11 including the ethnic
+obj3 leadername obj8 obj3 demonym===the people living in the obj3 are obj11 including
+obj4 leadertitle obj0 obj4 demonym===obj2 is in the obj4 a obj13 led by
+obj2 country obj9 obj2 mainingredients===the obj2 comes from kansas city in the obj9
+obj10 obj8 obj12 obj12 demonym===the obj10 originates from the obj5 obj9 of obj12
+obj10 country obj12 obj12 demonym===obj10 from the obj9 of obj5 originates from obj12
+obj9 country obj11 obj11 demonym===obj1 enjoy the dish obj9 which originates from the
+obj9 country obj20 obj9 course===obj9 is a obj13 dish from the obj2 obj17
+obj9 country obj20 obj9 course===obj9 is a obj13 dish from the obj2 obj17
+obj4 obj16 obj18 obj15 member obj17 obj8===obj4 obj16 on the obj15 obj17 obj8 which obj16
+obj1 location obj5 obj1 completiondate===the obj1 was completed in obj14 in cuyahoga county
+obj1 location obj5 obj1 completiondate===obj1 completed in obj14 is in obj5 part of
+obj1 location obj5 obj1 completiondate===obj1 was completed in obj14 and is located in
+obj1 club obj2 obj2 league obj0===obj1 plays for obj2 which plays in the obj0
+obj1 club obj2 obj2 league obj0===obj1 is with the obj2 which is in the obj0
+obj0 obj3 obj2 obj0 genre obj4===obj0 whose obj3 was as a obj2 is a
+obj1 birthplace obj0 obj1 genre===born in obj0 obj1 has a obj5 as a
+obj1 birthplace obj0 obj1 genre===obj1 dothan alabama is a obj4 and an exponent
+obj1 birthplace obj0 obj1 genre===born in obj0 obj1 is a obj4 who plays obj7
+obj0 location obj6 obj4 owner===obj0 of obj6 powers the aida cruise owned obj4
+obj0 location obj6 obj4 owner===obj0 is found in obj6 and they powered the
+obj0 location obj6 obj4 owner===obj2 owns the obj4 which is powered by an
+obj0 club obj4 obj0 birthdate===obj0 was born in obj3 on obj6 and he
+obj0 club obj4 obj0 birthdate===born september 2 1995 obj0 of obj3 played for
+obj1 birthplace obj0 obj1 birthdate===obj1 was born october 12th obj12 in obj0 and
+obj1 birthplace obj0 obj1 birthdate===obj1 was born october 12th obj12 on obj0 he
+obj4 club obj1 obj1 ground===alaa abdul zahra plays for obj1 which is located
+obj4 obj10 obj1 obj1 ground===obj4 whose obj10 is obj0 also plays for obj1
+obj4 obj10 obj1 obj1 ground===alaa abdul zahra's obj10 is obj1 which is managed
+obj0 club obj4 obj0 birthdate===obj0 was born obj7 and is now 1850cm tall
+obj0 club obj4 obj0 birthdate===obj0 was born on february 24th 1989 and is
+obj3 obj6 obj2 obj3 genre===coming from obj0 obj8 obj3 has a obj6 as
+obj6 ethnicgroup obj0 obj4 genre===obj1 artist obj4 was born in the obj6 r
+obj2 obj13 obj6 obj6 league===defender obj2 whose former clubs include obj5 has played
+obj2 club obj6 obj6 league===obj2 is a defender who plays for obj5 he
+obj2 obj10 obj7 obj2 ground===aleksandr prudnikov's obj13 is obj2 who have obj7 as
+obj2 obj10 obj7 obj2 ground===obj7 is the obj10 of obj2 who play at
+obj2 obj9 obj8 obj5 ground===obj0 has played for the clubs obj5 based in

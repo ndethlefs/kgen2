@@ -1,0 +1,195 @@
+adolfo suárez madrid–barajas airport location obj1===adolfo suárez madrid barajas airport is found in obj4
+adolfo suárez madrid–barajas airport location obj1===adolfo suarez madrid barejas airport is located at obj4
+obj0 cityserved atlantic city new jersey===the obj0 serves atlantic city nj
+obj2 obj1 austin obj2===austin is the obj5 of obj0
+obj2 obj1 austin obj2===the obj5 of obj0 is austin
+obj2 language spanish language===spanish is spoken in obj0
+obj2 obj1 spanish obj1===spanish is a obj2 spoken in obj0
+obj2 obj1 spanish obj1===spanish is one of the languages spoken in obj0
+obj2 obj1 spanish obj1===spanish is a obj2 spoken in obj0
+obj2 obj1 austin obj2===austin is the obj5 city of obj0
+obj2 obj1 austin obj2===austin is the obj5 of obj0
+obj2 obj1 spanish obj1===spanish is a obj2 spoken in obj0
+obj2 obj1 spanish obj1===one of the languages spoken in obj0 is spanish
+obj2 language spanish language===spanish is spoken in obj0
+united states demonym obj1===obj4 live in the us
+united states demonym obj1===obj4 are the people occupying the us
+obj1 ethnicgroup native americans in the obj1===native americans are one of the ethnic groups in
+obj1 ethnicgroup native americans in the obj1===the native americans are an ethnic group within the obj0
+united states largestcity obj0===the biggest city in the us is obj4
+obj2 obj1 italian obj1===the spoken obj2 in obj0 is italian
+obj2 obj1 italian obj1===italian is the obj2 spoken in obj0
+obj2 obj1 italian obj1===the obj2 of obj0 is italian
+obj2 obj1 spanish obj1===the obj2 of obj0 is spanish
+obj2 journal abbreviation obj2===obj0 is the abbreviated version of the obj0 journal
+united states demonym obj1===obj4 inhabit the us
+obj1 ethnicgroup native americans in the obj1===native americans are one of the ethnic groups of
+adolfo suárez madrid–barajas airport location obj1 obj1 country obj5===adolfo suárez madrid barajas airport is found in obj4 obj9
+obj4 airport schiphol cityserved obj4 obj4 leadername===obj1 is the leader of obj0 where the airport
+obj4 airport schiphol cityserved obj4 obj4 leadername===obj0 airport schipol serves the city of obj0 the
+obj4 airport schiphol cityserved obj4 obj4 airport schiphol===obj0 airport schipol serves the city of obj0 and
+obj4 airport schiphol cityserved obj4 obj4 airport schiphol===the obj0 airport whose runway is 3800 feet serves obj0
+obj4 airport schiphol cityserved obj4 obj4 airport schiphol===obj0 airport schuphol serves obj0 and has a runway
+airport new zealand 3rd runway surfacetype obj4 obj4 obj3 obj2===new zealand's ardmore airport has a third type of
+airport new zealand 3rd runway surfacetype obj3 obj3 obj5 obj2===new zealand's ardmore airport's 3rd runway is made of
+airport new zealand 3rd runway surfacetype obj2 obj2 obj5 obj4===the third runway at ardmore airport in new zealand
+obj4 obj2 spanish obj2 obj1 country===obj6 is from obj0 whose obj5 is spanish
+obj4 obj2 spanish obj2 obj1 country===obj0 language spanish is the origin of the dish obj6
+obj4 language spanish language obj1 country obj4===obj5 is a traditional dish from obj0 where spanish
+obj1 ethnicgroup native americans in the obj1 obj3 obj5===a obj6 is a dessert from the obj0 which
+obj1 ethnicgroup native americans in the obj1 obj3 country===obj6 and the ethnic native americans originate from the obj0
+obj1 ethnicgroup native americans in the obj1 obj3 country===in the obj0 native americans are an ethnic group
+the ram rebellion country united states united states ethnicgroup obj1===1634 the ram rebellion was written in the us
+obj4 journal abbreviation obj4 obj4 journal===the journal obj0 abbreviated to addiction has the obj3 obj5
+obj4 journal academicdiscipline obj4 obj4 journal===obj0 journal abbreviated to obj0 is about obj0
+obj4 journal academicdiscipline obj4 obj4 journal===the obj0 journal about obj0 is also known as
+obj1 cityserved abilene texas obj1 elevationabovethesealevel in metres===serving the city of abilene in texas obj0 is
+obj1 cityserved abilene texas obj1 elevationabovethesealevel in metres===obj0 in texas is obj8 metres above sea level
+obj1 cityserved abilene texas obj1 elevationabovethesealevel in metres===obj0 has a runway length of 1121 it is
+obj1 cityserved abilene texas obj1 runwaylength===obj0 serves the city of abilene in texas its
+obj1 cityserved abilene texas obj1 runwaylength===the obj0 serves the city of abilene and it's
+adolfo suárez madrid–barajas airport location obj3 obj3 country===adolfo suárez madrid barajas airport has an elevation of obj7
+adolfo suárez madrid–barajas airport location obj3 obj3 country===at an elevation of 610 metres above sea level
+adolfo suárez madrid–barajas airport location obj3 obj3 country===adolfo suarez madrid barejas airport is at 610 metres above
+obj6 airport schiphol cityserved obj6 obj6 airport schiphol===obj0 airport schuphol is 33528 below sea level has
+obj6 airport schiphol cityserved obj6 obj6 airport schiphol===the runway length of obj0 airport schipol which serves
+obj6 airport schiphol cityserved obj6 obj6 airport schiphol===obj0 airport schipol serves the city of obj0 and
+obj6 airport schiphol cityserved obj6 obj6 airport schiphol===the schiphol airport located obj7 metres above sea level
+obj6 airport schiphol cityserved obj6 obj6 airport schiphol===obj0 is served by the schipol airport which is
+obj6 obj4 spanish obj4 obj3 country===obj2 are the ethnic group of obj0 where the
+obj6 language spanish language obj3 country===obj5 comes from obj0 where spanish is spoken and
+obj6 obj4 spanish obj4 obj3 country===obj6 is from obj0 where the obj2 is spanish
+obj6 obj4 spanish obj4 obj1 country===obj3 are the ethnic group of obj0 where the
+obj6 obj4 spanish obj4 obj1 country===obj6 is from obj0 where the obj2 is spanish
+obj2 ethnicgroup native americans in the obj2 obj2 leadertitle===the ethnic group of native americans are from the
+obj2 ethnicgroup native americans in the obj2 obj2 leadertitle===obj0 where obj5 is found has native americans as
+obj2 ethnicgroup native americans in the obj2 obj2 leadertitle===obj5 comes from the obj0 where the native americans
+obj0 state pennsylvania obj0 obj7===the obj5 in the obj5 of obj3 falls under
+obj0 state pennsylvania obj0 obj7===obj3 is the location of the obj5 which falls
+obj5 obj6 title obj1 obj5 obj6===ahmet davutoglu is the obj2 of obj0 officially known
+obj5 obj6 title obj1 obj5 obj6===the atatürk monument is in obj0 where ahmet davutoglu
+a d isidro obj6 obj7 obj6 a d isidro obj6===the obj5 of ad isidro metapan is asociacion deportiva
+the ram rebellion author obj5 1634 the ram rebellion mediatype===1634 the ram rebellion by obj4 is available in
+the ram rebellion mediatype obj11 1634 the ram rebellion author===the obj4 the ram rebellion which was written by
+obj1 mediatype e book obj1 author===obj0 which can be found as an e book
+obj0 mediatype e book obj0 author===obj5 was written by obj3 and has the obj5
+obj7 journal abbreviation obj7 obj7 journal===obj0 is the abbreviated version of the obj0 journal
+obj6 journal academicdiscipline obj6 obj6 journal===the journal obj0 has the obj5 obj7 it s
+english language spokenin obj5 obj3 language===english is spoken in both obj4 and the obj5
+english language spokenin obj5 united states language===english is spoken in the us and obj4 obj2
+english language spokenin obj5 united states language===english is spoken in obj4 and the us the
+obj1 cityserved abilene texas obj1 runwaylength===obj0 serves abilene in texas has a runway name
+obj1 cityserved abilene texas obj1 runwaylength===obj0 which serves the city of abilene in texas
+adolfo suárez madrid–barajas airport location obj3 obj3 country===with an elevation of 610 metres above sea level
+obj9 airport schiphol cityserved obj9 obj9 airport schiphol===obj0 is served by obj0 airport schuphol which is
+obj9 airport schiphol cityserved obj9 obj9 airport schiphol===serving the city of obj0 amsterdam airport schipol is
+obj9 airport schiphol cityserved obj9 obj9 airport schiphol===obj0 airport schipol serves the city of obj0 is
+obj9 airport schiphol cityserved obj9 obj9 airport schiphol===obj0 airport schipol is obj10 above sea level and
+states leadertitle president of the united states united states leadername===obj2 are an ethnic group in the us which
+states leadertitle president of the united states united states leadername===the leader of the us is known as the
+obj3 region nationwide also obj21 obj24 obj17===the obj2 dish obj0 obj6 obj7 obj8 all over
+obj8 language spanish language obj2 country===obj5 is from obj0 where spanish is spoken the
+obj8 language spanish language obj2 country===obj5 is a dish from obj0 where they speak
+obj8 obj6 spanish obj6 obj2 country===obj6 is from obj0 where the obj6 is spanish
+obj0 state pennsylvania obj0 obj8===the obj5 in obj4 was obj7 in obj11 and
+obj0 state pennsylvania obj0 obj8===the obj5 is located in obj4 it was obj7
+obj7 obj9 title obj1 obj7 obj9===the atatürk monument is located in i̇zmir obj0 a
+obj7 obj9 title obj1 obj7 obj9===the obj0 is found in obj0 where the largest
+obj9 journal academicdiscipline obj9 obj9 journal===obj0 journal abbreviated to just 'addiction' is about obj0
+obj9 journal academicdiscipline obj9 obj9 journal===obj0 journal abbreviated addiction about obj0 has an obj7
+english language spokenin obj7 obj0 obj11===obj5 is published in the obj4 in this obj7
+english obj9 spokenin obj6 obj0 publisher===english is the spoken obj1 of both obj5 and
+english obj9 spokenin obj6 obj0 publisher===obj6 is published by obj7 in the obj4 the
+english obj9 spokenin obj7 obj4 ethnicgroup===obj0 was published in the obj6 where many obj3
+english language spokenin obj7 obj4 language===english is spoken in the obj5 and obj5 obj3
+english obj9 spokenin obj7 united states obj9===obj3 originates from the us where english is spoken
+english language spokenin obj7 obj4 language===english is spoken in obj5 and the obj5 obj3
+english obj9 spokenin obj7 united states obj9===the book obj0 comes from the us where english
+english language spokenin obj7 obj4 language===obj3 originates from the obj5 which has the obj11
+english language spokenin obj7 obj4 language===the book obj0 is from the obj5 where obj3
+english language spokenin obj7 obj4 language===english is spoken in obj5 and the obj5 obj0
+states leadertitle president of the united states united states obj11===1634 the ram rebellion was written in the us
+states leadertitle president of the united states united states obj11===1634 the ram rebellion was written in the us
+states leadertitle president of the united states united states leadername===1634 the ram rebellion was written in the us
+states leadertitle president of the united states united states leadername===obj7 is the president and leader of the usa
+states leadertitle president of the united states united states leadername===obj7 was the president of the us other random
+obj1 cityserved abilene texas obj1 elevationabovethesealevel in metres===obj0 has a runway length of obj02 and is
+obj1 cityserved abilene texas obj1 elevationabovethesealevel in metres===obj0 serves the city of abilene in texas the
+obj1 cityserved abilene texas obj1 elevationabovethesealevel in metres===the obj0 serves abilenetexas and is situated obj04 meters
+obj0 cityserved abilene texas obj0 runwaylength===with a runway length of 1121 obj5 serves abilene
+obj0 cityserved abilene texas obj0 runwaylength===obj5 serves the city of abilene in taylor county
+obj1 cityserved abilene texas obj1 runwaylength===the city of abilene in texas is served by
+obj1 cityserved abilene texas obj1 runwaylength===obj0 is located obj04 metres above sea level and
+adolfo suárez madrid–barajas airport location obj4 obj4 country===adolfo suarez madrid barejas airport is located at obj5 in
+adolfo suárez madrid–barajas airport location obj4 obj4 country===adolfo suarez madrid barajas airport is in obj5 which is
+obj0 cityserved atlantic city obj10 atlantic city obj10===the obj0 serves atlantic city nj us and is
+obj0 cityserved atlantic city obj10 atlantic city obj10===obj0 is located in obj2 obj7 it serves atlantic
+obj0 cityserved atlantic city obj10 atlantic city obj10===obj0 is located in egg harbor township nj which
+obj4 obj20 obj23 obj19 obj15 obj21 obj8===obj0 graduated from mit with obj3 obj17 in 1963
+obj0 obj20 obj25 obj18 obj14 obj22 obj8===obj0 obj12 obj23 obj3 obj4 obj5 obj6 obj8 operated
+obj4 ethnicgroup native americans in the obj4 obj4 obj14===obj2 is located within the obj0 where english is
+obj4 ethnicgroup native americans in the obj4 obj4 obj14===obj2 is located in the obj0 which has english
+obj4 ethnicgroup native americans in the obj4 obj4 obj14===obj2 is located in the obj0 where a leader
+obj12 language spanish language obj4 obj11===obj5 is from the obj5 obj7 of obj0 where
+obj12 obj8 spanish obj8 obj4 region===spanish is the obj2 of obj0 and the people
+obj12 language spanish language obj7 leadername===obj3 is a traditional dish from obj5 obj0 the
+obj12 language spanish language obj7 leadername===arros negre is found in the obj5 obj11 of
+obj12 language spanish language obj7 leadername===the food arros negre is from the obj5 led
+obj9 obj7 spanish obj7 obj9 obj6===obj2 is a traditional dish from obj0 where spanish
+obj9 obj7 spanish obj7 obj9 obj6===obj0 is led by felipe vi the country's obj8
+obj0 location adams county obj9 obj0 state===the obj6 obj10 in obj14 is a obj7 and
+obj9 obj12 title obj2 obj9 obj12===obj10 is the obj8 of obj0 where the official
+english language spokenin obj8 obj0 publisher===obj5 is published by obj10 located in the us
+english obj12 spokenin obj8 obj0 publisher===obj6 is published by obj10 in the obj5 where
+english language spokenin obj7 obj0 publisher===obj5 was published by obj9 in the obj4 where
+english obj12 spokenin obj7 obj0 publisher===obj6 is published by obj9 in the us the
+english obj12 spokenin obj7 obj1 publisher===the native americans are an ethnic group in the
+english language spokenin obj7 obj1 publisher===obj5 is published by obj9 and it is based
+english language spokenin obj7 obj1 publisher===obj5 is published by obj9 that is based in
+english language spokenin obj9 obj5 obj14===obj0 was written in the obj5 where like in
+english language spokenin obj9 united states obj14===the book obj0 comes from the us the obj7
+english language spokenin obj9 united states obj14===the book obj0 comes from the us the obj7
+english obj11 spokenin obj9 obj5 obj14===obj1 is a book from the obj6 where english
+english obj11 spokenin obj9 obj5 obj14===the obj8 of the obj6 is obj2 and the
+english obj11 spokenin obj9 obj5 obj14===obj0 is from the obj6 where the obj8 is
+english obj11 spokenin obj9 obj5 obj14===english is the spoken obj1 in obj6 and the
+english language spokenin obj9 obj5 ethnicgroup===obj0 originates from the obj5 where english is spoken
+english obj11 spokenin obj9 obj5 ethnicgroup===english is the spoken obj1 in both obj6 and
+english language spokenin obj9 obj5 ethnicgroup===obj4 is a novel from the obj5 where english
+english language spokenin obj8 obj4 ethnicgroup===english is spoken in obj5 and the obj5 where
+english language spokenin obj8 obj4 ethnicgroup===obj0 is from the obj5 where the leader is
+english obj12 spokenin obj8 obj4 obj12===english is the obj1 both of obj5 and the
+english language spokenin obj8 obj4 language===obj0 is from the obj5 where obj9 is the
+english language spokenin obj8 obj4 language===obj0 is from the obj5 where obj9 is the
+obj5 leadertitle president of the obj5 obj2 spokenin===obj0 is from the obj0 a obj14 with a
+states leadertitle president of the united states english obj12 spokenin===the book obj0 comes from the us the country's
+obj4 leadertitle president of the obj4 obj4 demonym===the obj2 are an ethnic group in the obj0
+obj4 leadertitle president of the obj4 obj4 demonym===1634 the ram rebellion is a novel from the
+obj4 leadertitle president of the obj4 obj4 demonym===1634 the ram rebellion is a novel from the
+states leadertitle president of the united states united states leadername===1634 the ram rebellion was written in the us
+obj5 obj20 obj24 obj19 obj15 obj23 obj9===obj0 obj2 born in obj1 after graduation from ut
+obj0 obj24 obj29 obj22 obj17 obj26 obj9===obj8 obj2 operated by obj20 and had obj23 following
+obj0 obj24 obj29 obj22 obj17 obj26 obj9===obj0 obj14 obj27 obj3 obj4 obj5 obj6 obj8 and
+obj0 obj24 obj29 obj22 member obj26 obj9===obj3 and obj0 obj14 obj27 past obj6 nasa's obj8
+obj13 obj15 title president of obj13 obj13===the ataturk monument located in izmir turkey is made
+obj13 obj15 title president of obj13 obj13===president ahmet davutoglu is the obj2 of obj0 which
+obj10 obj15 title president of obj10 obj10===the ataturk monument is located in izmir obj0 and
+obj10 obj15 title obj2 obj10 obj15===the obj0 which is made of obj12 is found
+obj8 obj23 obj27 obj22 obj18 of obj12===obj0 obj3 us national obj2 born in obj0 on
+obj7 obj23 obj27 obj22 obj18 obj26 obj13===obj0 obj2 born in obj1 in march 15 1932
+obj7 obj23 obj27 obj22 obj18 obj26 obj13===obj0 obj2 born on march 15 1932 in obj1
+obj8 obj22 obj24 obj21 obj19 obj23 obj13===obj0 obj2 born on march 15 1932 in obj1
+obj8 obj22 obj24 obj21 obj19 obj23 obj13===obj0 obj2 born in obj1 on march 15 1932
+obj5 obj22 obj24 obj21 obj20 obj23 obj17===obj0 obj2 born on the 18th november 1923 in
+obj3 obj26 obj31 obj25 obj20 obj28 obj11===obj0 obj2 born on the 20th obj6 january in
+obj2 obj25 obj29 obj24 obj18 obj28 obj13===obj04 members obj08 nasa's obj8 included obj0 and obj6
+obj2 obj25 obj29 obj24 obj18 obj28 obj13===obj0 obj05 born in obj0 and graduated from afit
+obj2 obj25 obj29 obj24 obj18 obj28 obj13===obj0 obj05 born in obj0 he graduated from afit
+obj12 obj22 obj27 obj12 leadertitle===obj29 leader obj30 obj0 is called obj29 obj7 obj29
+obj12 obj22 obj27 obj12 leadertitle===obj29 obj2 obj30 obj4 is obj0 with its leader
+obj12 obj22 obj27 obj12 leadertitle===obj29 azerbijan leader is obj29 obj7 obj28 it has
+obj15 obj18 title obj3 obj15 obj18===the obj2 of obj0 official obj5 president of turkey
+obj15 obj18 title obj3 obj15 obj18===the turkish obj2 official obj5 president of turkey is
+obj12 obj18 title obj2 obj12 obj18===turkey's obj5 is ahmet davutoglu who is the obj5
+obj12 obj18 title president of obj12 obj12===the obj14 ataturk monument is located in obj0 where
+obj12 obj18 title president of obj12 obj12===president ahmet davutoglu is the obj2 of obj0 which

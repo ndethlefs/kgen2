@@ -1,0 +1,46 @@
+obj1 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj1 has a population density of obj5 inhabitants obj6
+obj0 populationdensity obj10 inhabitants obj11 obj9 kilometre===obj0 has a population density of obj10 inhabitants obj11
+obj5 washington d c 1634 the ram rebellion obj4 obj2===washington d c is the obj5 of the obj2
+obj5 washington d c 1634 the ram rebellion country obj2==='1634 the ram rebellion' was written in the obj2
+bella sky obj3 obj5 obj2 ac hotel bella sky obj3===obj2 is the obj5 of ac hotel bella sky
+bella sky obj3 obj5 obj2 ac hotel bella sky obj3===the obj5 of the ac hotel bella sky located
+bella sky obj3 obj5 obj2 ac hotel bella sky obj3===obj2 is the obj5 of ac hotel bella sky
+obj0 populationdensity obj12 inhabitants obj14 obj11 kilometre===obj0 has a population density of obj12 inhabitants obj14
+obj7 populationdensity obj11 inhabitants obj14 obj10 kilometre===with a total area of obj12 obj10 kilometres obj7
+georgia u s state obj8 obj7 albany georgia ispartof===albany is part of dougherty county in georgia and
+georgia u s state obj8 obj7 albany georgia ispartof===obj7 is the obj8 of georgia united states the
+obj5 leaderparty obj1 adolfo suárez obj5 –barajas airport===the leader party in obj5 obj8 in which the
+obj14 obj31 obj5 obj25 obj13 obj4 obj30 obj24 obj12===obj24 obj14 obj31 obj5 obj25 obj13 obj4 obj30 obj24
+obj14 obj31 obj5 obj25 obj13 obj4 obj30 obj24 obj12===obj24 obj14 obj31 obj5 obj25 obj13 obj4 obj30 obj24
+hero 6 film obj6 obj5 big hero 6 film distributor===obj8 is a character in the big hero 6
+bella sky obj6 obj9 obj4 ac hotel bella sky obj6===obj4 is the obj9 of ac hotel bella sky
+bella sky obj6 obj9 obj4 ac hotel bella sky obj6===the ac hotel bella sky is located in obj6
+obj1 populationdensity obj15 inhabitants obj17 obj14 kilometre===the total area of obj1 is obj13 obj14 kilometres
+suárez madrid–barajas airport runwayname obj12 adolfo suárez madrid–barajas airport runwaylength===adolfo suárez madrid barajas airport operated by obj13 is located
+ethnicgroup native americans in the united states auburn obj12 ispartof===auburn is part of lee county in obj12 in
+obj17 obj32 obj10 obj26 obj16 obj9 obj31 obj25 obj14===obj25 obj17 obj32 obj10 obj26 obj16 obj9 obj31 obj25
+obj17 obj32 obj10 obj26 obj16 obj9 obj31 obj25 obj14===obj23 is situated obj33 obj25 obj8 obj32 obj14 which
+obj17 obj32 obj10 obj26 obj16 obj9 obj31 obj25 obj14===obj25 obj17 obj32 obj10 obj26 obj16 obj9 obj31 obj25
+suárez madrid–barajas airport runwaylength obj16 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport operated by obj15 is located
+suárez madrid–barajas airport runwaylength obj16 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located in madrid obj9
+obj3 obj29 obj22 obj28 obj9 obj16 obj20 obj32===obj28 obj3 is in obj10 which is southwest of
+alan martin footballer club obj1 alan martin footballer club obj3===alan martin plays football for obj1 and obj3
+alan martin footballer club obj0 obj0 ground obj3===alan martin played for obj0 at obj3
+andrew white musician obj5 obj1 obj1 stylisticorigin obj4===the musician andrew white's obj5 is obj1 which has
+andrew white musician obj5 obj1 obj1 stylisticorigin obj4===obj4 is the origin of obj1 which is the
+andrew white musician genre obj1 obj1 stylisticorigin obj4===andrew white is an obj1 musician obj4 was the
+al anderson obj11 band associatedband associatedmusicalartist obj11 al anderson obj11===al anderson sings for the band obj11 and their
+al anderson obj11 band associatedband associatedmusicalartist obj11 al anderson obj11===al anderson is a singer who plays with the
+al anderson obj11 band associatedband associatedmusicalartist obj11 al anderson obj11===singer al anderson plays with and is a member
+alan martin footballer obj7 obj2 alan martin footballer birthdate===alan martin was born on 01 01 1989 he is
+alan martin footballer club obj2 alan martin footballer birthdate===born on 1 january 1989 alan martin currently plays
+alan martin footballer club obj2 alan martin footballer birthdate===alan martin was born on 01 01 1989 he played
+alan martin footballer obj7 obj4 alan martin footballer obj7===alan martin whose obj7 is obj4 played for obj2
+alan martin footballer obj7 obj4 alan martin footballer obj7===alan martin's football obj7 is obj4 and he has
+alan martin footballer club obj3 alan martin footballer birthdate===alan martin is a footballer who is obj9 cm
+alan martin footballer club obj3 alan martin footballer birthdate===footballer alan martin was born on the 1st january
+alan martin footballer club obj3 alan martin footballer birthdate===alan martin was born on the 1st january 1989
+alan martin footballer club obj0 alan martin footballer birthdate===footballer alan martin who played for the obj0 plays
+alan martin footballer club obj0 alan martin footballer birthdate===at obj9 centimetres tall footballer alan martin was born
+al anderson obj19 band associatedband associatedmusicalartist obj19 al anderson obj19===al anderson of the obj10 band nrbq played once
+al anderson obj19 band associatedband associatedmusicalartist obj19 al anderson obj19===musician al anderson was born in obj3 and began

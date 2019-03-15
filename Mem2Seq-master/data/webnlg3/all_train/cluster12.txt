@@ -1,0 +1,10 @@
+obj0 developer obj3 obj0 numberofrooms obj5===the obj9 which has obj9 rooms was developed by
+obj0 developer obj3 obj0 numberofrooms obj5===the obj9 has obj9 rooms and was developed by
+obj0 outlookranking obj5 obj0 officialschoolcolour obj2===the obj5 has the official school colours of obj9
+obj0 outlookranking obj5 obj0 officialschoolcolour obj2===acharya institute of technology's ranking is obj4 and its
+obj0 outlookranking obj5 obj0 officialschoolcolour obj2===the outlook ranking of the obj5 is obj4 and
+obj3 patronsaint obj1 1 decembrie 1918 university obj4 obj3===the 1 decembrie 1981 university in obj0 is dedicated
+obj0 nickname obj9 obj0 rector===obj5 is known informally as obj4 and the latin
+obj0 sportsoffered obj6 obj6 sportsgoverningbody===the obj0 is located in obj8 and the offered
+obj0 sportsoffered obj6 obj6 sportsgoverningbody===the sport of obj4 governed by the obj1 is
+obj1 ing obj15 ient garlic obj1===arrabbiata sauces originates from obj04 obj02 it is made

@@ -1,0 +1,60 @@
+obj0 location ícolo e bengo===obj0 is located in icolo e bengo
+united states air force aircraftfighter obj0===the obj4 is an aircraft fighter in the us
+united states air force attackaircraft obj1===the obj4 can be found on usaf aircraft carriers
+obj0 birthdate 1923 11 18===obj0 was born november 18th 1923
+obj0 birthdate 1923 11 18===obj0 was born on november 18 1923
+obj0 birthdate 1923 11 18===obj0 was born on nov 18 1923
+obj0 birthdate 1923 11 18===obj0 was born on the 18th of november 1923
+obj1 obj2 eastern province sri lanka===the obj0 is situated in the eastern province obj2
+obj2 leadername labour party uk===the labour party leads obj0
+obj1 ispartof cuyahoga county ohio===obj0 is part of the cuyahoga county in ohio
+obj1 obj2 eagle obj2 comics===obj0 has won an eagle obj5
+obj1 obj2 eagle obj2 comics===obj0 received the eagle obj5 in the comics field
+obj0 obj1 1907 07 11===the obj0 was obj2 on july 11th 1907
+obj0 obj1 1907 07 11===the obj0 was obj2 on 11th july 1907
+obj0 location frederick county maryland===the obj0 is in the county frederick maryland
+obj1 obj2 2014–15 football conference===obj0 played the 2014 15 obj2 in the football conference
+obj1 obj2 super obj2 greece===obj0 is in the obj4league of greece
+obj1 leader labour party uk===blackpool's council is labour
+obj1 largestcity andrews texas andrews county airport obj5 obj1===the obj7 of andrew county airport is obj0 where
+obj1 location ícolo e bengo obj1 elevationabovethesealevel in metres obj5===the obj0 located in icolo e bengo is obj9
+obj2 starring tim brooke taylor obj2 broadcastedby obj5===tim brooke tayler starred in obj0 broadcasted by the obj9
+obj1 obj5 super obj5 greece obj1===obj0 member of the obj4league of greece has its
+obj0 abbreviation am obj6 math obj0===the obj4 0002 9327 is for obj7 which has the
+obj1 location ícolo e bengo obj1 elevationabovethesealevel in metres===obj0 is located in icolo e bengo and is
+obj1 location ícolo e bengo obj1 runwaylength===obj0 is in icolo e bengo and is obj8
+obj5 location brasília afonso pena international airport elevationabovethesealevel in metres===obj0 in brasilia is served by afonso pena aiport
+obj1 obj8 frederick county maryland obj0 obj7===obj5 is the nearest city to the monocacy national
+obj1 location ícolo e bengo obj1 cityserved===obj00 is served by obj0 located in icole e
+obj1 location ícolo e bengo obj1 cityserved===obj0 is obj01 metres above sea level has a
+obj0 location ícolo e bengo obj0 cityserved===obj5 is located in icolo e bengo serves obj10
+obj0 location ícolo e bengo obj0 cityserved===obj5 serves the city of obj10 and is located
+obj1 location ícolo e bengo obj1 runwaylength===obj0 is obj01 metres above the sea level and
+obj1 location ícolo e bengo obj1 runwaylength===obj0 located in icolo e bengo is obj01 metres
+obj2 birthdate 1933 10 17 obj2 occupation===obj0 was a obj6 who was born in obj0
+obj5 starring tim brooke taylor obj5 broadcastedby===tim brooke taylor starred in obj0 which was created
+obj2 location frederick county maryland obj0 country===the obj5 is found in the obj5 in the
+obj4 location frederick county maryland obj0 obj7===the obj5 a historic obj9 in the united states
+obj3 location frederick county maryland obj0 obj8===the obj5 provided by the obj6 was obj7 on
+obj3 obj11 frederick county maryland obj0 obj8===the obj5 in frederick maryland is the obj2 of
+arapiraquense obj11 campeonato brasileiro série c agremiação sportiva arapiraquense obj10===agremiacao sportiva arapiraquense's obj7 is the estadio minicipal coaracy
+obj2 obj11 campeonato brasileiro série c obj2 obj10===obj0 play at the obj0 obj7 which is located
+arapiraquense obj11 campeonato brasileiro série c agremiação sportiva arapiraquense ground===sportiva arapiraquense will play this year in the brazilian
+obj0 abbreviation am obj12 math obj0===the obj7 amjmath is published bi monthly with its discipline
+obj1 location ícolo e bengo obj1 cityserved===obj03 is served by obj0 which is located at
+obj1 location ícolo e bengo obj1 cityserved===obj0 which serves obj03 lies obj04 metres above sea
+obj1 location ícolo e bengo obj1 cityserved===the runway name of obj0 situated obj04 metres above
+obj1 location ícolo e bengo obj1 cityserved===obj0 is located in icolo e bengoelevated obj04 meters
+obj1 location ícolo e bengo obj1 cityserved===obj0 is located at obj04 metres above sea level
+obj1 location ícolo e bengo obj1 cityserved===obj0 is located in icolo e bengoluanda provinceangolathe airport
+obj0 obj10 1907 07 11 obj0 country===the obj5 was obj2 july 11th 1907 and is
+obj4 location frederick county maryland obj0 country===the obj5 is located in the obj11 of the
+obj4 location frederick county maryland obj0 country===the obj5 is an historic obj11 and is found
+obj5 location frederick county maryland obj0 obj10===the obj5 which was obj7 obj11 is found in
+obj4 obj14 frederick county maryland obj0 obj10===the city of obj8 in frederick county is the
+obj5 location frederick county maryland obj0 obj9===the obj5 is located in the obj11 of the
+obj0 obj13 1907 07 11 obj0 country===the obj5 is located in the obj6 obj9 the
+obj0 obj13 1907 07 11 obj0 country===the obj5 was obj2 on 11 july 1907 in
+obj5 location frederick county maryland obj0 obj12===the obj5 is located in the obj14 of the
+obj6 location frederick county maryland obj0 obj15===obj11 is the nearest city to the obj5 which
+obj6 location frederick county maryland obj0 obj15===the obj5 is owned by the obj10 it was

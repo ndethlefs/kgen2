@@ -1,0 +1,120 @@
+university of texas at austin affiliation obj1===the university of texas austin is affiliated with the obj4
+jens härtel club 1 fc magdeburg===jens hartel is a member of the fc magdeburgs
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===the comic book character auron was created by obj4
+auron comicscharacter obj4 obj3 auron comicscharacter obj4 obj2===the creators of auron comics character are obj7 and obj9
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===the comic character auron was created by both obj4
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===obj9 and obj4 created the comic character auron
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===the character auron was created by obj4 and obj9
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===auron was created by both obj4 and obj9
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===the comic character auron was created by obj4 and obj9
+auron comicscharacter creator obj3 auron comicscharacter creator obj2===the comic book character auron was created by both
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===blockbuster is a comic character that was created by
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the comic book character blockbuster was created by both
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the character blockbuster was created by obj4 and obj9
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the comic character blockbuster was created by obj4 and obj9
+blockbuster comicscharacter obj4 obj2 blockbuster comicscharacter obj4 obj3===the creators of blockbuster comics character are obj7 and obj9
+blockbuster comicscharacter obj4 obj2 blockbuster comicscharacter obj4 obj3===both obj7 and obj9 were the creators of the
+blockbuster comicscharacter creator obj2 blockbuster comicscharacter creator obj3===the comic book character blockbuster was created by obj4
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the comic book character blockbuster was created by obj4
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the comics character blockbuster was created by obj9 and obj4
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the character blockbuster was created by obj4 and obj9
+blockbuster comicscharacter obj4 obj3 blockbuster comicscharacter obj4 obj2===the creators of the comics character blockbuster are obj9
+blockbuster comicscharacter creator obj3 blockbuster comicscharacter creator obj2===the comic character blockbuster was created by both obj4
+bolt comicscharacter obj4 obj2 bolt comicscharacter obj4 obj3===obj7 and obj9 are among the creators of the
+bolt comicscharacter obj4 obj2 bolt comicscharacter obj4 obj3===the creators of the comic character bolt were obj7
+bolt comicscharacter creator obj2 bolt comicscharacter creator obj3===the character bolt was created by obj4 and obj9
+bolt comicscharacter obj4 obj2 bolt comicscharacter obj4 obj3===obj9 and obj7 are creators of the comic character
+arem arem country obj3 arem arem obj1 obj0===obj9 is an obj7 of arem arem which originates
+arem arem country obj3 arem arem ingredient obj0===arem arem contains obj9 and originates from obj4
+arem arem obj2 obj1 arem arem region===the obj4 an obj2 found in arem arem is
+arem arem region obj3 arem arem mainingredients===arem arem is a dish comprised of compressed rice
+arem arem region obj3 arem arem mainingredients===indonesian dish arem arem includes the filling compressed rice
+arròs negre country obj5 arròs negre obj3 obj0===obj9 is an obj7 in the dish arros negre
+arròs negre country obj5 arròs negre obj3 obj2===obj9 is an obj7 of arros negre which is
+arròs negre country obj5 arròs negre obj3 obj2===obj9 is an obj7 of arros negre which is
+arròs negre country obj5 arròs negre ingredient obj2===obj9 is used in arros negre which is from obj4
+arròs negre country obj5 arròs negre obj3 obj2===arros negre contains obj9 as an obj7 and it
+arròs negre country obj5 arròs negre obj4 obj2===from the obj9 obj7 in obj7 comes the traditional
+arròs negre country obj5 arròs negre region obj2===arros negre is from obj9 obj4
+arròs negre country obj4 obj4 demonym obj1===obj9 and arros negre come from obj5
+arròs negre obj5 obj4 arròs negre obj3 obj2===obj9 is an obj7 in the obj4 regional dish
+arròs negre region obj4 arròs negre obj3 obj2===obj9 is an obj7 in the catalonian dish of
+arròs negre obj4 obj0 arròs negre ingredient obj5===arros negre which contains obj9 comes from the obj2
+arròs negre obj4 obj0 arròs negre obj3 obj5===arros negre includes obj9 among its ingredients and comes
+arròs negre obj4 obj0 arròs negre obj3 obj5===arros negre comes from the obj2 of the obj4
+aids journal country united kingdom aids journal publisher obj0===the aids journal is published in the uk by obj9
+aids journal country united kingdom aids journal publisher obj0===the aids journal is published by obj9 in the uk
+aids journal country obj2 aids journal publisher obj0===the aids journal is published in the obj4 by obj9
+auron comicscharacter obj7 obj4 auron comicscharacter obj7===obj3 and obj4 are the creators of the comic
+auron comicscharacter creator obj4 auron comicscharacter creator===the comic character auron whose full name is obj6
+auron comicscharacter creator obj4 auron comicscharacter creator===auron a comic book character whose full name is
+auron comicscharacter creator obj4 auron comicscharacter creator===the comic book character auron full name obj6 was
+auron comicscharacter creator obj4 auron comicscharacter creator===obj4 and obj3 created the comic book character of
+auron comicscharacter creator obj4 auron comicscharacter creator===the comic character auron full name obj6 was created
+auron comicscharacter creator obj4 auron comicscharacter creator===obj4 and obj3 created the comic book character auron
+auron comicscharacter creator obj4 auron comicscharacter creator===auron a comic character whose full name is obj6
+auron comicscharacter creator obj4 auron comicscharacter creator===the comic character auron whose full name is obj6
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter alternativename===obj6 and obj4 created the comic book character of
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter alternativename===the comic character blockbuster whose alternative name is obj4
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter alternativename===the comic book character blockbuster whose alter ego is
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===the comic character blockbuster is also known as obj5
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===obj5 is the alternative name for the comic book
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===the comic character blockbuster is also known as obj4
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===blockbuster also known as mark desmond is a comic
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===the comic character blockbuster aka obj4 was created by
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===the comic character blockbuster's alternative name is obj4 and
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter creator===the comic characterblockbuster aka roland desmond was created by obj4
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter creator===the comic book character blockbuster aka obj4 was created
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter creator===the comic character blockbuster has the alternative name obj4
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter creator===the comic characterblockbuster aka mark desmond was created by obj4
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter alternativename===mark desmond also known as blockbuster is a comic
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter alternativename===blockbuster is a comic character with the alternative name
+blockbuster comicscharacter creator obj6 blockbuster comicscharacter alternativename===the comic book character blockbuster also known as obj5
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter alternativename===mark desmond is also known as the comic character
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter alternativename===obj6 and obj4 created the comic character blockbuster who
+blockbuster comicscharacter creator obj5 blockbuster comicscharacter alternativename===the comic character blockbuster with the alternative name obj4
+bolt comicscharacter creator obj6 bolt comicscharacter alternativename===the comic book character bolt with the alternative name
+bolt comicscharacter creator obj6 bolt comicscharacter alternativename===the comic character bolt who has the alternative name
+bolt comicscharacter obj7 obj6 bolt comicscharacter alternativename===the creators of bolt the comic character with the
+bolt comicscharacter creator obj5 bolt comicscharacter creator===obj3 is the alternative name for the comic character
+bolt comicscharacter creator obj5 bolt comicscharacter creator===obj3 is the alternative name for the comic character
+bolt comicscharacter creator obj5 bolt comicscharacter creator===bolt a comic character aka obj3 was created by
+arem arem country obj5 arem arem ingredient===arem arem is a dish containing obj1 it comes
+arem arem region obj6 arem arem obj3===from obj4 arem arem's main ingredients are obj0
+arem arem region obj6 arem arem ingredient===the indonesian dish arem arem contains compressed rice in
+arròs negre country obj8 arròs negre obj7===arros negre is from the obj7 of obj5 obj4
+arròs negre country obj8 arròs negre obj7===obj4 is an obj3 in arros negre which is
+arròs negre country obj8 arròs negre obj7===obj4 is an obj3 in arros negre that is
+arròs negre country obj8 arròs negre obj7===obj4 is in arros negre a dish from the
+arròs negre country obj8 arròs negre region===arros negre contains obj3 and is from obj5 in obj4
+arròs negre country obj8 arròs negre obj7===obj3 is an obj4 in arros negre which is
+arròs negre country obj8 arròs negre obj7===arros negre containing obj3 is from the obj5 obj7
+arròs negre country obj8 arròs negre obj7===arros negre contains obj3 and is a traditional dish
+arròs negre country obj8 arròs negre obj7===arros negre comes from the obj7 of obj4 in
+arròs negre obj5 obj6 obj6 demonym===the people of obj4 are known as obj3 and
+arròs negre obj7 obj0 arròs negre country===arros negre a traditional dish comes from the obj2
+arròs negre obj7 obj0 arròs negre country===arros negre comes from the obj2 of the obj4
+arròs negre obj7 obj0 arròs negre country===obj5 is one of the ingredients in arros negre
+arròs negre region obj0 arròs negre country===arros negre contains obj5 and is a traditional dish
+arròs negre region obj0 arròs negre country===arros negre is a dish from the obj4 in
+arròs negre region obj0 arròs negre country===arros negre made with obj4 is from the obj4
+arròs negre region obj0 arròs negre country===arros negre is made with obj4 and is a
+arròs negre obj7 obj0 arròs negre country===arros negre contains obj4 and comes from the obj2
+arròs negre obj6 obj0 arròs negre country===arros negre comes from the obj2 of the obj4
+aids journal country obj4 aids journal publisher===the aids journal is published in the obj4 by
+aids journal country obj4 aids journal publisher===obj2 is the parent company of obj0 which publishes
+cityserved atlantic city new jersey atlantic city new jersey country===obj7 is the leader of atlantic city which is
+arem arem dishvariation obj15 arem arem obj6===obj4 is a variation of arem arem which if
+arem arem region obj8 arem arem dishvariation===arem arem a variation of obj10 comes from obj4
+arem arem region obj8 arem arem ingredient===arem arem comes from obj4 it is a obj2
+arròs negre country obj16 arròs negre main obj6===arros negre is from the obj12 of obj9 in
+arròs negre country obj16 arròs negre mainingredients===arros negre is traditional in the obj9 obj12 of
+arròs negre obj14 obj1 arròs negre country===arros negre comes from the obj2 of the obj4
+arròs negre obj14 obj1 arròs negre country===arros negre comes from the obj2 of the obj4
+arròs negre region obj1 arròs negre country===arros negre comes from obj46 and the obj4 the
+arròs negre obj8 obj0 arròs negre obj7===arros negre is a traditional dish from the obj2
+cityserved atlantic city new jersey atlantic city new jersey country===obj0 in egg harbor township nj serves atlantic city
+cityserved atlantic city new jersey atlantic city new jersey country===obj0 is located at obj2 in the united statesthe
+cityserved atlantic city new jersey atlantic city new jersey country===obj0 serves atlantic city usa which is lead by
+arem arem country obj6 arem arem region===the dish arem arem originates from obj5 obj17 specifically
+arem arem country obj6 arem arem region===the dish arem arem is found nationwide obj20 obj5

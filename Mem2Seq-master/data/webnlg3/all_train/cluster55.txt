@@ -1,0 +1,212 @@
+obj1 icao location identifier obj2===the location identifier for obj0 is obj4
+obj0 5th runway number obj2===obj4 is the number of the fifth runway of obj0
+obj1 4th runway surfacetype obj2===the fourth runway at obj0 is made from obj4
+obj1 4th runway surfacetype obj2===the obj0 fourth runway is made of obj4
+obj1 4th runway surfacetype obj2===the 4th runway at obj0 is made of obj4
+obj2 transportaircraft obj0===the obj4 is a transport aircraft in the obj4
+obj2 transportaircraft obj0===the transport aircraft for the obj4 is the obj4
+obj0 headquarter obj2===obj4 is the base of the obj0
+obj0 regionserved obj2===the obj0 serves the obj4 region
+obj0 regionserved obj2===the obj0 serves obj4
+obj1 hubairport obj0===the hub airport for obj4 is obj4
+obj1 hubairport obj0===obj4 utilizes the obj4 as its hub
+obj0 hubairport obj1===the hub airport for obj0 is obj4
+obj0 hubairport obj1===obj4 is the hub for obj0
+obj1 hubairport obj0===the hub airport for obj4 is obj4
+obj1 hubairport obj0===the hub airport of obj4 is obj4
+obj1 transportaircraft obj0===obj4 is a transport aircraft in the obj4
+obj1 transportaircraft obj0===the transport aircraft for the obj4 is the obj4
+obj2 birthname obj0===alan bean's full name was alan lavern bean
+obj2 birthname obj0===obj4 was born obj4
+obj2 birthname obj0===alan bean's birth name was obj4
+obj2 birthname obj0===alan bean's birth name is obj4
+obj2 crewmembers obj0===obj4 was a member of the crew on obj4
+obj2 crewmembers obj0===obj4 was a crew member of obj4
+obj2 crewmembers obj0===obj4 crew members included obj4
+obj2 crewmembers obj0===obj4 was a crewman aboard obj4
+obj2 crewmembers obj0===obj4 was a crew member on obj4
+obj0 representative obj2===obj4 represented obj0
+obj2 alternativenames obj0===obj4 was commonly known as obj4
+obj2 alternativenames obj0===buzz aldrin's real name was obj4
+obj2 alternativenames obj0===obj4 is also called obj4
+obj1 birthname obj0===buzz aldrin's birth name is obj4
+obj1 birthname obj0===obj4 was born as obj4
+obj1 birthname obj0===obj4 was born obj4
+obj1 birthname obj0===buzz aldrin's birth name was obj4
+obj1 birthname obj0===obj4 was born with the name obj4
+obj1 senators obj0===the senator representing obj4 was obj4
+obj1 senators obj0===obj4 is a senator in obj4
+obj1 senators obj0===obj4 is a senator in the state of obj4
+obj0 compete obj3 obj1===the obj0 is competing obj3 the obj5
+william anders obj2 obj1===willian anders has a obj2 that is of the obj4
+obj1 buildingtype obj0===obj4 is the obj4
+obj1 currenttenants obj0===the obj4 is the current tenant of the obj4
+obj1 currenttenants obj0===the obj4 is the current tenants of the obj4
+obj1 currenttenants obj0===the government of addis ababa are the current
+obj0 bedcount obj2===the bed count of obj0 is obj4
+obj0 bedcount obj2===obj0 has obj4 beds
+obj2 governingbody obj0===birmingham's governing body is obj4
+obj2 governingbody obj0===the obj4 is the governing body of obj4
+obj2 governingbody obj0===the governing body of obj4 is obj4
+obj2 governingbody obj0===cleveland's governing body is obj4
+obj2 governingbody obj0===the obj4 is the governing body of obj4
+obj2 governingbody obj0===the governing body of obj4 is obj4
+obj0 governingbody obj1===the governing body of the obj0 is the obj4
+obj0 governingbody obj1===the obj4 is the governing body of obj0
+obj2 currency obj0===the obj4 is the money used in obj4
+obj1 hometown obj0===obj4 is the home town of obj4
+john madin obj2 obj0===the obj2 of joh madin is obj4
+obj2 significantproject obj1===obj4 was a significant project of obj0
+obj2 significantproject obj1===obj0 was the architect of the landmark obj4
+obj2 significantproject obj1===obj4 was a significant project for obj0
+obj0 areaofwater obj4 square kilometres===there are obj4 square kilometers of water in obj0
+obj0 areaofwater obj4 square kilometres===obj0 has a water area of obj4 square kilometres
+obj0 areaofwater obj4 square kilometres===obj0 has an area of water that is obj4
+obj2 areaofwater obj4 square kilometres===there is obj4 square km of water in obj0
+obj0 areaofwater obj4 square kilometres===obj0 has a water area of obj4 square kilometres
+obj0 areaofwater obj4 obj3 obj1===the area of water in obj0 is obj4 obj5 obj6
+obj0 areaofwater obj4 square kilometres===obj0 has an area of water obj4 sq km
+obj0 areaofwater obj4 square kilometres===obj0 has a total area of water of obj4
+obj0 areaofwater obj4 obj3 obj1===the area of water in obj0 is obj4 obj5 obj6
+obj0 utcoffset obj2===obj0 has an utc offset of obj4
+obj0 utcoffset obj2===the utc offset for obj0 is obj4
+obj0 areaofwater obj4 square kilometres===the total area of water in obj0 is obj4
+obj0 populationtotal obj2===the total population of obj0 is obj4
+obj0 populationtotal obj2===obj0 has a population of obj4
+obj0 utcoffset obj2===obj0 time zone offset is obj4
+obj0 utcoffset obj2===the utc offset for obj0 is obj4
+obj0 utcoffset obj2===the utc offset for obj0 is obj4
+obj0 utcoffset obj2===the utc offset in obj0 is obj4
+obj0 populationtotal obj2===the population of obj0 is obj4
+obj0 populationtotal obj2===the total population of obj0 is obj4
+obj0 populationtotal obj2===the population of obj0 is obj4
+obj0 areaofwater obj4 square kilometres===obj0 has a water area of obj4 square kilometres
+obj0 areaofwater obj4 square kilometres===the area of water within obj0 is obj4 sq km
+obj3 areaofland obj4 square kilometres===obj0 covers obj4 square kilometres
+obj3 areaofland obj4 obj2 obj0===obj6 covers an area of obj4 obj5 obj6
+obj0 areaofwater obj4 square kilometres===obj4 square kilometres is the area of water in obj0
+obj0 areaofwater obj4 square kilometres===obj0 has an area of water that is obj4 km
+obj0 areaofwater obj4 square kilometres===there is a total area of obj4 square kilometres
+obj0 areaofland obj4 obj3 kilometres===obj0 has a area of land that measures obj4
+obj0 areaofland obj4 square kilometres===obj0 covers obj4 square kilometres of land
+obj2 foundedby obj0===obj4 was founded by obj4
+obj2 foundedby obj0===the obj4 was founded by obj4
+obj2 product obj0===the obj4 produces obj4
+obj2 similardish obj0===obj4 are similar to obj4
+obj2 similardish obj0===obj4 is a similar dish to obj4
+obj1 currency obj0===money in obj4 is called the obj4
+obj0 municipality obj1===the obj0 is located in obj4
+obj0 municipality obj1===obj0 is in obj4
+obj0 owningorganisation obj1===the obj0 is owned by the obj4
+obj0 owningorganisation obj1===the obj0 has been provided by the obj4
+obj0 owningorganisation obj1===obj0 is owned by the obj4
+obj0 owningorganisation obj1===the obj4 has responsibility for the obj0
+obj0 owningorganisation obj1===the obj4 owns the obj0
+obj1 currency obj2===money used in obj0 is the obj4
+obj0 youthclub obj1===obj0 played youth football for obj4
+obj0 latinname obj1===the latin name of the obj0 is universitas apulensis
+obj0 latinname obj1===the latin name of obj0 is obj4
+obj0 latinname obj1===the latin name for obj0 is obj4
+obj0 nickname obj2===obj0 is known as obj4
+obj0 numberofpostgraduatestudents obj2===the number of post graduate students at the obj0
+obj0 numberofpostgraduatestudents obj2===the number of postgraduate students in obj0 is 700
+obj0 numberofpostgraduatestudents obj2===there are around obj4 postgraduate students at the obj0
+obj0 numberofpostgraduatestudents obj2===there are about obj4 post graduate students at the obj0
+obj0 numberofpostgraduatestudents obj2===obj0 has obj4 postgraduate students
+obj0 numberofpostgraduatestudents obj2===students are enrolled in a post graduate program at obj0
+obj0 numberofundergraduatestudents obj2===the number of undergraduates attending the obj0 is roughly
+obj0 numberofundergraduatestudents obj2===acharya institute of technology's number of undergraduate students total
+obj0 numberofundergraduatestudents obj2===there are around obj4 undergraduate students at the obj0
+obj0 numberofundergraduatestudents obj2===the obj0 has obj4 undergraduate students
+obj0 numberofundergraduatestudents obj2===obj0 has obj4 undergraduate students
+obj0 officialschoolcolour obj1===obj4 are the colours adopted by obj0
+obj0 officialschoolcolour obj1===obj4 are the colours of obj0
+obj0 officialschoolcolour obj1===acharya institute of technology's official colors are obj4
+obj0 officialschoolcolour obj1===obj0 official school colors are obj4
+obj0 outlookranking obj2===the outlook ranking for the obj0 is obj4
+obj0 outlookranking obj2===acharya institute of technology's outlook ranking is obj4
+obj0 outlookranking obj2===obj0 has an outlook ranking of obj4
+obj0 sportsoffered obj2===obj4 is one of the sports offered at the obj0
+obj0 sportsoffered obj2===obj0 offers obj4 as a sport
+obj0 sportsoffered obj2===one of the sports offered at the obj0 is obj4
+obj0 sportsoffered obj2===the obj0 offers sports including obj4
+obj1 founder obj0===obj4 founded obj4
+obj2 sportsgoverningbody obj0===the sport obj4 has a governing body called the obj4
+obj2 sportsgoverningbody obj0===the obj4 is the governing body for the obj4 sport
+obj2 sportsgoverningbody obj0===the obj4 sport is governed by the obj4
+obj2 sportsgoverningbody obj0===the obj4 is the governing body of the sport
+obj2 sportsgoverningbody obj0===the obj4 is the governing body of obj4
+obj2 sportsgoverningbody obj0===the sports governing body of obj4 is the obj4
+obj0 residence obj1===obj0 resides in the obj4
+obj0 residence united states===obj0 lives in the us
+obj1 impactfactor obj2===obj0 has the impact factor obj4
+obj1 impactfactor obj2===the impact factor of obj0 is obj4
+obj1 libraryofcongressclassification obj2===the library of congress classification of obj0 is obj4
+obj2 libraryofcongressclassification obj1===obj4 is the library of congress classification of a
+obj2 libraryofcongressclassification obj1===the library of congress classification of obj0 is obj4
+obj0 literarygenre obj1===obj0 is considered obj4
+obj2 family obj0===obj4 is classed as a obj4
+obj0 regionserved obj2===the obj0 serves obj4
+obj0 regionserved obj2===the obj0 is based in obj4
+obj1 founder obj0===obj4 founded obj4
+obj1 founder obj0===obj4 was founded by obj4
+obj1 4th runway surfacetype obj5 obj1 elevationabovethesealevel in metres obj4===obj0 is obj9 metres above sea level and the
+obj1 5th runway surfacetype obj5 obj1 elevationabovethesealevel in metres obj4===obj0 is at an elevation of obj9 from sea
+obj0 representative obj4 obj2 birthplace obj0===obj5 was born in obj9 represented by obj4
+obj0 tenant obj1 obj1 keyperson obj3===obj0 is in the obj4 hotel overseen by obj9
+obj1 currenttenants obj0 obj1 floorarea===the obj4 is where the obj4 is currently located
+obj1 currenttenants obj0 obj1 floorarea===obj4 has a floor area obj9 obj5 square metres
+obj1 currenttenants obj0 obj1 floorarea===the government obj9 obj8 ababa are the current
+obj1 currenttenants obj0 obj1 obj5 obj3===obj9 is the obj7 of obj4 of which the
+obj1 currenttenants obj0 obj1 architect obj3===the obj4 are the current tenants of obj4 which
+obj1 currenttenants obj0 obj1 architect obj3===the obj4 are the current tenants of obj4 designed
+bacon sandwich dishvariation obj4 obj4 obj2 obj3===you can use bacon inside a obj5 sandwich which
+bacon sandwich dishvariation obj4 obj4 obj2 obj3===obj9 is an obj7 of the obj5 and a
+obj5 similardish obj0 obj5 obj2 obj3===obj4 are similar to obj4 which uses vegetables as
+obj3 currency obj5 arròs negre country obj3===in obj0 people pay for the traditional arros negre
+obj3 currency obj5 arròs negre country obj3===arros negre is a traditional dish from obj0 where
+obj0 latinname obj2 obj0 country obj4===the obj5 of obj9 has the latin name obj9
+obj0 latinname obj2 obj0 country obj4===obj5 's latin name is obj9 and is located
+obj0 numberofundergraduatestudents obj5 obj0 country obj4===obj5 of obj9 has obj9 undergraduate students
+obj0 numberofundergraduatestudents obj5 obj0 country obj4===obj5 in obj9 has obj9 undergraduate students
+obj1 impactfactor obj5 obj1 abbreviation obj4===obj0 aip adv has the impact factor obj9
+obj1 impactfactor obj5 obj1 abbreviation obj4===obj0 abbreviated to aip adv has the impact factor obj9
+obj1 impactfactor obj5 obj1 abbreviation obj4===the impact factor of obj0 abbreviated to obj9 is obj9
+obj0 impactfactor obj5 obj0 obj3 obj2===with an impact factor of obj4 the obj5 has
+obj0 impactfactor obj5 obj0 abbreviation obj2===the obj5 is abbreviated to obj9 and has the
+obj0 impactfactor obj5 obj0 abbreviation obj2===the obj5 is also known by the abbreviated title
+obj1 notablework obj3 obj0 author obj1===obj4 and obj5 were both novels written by obj5
+obj1 notablework obj3 obj0 obj5 obj1===obj4 is a notable work of obj7 obj7 who
+obj2 founder obj1 obj0 obj4 obj2===obj7 founded obj5 which is the obj7 of obj5
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===ardmore airport new zealand is elevated obj8 metres above
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===ardmore airport in new zealand is 34 meters above
+obj3 birthd obj12 te obj2 obj3===born on 1932 03 15 obj10 obj7 obj9 obj8 obj11
+obj15 l obj15 n be obj15 n n obj15===aobj1obj1aobj5 beaobj5 obj11 oobj5e obj14 the americaobj5s hired obj13
+obj5 champions obj3 obj1 obj8===the home obj7 of obj5 is obj0 they play
+obj0 latinname obj3 obj0 country===obj5 is located in obj8 obj5 and its latin
+obj0 latinname obj3 obj0 country===the obj5 is located in the obj7 of obj8
+obj0 latinname obj3 obj0 country===the latin name of obj5 in obj8 obj5 is obj4
+obj0 nickname obj8 obj0 city===the obj5 is also known as obj4 and located
+obj3 founder obj2 obj0 obj5===obj7 founded by obj4 is the obj6 of obj7
+obj3 founder obj2 obj0 obj5===the obj7 oclc number 1461102 is published by obj7
+obj4 icao obj9 identifier obj11 obj4===obj0 has the obj3 identifier obj6 and is located
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===the 3rd runway 03l 21r at ardmore airport in new
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===ardmore airport at 34 metres above sea level is
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===the runway at ardmore airport in new zealand is
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===o3r 21l is a runway at ardmore airport new zealand
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===ardmore airport in new zealand is 34 meters above
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===the ardmore airport of new zealand's runway length is
+obj3 alternativenames obj1 obj3 obj13===obj0 was born obj4 on obj8 he attended the
+obj3 alternativenames obj1 obj3 obj13===obj0 real name obj4 was born 20th january 1930
+obj1 birthd obj15 te obj8 obj1===born in obj0 on 1933 10 17 obj03 obj05 obj02
+obj0 tenant obj4 obj0 owner===obj5 is in obj4 located at obj7 in the
+obj1 currenttenants obj0 obj1 buildingstartdate===building started on the obj4 in obj44 it is
+obj1 currenttenants obj0 obj1 buildingstartdate===obj4 a obj43 high 140000 square meter facility which began
+obj18 donesia obj12 obj11 obj14 region===the obj3 of obj4 is obj5 and lead by
+obj6 champions obj1 obj2 obj9===obj5 have a obj7 in obj41 and have obj40
+obj0 nickname obj12 obj0 obj9===the obj5 also known as obj4 is located in
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===the obj0 are the operators of ardmore airport which
+runwaylength 1411 0 ardmore airport new zealand 3rd runway surfacetype===ardmore airport in new zealand is operated by the
+obj21 l obj21 n be obj21 n n obj21===aobj1obj1aobj5 beaobj5 is obj0 us obj5atioobj5aobj1 who obj17 borobj5
+obj11 currency obj14 arròs negre country===arros begre originates from the obj6 obj10 of obj0
+obj9 founder obj7 obj1 obj14===obj0 was founded by obj4 located in the obj54

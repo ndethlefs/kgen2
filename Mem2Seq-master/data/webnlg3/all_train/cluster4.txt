@@ -1,0 +1,17 @@
+obj2 keyperson tony hall baron hall of birkenhead===a key person at the obj0 is baron hall
+obj2 keyperson tony hall baron hall of birkenhead===tony hall the baron hall of birkenhead is a
+obj1 notablework porius a romance of the dark ages===a notable work of obj0 is a romance of
+obj1 obj2 porius a romance of the dark ages===obj0 obj2 was porius a romance of the dark ages
+obj1 1st runway surfacetype obj3 obj3 obj5 commelinids===the surface of the 1st runway at obj0 is
+obj1 served obj12 chief of obj9 obj12 tronaut===obj00 obj8 obj6 obj0 was obj0
+obj1 served obj12 chief of the obj12 tronaut===obj00 obj8 obj0 was obj0
+obj3 dateofretirement 1971 07 01 obj3 timeinspace 52 0 minutes===obj0 who retired on july 1 1971 spent 520
+obj3 dateofretirement 1971 07 01 obj3 timeinspace 52 0 minutes===obj0 spent 52 minutes in outer space before he
+obj3 dateofretirement 1971 07 01 obj3 timeinspace 52 0 minutes===obj0 who retired on july 1st 1971 once spent
+akron summit assault obj4 obj3 akron summit assault numberofmembers obj5===akrons summit assault has obj9 members and the obj2
+association for computing machinery association for computing machinery leadername obj3===obj9 is the leader of the association for computing
+obj0 obj4 cornell university cornell university obj5 cornell big red===conrnell university nicknamed conrnell big red is the obj2
+alan b miller hall completiondate 1 obj9 2009 obj0===the alan b millar hall was completed on obj4st
+obj6 keyperson tony hall baron hall of birkenhead obj4 broadcastedby===obj5 the tv series was shown on the obj0
+a c lumezzane league obj5 a c lumezzane obj6===lumezzane played in the obj4 during the 2014 obj7
+obj4 obj3 juventus f c a s roma ground===asroma play their home games in obj0 in obj8

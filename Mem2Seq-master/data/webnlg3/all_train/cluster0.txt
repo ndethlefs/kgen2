@@ -1,0 +1,1068 @@
+abilene obj2 ispartof obj2===abilene is part of obj1
+obj0 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the usa
+obj0 country united states===the obj0 is in the us
+obj0 country united states===obj0 is located in the us
+obj2 language english language===english is spoken in obj0
+obj2 country united states===obj0 is located in the us
+obj1 country united states===obj0 is located in the us
+obj1 country united states===obj0 is located in the us
+obj1 ispartof united states===obj0 is part of the us
+obj0 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the us
+obj0 ispartof united states===obj0 is part of the us
+obj2 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the united sates
+obj0 ispartof united states===obj0 is part of the us
+obj0 country united states===obj0 is in the us
+obj0 ispartof united states===obj0 is part of the us
+obj1 language english language===english is spoken in obj0
+obj0 country united states===obj0 is located in the us
+obj2 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the us
+obj0 country united states===obj0 is in the us
+obj2 country united states===obj0 is in the us
+obj2 language english language===english is spoken in obj0
+obj0 location united states===the obj0 is in the unites states
+obj0 obj1 americans===the obj2 of obj0 is american
+obj1 obj0 americans===gene colan's obj2 is american
+obj1 obj0 americans===jack kirby's obj2 is american
+obj0 obj1 americans===jerry ordway's obj2 is american
+obj0 obj1 americans===american was the obj2 of obj0
+obj0 obj1 americans===john buscema's obj2 is american
+obj1 country united states===obj0 is a dish found in the us
+obj1 language english language===english is spoken in obj0
+obj0 country united states===the obj0 is based in the us
+obj1 has to its obj2 obj0===obj7 is obj5 of obj7
+obj1 has to its obj2 obj0===obj7 is located in the obj5 of obj7
+obj1 has obj5 its obj2 obj0===obj3 the obj5 of obj7 is obj7
+obj1 has obj5 its obj2 obj0===obj7 is obj3 the obj5 of obj7
+obj1 has obj5 its obj2 obj0===obj3 the obj5 of obj7 is obj7
+obj1 has obj5 its obj0 obj2===obj7 is obj3 the obj5 of obj5
+obj1 has obj5 its obj0 obj2===obj7 is the area obj3 the obj5 of obj5
+obj1 has to its obj2 obj0===the obj7 is obj5 of obj7
+obj1 has to its obj2 obj0===the obj5 of obj7 is the obj7
+obj1 has obj5 its obj2 obj0===obj3 the obj5 obj7 borders on the obj7
+obj0 language english language===obj0 is written in english
+obj0 language english language===the book 1634 the galileo affair is available in english
+obj0 language english language===obj0 is written in english
+obj0 language english language===a fortress of grey icewas originally published in english
+obj0 language english language===obj0 is written in english
+obj1 language english language===obj0 is written in english
+english language spokenin obj1===english is spoken in obj4
+obj1 language english language===obj0 is written in english
+obj1 location obj3 obj3 ispartof obj0===obj9 is located in obj4 which is part of
+obj1 location obj3 obj3 ispartof obj0===obj9 is located in obj4 part of the obj9
+obj0 location obj5 obj0 runwaylength obj4===the runway length of obj5 obj9 is obj9
+obj0 location obj5 obj0 runwaylength obj4===obj5 is found in obj9 and has a length
+obj0 location obj5 obj0 runwaylength obj4===the runway length of obj5 located in obj9 is obj9
+obj0 location obj5 obj0 runwaylength obj4===obj5 in obj9 has a runway length of obj9
+obj0 location obj5 obj0 runwaylength obj4===obj5 is in obj9 and the length of the
+obj0 location obj5 obj0 runwaylength obj4===the runway length of obj5 obj9 is obj9
+obj0 ispartof united states obj2 location obj0===obj5 is located in obj9 usa
+obj1 ispartof united states obj0 cityserved obj1===obj5 serves the city of obj5 us
+obj1 ispartof united states obj0 cityserved obj1===obj5 serves the city of obj5 which is part
+obj1 location obj2 obj2 ethnicgroup obj0===obj9 is located in obj4 where there is an
+obj1 location obj2 obj2 ethnicgroup obj0===obj9 is found in obj4 where one of the
+obj1 location obj2 obj2 ethnicgroup obj0===there is an ethnic group of obj9 and the
+obj1 location obj2 obj2 ethnicgroup obj0===obj9 is located in obj4 where white south africans
+obj1 location obj2 obj2 ethnicgroup obj0===the address obj9 is located in obj4 where white
+obj5 location obj3 obj3 ispartof obj0===located in obj4 a part of obj9 is the obj9
+obj5 location obj3 obj3 ispartof obj0===obj9 is located in obj4 in obj9
+obj1 country united states obj0 location obj1===obj5 is located in obj5 usa
+obj2 country obj4 obj4 ethnicgroup obj1===obj9 of obj5 boasts the origins of the dish obj0
+obj2 country obj4 obj4 ethnicgroup obj1===obj0 is from obj5 where obj9 are an ethnic group
+obj3 obj5 obj1 obj1 language===the obj2 of obj4 where indonesian is spoken commonly
+obj2 country obj3 obj3 ethnicgroup obj0===obj4 includes the obj9 and is a locale for
+obj2 country obj3 obj3 ethnicgroup obj0===the obj9 are an ethnic group in obj4 where
+obj2 country obj3 obj3 ethnicgroup obj0===obj9 is a food found in obj4 where obj9
+obj2 country obj3 obj3 ethnicgroup obj0===obj9 is a food found in obj4 and obj9
+obj2 obj5 obj3 obj3 ethnicgroup===obj0 is a food found in obj4 a obj2
+obj2 country obj3 obj3 ethnicgroup===obj0 is a food found in obj4 where the
+obj2 country obj3 obj3 ethnicgroup obj0===obj9 is an ethnic group in obj4 and obj9
+obj2 obj5 obj3 obj3 ethnicgroup obj0===obj9 comes from the obj2 of obj4 where the
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 are an ethnic group in the obj4 which
+obj1 country obj2 obj2 ethnicgroup obj0===the obj4 is home to the obj9 and obj9
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 is a dish from the obj4 where obj9
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 are an ethnic group in the obj4 where
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 comes from the obj4 where obj9 are an
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 comes from the obj4 where there is an
+obj1 country obj2 obj2 ethnicgroup===obj0 comes from the obj4 where native americans are
+obj1 obj5 obj2 obj2 ethnicgroup===native americans and obj4 obj0 both are from the obj4
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 are an ethnic group in the obj4 where
+obj1 country obj2 obj2 ethnicgroup obj0===the obj9 is from the obj4 where obj9 are
+obj1 country united states united states language english language===english and obj0 are both found in the us
+obj2 country united states obj2 obj4 obj0===obj9 is an obj7 in us consumed obj9
+obj1 country united states obj1 obj3 obj4===obj9 is an obj7 of obj0 and is a
+obj1 country united states obj1 obj4 obj3===obj9 is an obj7 of obj0 which is a
+obj5 obj4 obj2 obj2 ethnicgroup obj0===obj4 is the obj4 obj9 comes from one of
+obj5 country obj2 obj2 ethnicgroup obj0===obj9 is eaten in the obj4 where the obj9
+obj5 country obj2 obj2 ethnicgroup obj0===obj9 is eaten in the obj4 where the obj9
+obj5 country obj2 obj2 ethnicgroup obj0===obj9 and the ethnic group the obj9 come from
+obj5 country obj2 obj2 ethnicgroup obj0===the obj9 come from the obj4 where obj9 is served
+obj5 country obj2 obj2 ethnicgroup obj0===obj9 is eaten by the obj9 an ethnic group
+obj2 language english language obj1 country obj2===obj5 is a dish from obj0 where english is spoken
+obj2 language english language obj1 country obj2===obj5 is a popular dish in obj0 where they
+obj1 has obj8 its obj4 obj3 obj0===obj7 the obj5 of obj8 where11th mississippi infantry monument
+obj3 obj4 obj1 obj1 club obj0===obj4 is obj2 of obj9 and plays for the obj9
+obj3 obj4 obj1 obj1 club obj0===obj4 who played for obj9 has been the obj2
+obj3 obj4 obj1 obj1 club obj0===obj4 obj2 of obj9 plays for obj9
+obj3 obj4 obj1 obj1 club obj0===obj4 is at obj9 and is the obj2 of obj9
+obj3 obj4 obj1 obj1 club obj0===afc fylde's obj2 is obj4 who plays at the obj9
+obj3 obj4 obj1 obj1 club obj0===obj4 obj2 of obj9 played for obj9
+obj3 obj4 obj1 obj1 club obj0===obj4 is the obj2 of obj9 and he plays
+obj3 obj4 obj1 obj1 club obj0===afc fylde's obj2 is obj4 who is affiliated with obj9
+obj3 obj4 obj1 obj1 club obj0===the obj2 of obj9 is obj4 who played for obj9
+obj3 obj4 obj1 obj1 club obj0===obj4 played for obj9 and is the managerof obj9
+obj3 obj4 obj1 obj1 club obj0===the obj2 of obj9 is obj4 who played for
+obj3 obj4 obj1 obj1 club obj0===obj4 who played for the obj9 is the obj2
+obj3 obj4 obj1 obj1 club obj0===obj4 played for the obj9 and is the obj2
+obj3 obj4 obj1 obj1 club obj0===obj4 has been obj2 of obj9 and is a
+obj1 country obj3 obj0 city obj1===obj5 in obj4 is the location of the obj5
+obj1 country obj3 obj0 city obj1===obj5 is located in obj5 in obj4
+obj2 ispartof obj1 obj0 city obj2===obj5 is a part of obj4 and is the
+obj5 leadername obj0 obj10 obj14 obj4 obj12===obj7 which is home to obj11 obj5 obj6 obj7
+obj5 leadername obj0 obj10 obj14 obj4 obj12===obj11 obj5 obj6 obj7 obj8 obj9 obj3 obj13 obj11
+obj0 obj5 english obj5 english obj5===english is spoken in obj3 and is the obj2
+obj1 country obj2 obj2 ethnicgroup===obj0 is from the obj4 where the native americans
+obj1 country obj2 obj2 ethnicgroup===obj0 is from the obj4 which counts native americans
+obj0 language english language obj0 country obj3===obj5 is from the obj9 and originally published in english
+obj0 language english language obj0 country obj3===obj5 is from the obj9 and was originally published
+obj0 obj5 english obj5 english obj5===obj0 is written in english which is the obj2
+obj0 language english language english language spokenin obj3===obj0 was originally published in english which is spoken
+obj0 obj5 english obj5 english obj5===obj0 was originally published in english the obj2 spoken
+obj0 country obj3 obj3 ethnicgroup obj1===obj0 was written in obj4 where the ethnic group
+obj0 country obj3 obj3 ethnicgroup obj1===obj0 was written in obj4 where obj9 are an
+obj0 country obj2 obj2 ethnicgroup obj1===obj0 is published in the obj4 where the obj9
+obj1 obj5 obj2 obj2 ethnicgroup===obj0 is published in the obj4 a obj4 where
+obj0 language english language obj0 country obj3===obj5 is written in english and published in the obj9
+obj0 language english language obj0 country obj3===obj5 written in english is published in the obj9
+obj0 language english language obj0 country obj3===obj5 is published in the obj9 and is written
+obj0 obj5 english obj5 english obj5===obj0 is written in english which is the obj2
+obj0 language english language english language spokenin obj3===obj0 is written in english which is spoken in obj9
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 is from the obj4 which counts obj9 among
+obj1 country obj2 obj2 ethnicgroup obj0===obj9 originates from the obj4 where the obj9 are
+obj1 country obj2 obj2 ethnicgroup===obj0 is from the obj4 where the native americans
+obj1 obj5 obj2 obj2 ethnicgroup==='a severed wasp' is from the obj4 a obj4
+obj1 obj5 obj2 obj2 ethnicgroup===obj0 originates from the obj4 a obj4 where one
+obj0 language english language obj0 country obj3===obj5 was published in the obj9 in english
+obj0 language english language obj0 country obj3===obj5 is published in english and originates from the obj9
+obj2 obj5 english obj5 english obj5===obj0 is published in english the obj2 that is
+obj2 language english language english language spokenin obj3===obj0 is written in english which is spoken in obj9
+obj2 obj5 english obj5 english obj5===obj0 is written in english a obj2 spoken in obj3
+obj0 country united states united states ethnicgroup obj1===the book obj0 comes from the u s where
+obj0 country obj2 obj2 ethnicgroup obj1===the book obj0 comes from the obj4 where the
+obj1 country obj2 obj2 ethnicgroup===obj0 is from the obj4 where the native americans
+obj0 language english language obj0 country obj3===obj5 written in english is from the obj9
+obj0 language english language obj0 country obj3===obj5 is from the obj9 and written in english
+obj0 obj5 english obj5 english obj5===obj0 is written in english the obj2 originated in obj3
+obj0 obj5 english obj5 english obj5===obj0 is in english the national obj2 of obj3
+obj0 obj5 english obj5 english obj5===the book obj0 is written in english the obj2
+obj2 language english language obj0 country obj2===obj5 is from the obj5 therefore is written in english
+obj1 location obj3 obj3 ispartof===obj0 is in tirstrupdenmark which is part of the obj0
+obj1 location obj3 obj3 ispartof===obj0 is located in obj4 which is part of
+obj1 obj7 obj3 obj3 ispartof===the obj2 of obj0 is in obj4 which is
+obj0 location obj5 obj0 runwaylength===located in obj4 is obj5 this airport has a
+obj0 location obj5 obj0 runwaylength===obj5 is in obj4 the name of the runway
+obj0 location obj5 obj0 runwaylength===located in obj4 obj5 has a runway length of
+obj0 location obj5 obj0 runwaylength===located in obj4 obj5 has a runway that is
+obj0 location obj5 obj0 runwaylength===the obj5 is located in obj4 and has a
+obj0 location obj5 obj0 runwaylength===the obj7 runway in obj5 in obj4 has a
+obj0 location obj5 obj0 runwaylength===obj5 is located in obj4 and has a runway
+obj0 location obj5 obj0 runwaylength===obj5 which is located in obj4 has a runway
+obj0 location obj5 obj0 runwaylength===obj5 is located in obj4 the runway length is
+obj0 location obj5 obj0 runwaylength===obj5 located in obj4 has a runway length of
+obj2 obj6 obj0 obj2 runwaylength===the obj5 of obj4 is maple ridge township alpena
+obj1 location obj7 obj1 runwaylength===located in obj4 obj0 is obj6 below sea level
+obj1 location obj7 obj1 runwaylength===obj0 obj4 is 97 metres above sea level and
+obj1 location obj7 obj1 runwaylength===obj0 in obj4 has a runway length of only
+obj1 location obj8 obj1 runwaylength===the runway length of obj0 located in obj4 and
+obj1 location obj8 obj1 runwaylength===obj0 obj4 is obj6 below sea level and its
+obj0 location obj6 obj6 language===obj0 is located in english speaking obj4 in the obj2
+obj0 location obj6 obj6 language===obj0 is located in texas which speaks english but
+obj0 location texas texas obj3===spanish is the obj7 spoken in obj2 in which
+obj0 location obj6 obj6 language===obj0 is located in obj4 in the obj2 where
+obj0 location obj6 obj6 language===obj0 is located in obj4 obj2 where the obj1
+obj0 location obj6 obj6 language===obj0 is located in obj4 in the obj2 spanish
+obj1 location obj4 obj1 runwaylength===located in obj4 obj0 is obj8 meters above sea
+obj1 location obj4 obj1 runwaylength===the obj0 is located in obj4 and is obj8
+obj1 location obj4 obj1 runwaylength===obj0 which is located in obj4 is located at
+obj1 location obj4 obj1 runwaylength===obj0 is located in greenville wisconsin280 metres above sealevel
+obj1 location obj4 obj1 runwaylength===obj0 located in obj4 has an elevation of obj8
+obj1 location obj4 obj1 runwaylength===obj0 is located in obj4 the runway length is
+obj1 obj6 obj5 obj1 runwaylength===obj4 is the obj2 of obj0 which is elevated
+obj1 obj6 obj5 obj1 runwaylength===obj4 is the obj2 of obj0 which has a
+obj1 location obj5 obj1 runwaylength===obj0 in obj4 is obj8 metres above sea level
+obj1 ispartof united states obj1 ispartof===obj0 serves the city of obj0 which is part
+obj2 obj11 obj18 obj12 obj17 obj15 obj6 obj10===obj0 obj14 born obj16 obj1 and obj2 obj3 obj4
+obj2 obj11 obj18 obj12 obj17 obj15 obj6 obj10===obj0 born obj16 new hampshire obj2 obj3 obj4 obj5
+obj0 obj11 obj4 obj14 obj10 obj9 obj0===obj8 who is now obj5 obj2 obj3 obj4 obj5
+obj1 location obj3 obj3 ispartof===obj0 is located in obj4 obj0 in the obj2
+obj1 location obj3 obj3 ispartof===obj4 is part of obj0 in the obj2 it's
+obj1 location obj6 obj6 ispartof===obj0 is located in obj4 obj0 obj2
+obj1 location obj6 obj6 ispartof===obj0 is located in obj4 obj0 in the obj2
+obj1 location obj6 obj6 ispartof===obj0 is located in obj4 obj0 where obj2 is
+obj1 location obj6 obj6 ispartof===obj2 is the leader of obj4 cook county illinois
+obj1 location obj6 obj6 ispartof===obj2 is the leader of obj4 cook county illinois
+obj1 location obj6 obj6 ispartof===obj0 is located in obj4 obj0 us
+obj1 location obj6 obj6 ispartof===obj0 is in obj4 in the dupage county of
+obj1 location obj6 obj6 ispartof===obj0 is in obj4 who's leader is obj2 and
+obj1 location obj6 obj6 ispartof===obj0 is in obj4 part of dupage county illinois
+obj1 location obj6 obj6 ispartof===obj0 is located in obj4 obj0 where the leader
+obj1 location obj7 obj7 ispartof===obj0 is located in obj4 obj6 obj0
+obj1 location obj7 obj7 ispartof===obj0 is in obj4 obj6 obj0
+obj1 location obj7 obj7 ispartof===obj0 is in obj4 part of obj6 in county limmerick
+obj2 country united states obj2 ispartof===the obj0 is located in obj0 us and is
+obj2 ispartof obj5 obj2 ispartof===obj0 is part of obj1 in the obj4 obj0
+obj2 ispartof obj5 obj2 ispartof===obj0 is part of obj1 obj4 obj0 is located
+obj2 language english language obj2 leadername===obj0 is located in the obj0 which is lead
+obj2 language english language obj2 leadername===obj0 is located in the obj0 where they speak
+obj0 country obj6 obj6 language===obj0 comes from obj4 where obj2 is leader and
+obj1 country obj6 obj6 ethnicgroup===obj0 is from obj4 whose ethic group consists of
+obj3 country obj4 obj4 ethnicgroup===obj0 is a food from obj5 where the obj7
+obj3 country obj4 obj4 ethnicgroup===obj0 is a food found in obj5 where the
+obj3 country obj4 obj4 ethnicgroup===obj0 is a food from obj5 where the obj7
+obj4 country obj5 obj5 ethnicgroup===an ethnic group in obj4 which is led by
+obj4 country obj5 obj5 ethnicgroup===obj0 is the leader of obj4 where chinese people
+obj4 country obj5 obj5 ethnicgroup===obj0 is a food found in obj4 which leader
+obj4 obj8 obj5 obj5 ethnicgroup===obj1 is the leader of obj4 an ethnic group
+obj4 country obj5 obj5 ethnicgroup===obj0 is a food found in obj4 where obj1
+obj0 obj5 obj3 obj7 ethnicgroup===obj0 comes from the obj2 of obj4 and is
+obj0 obj5 obj3 obj7 ethnicgroup===obj0 comes from the obj2 of obj4 and is
+obj1 obj6 obj4 obj7 ethnicgroup===obj0 comes from the obj5 obj2 of obj4 where
+obj1 obj6 obj4 obj7 ethnicgroup===obj0 one of the ethnic groups found in obj5
+obj1 obj6 obj4 obj7 ethnicgroup===obj0 is a dish from obj5 in the obj2
+obj1 obj7 obj4 obj4 ethnicgroup===found in obj8 the food obj0 comes from the
+obj1 country united states obj1 obj5===the main ingredients in the american dish obj0 is
+obj1 country united states obj1 obj5===obj8 is the main obj7 in a obj0 which
+obj1 country united states obj1 obj5===the obj0 originates from the us and the ingredients
+obj1 country united states obj1 obj5===the obj0 originates from the obj0 of the us
+obj1 country united states obj1 obj5===obj6 is an obj7 in a obj0 which originates
+obj0 country united states obj0 main obj6===the obj7 ingredients of obj5 which originated in the
+obj2 country obj3 obj3 ethnicgroup===the capitol of the obj4 is obj1 one of
+obj2 country obj3 obj3 ethnicgroup===the obj0 is from the obj4 where obj0 are
+obj2 country obj3 obj3 ethnicgroup===the obj0 is from the obj4 where obj1 are
+obj2 country obj3 obj3 ethnicgroup===obj0 comes from the obj4 where the obj7 is
+obj2 country obj3 obj3 ethnicgroup===obj0 is from the obj4 home of obj1 and
+obj2 country obj3 obj3 ethnicgroup===the obj7 of the obj4 is obj0 where obj1
+obj2 country obj3 obj3 ethnicgroup===the obj7 of the obj4 is obj0 and obj1
+obj2 country obj3 obj3 ethnicgroup===obj0 comes from the obj4 where obj1 are one
+obj1 obj8 united states united states leadername===african american are an ethnic group in the us
+obj1 obj8 united states united states leadername===obj5 leads the us which is the obj2 of
+obj1 country united states united states leadername===a obj0 is a dish from the us where
+obj1 country united states united states leadername===obj7 is a leader in the us which has
+obj1 obj8 united states united states leadername===obj0 are an ethnic group in the us and
+obj1 country united states united states leadername===the obj0 originates from the us where obj7 is
+obj1 country united states obj1 obj8===obj0 which contains obj5 is a dish found in
+obj10 obj4 obj9 obj10 region===noodles are an obj2 obj15 obj0 which is from
+obj10 obj4 obj9 obj10 region===noodles are an obj2 obj15 the dish obj0 which
+obj10 obj4 obj8 obj10 region===obj0 is from the obj1 is is a traditional
+obj2 country obj6 obj6 language===obj0 are found in obj4 where the obj1 is
+obj2 country obj6 obj6 language===obj0 can be found in obj4 where french is
+obj2 country obj6 obj6 language===obj0 come from obj4 where obj1 is a leader
+obj5 obj4 obj6 obj6 language===obj0 is the leader of obj4 the obj2 where
+obj5 country obj6 obj6 language===obj0 is a food found in obj4 where spanish
+obj5 obj4 obj6 obj6 language===obj0 is a food found in spanish speaking obj4
+obj5 country obj6 obj6 language===obj0 is a dish found in obj4 where the
+obj0 obj5 obj8 obj0 ethnicgroup===obj7 is eaten in the obj5 where one of
+obj0 obj5 obj8 obj0 ethnicgroup===obj4 is a obj2 spoken in the obj5 where
+obj6 leadername obj0 obj6 language===obj3 originates from the obj5 of obj4 where spanish
+obj0 country united states obj0 obj5===the obj6 usa is categorised as a obj3 and
+obj0 country united states obj0 obj5===the obj6 was obj8 in the us in obj8
+obj0 country united states obj0 location===the obj6 categorized as a obj4 is located in
+obj1 obj6 obj3 obj3 club===obj4 has been the obj2 of obj0 he first
+obj1 obj6 obj3 obj3 club===obj4 berliner ak 07 played for obj0 has been
+obj2 obj6 obj3 obj3 club===obj4 has played for obj1 and obj0 he is
+obj2 obj6 obj3 obj3 club===obj4 is the obj2 of the obj0 he plays
+obj2 obj6 obj3 obj3 club===the obj2 of obj0 is obj4 who plays for
+obj2 obj6 obj3 obj3 club===obj4 is the obj2 of the obj0 he has
+obj2 country obj16 obj2 obj13===the obj0 is affiliated to the obj1 and the
+obj2 country obj16 obj2 obj13===india's obj0 is affiliated with obj1 and the obj7
+obj3 ispartof obj2 obj0 city===the obj5 is in obj5 obj4 obj6
+obj2 obj10 obj13 its obj5 obj4 obj2===the obj7 of obj0 the location of the obj0
+obj0 obj8 english obj8 english obj8===obj0 is written in english the obj2 spoken in
+obj1 language english language obj1 country===obj0 was originally published in english the book is
+obj0 language english language english language spokenin===obj0 was written in the obj4 in english which
+obj0 obj7 english obj7 english obj7===obj0 from the obj4 is written in english which
+obj0 obj7 english obj7 english obj7===from the obj4 obj0 was originally published in english
+obj0 country obj6 obj6 ethnicgroup===obj0 published by obj2 comes from obj4 where the
+obj0 country obj6 obj6 ethnicgroup===the book a long long way was published by
+obj0 country obj6 obj6 ethnicgroup===obj2 published obj0 which comes from obj4 where an
+obj0 obj7 english obj7 english obj7===obj0 published in the obj4 is written in english
+obj0 language english language english language spokenin===obj0 published in the obj4 is written in english
+obj0 language english language english language spokenin===obj0 is published in the obj4 and written in
+obj2 language english language obj2 country===obj0 was written in english in the obj4 where
+obj2 language english language obj2 country===obj0 is written in english in the obj4 where
+obj2 language english language obj2 country===obj0 was written in english in the obj4 where
+obj2 language english language obj2 country===native americans are one of the ethnic groups of
+obj2 language obj0 obj4 ethnicgroup===obj5 was written in the obj5 and is from
+obj2 language obj0 obj4 ethnicgroup===obj5 is from the obj5 and is written in
+obj1 language english language obj1 country===native americans are one of the ethnic groups of
+obj1 language english language obj1 country===obj0 is written in english and was published in
+obj1 language english language obj1 country===the us is not only home to native americans
+obj0 language english language english language spokenin===obj0 published in the obj4 was written in english
+obj0 language english language english language spokenin===obj0 was written in english which is spoken in
+obj1 language english language obj7 obj4===written in english obj0 followed the book obj5 which
+obj1 language english language obj7 obj4===obj5 has the obj7 obj3 it was followed up
+obj1 language english language obj7 obj4===obj5 has a obj7 of obj3 and is a
+obj6 obj3 obj2 obj6 language===the english novel obj0 which has the obj4 of
+obj6 obj3 obj2 obj6 language===obj1 followed the book obj0 which is written in
+obj0 language english language obj0 country===the book obj5 is written in english and comes
+obj0 language english language obj0 country===obj5 written in english is from the obj4 where
+obj1 language english language obj1 country===the book obj0 comes from the us and is
+obj1 language english language obj1 country===written in english obj0 comes from the us native
+obj1 language english language obj1 country===the book obj0 written in english is from the
+obj0 language english language united states ethnicgroup===the us is home to obj3 and the origin
+obj0 language english language united states ethnicgroup===obj0 comes from the us and is written in
+english obj6 spokenin obj5 obj0 country===obj6 is published in the obj3 where just like
+english obj6 spokenin obj5 obj0 country===english is the both spoken in obj5 and the
+english obj6 spokenin obj5 obj3 obj6===obj2 originates from the obj8 where the obj1 is
+english obj6 spokenin obj5 obj3 obj6===obj0 originates from the obj8 in this obj8 and
+obj3 language english language obj1 country===obj5 is from the obj0 where english is spoken
+obj3 language english language obj1 country===obj5 is from the obj0 were they speak english
+obj3 language english language obj1 country===obj5 was published in the obj0 where they speak
+united states language english language obj1 country===the us is home to native americans and the
+obj3 obj7 english obj7 english obj7===obj0 is from the obj0 here and in obj4
+obj3 language english language english language spokenin===obj0 is from the obj0 where english is spoken
+obj3 language english language obj3 ethnicgroup===obj0 is from the obj0 where they speak english
+obj2 leadername obj5 obj2 ethnicgroup===obj1 is from the obj0 where obj4 is the
+obj2 leadername obj5 obj2 ethnicgroup===obj1 originates from the obj0 which has obj4 as
+obj2 leadername obj5 obj2 ethnicgroup===obj1 was written in the obj0 where obj4 is
+obj6 location obj10 obj10 leadername===the obj0 is a transport aircraft in the obj3
+obj6 location obj10 obj10 leadername===obj0 is located in obj4 and operated by the
+obj5 location obj10 obj10 leadername===obj0 located in obj4 where the leader is obj6
+obj5 location obj10 obj10 leadername===obj0 is located in obj4 which is owned and
+obj5 location obj10 obj10 leadername===obj0 is operated by the obj3 and uses obj0
+obj7 location obj5 obj5 ispartof===the obj0 is a transport aircraft for the obj3
+obj7 location obj5 obj5 ispartof===obj0 is in obj4 which is part of obj11
+obj7 location obj5 obj5 ispartof===the obj3 who use the transport aircraft obj0 operate
+obj0 location obj8 obj0 runwaylength===with a runway length of obj11 obj5 is located
+obj0 location obj8 obj0 runwaylength===obj5 in obj4 is operated by obj4 it serves
+obj0 location obj8 obj0 runwaylength===the obj4 is the operating organisation of the obj5
+obj0 location obj8 obj0 runwaylength===the obj4 is the operating organisation of the obj5
+obj0 location obj6 obj0 runwaylength===the obj4 governs the obj5 which serves the city
+obj0 location obj6 obj0 runwaylength===the obj4 governs the obj5 in obj4 the airport
+obj0 location obj6 obj0 runwaylength===obj5 is located in obj4 and is operated by
+obj0 location obj6 obj0 runwaylength===found in obj4 and operated by the the obj4
+obj0 location obj6 obj0 runwaylength===the obj4 is the operating organisation of the obj5
+obj0 location obj6 obj0 runwaylength===obj5 serves obj11 and is located in obj4 the
+obj1 location texas obj1 runwaylength===obj0 serving the city of obj5 is 973 metres
+obj1 location obj11 obj1 runwaylength===obj0 is located in andrewstexasthe airport is located 973
+obj1 location obj10 obj1 runwaylength===obj0 is located in obj00 and serves the city
+obj1 location obj10 obj1 runwaylength===obj0 is located in obj00 and serves the city
+obj1 location texas obj1 runwaylength===obj0 servicing obj5 is 973 below sea level with
+obj1 location obj11 obj1 runwaylength===obj0 located in obj01 and serving the city of
+obj1 location texas obj1 runwaylength===obj5 is served by obj0 which is located 973
+obj1 location obj11 obj1 runwaylength===obj0 973 metres above sea level is located in
+obj0 location obj8 obj8 language===obj0 is located in english speaking obj4 united states
+obj0 location obj8 obj8 language===obj0 is located in englush speaking obj4 in the
+obj0 obj5 obj8 obj8 language===obj4 is located in the obj2 and has the
+obj0 location obj8 obj8 language===obj0 is located in obj4 where spanish is spoken
+obj0 location obj8 obj8 language===obj4 where spanish is widely spoken has a obj6
+obj0 location obj8 obj8 language===the people of obj4 are known as obj7 and
+obj0 obj4 obj8 obj8 language===obj4 is the obj2 of obj0 and has the
+obj0 location obj8 obj8 language===obj0 is in obj4 obj2 where the obj1 is
+obj0 obj4 obj8 obj8 language===obj4 which is the obj2 of obj0 is located
+obj0 location obj8 obj8 language===obj0 is located in obj4 us whose citizens are
+obj0 location obj8 obj8 language===obj0 is located in obj4 obj2 where obj7 is
+obj0 location obj8 obj8 language===obj0 is located in spanish speaking obj7 obj4 obj2
+obj1 location obj5 obj1 runwaylength===at obj01 metres above the sea level with a
+obj1 location obj5 obj1 runwaylength===obj0 which is located at obj4 is obj01 metres
+obj1 location obj5 obj1 runwaylength===obj0 is obj01 metres above the sea level and
+obj1 location obj5 obj1 runwaylength===the obj0 is located at obj4 and is obj01
+obj1 location obj5 obj1 runwaylength===at obj01 metres above sea level and with a
+obj1 location obj5 obj1 runwaylength===appleton in wisconsin is served by obj0 which has
+obj1 location obj5 obj1 runwaylength===located in obj4 obj0 has an elevation of obj01
+obj1 location obj5 obj1 runwaylength===found in obj4 obj0 is elevated obj01 metres above
+obj1 location obj5 obj1 runwaylength===obj0 with a runway length of 1982 can be
+obj0 location obj3 obj3 ispartof===obj4 is part of obj7 and obj5 is part
+obj0 location obj3 obj3 ispartof===the obj0 which serves appleton is located in obj4
+obj0 location obj3 obj3 ispartof===obj4 a part of ellington and the town of
+obj0 location obj3 obj3 ispartof===obj0 serves the city of appleton in obj4 both
+obj0 location obj3 obj3 ispartof===the obj0 is in obj4 which is part of
+obj0 location obj3 obj3 ispartof===appleton international airport serving appleton is located in obj4 obj4
+obj0 location obj3 obj3 ispartof===the obj0 is located in and services obj4 grand
+obj0 location obj3 obj3 ispartof===obj0 serves the city of obj5 and is in
+obj2 ispartof obj3 obj3 ispartof===obj0 is part of obj4 obj0 serves the city
+obj1 ispartof obj3 obj3 ispartof===obj0 serves the city of obj0 which is part
+obj4 obj13 obj15 obj12 obj10 obj14 obj6===obj0 who obj2 born in obj0 joined obj11 and
+obj4 obj13 obj15 obj12 obj10 obj14 obj6===obj0 obj2 born in obj0 and became obj3 obj2
+obj5 obj13 obj15 obj12 obj10 obj14 obj4===obj0 obj2 obj3 obj8 obj5 obj6 nasa's obj8 with
+obj5 obj13 obj15 obj12 obj10 obj14 obj4===obj1 obj0 obj2 obj3 obj8 obj5 obj6 nasa's obj8
+obj2 obj13 obj15 obj12 obj10 obj14 obj4===obj0 who obj2 born in 1932 worked for obj11
+obj2 obj14 obj18 obj13 obj9 of obj4===obj0 graduated from ut austin bs in 1955 he
+obj1 obj13 obj15 obj12 obj10 of obj7===obj8 obj02 obj00 obj0 obj03 born in obj0 on
+obj1 obj13 obj15 obj12 obj10 obj14 obj6===obj0 obj03 obj05 obj02 obj00 obj04 obj01 operated obj8
+obj2 obj13 obj15 obj12 obj9 obj14 obj6===obj0 obj2 born in obj0 whose obj11 is the
+obj3 obj14 obj17 obj13 obj11 obj16 obj7===obj0 also known as obj0 obj2 obj3 obj4 obj5
+obj4 obj14 obj16 obj13 obj11 obj15 obj7===obj0 is obj3 national obj6 the obj1 led by
+obj0 obj13 obj15 obj12 obj10 obj14 obj4===obj8 obj0 obj2 once obj3 obj8 obj5 obj6 obj8
+obj0 obj14 obj16 obj13 obj10 obj15 obj5===obj0 obj2 obj3 obj4 obj8 obj6 the obj12 operated
+obj0 obj13 obj15 obj12 obj10 of obj7===obj0 obj3 obj2 citizen obj2 obj3 obj4 obj5 on
+obj1 obj14 obj9 obj17 obj13 obj12 obj1===obj0 obj04 obj3 obj07 obj03 as obj08 obj01 obj00
+obj1 obj13 obj10 obj14 obj12 obj11 obj1===obj0 obj03 born in obj0 on 19331017 he served
+obj1 obj13 obj10 obj14 obj12 obj11 obj1===obj0 from the obj6 obj03 born in obj0 and
+obj1 location obj3 obj3 ispartof===obj0 is located in cuyahoga county obj4 obj01 in
+obj1 location obj3 obj3 ispartof===obj0 is located in obj4 obj0 obj2
+obj1 location obj3 obj3 ispartof===obj0 is located in obj4 obj2 obj4 is part
+obj1 location obj5 obj5 ispartof===obj0 is in obj4 us which is part of
+obj1 obj10 obj5 obj5 ispartof===part of the cuyahoga obj01 in ohio if the
+obj1 location obj7 obj7 ispartof===obj0 is located in obj4 obj0 obj3 where the
+obj1 location obj7 obj7 ispartof===obj0 is in cook county obj4 illinois in the
+obj1 location obj7 obj7 ispartof===obj0 is in obj4 which is a part of
+obj0 location obj9 obj9 language===obj2 founded in obj4 is a obj11 of the
+obj0 location obj9 obj9 language===obj2 founded in washington dc ia a obj11 of
+obj4 location obj10 obj10 ispartof===obj0 is in obj4 obj9 in obj1 obj0 govern obj1
+obj4 location obj10 obj10 ispartof===obj0 is located in obj4 obj9 obj1 which is
+obj0 country obj10 obj10 ethnicgroup===obj0 can be found in the obj4 in the
+obj0 country obj10 obj10 ethnicgroup===the filipinos are one of the ethnic groups in
+obj0 location obj3 obj3 ispartof===the obj0 is located in obj4 which is part
+obj7 leadername obj1 obj3 ispartof===obj5 in obj0 lead by hailemariam desalegn is the
+obj7 leadername obj2 obj3 ispartof===the obj1 and obj0 are located in obj5 obj0
+obj7 leadername obj2 obj3 ispartof===obj5 is in obj0 which has a leader named
+obj8 leadername obj2 obj10 leadername===lead by obj4 obj0 can be found in obj0
+obj8 leadername obj2 obj10 leadername===obj0 is located in obj0 obj5 the leader of
+obj8 leadername obj2 obj10 leadername===obj0 is located in obj0 obj5 obj4 is leader
+obj0 language english language obj5 country===obj5 is located in the obj0 which is led
+obj3 country obj15 obj3 main obj2===obj0 is from obj4 inspain the obj7 ingredients of
+obj3 country obj15 obj3 main obj2===obj0 is from the obj4 obj12 of obj4 and
+obj4 country obj15 obj4 main obj2===obj0 originates from the obj5 obj12 of spainits obj7
+obj4 country obj15 obj4 main obj2===bread obj9 obj10 obj13 and obj3 are the obj7
+obj3 country obj15 obj3 main obj2===bread obj8 obj9 obj12 and obj14 oil are the
+obj3 obj10 obj15 obj3 main obj2===obj0 originates from the obj8 of obj4 and from
+obj3 obj2 obj9 obj10 leadername===obj4 is an obj2 in obj0 which comes from
+obj3 obj2 obj9 obj10 leadername===obj0 has obj4 as one of its ingredients it
+obj2 country obj16 obj2 main obj6===the obj7 ingredients of obj0 are white obj15 obj8
+obj2 country obj10 obj10 leadername===obj0 is a traditional dish from the obj6 obj9
+obj2 obj8 obj10 obj10 leadername===obj0 is from the obj6 obj9 of obj4 obj6
+obj3 obj9 obj5 obj6 ethnicgroup===obj4 is the obj2 obj0 comes from in the
+obj3 obj9 obj5 obj6 ethnicgroup===obj0 is a popular dish from obj4 the obj11
+obj3 country obj5 obj6 ethnicgroup===obj0 is a dish from obj5 obj4 the obj11
+obj4 country obj6 obj6 ethnicgroup===obj0 is a dish from obj8 that is found
+obj4 obj10 obj6 obj6 ethnicgroup===obj0 is a sumatran dish which is found in
+obj4 country obj6 obj6 ethnicgroup===obj0 is found in obj4 malaysian chinese and obj8
+obj5 country obj7 obj7 ethnicgroup===the dish obj0 comes from the obj11 of sumatra
+obj5 country obj7 obj7 ethnicgroup===obj1 and obj2 are ethnic groups of obj4 where
+obj5 country obj7 obj7 ethnicgroup===the obj0 and obj2 are ethnic groups from obj4
+obj5 country obj7 obj7 ethnicgroup===obj0 is a food found in obj4 on the
+obj5 obj10 obj7 obj7 ethnicgroup===obj0 is found in the obj1 and throughout obj4
+obj4 country obj6 obj6 ethnicgroup===obj0 is a food found in obj4 which has
+obj4 country obj6 obj6 ethnicgroup===obj0 found in obj4 originates from obj9 two ethnic
+obj4 country obj6 obj6 ethnicgroup===obj0 is a food found in obj4 and obj9
+obj4 country obj6 obj6 ethnicgroup===obj0 is a food from obj4 and obj8 obj4
+obj4 country obj6 obj6 ethnicgroup===obj0 is a food found in obj8 and obj4
+obj4 country obj6 obj6 ethnicgroup===obj0 is a dish from obj8 obj4 malays are
+obj4 country obj6 obj6 ethnicgroup===obj0 is a food found in obj4 and obj8
+obj4 country obj6 obj6 ethnicgroup===obj0 is a dish from obj8 where the obj0
+obj4 country obj6 obj6 ethnicgroup===obj0 is a dish from obj8 home to obj0
+obj3 country obj5 obj6 ethnicgroup===obj0 is a food found in obj4 and obj5
+obj3 country obj5 obj6 ethnicgroup===obj0 is a dish from obj5 obj4 the obj11
+obj3 country obj5 obj6 ethnicgroup===obj0 is a food originates from malaysiait can also
+obj2 obj6 obj1 obj10 ethnicgroup===obj4 is an obj2 in obj0 and originates from
+obj2 obj6 obj1 obj10 ethnicgroup===obj4 is one of the ingredients in the dish
+obj2 obj11 obj8 obj8 ethnicgroup===obj1 is one of the ingredients of the dish
+obj1 country united states obj1 main obj8===the obj7 obj8 in a obj0 is obj01 and
+obj2 obj11 united states united states ethnicgroup===obj9 is a leader in the us and the
+obj2 obj11 obj3 obj3 ethnicgroup===the obj2 obj0 comes from is the obj4 a
+obj2 obj11 united states united states leadername===obj0 is the obj10 of the us where obj9
+obj2 country united states united states leadername===obj0 comes from the usits obj10 city being washington
+obj2 country united states united states leadername===obj9 is a leader in the us where obj1
+obj2 country united states united states leadername===one leader in the us is obj9 where its
+obj1 country obj10 obj10 leadername===obj0 is from obj00 and also served in obj6
+obj1 country obj10 obj10 leadername===obj0 hail from obj00 and is found in obj6
+obj16 obj5 obj15 obj16 obj11===obj0 is a traditional dish throughout the whole of
+obj16 region obj5 obj16 obj11===obj0 is a food dish from the obj7 of
+obj16 region obj5 obj16 country===obj0 is a food found in obj4 the ingredients
+obj16 region obj5 obj16 obj11===obj0 with the main ingredients ground obj18 obj7 obj10
+obj3 country obj8 obj8 language===obj0 can be found in obj4 whose leaders are
+obj3 country obj8 obj8 language===obj0 can be found in obj4 where french is
+obj3 country obj8 obj8 language===obj0 come from obj4 where french is spoken and
+obj3 country obj8 obj8 language===obj0 can be found in obj4 where they speak
+obj3 obj7 obj8 obj8 language===obj0 come from obj4 where the obj1 is spoken
+obj3 country obj8 obj8 language===obj0 are found in obj4 where the obj1 is
+obj3 country obj8 obj8 language===the obj2 is spoken in obj4 where obj0 are
+obj3 country obj8 obj8 language===obj0 can be found in obj4 where the leaders
+obj3 country obj8 obj8 language===obj0 are found in obj4 where the french speaking
+obj3 country obj8 obj8 language===obj0 can be found in obj4 where french is
+obj3 country obj8 obj8 language===obj0 are found in obj4 where the obj1 is
+obj6 country obj3 obj6 obj14===obj0 a obj16 obj7 contains the ingredients noodles obj15
+obj6 country obj3 obj6 obj14===obj0 is served as a obj16 obj7 in the
+obj8 country obj10 obj10 leadername===obj0 comes from the obj4 obj7 of obj4 obj1
+obj8 obj6 obj10 obj10 leadername===obj0 comes from the obj2 obj4 in the obj4
+obj8 country obj10 obj10 leadername===obj0 come from the obj4 obj7 in obj4 obj1
+obj8 country obj10 obj10 leadername===obj0 originate from the obj4 obj7 of obj4 the
+obj9 country obj17 obj9 main obj3===obj0 is from the obj2 obj15 and is found
+obj8 country obj17 obj8 main obj3===the obj7 ingredients of obj0 are chopped obj10 obj19
+obj8 country obj17 obj8 main obj3===obj0 is a dish from the guadalaraja obj15 of
+obj8 country obj17 obj8 main obj3===obj0 is from the obj2 obj15 of obj4 it
+obj8 country obj17 obj8 main obj3===obj0 is a dish from the obj15 obj9 in
+obj8 country obj17 obj8 main obj3===the obj7 ingredients of obj0 are chopped obj11 obj19
+obj8 country obj17 obj8 main obj2===obj0 comes from the obj9 obj15 of mexicothe obj7
+obj7 country obj17 obj7 main obj2===obj0 is a food found in obj4 and its
+obj7 country obj17 obj7 main obj2===obj0 comes from the obj15 of obj8 in obj4
+obj5 country obj10 obj10 leadername===obj0 is the leader of obj4 where bionico a type
+obj5 obj6 obj10 obj10 leadername===obj0 is a obj3 found in obj4 fun facts
+obj5 country obj10 obj10 leadername===enrique pena nieto is a leader in obj4 where
+obj6 country obj10 obj10 leadername===obj0 is a obj4 found in obj4 whose leader
+obj6 country obj10 obj10 leadername===obj0 is a obj4 found in obj4 where the
+obj5 obj7 obj10 obj10 leadername===obj0 is a obj4 found in obj4 enrique pena
+obj5 country obj10 obj10 leadername===obj3 obj0 are types of obj4 enrique pena nieto
+obj5 obj7 obj10 obj10 leadername===obj0 a obj4 is found in obj4 enrique pena
+obj5 country obj10 obj10 leadername===obj0 is a obj4 found in obj4 enrique pena
+obj6 country obj10 obj10 leadername===obj0 is a obj4 found in obj4 the leader
+obj6 obj7 obj10 obj10 leadername===obj0 is a obj4 found in obj4 the leader
+obj6 country obj10 obj10 leadername===obj0 and obj0 are served as a obj4 obj9
+obj5 country obj10 obj10 leadername===obj0 is a obj4 found in obj4 and can
+obj5 country obj10 obj10 leadername===obj0 a obj4 can utilize obj1 it is found
+obj5 country obj10 obj10 leadername===obj0 is the leader in obj4 where the food
+obj5 country obj10 obj10 leadername===obj0 an obj3 obj4 is a food found in
+obj5 country obj10 obj10 leadername===obj0 is a obj4 as is obj3 it comes
+obj5 obj12 obj11 obj5 leadername===obj14 is an indonesian dish obj10 all over the
+obj7 obj6 obj11 obj7 leadername===obj4 is the obj2 of obj0 whose leader is
+obj7 obj6 obj11 obj7 leadername===italy's obj2 is obj4 and the spoken obj4 is
+obj7 obj6 obj11 obj7 leadername===obj0 hails from italian speaking italy where the obj2
+obj7 obj6 obj11 obj7 leadername===obj0 is a traditional sauce in obj0 the obj2
+obj7 obj6 obj11 obj7 leadername===the obj2 of obj0 is obj4 two leaders in
+obj7 obj6 obj11 obj7 leadername===obj0 can be found in obj0 where the obj2
+obj10 ethnicgroup obj9 obj4 language===obj1 comes from obj5 and obj0 english is spoken
+obj10 ethnicgroup obj9 obj4 language===obj1 is from obj5 and obj0 home of the
+obj3 ethnicgroup obj6 obj3 language===bachoy originates from obj0 speaking philippines home of the
+obj3 ethnicgroup obj6 obj3 language===in the obj0 you can find obj4 obj0 obj11
+obj2 obj8 obj11 obj2 ethnicgroup===obj0 is the obj9 obj10 comes fromwhere many people
+obj2 language obj11 obj2 ethnicgroup===in the obj0 the obj0 the obj4 obj4 and
+obj2 language obj11 obj2 ethnicgroup===obj10 is eaten in the obj0 where obj4 is
+obj2 obj8 obj11 obj2 ethnicgroup===obj10 is a dish from the obj0 where obj4
+obj2 obj8 obj11 obj2 ethnicgroup===obj10 is eaten in the obj0 where the moro
+obj6 language english language obj2 obj11===obj5 is a dish from the obj7 of obj0
+obj5 language english language obj1 country===obj3 is a leader of obj0 where english is
+obj8 leadername obj0 obj8 language===obj4 originates from obj4 where the obj1 is spoken
+obj0 country united states obj3 has===the obj0 is located in obj6 with cumberland county
+obj0 obj8 obj3 obj3 club===obj4 born in italy is obj2 of obj0 and
+obj1 obj7 obj8 obj8 language===obj2 is the obj6 of obj4 where ac lumezzane's
+obj0 location obj6 obj6 leader===the obj0 club is located in obj4 where the
+obj7 obj8 obj3 obj3 club===the obj2 of obj0 is obj4 who is at
+obj0 obj7 obj11 obj0 city===the obj5 is located in obj9 lulia obj9 its
+obj0 obj7 obj11 obj0 city===the 1 decembrie 1918 university's latin name is universitas
+obj0 country obj6 obj0 city===obj5 in obj7 obj4 has obj11 students and obj10 staff
+obj0 country obj6 obj0 city===obj5 in obj7 obj4 has an academic staff of
+obj2 city obj12 obj2 obj14===obj0 director obj02 obj04 obj03 prabhukumar is located at
+obj2 city obj12 obj2 obj14===the obj0 is in obj4 and its obj7 is
+obj3 was obj13 obj15 obj7 obj10 obj12 obj17===obj4 obj0 is located in obj8 and is affiliated
+obj5 obj13 obj14 obj12 obj7 obj6 obj0===the obj2 is located in the obj10 of obj8
+obj5 has obj14 its obj7 obj6 obj0===the obj2 is in obj8 it is affiliated with
+obj1 obj10 english obj10 english obj10===obj0 is from the obj5 and was originally published
+obj1 language english language english language spokenin===obj0 was originally published in the obj5 where the
+obj1 obj10 english obj10 english obj10===obj0 from the us is written in english english
+obj0 obj9 english obj9 english obj9===obj0 was originally published in english which is the
+obj1 country obj9 obj9 ethnicgroup===obj0 written in ireland was published by obj4 and
+obj1 country obj9 obj9 ethnicgroup===the novel obj0 published by obj4 was followed by
+obj1 country obj9 obj9 ethnicgroup===obj0 followed the book obj0 published by obj4 obj0
+obj1 country obj9 obj9 ethnicgroup===obj0 was written in obj4 and published by obj4
+obj1 country obj9 obj9 ethnicgroup===published by obj4 parent co penguin random house obj0
+obj1 country obj9 obj9 ethnicgroup===obj0 comes from obj4 where there is ethnic group
+obj2 country obj9 obj9 ethnicgroup===the ethnic group of obj4 is obj5 which is
+obj2 country obj9 obj9 ethnicgroup===the book the secret scriptures published by obj3 is
+obj0 obj10 english obj10 english obj10===obj0 is written in english a obj2 spoken in
+obj0 obj10 english obj10 english obj10===obj0 is written in english a obj2 that is
+obj0 obj10 english obj10 english obj10===obj2 comprise one of the ethnic groups of the
+obj0 language english language english language spokenin===obj0 is published in the obj5 where the obj4
+obj0 language english language english language spokenin===as english is spoken in obj6 obj0 was written
+obj0 language english language english language spokenin===obj0 is published by obj6 located in the us
+obj0 obj10 english obj10 english obj10===obj6 is based in the obj4 and published obj0
+obj0 obj10 english obj10 english obj10===english is spoken in obj5 and is the obj2
+obj3 obj10 english obj10 english obj10===the novel obj0 written in english originates from the
+obj3 language english language english language spokenin===english is spoken in obj7 but obj0 originates from
+obj3 language english language english language spokenin===obj0 is from the obj5 and is in english
+obj3 obj10 english obj10 english obj10===obj0 is an american novel written in english the
+obj3 language english language english language spokenin===obj0 originates from the obj5 where one of the
+obj1 obj10 english obj10 english obj10===obj0 is published in the obj5 in english which
+obj1 language english language english language spokenin===obj0 originates from the obj5 and is written in
+obj1 language english language english language spokenin===obj0 originates from the obj5 and is published in
+obj0 obj9 english obj9 english obj9===obj1 is the obj11 of the obj5 where obj0
+obj0 language english language english language spokenin===obj0 was published in the obj5 the book is
+obj0 language english language english language spokenin===the obj4 are one of the ethnic groups in
+obj0 obj10 english obj10 english obj10===obj0 originates from the obj5 where there are many
+obj0 obj10 english obj10 english obj10===obj0 is written in english and originated in the
+obj1 language english language english language spokenin===the book obj0 comes from the us where there
+obj1 language english language english language spokenin===the book obj0 from the obj5 is written in
+obj0 obj10 english obj10 english obj10===obj0 is written in english which is the obj2
+obj0 obj10 english obj10 english obj10===obj0 is from the obj5 where one of the
+obj0 obj10 english obj10 english obj10===english is spoken in obj7 and is the obj2
+obj0 obj10 english obj10 english obj10===obj0 is written in english which is the obj2
+obj0 obj10 english obj10 english obj10===the book obj0 is written in english the obj2
+obj0 obj10 english obj10 english obj10===obj0 is from the obj4 where obj7 is the
+obj0 obj10 english obj10 english obj10===obj0 was written in english which is the obj2
+obj0 language english language english language spokenin===obj0 is from the obj4 where obj8 is a
+obj0 obj10 english obj10 english obj10===the book obj0 comes from the us of which
+obj0 obj10 english obj10 english obj10===obj0 is from the obj4 where obj8 is a
+obj0 language english language obj5 ethnicgroup===the obj11 of the obj5 which includes many obj4
+obj0 language english language obj5 ethnicgroup===the obj5 has an ethnic group called obj4 and
+english obj9 spokenin obj7 obj0 country===english is the spoken obj1 of obj5 and the
+english obj9 spokenin obj7 obj0 country===obj6 is published in the obj4 where the obj1
+english obj9 spokenin obj7 obj0 country===english is the obj1 used in both obj5 and
+english language spokenin obj7 obj0 country===obj5 is published in the obj4 where the obj3
+english obj9 spokenin obj7 obj1 country===english is the obj6 of the usa and is
+english obj9 spokenin obj7 obj1 country===obj6 is published in the obj4 where one of
+english obj8 spokenin obj7 obj4 obj11===obj0 originates from the obj6 which obj8 is washington
+english obj8 spokenin obj7 obj4 obj11===the obj8 of the obj6 where obj0 was published
+english obj8 spokenin obj7 obj4 obj11===english is the obj1 of the obj6 and obj5
+english obj9 spokenin obj7 obj4 obj9===the obj0 are an ethnic group in the obj6
+english obj9 spokenin obj7 obj4 obj9===obj3 comes from the obj6 where native americans are
+english obj9 spokenin obj7 obj4 obj9===obj1 was written in the obj6 where the main
+english obj8 spokenin obj7 obj4 obj8===obj3 is from the obj6 whose obj11 city is
+english obj9 spokenin obj7 obj4 obj9===obj0 comes from the us where one of the
+obj4 obj10 english obj10 english obj10===obj1 is from the obj0 where you will find
+obj4 language english language english language spokenin===english is spoken in obj6 and the obj0 native
+obj4 obj9 english obj9 english obj9===obj0 was written in the obj0 the main obj2
+obj4 language english language english language spokenin===obj0 originates in the obj0 where the obj11 city
+obj3 language english language obj3 leadername===obj0 is from the obj0 where they speak english
+obj4 leadername obj7 obj2 language===native americans are one of the ethnic groups of
+obj4 leadername obj7 obj2 language===native americans are an ethnic group within the obj0
+obj4 leadername obj7 obj2 language===obj5 is from the obj0 which president is obj4
+obj4 leadername obj7 obj2 language===the president of the obj0 is obj4 and is
+obj4 leadername obj7 obj2 language===obj5 originates from the obj0 and is written in
+obj4 leadername obj7 obj2 language===the leader of the obj0 is obj4 where obj1
+obj4 leadername obj7 obj1 language===obj4 is the leader of the obj0 where native
+obj4 leadername obj7 obj1 language===obj5 was published in the obj0 where obj4 is
+obj4 leadername obj7 obj1 language===obj5 written in english was published in the obj0
+obj3 obj10 obj6 obj6 obj14===lars lokke rasmussen is the leader of obj11 where
+obj3 obj10 obj6 obj6 obj14===margrethe ii is the queen of obj11 where the
+obj3 location obj6 obj6 obj14===obj0 is located in obj4 in the obj7 of
+obj3 obj10 obj6 obj6 obj14===lars lokke rasmussen is the leader of obj11 where
+obj3 obj10 obj6 obj6 obj14===the obj2 of obj0 is obj4 obj11 obj4 is
+obj3 obj10 obj6 obj6 obj14===margrethe ii is the queen of obj11 where one
+obj3 obj10 obj6 obj6 obj14===margrethe ii is the queen of obj11 where the
+obj3 obj10 obj6 obj6 obj14===margrethe ii is the queen of obj11 where one
+obj3 obj10 obj7 obj7 obj14===margrethe ii and lars lokke rasmussen lead the obj7
+obj3 obj10 obj7 obj7 obj14===margrethe ii is the leader of obj11 where the
+obj1 location obj7 obj1 runwaylength===adirondack regional airport is obj04 metres above sea level
+obj1 location obj7 obj1 runwaylength===located in obj4 obj0 is obj04 metres above sea
+obj1 location obj7 obj1 runwaylength===obj0 is obj04 metres above sea level and serves
+obj1 location obj7 obj1 runwaylength===obj0 located in obj4 serves lake placid ny and
+obj1 location obj7 obj1 runwaylength===obj0 is located in obj4 and serves both the
+obj0 location obj3 obj10 ispartof===the obj0 in obj4 is operated by obj9 and
+obj0 location obj3 obj10 ispartof===obj0 can be found in obj4 the airport is
+obj5 obj0 obj14 obj5 obj12===obj10 is the leader of obj1 part of obj13
+obj4 obj10 obj13 obj4 runwaylength===obj0 is in obj5 and operated by obj1 its
+obj4 location obj13 obj4 runwaylength===the length of the runway at obj0 in obj5
+obj6 location obj12 obj12 leadername===obj0 operated by the obj3 is in obj4 two
+obj6 location obj12 obj12 leadername===in obj4 there are two prominent leaders obj5 and
+obj6 location obj12 obj12 leadername===obj0 is in obj4 and operated by the obj3
+obj5 location obj4 obj5 runwaylength===obj0 in obj4 is operated by the obj3 and
+obj5 location obj0 obj5 runwaylength===obj4 is located in obj4 which is part of
+obj5 location obj0 obj5 runwaylength===obj4 is in obj4 which is part of obj14
+obj8 location obj5 obj5 ispartof===obj0 is located in obj4 part of obj10 and
+obj8 location obj5 obj5 ispartof===obj0 is located in obj4 and is run by
+obj8 location obj5 obj5 ispartof===obj0 is in obj4 which is part of obj14
+obj8 location obj5 obj5 ispartof===the obj0 is the transport aircraft for the obj3
+obj8 location obj5 obj5 ispartof===the obj3 is the operating organisation of obj0 in
+obj8 location obj5 obj5 ispartof===obj0 is in obj4 where obj11 is leader and
+obj0 location obj10 obj0 runwaylength===obj5 serves and is located in the city of
+obj0 location obj10 obj0 runwaylength===the obj5 is the operating organisation of the obj5
+obj0 location obj10 obj0 runwaylength===obj5 located in obj4 and serving the city of
+obj0 location obj10 obj0 runwaylength===governed by the obj5 obj5 is located in obj4
+obj0 location obj10 obj0 runwaylength===obj5 serves obj13 city and is located in obj4
+obj0 location obj10 obj0 runwaylength===the obj5 governs the obj5 which serves the city
+obj0 location obj10 obj0 runwaylength===obj5 which serves the city of obj13 and is
+obj0 location obj10 obj0 runwaylength===obj5 located in obj4 is operated by the obj5
+obj0 location obj10 obj0 runwaylength===located in obj4 obj5 is operated by the obj5
+obj0 location obj10 obj0 runwaylength===obj5 is governed by the obj5 and serves the
+obj0 location obj10 obj0 runwaylength===obj5 serves the city of obj14 in obj4 and
+obj0 location obj7 obj0 runwaylength===obj5 which has a runway name of obj12 and
+obj0 location obj7 obj0 runwaylength===the city of obj13 is served by obj5 which
+obj0 location obj7 obj0 runwaylength===the obj5 is the operating organisation of the obj5
+obj1 location obj14 obj1 runwaylength===obj02 is the runway name of obj0 which is
+obj1 location obj14 obj1 runwaylength===obj0 is located in obj04 and is obj03 below
+obj1 location texas obj1 runwaylength===the obj0 in obj6 has a runway named obj02
+obj1 location obj13 obj1 runwaylength===located in obj03 at 973 973 metres above sea
+obj1 location obj13 obj1 runwaylength===obj0 serves the city of andrews and is located
+obj1 location obj13 obj1 runwaylength===obj0 which lies 973 metres above sea level serves
+obj1 location obj13 obj1 runwaylength===the runway at obj0 in obj03 is named obj01
+obj1 location obj13 obj1 runwaylength===obj0 which is located in obj03 serves obj6 it
+obj1 location obj12 obj1 runwaylength===serving andrews and located in obj02 obj0 is obj01
+obj1 location obj12 obj1 runwaylength===obj0 obj02 serves andrews in obj02 and is located
+obj1 location texas obj1 runwaylength===obj0 is located in the city of obj6 the
+obj1 location obj13 obj1 runwaylength===the obj0 of andrews city in obj03 is famous
+obj1 location obj13 obj1 runwaylength===obj0 is located in texas973 meters above sea level
+obj0 location obj10 obj10 language===obj0 is located in obj4 us the inhabitants of
+obj0 location obj10 obj10 language===obj0 is located in obj4 obj2 where the obj1
+obj0 location obj9 obj9 language===the usa's obj0 is found in obj4 where austin
+obj0 location obj10 obj10 language===obj0 is located in obj4 although obj8 is the
+obj1 location obj6 obj1 runwaylength===obj7 is serves by obj0 which is in obj4
+obj1 location obj6 obj1 runwaylength===appleton international airport has an elevation of obj04 metes
+obj1 location obj6 obj1 runwaylength===obj0 is located in obj4 and serves obj7 it
+obj1 location obj6 obj1 runwaylength===the obj0 which serves the city of appleton is
+obj1 location obj6 obj1 runwaylength===obj0 is located in obj4 and serves the city
+obj1 location obj6 obj1 runwaylength===obj0 is located in obj4 and it serves the
+obj0 location obj3 obj3 ispartof===obj0 which serves the city of appleton is found
+obj0 location obj3 obj3 ispartof===obj0 serving the city of appleton can be found
+obj0 location obj3 obj3 ispartof===obj0 which serves the city of appleton is located
+obj0 location obj3 obj3 ispartof===obj0 located in greenville wisconsinusa services appleton appleton is
+obj0 location obj3 obj3 ispartof===the obj0 is located in greenville wisconsinunited states and
+obj0 location obj3 obj3 ispartof===obj0 which serves the city of appleton can be
+obj3 country obj8 obj2 ispartof===obj5 is part of obj0 in the obj4 and
+obj11 language obj1 obj11 leadername===obj0 serves the city of obj7 in obj0 the
+obj6 obj12 obj11 obj6 obj13===obj0 is the surface type of the second runway
+obj6 obj12 obj11 obj6 obj13===the 2nd runway at ardmore airport new zealand is
+obj6 obj12 obj11 obj6 obj13===obj0 which belongs to the obj5 of flowering plants
+obj2 ispartof obj3 obj3 ispartof===obj0 serves the cities of saranac lake and obj6
+obj1 location obj12 obj12 country===obj0 in obj02 obj8 has obj06 floors and was
+obj1 location obj12 obj12 country===obj0 with obj06 floors is located in obj02 obj8
+obj1 location obj12 obj12 country===obj0 was completed in obj05 in obj02 obj8 it
+obj1 location obj3 obj3 obj14===south africa's ethnic groups include white south africans and
+obj1 obj13 obj3 obj3 obj14===two of the south african ethnic groups are the
+obj1 obj13 obj3 obj3 obj14===obj2 and obj9 are south african leaders the obj0
+obj1 obj13 obj3 obj3 obj14===obj2 and obj9 are leaders in obj4 where the
+obj1 obj13 obj3 obj3 obj14===the leader of obj4 is obj2 and obj9 is
+obj1 location obj3 obj3 obj14===obj0 is located in obj4 which has obj02 as
+obj1 location obj3 obj3 obj14===obj0 is located in obj4 where the obj04 city
+obj1 location obj3 obj3 ethnicgroup===obj0 is in obj4 whose obj04 is obj01 and
+obj1 location obj3 obj3 ethnicgroup===obj0 is located in obj4 where ethnic groups include
+obj1 obj13 obj3 obj3 ethnicgroup===two of the ethnic groups in obj4 lead by
+obj2 location obj4 obj4 ethnicgroup===the obj14 of obj5 is obj12 and the leader
+obj2 obj13 obj4 obj4 ethnicgroup===obj3 is the leader of the obj5 where two
+obj2 location obj4 obj4 ethnicgroup===obj0 is located in obj5 the obj14 of which
+obj2 location obj5 obj5 ispartof===obj0 is located in obj4 cuyahoga county in obj14
+obj2 location obj5 obj5 ispartof===obj0 is in obj4 which is part of obj1
+obj2 location obj5 obj5 ispartof===obj0 is located in obj4 obj1 obj4 which is
+obj2 location obj7 obj7 ispartof===obj4 is part of the cuyahoga county in ohio
+obj2 location obj7 obj7 ispartof===obj0 is located in obj4 cuyahoga county in ohio
+obj2 location obj7 obj7 ispartof===obj0 is in obj4 which is part of cuyahoga
+obj1 location obj5 obj5 ispartof===obj0 is located in obj4 obj0 obj3 which is
+obj1 location obj5 obj5 ispartof===obj0 is located in obj4 obj0 obj3 obj2 is
+obj1 location obj5 obj5 ispartof===obj0 is in obj4 which is part of the
+obj2 location obj6 obj6 ispartof===200 public square is in obj4 which is part
+obj2 location obj6 obj6 ispartof===obj0 is located in obj4 obj1 which is governed
+obj2 location obj6 obj6 ispartof===obj0 is located in obj4 obj1 the governing body
+obj1 obj8 obj9 obj9 ispartof===obj4 led by susana mendoza is located in obj0
+obj1 location obj9 obj9 ispartof===in obj4 obj0 part obj4 where obj3 is the
+obj1 location obj9 obj9 ispartof===obj0 is in obj4 which is part of obj0
+obj0 location obj10 obj10 leadername===obj3 is a leader in obj4 obj6 obj2 obj0
+obj0 location obj10 obj10 leadername===obj0 is located in obj4 us its leader is
+obj0 obj9 obj10 obj10 leadername===the obj1 is spoken in obj5 obj2 which is
+obj1 location obj10 obj10 leadername===obj0 is located in obj00 obj5 the obj01 being
+obj1 location obj10 obj10 leadername===obj0 is located in obj00 where the leader is
+obj0 location obj11 obj11 leadername===obj4 obj5 in the us is lead by obj3
+obj9 obj14 obj16 metres obj9 location===the obj0 was completed in obj3 obj17 the obj2
+obj8 location obj14 obj8 obj12===concerts obj17 obj9 are hosted at obj0 in obj4
+obj8 location obj14 obj8 obj12===obj0 hosts concerts obj17 obj9 obj17 is located in
+obj0 location obj12 obj12 obj10===obj8 is the key person at obj2 which was
+obj0 location obj11 obj11 language===obj2 founded in washington dc is a obj14 of
+obj3 ispartof obj2 obj12 ethnicgroup===the obj0 is located in akita akita obj4 obj5
+obj3 ispartof obj2 obj12 ethnicgroup===the obj0 is located in obj0 which is part
+obj1 country obj12 obj12 leadername===the obj0 is in obj4 part of the obj3
+obj1 obj11 obj12 obj12 leadername===the obj0 is located in obj4 which is part
+obj1 obj11 obj12 obj12 leadername===the brazilians are an ethnic group in obj02 which
+obj0 country obj12 obj12 leadername===the obj0 is in obj4 in obj4 which is
+obj1 location obj15 obj1 obj17===the obj07 of obj0 is obj0 obj05 obj01 obj09
+obj1 location obj10 obj10 leadername===obj0 is located in obj7 obj00 obj04 obj3 was
+obj1 location obj10 obj10 leadername===obj0 can be found in obj7 gujurat obj04 the
+obj1 location obj10 obj10 leadername===obj0 is located in obj7 obj00 obj04 the leader
+obj1 location obj10 obj13 leadername===obj0 is located in obj00 obj7 obj03 gujarat's leader
+obj1 location obj10 obj13 leadername===obj0 is located in obj7 obj00 obj03 gujarat's leader
+obj6 country obj10 obj6 obj14===ampara hospital is in obj4 and is situated in
+obj6 country obj11 obj11 leadername===obj0 is in obj0 where the leader is obj5
+obj6 country obj11 obj11 leadername===obj0 is in obj0 where the obj3 is the
+obj8 leadername obj1 obj3 ispartof===obj2 and obj0 are both located in obj5 obj0
+obj8 leadername obj1 obj3 ispartof===obj4 is the leader of obj0 where the obj43
+obj8 leadername obj2 obj3 ispartof===obj5 is in in obj0 and has a city
+obj12 leadername obj11 obj3 ispartof===the obj0 is located in obj5 which is part
+obj12 leadername obj11 obj3 ispartof===the obj0 is located in obj5 which is part
+obj5 country obj18 obj5 main obj3===obj0 also known as ajo blanco is a dish
+obj6 country obj18 obj6 main obj3===obj0 alternative name ajo blanco is a dish from
+obj5 country obj18 obj5 main obj3===obj0 also known as obj4 is a dish from
+obj5 country obj18 obj5 main obj3===obj0 or ajo blanco originates from obj7 in obj4
+obj5 obj4 obj12 obj13 leadername===obj4 is an obj2 in obj0 which is from
+obj5 obj4 obj12 obj13 leadername===obj0 originates from obj5 where felipe vi is leader
+obj5 obj4 obj12 obj13 leadername===one of the ingredients of obj0 is obj4 it
+obj0 country obj7 obj8 obj14===obj2 is found in the obj0 of obj4 it
+obj2 country obj12 obj12 ethnicgroup===obj0 is a traditional dish from obj4 where an
+obj5 country obj8 obj10 ethnicgroup===obj3 is the leader of obj4 which is where
+obj5 obj13 obj8 obj10 ethnicgroup===obj0 is a dish from obj5 in obj4 a
+obj5 country obj8 obj10 ethnicgroup===obj0 is a popular dish in obj4 but it's
+obj6 country obj8 obj8 ethnicgroup===the obj12 of obj4 is obj3 and two ethnic
+obj6 country obj8 obj8 ethnicgroup===the obj1 obj14 of obj4 offer obj0 obj4 is
+obj5 obj13 obj7 obj7 ethnicgroup===obj0 is a malaysian dish found in obj11 the
+obj5 obj13 obj7 obj7 ethnicgroup===the obj12 of obj4 is obj2 the obj0 and
+obj5 country obj7 obj7 ethnicgroup===obj0 is a dish from sumatrait can also be
+obj5 country obj8 obj8 ethnicgroup===obj0 is a food found in the obj14 of
+obj5 country obj8 obj8 ethnicgroup===obj0 is a food found in obj4 where the
+obj5 obj13 obj8 obj8 ethnicgroup===obj0 is from the obj0 regionsthe food can be
+obj5 obj13 obj8 obj8 ethnicgroup===obj0 is a food found in the obj1 of
+obj5 obj13 obj8 obj8 ethnicgroup===malays and obj0 are both ethnic groups in obj4
+obj5 obj13 obj8 obj8 ethnicgroup===obj0 is a food hails from the malaysian peninsula
+obj4 country obj7 obj7 ethnicgroup===a food from obj4 is obj0 which is a
+obj4 country obj7 obj7 ethnicgroup===obj0 id a dish from obj11 and found in
+obj6 obj13 obj9 obj9 ethnicgroup===the obj0 and obj3 are ethnic groups in obj4
+obj6 obj13 obj9 obj9 ethnicgroup===obj0 is from the obj1 obj14 of obj4 the
+obj6 country obj9 obj9 ethnicgroup===obj4 led by obj2 is the home to malay
+obj6 country obj9 obj9 ethnicgroup===obj3 is the leader of obj4 where the ethnic
+obj6 obj13 obj9 obj9 ethnicgroup===obj0 is a food found on the obj1 obj4
+obj6 obj13 obj9 obj9 ethnicgroup===the malays and obj2 are both ethnic groups in
+obj6 obj13 obj9 obj9 ethnicgroup===malays and the obj2 are both ethnic groups from
+obj6 country obj9 obj9 ethnicgroup===obj0 is a food found in the obj14 of
+obj6 country obj9 obj9 ethnicgroup===obj3 is the leader of obj4 obj0 is an
+obj6 obj13 obj9 obj9 ethnicgroup===a food found in the obj2 obj14 of obj4
+obj6 country obj9 obj9 ethnicgroup===obj0 is a dish found in the obj4 obj2
+obj6 country obj8 obj8 ethnicgroup===one of the foods found in obj4 is obj0
+obj6 obj13 obj8 obj8 ethnicgroup===obj0 is a food found in the obj1 of
+obj6 obj13 obj8 obj8 ethnicgroup===malaysia's obj12 city is obj3 and among the country's
+obj6 obj13 obj9 obj9 leadername===obj0 from the obj2 obj14 is a food found
+obj6 obj13 obj9 obj9 leadername===malays and malaysian indians are ethnic groups in obj4
+obj4 obj14 obj10 obj10 ethnicgroup===the obj2 dish obj0 comes from the obj2 of
+obj2 country united states obj2 main obj10===obj0 is an american dish that contains obj14 and
+obj3 obj14 united states united states ethnicgroup===the obj0 took place in the usa where obj12
+obj3 country obj4 obj4 ethnicgroup===obj0 comes from the obj5 where obj12 is a
+obj3 obj14 united states united states ethnicgroup===obj0 comes from the us whose leader is the
+obj3 obj14 united states united states leadername===obj0 is a dish from america where there is
+obj2 obj9 obj10 obj10 leadername===obj0 comes from the obj2 of obj4 where there
+obj2 country obj10 obj10 leadername===french speaking obj4 led by gerard larcher and manual
+obj2 obj9 obj10 obj10 leadername===obj0 is from obj8 obj12 and the obj2 of
+obj1 obj9 obj11 obj11 leadername===obj0 comes from obj01 a obj2 where obj2 and
+obj1 obj9 obj11 obj11 leadername===obj0 comes from obj01 a obj2 where obj2 and
+obj2 country obj11 obj11 leadername===obj1 and obj3 are leaders in obj4 which is
+obj2 country obj11 obj11 leadername===obj0 comes from the obj12 of obj8 in obj4
+obj2 obj10 obj11 obj11 leadername===obj0 is from the obj2 of obj4 which leaders
+obj2 country obj11 obj11 leadername===manual valls and garard larcher are leaders of obj4
+obj3 obj9 obj11 obj11 leadername===obj0 is from the obj2 of obj4 where french
+obj3 country obj11 obj11 leadername===obj0 is a dish from obj4 which can be
+obj3 country obj11 obj11 leadername===obj0 is from obj4 and is popular in paris
+obj2 country obj12 obj12 leadername===french dish obj0 is also enjoyed in chinese speaking
+obj2 country obj12 obj12 leadername===obj0 comes from obj4 where leaders include manual valls
+obj2 obj10 obj12 obj12 leadername===obj0 is from the obj2 of obj4 but it
+obj2 country obj13 obj13 leadername===obj0 comes from obj4 and is also served in
+obj2 country obj13 obj13 leadername===obj0 is from obj4 leader manuel valis but is
+obj2 country obj13 obj13 leadername===obj0 is founded in obj3 led obj4 or chinese
+obj3 country obj13 obj7 leadername===obj0 comes from obj4 where the leader is obj2
+obj2 obj5 obj7 obj7 obj14===part of columbian cuisine the dish obj0 is found
+obj2 obj5 obj7 obj7 obj14===obj4 of the obj7 obj13 is a member of
+obj1 obj5 obj7 obj7 obj14===obj4 is part of the obj6 obj02 and is
+obj2 obj5 obj12 obj12 obj10===obj4 is a member of the obj7 obj6 and
+obj2 obj5 obj12 obj12 obj10===obj0 is part of the columbian cuisine from the
+obj1 obj6 obj11 obj11 obj12===the colombian dish obj0 hails from the palsa obj9
+obj4 obj10 obj11 obj11 language===the obj2 obj0 made with sponge cake comes from
+obj4 country obj11 obj11 language===obj0 made with sponge cakes can be found in
+obj4 obj10 obj11 obj11 language===obj0 made with sponge originate from obj4 the current
+obj4 obj10 obj11 obj11 language===obj0 and obj2 are both leaders of obj4 a
+obj5 country obj12 obj12 language===obj0 can be found in obj4 where they speak
+obj5 country obj12 obj12 obj8===obj0 were created by obj0 in obj10 but can
+obj5 country obj12 obj12 obj8===obj0 which was founded in obj10 is the obj9
+obj5 country obj12 obj12 language===obj0 which were created by obj0 are found in
+obj5 country obj12 obj12 language===created by obj0 founded in chicago obj0 come from
+obj5 country obj12 obj12 obj8===obj0 created by obj0 can be found in obj4
+obj5 country obj12 obj12 obj8===obj0 created by obj0 founded in chicago come from
+obj5 country obj12 obj12 leadername===obj4 is led by cluade bartolone and gerard larcher
+obj5 country obj12 obj12 leadername===obj0 were created by obj10 based obj0 obj0 are
+obj5 country obj12 obj12 leadername===created by obj0 founded in chicago obj0 come from
+obj10 country obj12 obj12 obj7===obj0 come from the obj5 obj9 in obj4 where
+obj10 country obj12 obj12 obj7===obj0 originates from indian where the obj7 is the
+obj10 country obj12 obj12 obj7===the obj2 is the obj7 in obj4 where the
+obj10 obj8 obj12 obj12 obj7===obj0 comes from the obj2 obj4 in the the
+obj10 country obj12 obj12 obj7===obj1 is the leader of obj4 which has the
+obj7 country obj12 obj12 language===obj0 is a food found in obj4 where they
+obj7 country obj12 obj12 language===obj0 is a fish from obj4 where spanish is
+obj7 country obj12 obj12 language===obj0 is a dish found in obj4 where spanish
+obj7 obj8 obj12 obj12 language===obj4 is a spanish speaking obj2 and is led
+obj8 country obj12 obj12 language===obj0 is a mexican food which is served as
+obj7 country obj12 obj12 language===in obj4 they speak spanish and the leader is
+obj6 country obj11 obj11 language===obj0 is a dish found in obj4 where spanish
+obj6 country obj11 obj11 language===often including obj14 obj0 is a obj5 found in
+obj6 country obj11 obj11 language===obj0 is the leader of obj4 they speak spanish
+obj7 country obj12 obj12 leadername===enrique pena nieto is a leader in obj4 where
+obj7 country obj12 obj12 leadername===obj0 is a obj6 containing obj2 and is from
+obj5 country obj13 obj13 leadername===bionico can be varied by using obj1 is served
+obj5 country obj13 obj13 leadername===obj4 led by obj0 is the home of a
+obj5 country obj13 obj13 leadername===obj0 is a dish from obj3 obj4 where the
+obj4 country obj12 obj12 leadername===obj14 can be used as a variation in the
+obj4 country obj12 obj12 leadername===the name of the leader in obj4 is obj0
+obj4 country obj12 obj12 leadername===the obj5 obj0 is found in obj2 and obj0
+obj4 country obj12 obj12 leadername===obj0 is the leader in obj4 where the dish
+obj4 country obj12 obj12 leadername===obj4 led by silvano aureoles conejo is the home
+obj4 country obj12 obj12 leadername===the obj3 obj0 originates from the obj6 obj11 of
+obj4 country obj12 obj12 leadername===obj0 is the leader of obj4 where in the
+obj6 country obj11 obj11 leadername===obj0 is served at the obj5 obj10 which variation
+obj6 country obj11 obj11 leadername===the obj5 obj0 is found in obj1 speaking obj4
+obj7 country obj12 obj12 leadername===obj1 is the obj5 spoken in obj4 where the
+obj7 country obj12 obj12 leadername===obj4 is led by obj0 and the obj5 spoken
+obj7 country obj12 obj12 leadername===a mexican food is obj0 which is served as
+obj7 country obj12 obj12 leadername===obj0 is a food found in obj4 where the
+obj7 country obj12 obj12 leadername===obj0 that can be varied by using obj2 is
+obj4 obj11 obj10 obj4 language===obj2 is the leader of obj0 in obj0 the
+obj4 obj11 obj10 obj4 language===indonesian speaking obj0 capital jakarta led by jodo widodo
+obj3 obj11 obj10 obj3 language===obj13 is a dish from obj0 led by obj1
+obj4 obj11 obj10 obj4 language===obj13 is a dish made in china and also
+obj4 obj11 obj10 obj4 language===obj13 is a chinese style dish from obj0 capital
+obj9 obj8 obj14 obj9 leadername===sergi mattarella and obj3 are leaders in obj0 where
+obj9 obj8 obj14 obj9 leadername===italian is the obj6 spoken in obj0 a obj7
+obj9 obj8 obj14 obj9 leadername===obj0 is a leader in obj0 alongside obj3 you'll
+obj13 ethnicgroup obj12 obj6 leadername===obj2 is from the obj5 obj11 specifically obj0 where
+obj13 ethnicgroup obj12 obj6 leadername===obj2 is a food found in singapore led by
+obj13 ethnicgroup obj0 obj6 language===obj2 is a dish from obj5 where english is
+obj13 ethnicgroup obj0 obj6 language===ayam penjey is from obj4 which has obj4 as
+obj13 ethnicgroup obj0 obj6 language===in obj5 english is spoken within obj4 the obj4
+obj13 ethnicgroup obj0 obj7 language===english is spoken in obj5 where the leader is
+obj13 ethnicgroup obj1 obj7 language===english is spoken in obj5 where the leader is
+obj3 obj10 obj14 obj3 ethnicgroup===the languages spoken in the obj0 are obj0 and
+obj3 language obj14 obj3 ethnicgroup===in the obj0 they speak obj4 and obj0 and
+obj3 obj10 obj14 obj3 ethnicgroup===obj13 originated from the obj0 the obj0 is also
+obj3 language obj14 obj3 ethnicgroup===the obj1 and the obj6 are ethnic groups in
+obj4 obj11 obj14 obj4 ethnicgroup===obj0 is the obj12 the dish obj13 comes from
+obj4 obj11 obj14 obj4 ethnicgroup===obj0 is the obj12 obj13 comes from the country's
+obj4 language obj14 obj4 ethnicgroup===obj13 comes from philippino arabic and english speaking speaking
+obj0 country united states obj0 location===the obj6 stands in gettysburg in obj5 the american
+obj0 country united states obj0 location===in obj14 the obj6 was obj9 in obj5 us
+obj0 country united states obj0 location===the obj6 is found in obj5 it was obj9
+obj0 country united states obj0 location===the obj6 is located in the obj7 obj5 usa
+obj0 country united states obj0 location===the obj6 obj9 in obj14 was built at obj6
+obj0 country united states obj0 location===the obj6 is found at obj6 obj8 us obj9
+obj0 country united states obj4 has===the obj0 is found in obj6 usa obj21 the
+obj0 country united states obj4 has===the obj0 is located in obj6 usa obj21 the
+obj0 country united states obj4 has===the obj0 is located in obj6 usa franklin county
+obj0 location obj7 obj7 leader===the obj0 club is located in obj4 which is
+obj0 obj7 obj15 obj0 obj10===the obj5 in obj13 obj6 obj8 has the obj2
+obj0 obj7 obj15 obj0 obj10===obj5 is obj7 of the obj5 which has the
+obj0 obj6 obj13 obj8 leadername===the obj0 in obj5 obj5 was obj2 in obj4
+obj0 obj6 obj13 obj8 leadername===the obj0 is located in obj5 in the obj10
+obj0 country obj8 obj0 city===the obj5 is located in obj9 obj4 it was
+obj0 country obj8 obj0 city===the obj5 in obj4 was obj7 obj11 it has
+obj0 obj13 obj7 obj0 city===the obj5 was obj6 in obj11 in obj8 obj10
+obj1 obj9 obj7 obj1 city===the acharya institute of technology's obj01 in soldevanahalli acharya
+obj1 obj9 obj7 obj1 city===the obj0 is located obj0 obj02 it has obj04
+obj2 obj9 obj8 obj0 city===the obj5 is affiliated with the obj5 and was
+obj2 obj9 obj8 obj0 city===the obj5 in balgalore obj12 was obj7 in obj13
+obj6 has obj19 its obj9 obj8 obj0===the obj5 is obj3 the obj13 and obj7 is
+obj1 city obj16 obj3 country===the obj04 institute of technology's obj07 is in obj8
+obj1 city obj16 obj3 obj11===the obj04 institute of technology's obj07 is in obj7
+obj1 city obj16 obj3 obj11===the obj5 obj01 in obj20 in obj22 is located
+obj1 language english language english language spokenin===obj0 originates from the obj6 and is written in
+obj1 obj12 english obj12 english obj12===the obj02 of obj9 is english and this was
+obj1 language english language english language spokenin===obj0 is a novel from the obj6 where english
+obj2 country obj12 obj12 ethnicgroup===obj0 was published in obj4 where obj8 live by
+obj2 obj14 obj12 obj12 ethnicgroup===obj1 is the parent company of obj6 who published
+obj2 country obj12 obj12 ethnicgroup===obj0 was published by obj6 whose parent company is
+obj1 country obj10 obj10 ethnicgroup===the largest city in obj00 is obj04 where obj5
+obj1 country obj10 obj10 ethnicgroup===published by obj4 in obj00 the novel obj0 was
+obj2 country obj10 obj10 ethnicgroup===an ethnic group of obj4 is obj5 and it's
+obj2 country obj10 obj10 ethnicgroup===th secret scriptures is published by obj3 in obj4
+obj2 country obj10 obj10 ethnicgroup===the book obj0 comes from obj4 where there is
+obj3 obj12 english obj12 english obj12===obj0 written in english language of great britain was
+obj3 obj12 english obj12 english obj12===obj0 was written in obj13 and published by obj8
+obj4 obj12 english obj12 english obj12===the irish book obj0 followed the book a long
+obj0 language english language english language spokenin===english is spoken in obj8 and obj0 is written
+obj0 obj13 english obj13 english obj13===obj0 is published by obj10 in the obj6 where
+obj0 language english language english language spokenin===obj0 is written in english which is also spoken
+obj0 obj13 english obj13 english obj13===the primary obj2 spoken in obj8 is english and
+obj0 obj13 english obj13 english obj13===obj0 is published by obj10 in the obj6 written
+obj0 language english language english language spokenin===obj0 is written in english as spoken in obj7
+obj0 obj13 english obj13 english obj13===obj0 is written in english a obj2 spoken in
+obj0 language english language english language spokenin===obj0 is written in english which is spoken in
+obj0 language english language english language spokenin===obj0 is written in english which is spoken in
+obj0 language english language english language spokenin===although obj0 is published by obj9 in the obj5
+obj0 language english language english language spokenin===obj0 written in english also spoken in great britain was
+obj1 obj13 english obj13 english obj13===english is spoken in obj7 and is the obj03
+obj1 language english language english language spokenin===obj9 in the obj5 published the book obj0 the
+obj1 obj13 english obj13 english obj13===the obj03 of obj7 is english and this is
+obj4 language english language english language spokenin===obj0 is in english also spoken in great britain
+obj4 obj12 english obj12 english obj12===obj0 was written in english language of great britain
+obj1 language english language english language spokenin===obj0 originates from the obj6 and is published in
+obj1 obj12 english obj12 english obj12===obj0 was published in english language of great britain
+obj0 obj12 english obj12 english obj12===obj0 is published in english language of great britain
+obj0 obj12 english obj12 english obj12===obj0 originates from the obj6 where the obj14 is
+obj0 obj12 english obj12 english obj12===obj0 originates from the obj6 where the obj14 is
+obj0 language english language english language spokenin===obj0 originates from the obj6 and is written in
+obj0 language english language english language spokenin===obj0 is from the obj6 where one of the
+obj1 language english language english language spokenin===english is spoken in obj9 and obj0 was written
+obj1 obj12 english obj12 english obj12===obj0 was written in english which is the spoken
+obj1 language english language english language spokenin===native americans are one of the ethnic groups of
+obj0 language english language english language spokenin===obj0 originates from the obj6 and is written in
+obj0 obj12 english obj12 english obj12===the obj2 spoken in obj9 is english and the
+obj0 language english language english language spokenin===obj0 is written in english as spoken in obj8
+obj0 language english language english language spokenin===obj0 originates from the obj5 where obj11 is a
+obj0 language english language english language spokenin===obj11 is a leader in the obj5 where one
+obj0 language english language english language spokenin===obj0 was written in the obj5 in english which
+obj0 language english language english language spokenin===obj0 was written in english which is spoken in
+obj0 language english language english language spokenin===the obj2 are an ethnic group in the obj5
+obj0 obj13 english obj13 english obj13===the book obj0 comes from the us where a
+obj0 language english language english language spokenin===obj0 originates from the obj5 where obj11 is a
+obj0 obj13 english obj13 english obj13===obj0 is from the obj5 and written in english
+obj3 obj13 english obj13 obj5 obj14===obj10 is the leader in the obj0 where english
+obj2 obj12 english obj12 obj3 country===the obj2 spoken in the obj0 inhabited by obj4
+obj5 language english language obj5 leadername===obj10 is a leader in the english speaking obj0
+obj5 obj13 english obj13 obj5 leadername===obj10 is the leader in the obj0 where english
+obj3 leadername obj9 obj3 language===obj8 and obj4 are leaders in the obj0 the
+obj3 leadername obj9 obj3 language===obj0 publish the obj2 in the obj0 the obj14
+obj3 leadername obj9 obj3 obj13===the aids journal is published by obj0 in the
+obj5 obj12 english obj12 english obj12===the obj0 and obj8 both use the obj2 of
+obj5 obj12 english obj12 english obj12===obj1 is from the obj0 where the main obj2
+obj4 language english language obj4 leadername===obj1 is from the obj0 where obj9 is leader
+obj5 leadername obj9 obj3 language===english is spoken in obj7 and obj5 is written
+obj5 leadername obj9 obj3 obj13===obj5 was written in english language of great britian
+obj5 leadername obj9 obj3 language===obj5 originates from the obj0 where the leader is
+obj5 leadername obj9 obj1 language===obj5 written in english spoken mostly in obj7 was
+obj5 leadername obj9 obj0 language===written in english obj5 was published in the obj5
+obj5 leadername obj9 obj5 obj14===1634 the ram rebellion comes from the obj0 and
+obj5 leadername obj9 obj5 obj14===obj1 was preceded by obj0 and originates in the
+obj5 leadername obj9 obj5 obj14===1634 the ram rebellion preceded by 1634 the galileo
+obj5 leadername obj9 obj5 obj14===the obj0 is led by obj4 has a native
+obj5 leadername obj9 obj5 obj14===obj2 was written after obj1 and comes from the
+obj0 country united states obj0 location===the obj6 was erected in obj17 in gettysburg obj6
+obj0 country united states obj0 location===the obj6 is placed in the obj11 of obj7
+obj0 country united states obj0 location===the obj6 is located in the obj9 gettysburg obj6
+obj0 country united states obj0 location===obj12 in obj17 the obj6 is located at obj8
+obj0 country united states obj0 location===the obj6 is located at obj8 in obj11 usa
+obj2 location obj12 obj12 obj14===the obj0 is located in england's obj7 obj17
+obj0 obj10 obj18 obj0 obj13===the obj5 is located in obj8 obj16 obj11 its
+obj0 obj10 obj18 obj0 obj13===the obj7 of the obj5 in obj8 obj16 obj11
+obj0 obj10 obj18 obj0 obj13===the obj5 is located in obj8 obj16 obj11 its
+obj0 country obj12 obj9 leadername===obj0 is in obj5 obj4 in the obj13 of
+obj0 obj7 obj12 obj9 leadername===the obj0 in obj5 obj5 obj4 currently has obj17
+obj0 country obj12 obj9 leadername===obj0 located in obj5 obj5 obj4 has an academic
+obj0 country obj15 obj10 leadername===the obj0 is located in obj5 obj5 obj4 it
+obj0 country obj15 obj10 leadername===the obj13 of obj5 in obj4 is obj8 of
+obj2 city obj15 obj2 obj17===obj0 is located at obj00 obj0 in obj4 obj03
+obj2 city obj15 obj2 obj17===the obj18 institute of technology's obj00 is in obj9
+obj2 city obj15 obj2 obj17===the obj0 in obj4 obj03 is affiliated to the
+obj2 city obj15 obj2 obj17===the obj0 is at obj9 obj18 obj08 obj14 obj10
+obj2 city obj15 obj2 obj17===the obj18 institute of technology's obj00 is in obj10
+obj2 city obj15 obj2 obj13===obj0 was obj7 in obj04 in obj4 obj02 it
+obj2 city obj15 obj2 obj13===the obj0 which is affiliated with obj1 is in
+obj1 obj11 obj9 obj1 city===the acharya institute of technology's obj04 is located in
+obj1 obj12 obj10 obj1 city===obj9 in obj05 and currently with obj07 post graduate students
+obj1 obj12 obj10 obj1 city===obj0 is located in obj01 obj04 it was obj9
+obj1 obj11 obj9 obj1 city===the acharya institute of technology's obj03 is located in
+obj2 obj11 obj10 obj0 city===the obj5 in obj15 was obj9 in obj16 and
+obj11 ethnicgroup obj2 obj6 ispartof===the obj0 is located in obj5 obj4 obj0 romania's
+obj11 ethnicgroup obj2 obj6 ispartof===the obj12 of obj0 is lead by obj3 and
+obj11 ethnicgroup obj2 obj6 ispartof===obj0 is governed by obj3 and it's obj13 obj17
+obj11 ethnicgroup obj2 obj11 leadername===the obj0 is located in obj6 obj0 romania's obj10
+obj11 ethnicgroup obj2 obj11 leadername===prime minister obj3 is the leader of obj0 which
+obj1 city obj19 obj3 obj16===the obj07 institute of technology's obj20 is in obj9
+obj1 city obj18 obj3 obj13===the obj5 has obj28 postgraduate students its obj09 is
+obj1 city obj18 obj3 obj13===obj03 in obj24 the obj5 is located obj0 obj22
+obj0 country obj15 obj11 leadername===obj4 is the location of the obj14 obj10 and
+obj0 country obj15 obj11 leadername===the obj0 is located in the obj19 of kuttittattoor
+obj0 country obj15 obj11 leadername===obj4 which is known for the obj14 obj10 is
+obj2 city obj16 obj2 obj14===the location of the obj0 is in obj10 obj19
+obj2 city obj16 obj2 obj14===the obj19 institute of technology's obj01 is located in
+obj2 city obj16 obj2 obj14===obj19 institute of technology's obj01 is located at obj10
+obj2 city obj16 obj2 obj14===the obj19 institute of technology's obj01 is located in
+obj1 obj14 obj12 obj1 city===the obj0 is located in obj03 obj07 and is
+obj1 obj13 obj11 obj1 city===the obj0 obj06 is at obj0 that address is
+obj1 obj13 obj11 obj1 city===acharya institute of technology's obj06 is in soldevanahalli acharya
+obj1 obj14 obj11 obj1 city===the obj0 is located in obj03 in the obj08
+obj1 obj14 obj11 obj1 city===obj0 whose obj04 is bm reddy locates in obj03
+obj1 obj13 obj10 obj1 city===the acharya institute of technology's obj05 is located in
+obj14 ethnicgroup obj2 obj7 ispartof===the obj4 are one of the ethnic groups in
+obj14 ethnicgroup obj2 obj7 ispartof===the obj0 is locaated in obj5 obj5 obj0 romania's
+obj12 ethnicgroup obj2 obj12 leadername===obj0 is in obj6 obj0 which is part of
+obj12 ethnicgroup obj2 obj12 leadername===obj10 is the obj13 of obj0 a obj16 led
+obj13 ethnicgroup obj3 obj13 leadername===prime minister obj4 leads obj0 which has obj11 as
+obj13 ethnicgroup obj3 obj13 leadername===the obj0 is located in obj8 obj6 obj0 romania's
+obj13 ethnicgroup obj3 obj13 leadername===obj0 in obj8 which is part of obj6 is
+obj12 ethnicgroup obj5 obj12 leadername===obj0 in the obj19 of obj20 in obj0 has
+obj1 city obj21 obj3 obj18===the obj09 institute of technology's obj22 is located in
+obj1 city obj20 obj3 obj14===the obj5 was obj04 in obj28 its obj21 is
+obj1 city obj20 obj3 obj14===obj5 motto nurturing excellence was obj04 in obj28 and

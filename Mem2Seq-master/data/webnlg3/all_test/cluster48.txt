@@ -1,0 +1,68 @@
+obj0 club obj2 obj3 manager obj0===obj0 plays for obj2 and manages obj3
+obj1 obj3 obj5 obj1 mediatype===obj1 was published in print amp paperback and has
+obj1 obj3 obj5 obj1 mediatype===obj1 which has the obj3 obj5 was published in
+obj0 obj4 obj2 obj0 mediatype obj5===obj2 is the obj4 of obj0 which is currently
+obj0 obj2 obj5 obj0 mediatype obj3===the obj3 obj0 was assigned the obj2 obj5
+obj0 obj2 obj5 obj0 mediatype obj3===obj0 obj2 obj5 is a obj3 book
+obj2 obj5 obj0 obj0 spokenin obj3===obj2 is in the obj0 which is the obj5
+obj0 obj2 obj5 obj0 state obj4===1 decembrie 1918 university's obj2 is obj5 and is
+obj2 leadername obj5 obj0 state obj2===obj0 is located in obj2 whose leader is obj5
+obj2 obj4 obj0 obj2 completiondate obj5===adare manor's obj4 was obj0 and it was completed
+obj2 obj4 obj0 obj2 completiondate obj5===the obj4 obj0 completed obj2 in obj5
+obj1 almamater obj0 obj1 deathplace===obj1 who graduated from the obj0 and obj10 chosen
+obj1 almamater obj0 obj1 deathplace===obj1 who obj10 obj7 obj11 obj9 in obj8 attended
+obj0 obj6 obj7 obj0 author===obj0 is written by jv jones it has a
+obj3 birthplace obj1 obj3 deathplace===the obj8 of obj0 was obj3 who was born
+obj3 birthplace obj1 obj3 deathplace===obj3 obj8 of obj0 was born in obj1 and
+obj3 birthplace obj1 obj3 deathplace===obj3 was born in obj1 and died in obj2
+obj2 obj7 obj1 obj5 manager===obj2 was at the obj7 asd licita 1931 but
+obj2 club obj1 obj5 manager===obj2 plays for both obj0 and obj1 as well
+obj2 club obj0 obj5 manager===obj2 plays for obj0 and obj1 he also manages obj5
+obj2 club obj0 obj5 manager===obj2 played for obj1 now he manages obj5 and
+obj4 leadername obj8 obj0 state===obj0 is located in obj4 the leader of obj4
+obj4 leadername obj8 obj0 state===obj8 is the leader of obj4 which is southeast
+obj4 leadername obj8 obj0 state===the obj0 in obj4 is southeast of mahe in
+obj0 country obj5 obj0 state===the obj0 established in 2000 is in obj6 in
+obj0 country obj5 obj0 state===the obj0 is located in obj6 in the obj5
+obj0 country obj5 obj0 state===the obj0 is located in obj6 obj5 it was
+obj6 obj5 obj2 obj1 1st runway surfacetype===obj6 belongs to the obj5 of flowering plants the
+obj6 obj5 obj2 obj1 1st runway surfacetype===obj6 is in the obj11 of obj4 the obj10
+obj4 country obj2 obj4 publisher===obj3 is the parent company of obj0 they publish
+obj2 city obj14 obj2 state===the obj17 institute of technology's obj19 is located in
+obj2 city obj14 obj2 obj23===the obj2 is located in obj14 in the obj23
+obj0 country obj3 obj2 deathplace obj0===obj2 died in obj0 which is part of the obj3
+obj0 country obj3 obj2 deathplace obj0===obj2 died at obj0 in the obj3
+obj0 country obj3 obj2 deathplace obj0===obj2 died in obj0 obj3
+obj0 obj5 obj1 obj1 manager obj3===obj0 has played for the obj5 obj1 which is
+obj0 obj5 obj1 obj1 manager obj3===obj1 managed by obj3 is a former obj5 of obj0
+obj0 obj5 obj1 obj1 manager obj3===obj1 managed by obj3 is the former obj5 of obj0
+obj0 birthplace obj5 obj0 deathplace obj2===obj0 was born in obj5 and died in obj2
+obj0 birthplace obj5 obj0 deathplace obj2===born in obj5 obj0 died in obj2
+obj0 birthplace obj5 obj0 deathplace obj2===obj0 was born in obj5 and he died in obj2
+obj0 birthplace obj5 obj0 deathplace===obj0 was born in obj5 and died in the
+obj0 birthplace obj5 obj0 deathplace===obj0 was born in obj5 and he died in
+obj0 birthplace obj5 obj0 deathplace===obj0 was born in obj5 and died in the
+obj6 leadername obj2 obj0 deathplace===obj0 died in obj8 obj6 where obj2 is a leader
+obj6 leadername obj2 obj0 deathplace===obj2 is the leader of obj6 where obj0 died
+obj4 obj7 obj2 obj2 manager===aaron hunt's obj7 is obj2 who are managed by
+obj4 obj7 obj2 obj2 manager===obj4 plays for the obj7 obj0 and also obj2
+obj2 obj7 obj4 obj4 manager===obj2 played for the obj0 he plays for the
+obj1 club obj4 obj4 manager===obj1 plays for obj4 managed by obj0 and also
+obj1 club obj4 obj4 manager===obj1 who is connected to obj3 plays for obj4
+obj6 leadername obj2 obj0 deathplace===obj0 was born in obj6 obj7 and he died
+obj6 leadername obj2 obj0 deathplace===obj0 was born in obj6 and died in obj7
+obj6 leadername obj2 obj0 deathplace===obj2 is the leader of obj6 which is where
+obj5 club obj3 obj0 manager===obj5 played for obj3 and obj0 the latter is
+obj5 obj10 obj3 obj0 manager===obj3 is managed by obj4 and obj0 are players
+obj4 birthplace obj11 obj4 deathplace===obj4 was born in obj11 and he died in
+obj4 birthplace obj11 obj4 deathplace===obj4 who was born in obj11 an died at
+obj4 birthplace obj11 obj4 deathplace===obj4 b obj11 and died in parkersburg wv was
+obj4 obj13 obj7 obj7 manager===aleksandre guruli's obj13 is obj1 who are chaired by
+obj4 obj13 obj7 obj7 manager===obj4 played for the obj1 obj13 who play their
+obj4 club obj7 obj7 manager===obj4 played for obj7 who are managed by obj9
+obj9 obj13 obj4 obj4 deathplace===obj2 was a doctoral student of obj4 the obj13
+obj12 leadertitle obj0 obj1 deathplace===the labour party is in the majority in obj7
+obj12 leadertitle obj0 obj1 deathplace===obj1 was born in obj7 where the labour party
+obj12 leadertitle obj0 obj1 deathplace===obj1 born in obj7 died in obj13 obj12 obj7
+obj11 leadername obj0 obj2 deathplace===obj2 died in obj5 the leader of which is
+obj11 leadername obj0 obj2 deathplace===obj0 is the leader of spanish speaking obj11 daniel

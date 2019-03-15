@@ -1,0 +1,216 @@
+obj0 cityserved obj2===obj0 serves the city of obj2
+obj0 cityserved obj2===obj0 serves obj2
+obj0 cityserved obj2===obj0 serves the city of obj2
+obj0 runwaylength obj2===the runway length of obj0 is obj2
+obj0 runwaylength obj2===the length of the runway at obj0 is obj2
+obj0 runwaylength obj2===the runway length at obj0 is obj2
+obj0 runwaylength obj2===the runway at obj0 has a length of obj2
+obj0 runwaylength obj2===the runway at obj0 is obj2 long
+obj0 operatingorganisation obj2===the obj0 is operated by the obj2
+obj0 operatingorganisation obj2===the operating organisation of obj0 is the obj2
+obj0 operatingorganisation obj2===obj0 is operated by the obj2
+obj0 runwaylength obj2===the runway length of obj0 is obj2
+obj0 runwaylength obj2===obj0 runway length is obj2
+obj0 runwaylength obj2===the runway length of obj0 is obj2
+obj2 leadertitle obj0===obj0 is the official title of the leader of obj2
+obj2 leadertitle obj0===the title of the leader of obj2 is obj0
+obj2 leadertitle obj0===the title of the leader of obj2 is the obj0
+obj2 leadertitle obj0===azerbaijan's leader is the obj0
+obj2 birthplace obj0===obj0 is the birth place of obj2
+obj2 birthplace obj0===obj2 was born in obj0
+united states ethnicgroup obj0===the us includes many obj0
+obj0 numberofmembers obj2===the obj0 has obj2 members
+obj0 club obj1===obj0 has played for obj1
+obj0 club obj1===obj0 plays for obj1
+obj0 club obj1===obj0 played for obj1
+obj0 club obj1===obj0 once played football for obj1
+obj1 club obj0===obj1 played for obj0
+obj0 club obj1===obj0 played for obj1
+obj0 club obj1===obj0 has been associated with obj1
+obj0 club obj1===obj0 plays for obj1
+obj1 club obj0===obj1 played for obj0
+obj1 club obj0===obj1 plays for obj0
+obj0 club obj1===obj0 has played for obj1
+obj0 club obj1===obj0 plays for obj1
+obj0 club obj1===obj0 played for obj1
+obj0 club obj1===obj0 plays for obj1
+obj0 club obj1===obj0 was once a player for obj1
+obj1 club obj0===obj1 has worked at obj0
+obj1 club obj0===obj1 plays for obj0
+obj1 almamater obj0===obj1 graduated from obj0
+obj1 creator obj0===obj1 was created by obj0
+obj0 creator obj1===obj0 was created by obj1
+obj2 birthplace obj0===obj2 was born in obj0
+obj2 nationality obj0===obj2 is a obj0 national
+obj2 nationality obj0===obj2 is a obj0 american
+obj1 birthplace obj0===obj1 was born in obj0
+obj1 birthplace obj0===obj1 was born in obj0
+obj0 leadertitle obj2===the obj2 leads obj0
+obj0 leadertitle obj2===the leader title of obj0 is obj2
+obj1 leadertitle obj0===obj1 is led by the obj0
+obj0 leadertitle obj1===obj0 is led by the obj1
+obj0 region obj1===obj0 is a dish from obj1
+obj0 region obj1===obj0 hails from obj1
+obj0 region obj1===obj0 originates from the obj1
+obj0 region obj1===obj0 is a traditional dish from the obj1
+obj0 region obj1===obj0 is from the obj1
+obj1 dishvariation obj2===obj1 and obj2 are variations on the same dish
+obj1 dishvariation obj2===obj2 is a variation of obj1
+obj1 dishvariation obj2===obj1 is a variation of obj2
+obj0 region obj1===obj0 is a food found in obj1
+obj2 dishvariation obj0===obj2 can be varied by using obj0
+obj2 ethnicgroup obj1 obj0 country obj2===obj0 is in the obj2 where obj1 are one
+obj2 ethnicgroup obj1 obj0 country obj2===obj0 is part of the obj2 where the obj1
+obj2 ethnicgroup obj1 obj0 country obj2===the obj2 includes the ethnic group of obj1 and
+obj2 leadertitle obj0 obj1 obj5 obj2===obj1 is in the obj2 where the leader of
+obj0 region obj3 obj0 country obj2===obj0 is from obj2 and is a popular dish
+obj0 region obj3 obj0 country obj2===obj0 comes from both obj3 and obj2
+obj0 region obj3 obj0 country obj2===obj0 is a dish from obj3 and obj2
+obj0 dishvariation obj5 obj0 obj3 obj4===a obj0 can be transformed into a obj5 which
+obj0 dishvariation obj5 obj0 obj3 obj4===an obj3 in a obj0 is obj4 and a
+obj0 dishvariation obj2 obj2 obj5 obj1===obj1 are an obj5 in obj2 which is a
+obj3 region obj0 obj3 obj1 obj2===obj3 requires obj2 as one of its ingredients and
+obj1 dishvariation obj5 obj2 obj4 obj1===obj2 is served at the obj1 obj4 as would
+obj4 operatingorganisation obj0 obj0 obj5 obj3===obj4 is operated by the obj0 who were involved
+obj0 operatingorganisation obj1 obj1 obj5 obj4===obj1 which is headquartered in obj4 is the operating
+obj0 operatingorganisation obj1 obj1 obj5 obj4===the headquarters of obj1 are located in obj4 and
+obj0 operatingorganisation obj1 obj1 obj5 obj4===obj0 is operated by obj1 the headquarters of which
+obj0 numberofmembers obj5 obj0 obj4 obj3===the obj0 has obj5 members and has a obj4
+obj0 numberofmembers obj5 obj0 obj4 obj3===obj0 which has its obj4 in obj3 has obj5 members
+obj0 numberofmembers obj5 obj0 obj4 obj3===obj0 has obj5 members and a obj4 in obj3
+obj0 club obj2 obj3 obj4 obj0===obj0 obj4 of obj3 plays for obj2
+obj0 club obj2 obj3 obj4 obj0===the obj4 of obj3 is obj0 who plays for obj2
+obj2 ethnicgroup obj1 obj0 country obj2===obj0 is from the obj2 which has among its
+obj2 ethnicgroup obj0 obj1 country obj2===obj1 originates from the obj2 where the obj0 are
+obj2 ethnicgroup obj0 obj1 obj5 obj2===' a wizard of mars' was published in the
+obj2 ethnicgroup obj0 obj1 country obj2===obj1 originates from the obj2 which counts obj0 among
+obj2 ethnicgroup obj1 obj0 country obj2===obj0 originates from the obj2 where the obj1 are
+obj2 ethnicgroup obj1 obj0 country obj2===obj0 originates from the obj2 where many obj1 live
+obj1 birthplace obj0 obj1 was a===the obj4 obj6 included the british hong kong born obj1
+obj4 ethnicgroup obj0 obj1 language===obj1 was originally published in the obj4 and is
+obj4 ethnicgroup obj0 obj1 language===obj1 was published in english in the obj4 where
+obj3 ethnicgroup obj2 obj3 obj8===the obj8 city of the obj3 is obj1 some
+obj3 ethnicgroup obj2 obj3 obj8===the obj3 are home to obj2 as well as
+obj3 ethnicgroup obj2 obj3 obj8===washington d c is the obj8 of the obj3
+united states obj8 obj2 obj0 country===obj3 is in obj0 in the us obj2 is
+obj2 ethnicgroup obj1 obj2 obj8===obj5 is the obj8 of the obj2 where albuquerquenew
+obj2 ethnicgroup obj1 obj2 obj8===obj0 is in the united states where obj5 is
+obj2 ethnicgroup obj1 obj2 obj8===obj0 is in the obj2 of which obj5 is
+obj3 language obj1 obj2 country===the obj3 includes the obj0 ethnic group uses the
+obj2 operatingorganisation obj0 obj2 location===operated by the obj0 obj2 is in obj8 and
+obj2 operatingorganisation obj0 obj2 location===the obj0 is the operating organisation for obj2 in
+obj2 operatingorganisation obj0 obj2 location===obj2 found in obj8 is operated by the obj0
+obj7 operatingorganisation obj1 obj1 obj8===the operating organisation for obj7 is the obj1 they
+obj0 cityserved obj6 obj4 obj3===obj0 serves the city of obj6 which is in
+obj0 runwaylength obj8 obj0 location===obj0 is in obj2 obj4 its runway length is obj8
+obj0 runwaylength obj8 obj0 location===obj0 is in obj2 obj4 and has a runway
+obj0 region obj8 obj0 country===obj0 is made from obj4 and comes from obj8
+obj0 region obj8 obj0 country===obj0 is a traditional dish from obj8 obj7 obj4
+obj5 region obj1 obj5 country===obj8 is an obj0 of obj5 which comes from
+obj1 region obj4 obj1 country===obj1 is a traditional dish from the obj4 and
+obj1 region obj4 obj1 country===obj1 is a traditional dish from the obj4 of
+obj1 region obj4 obj1 country===obj8 is an obj5 of obj1 cuisine which is
+obj0 region obj6 obj0 country===obj0 is from obj6 and obj5 and is made
+obj1 region obj6 obj1 obj5===obj1 originates from obj6 and is also made in
+obj2 language obj8 obj7 country===obj7 is a dish from the obj2 where obj8
+obj4 ethnicgroup obj2 obj0 country===romania's ethnic group is obj2 and its university is
+obj4 ethnicgroup obj2 obj0 country===obj4 is the home of the ethnic group of
+obj5 ethnicgroup obj1 obj5 leadername===the obj0 is in obj5 obj7 is led by
+obj5 ethnicgroup obj1 obj5 leadername===the obj0 is located in obj5 the romanian leader
+obj5 ethnicgroup obj2 obj5 obj11===the obj2 are an ethnic group in the obj5
+obj5 ethnicgroup obj2 obj5 obj11===the city of albany is part of obj0 in
+obj2 operatingorganisation obj0 obj2 location===operated by the obj0 obj2 iraq has a runway
+obj2 operatingorganisation obj0 obj2 location===the obj0 is operating obj2 in obj11 with runway
+obj9 operatingorganisation obj1 obj1 obj11===the attack aircarft the obj8 and the fighter aircraft
+obj9 operatingorganisation obj1 obj1 obj11===the obj1 which operates obj9 was involved in obj11
+obj1 operatingorganisation obj2 obj2 obj8===the operating organization for obj1 is called obj2 who
+obj1 cityserved obj9 obj1 location===located in obj10 and serving the city of obj9
+obj1 cityserved obj9 obj1 location===obj9 is served by obj1 located in obj10 the
+obj1 cityserved obj9 obj1 location===obj1 is located in obj10 and serves the city
+obj9 language obj1 obj9 leadername===obj0 serves the city of obj5 in obj9 where
+obj9 language obj1 obj9 leadername===obj0 serves the city of obj5 which is in
+obj9 language obj1 obj9 leadername===the obj1 are spoken in obj9 which is led
+obj1 city obj7 obj1 obj8===the obj1 is located in obj7 obj10 it is
+obj1 city obj7 obj1 obj8===obj5 is a obj8 at obj1 an affiliate of
+obj5 ethnicgroup obj2 obj5 obj8===obj0 is located in obj5 which has as its
+obj8 region obj3 obj8 obj2===obj8 is a food from the obj5 of obj3
+obj8 region obj3 obj8 obj2===obj8 is a food found in obj3 the main
+obj2 region obj6 obj2 country===obj2 is a dish commonly found in indonesia the
+obj2 region obj6 obj2 country===obj2 is found in indonesia obj12 obj6 obj4 is
+obj10 ethnicgroup obj9 obj0 obj8===obj9 is an ethnic group of obj10 where the
+obj5 ethnicgroup obj1 obj5 obj12===obj10 are the people occupying the us and one
+obj5 ethnicgroup obj1 obj5 language===angola is in steuben county in the obj5 where
+obj8 obj15 obj6 obj6 leadername===obj8 is nationwide dish obj20 obj4 where indonesian is
+obj13 ethnicgroup obj1 obj6 obj10===in obj6 one of the spoken languages is english
+obj3 operatingorganisation obj1 obj3 location===obj3 is in obj14 and is operated by the
+obj3 operatingorganisation obj1 obj3 obj10===the obj1 operates an airbase in obj14 called obj3
+obj11 operatingorganisation obj1 obj1 obj13===obj11 is operated by the obj1 who were involved
+obj11 operatingorganisation obj1 obj1 obj13===the obj1 is the operating organisation for obj11 and
+obj9 ethnicgroup obj3 obj9 leadername===the obj0 is located in obj9 romania's obj12 is
+obj9 ethnicgroup obj3 obj9 leadername===obj0 is in obj9 which is led by obj4
+obj2 birthplace obj0===obj2 was born in obj0
+obj0 birthplace obj2===obj0 was born in obj2
+obj0 birthplace obj1===obj0 was born in obj1
+obj0 birthplace obj2===obj0 was born in obj2
+obj1 almamater obj0===the alma mater of obj1 is the obj0
+obj1 almamater obj0===adenan satem's alma mater is the obj0
+obj0 birthplace obj2===adolf schärf's place of birth was obj2
+obj0 birthplace obj2===obj0 was born in obj2
+obj2 birthplace obj0===obj2 was born in obj0
+obj0 birthplace obj1===obj0 was born in obj1
+obj1 birthplace obj0===obj1 was born in obj0
+obj1 birthplace obj0===obj1 place of birth was obj0
+obj1 birthplace obj0===obj1 was born in obj0
+obj1 almamater obj0===the obj0 is the alma mater of obj1
+obj1 almamater obj0===obj1 alma mater is the obj0
+obj1 almamater obj0===the alma mater of obj1 is the obj0
+obj0 birthplace obj2===obj0 was born in obj2
+obj1 club obj0===obj1 plays for obj0
+obj1 club obj0===obj1 played for obj0
+obj1 club obj0===obj1 plays for the obj0
+obj1 birthplace obj2===obj2 is the birth place of obj1
+obj1 birthplace obj2===obj1 was born in obj2
+obj2 birthplace obj0===obj2 was born in the obj0
+obj1 club obj0===obj1 played for the obj0
+obj1 club obj0===obj1 plays for the obj0
+obj1 club obj0===obj1 represented the obj0
+obj1 birthplace obj0===obj1 was born in obj0
+obj1 club obj0===obj1 plays for the obj0
+obj0 birthplace obj2===obj0 was born in obj2
+obj0 birthplace obj2===obj2 is the birth place of obj0
+obj0 club obj1===obj0 has played for the obj1
+obj0 club obj1===obj0 plays for the obj1
+obj0 club obj1===obj0 plays for obj1
+obj0 birthplace obj2===obj0 was born in obj2
+obj0 birthplace obj2===aleksandre guruli's birth place is obj2
+obj0 club obj1===obj0 plays for obj1
+obj1 club obj0===obj1 once played for the obj0
+obj0 club obj1===obj0 plays for obj1
+obj0 club obj1===obj0 is a member of obj1
+obj0 birthplace obj2===obj0 was born in obj2
+obj1 birthplace obj2===the birth place of obj1 is obj2
+obj1 birthplace obj2===obj1 was born in obj2
+obj1 birthplace obj0===obj1 was born in obj0
+obj0 birthplace obj1===obj1 is the birth place of obj0
+obj0 birthplace obj1===obj1 is the birth place of obj0
+obj0 birthplace obj1===the birth place of obj0 is obj1
+obj0 birthplace obj1===obj0 was born in obj1
+obj1 almamater obj0===james craig watson's alma mater was the obj0
+obj1 almamater obj0===james craig watson's alma mater is the obj0
+obj1 almamater obj0===obj1 studied at the obj0
+obj0 birthplace obj1===obj0 was born in obj1
+obj0 birthplace obj1===obj0 was born in obj1
+obj5 almamater obj0 obj5 obj8===born in the obj2 obj5 attended obj0 and belongs
+obj0 birthplace obj6 obj7 leadername===obj0 was born in obj6 obj7 which is led
+obj0 birthplace obj6 obj7 leadername===obj0 was born in obj6 obj7 the leader of
+united states ethnicgroup obj1 obj2 birthplace===obj2 was born in obj0 in the usa a
+obj3 club obj0 obj0 obj6===obj3 plays for obj2 having previously played for obj0
+obj3 club obj0 obj0 obj6===obj3 played for obj2 and the obj0 whose obj6
+obj2 birthplace obj8 obj2 obj6===iraqi born obj2 whose obj6 is obj1 plays for
+obj2 birthplace obj8 obj2 obj6===obj2 who was born in obj8 is a member
+obj5 club obj3 obj0 obj8===obj4 is the obj8 of obj3 which obj5 plays
+obj6 ethnicgroup obj0 obj4 obj11===obj0 are an ethnic group in the obj6 where
+obj0 birthplace obj9 obj9 obj8===obj0 was born in obj9 where one of the
+obj0 birthplace obj9 obj9 obj8===born in obj9 city where french is one of
+obj0 birthplace obj9 obj9 obj8===french is a obj8 spoken in obj9 which is
+obj4 region obj0 obj4 obj10===obj4 was from obj11 where the largest city is

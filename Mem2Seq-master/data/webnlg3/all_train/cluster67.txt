@@ -1,0 +1,106 @@
+obj1 populationdensity obj5 inhabitants obj6 square kilometre===the total population density of obj0 is obj4 inhabitants
+obj2 populationdensity obj5 inhabitants obj6 obj4 kilometre===the population density of obj0 is obj7 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 obj4 kilometre===the population density of obj0 is obj7 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 square kilometre===the population density for obj0 is obj4 inhabitants obj6
+obj0 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj0 has a population density of obj7 inhabitants obj6
+obj0 populationdensity obj5 inhabitants obj6 square kilometre===the population density of obj0 is obj4 inhabitants obj6
+obj0 populationdensity obj5 obj2 obj6 obj4 kilometre===the population density of obj0 is obj7 obj5 obj6
+obj0 populationdensity obj5 inhabitants obj6 obj4 kilometre===there are obj7 people obj6 obj7 kilometres in obj0
+obj0 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj0 has a population density of obj7 inhabitants obj6
+obj0 populationdensity obj5 inhabitants obj6 square kilometre===the population density in obj0 is obj4 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj0 has a population density of obj7 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj0 has obj7 people obj6 obj7 kilometer
+obj1 populationdensity obj5 inhabitants obj6 obj4 kilometre===the population density of obj0 is obj7 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 square kilometre===the population density of obj0 is obj4 inhabitants obj6
+obj3 populationdensity obj5 inhabitants obj6 obj4 kilometre===the population density of obj0 is obj7 inhabitants obj6
+obj0 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj0 has a population of obj7 inhabitants obj6 obj7 kilometre
+obj0 populationdensity obj5 inhabitants obj6 obj4 kilometre===the population density of obj0 is obj7 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 square kilometre===the population density of obj0 is obj4 inhabitants obj6
+obj1 populationdensity obj5 inhabitants obj6 square kilometre===obj0 has a population density of obj4 inhabitants obj6
+obj0 populationdensity obj5 inhabitants obj6 obj4 kilometre===obj0 has a population density of obj7 inhabitants obj6
+obj0 populationdensity obj5 inhabitants obj6 square kilometre===the population density of obj0 is obj4 inhabitants obj6
+obj1 populationdensity obj4 inhabitants obj6 square kilometre===the population density of obj0 is obj4 inhabitants obj6
+suárez madrid–barajas airport runwaylength obj5 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located at madrid paracuellos
+egg harbor township new jersey ispartof atlantic county new jersey===obj0 is located at egg harbour township which is
+egg harbor township new jersey ispartof atlantic county new jersey===obj0 is in egg harbor township nj which is
+obj3 locationcity obj4 adolfo suárez obj4 –barajas airport===obj0 is the operating organisation for adolfo suarez madrid barajas
+obj3 locationcity obj4 adolfo suárez obj4 –barajas airport===adolfo suarez madrid barajas airport is operated by obj0 obj6
+new york ispartof obj2 obj0 cityserved saranac lake new york===obj5 serves the city of saranac lake obj4
+new york ispartof obj2 obj0 cityserved saranac lake new york===obj5 serves the city of saranac lake in obj4
+obj4 starring obj0 obj0 birthplace united kingdom===obj4 was born in the uk and starred in obj4
+obj4 starring obj0 obj0 birthplace united kingdom===obj4 originally from the uk starred in obj4
+the arrow comicscharacter alternativename obj4 the arrow comicscharacter obj5 obj3===obj9 is the obj7 of the arrow otherwise
+the arrow comicscharacter alternativename obj4 the arrow comicscharacter creator obj3===arrow also known as obj4 was created by obj9
+the arrow comicscharacter alternativename obj4 the arrow comicscharacter creator obj3===arrow otherwise known as obj4 was created by obj9
+the arrow comicscharacter alternativename obj4 the arrow comicscharacter creator obj3===obj4 aka the arrow was created by obj9
+the arrow comicscharacter alternativename obj4 the arrow comicscharacter creator obj3===the character arrow's alter ego is obj4 created by obj9
+the arrow comicscharacter alternativename obj4 the arrow comicscharacter creator obj3===obj4 aka the arrow was created by obj9
+isidro metapán obj4 metapán a d isidro metapán numberofmembers obj5===obj9 members to date ad isidro metapan's obj2 is
+peter stöger club obj1 1 fc köln obj4 peter stöger===peter stoger plays for obj7 and is the obj7
+bavarian crisis author obj2 1634 the bavarian crisis mediatype obj5===in 1634 the bavarian crisis was written by obj4
+bavarian crisis author obj2 1634 the bavarian crisis mediatype obj5===634 the bavarian crisis available in obj9 is written
+bavarian crisis author obj2 1634 the bavarian crisis mediatype obj3===1634 the bavarian crisis comes in obj9 and was
+bavarian crisis mediatype obj3 1634 the bavarian crisis author obj0===1634 th bavarian crisis by obj9 is available in obj4
+aids journal academicdiscipline obj5 aids journal issn number obj4===the academic discipline of aids journal with ibn of
+united kingdom leadername obj3 obj1 country united kingdom===obj5 is published in the uk where obj4 is
+suárez madrid–barajas airport location obj5 adolfo suárez madrid–barajas airport runwaylength===adolfo suárez madrid barajas airport in alcobendas has a runway
+suárez madrid–barajas airport location obj5 adolfo suárez madrid–barajas airport runwaylength===adolfo suárez madrid barajas airport is found in obj4
+suárez madrid–barajas airport location obj5 adolfo suárez madrid–barajas airport runwayname===adolfo suárez madrid barajas airport is found in obj4
+suárez madrid–barajas airport location obj5 adolfo suárez madrid–barajas airport runwayname===adolfo suárez madrid barajas airport is found in obj4
+suárez madrid–barajas airport location obj3 adolfo suárez madrid–barajas airport runwayname===the adolfo suarez madrid barajas airport is located in obj4
+suárez madrid–barajas airport location obj3 adolfo suárez madrid–barajas airport runwayname===adolfo suarez madrid barejas airport which is located at obj4
+suárez madrid–barajas airport location obj3 adolfo suárez madrid–barajas airport runwayname===adolfo suarez madrid barejas airport is located at obj4 its
+suárez madrid–barajas airport location obj3 adolfo suárez madrid–barajas airport runwayname===adolfo suarez madrid barejas airport which is located at obj4
+suárez madrid–barajas airport runwayname obj7 adolfo suárez madrid–barajas airport runwaylength===located at obj0 adolfo suarez madrid barajas airport has a
+suárez madrid–barajas airport runwayname obj7 adolfo suárez madrid–barajas airport runwaylength===found in obj0 adolfo suarez madrid barejas airport has a
+suárez madrid–barajas airport runwayname obj7 adolfo suárez madrid–barajas airport runwaylength===the runway name of adolfo suarez madrid barajas airport at
+suárez madrid–barajas airport runwayname obj7 adolfo suárez madrid–barajas airport runwaylength===asolfo suarez madrid barajas airpoty is found in obj3 and
+bella sky obj5 location obj5 ac hotel bella sky obj5===obj2 with obj4 as a key leader is the
+bella sky obj5 location obj5 ac hotel bella sky obj5===obj4 is a key person at obj2 which is
+bella sky obj5 location obj5 ac hotel bella sky obj5===obj4 is one of the key people at the
+bella sky obj4 obj7 obj3 ac hotel bella sky obj4===the obj5 of the ac hotel bella sky designed
+bella sky obj4 obj7 obj3 ac hotel bella sky obj4===obj5 is the obj5 of ac hotel bella sky
+bella sky obj4 obj7 obj3 ac hotel bella sky obj4===the obj5 of the ac hotel bella sky in
+bella sky obj5 obj7 obj3 ac hotel bella sky obj5===the obj7 of ac hotel bella sky in obj1
+peter stöger club obj3 1 fc köln obj6===peterstöger obj7 of fc kolin plays for both obj4
+peter stöger obj7 obj0 1 fc köln obj6===the obj7 of 1 fc koln is peter stoger
+peter stöger obj7 obj1 1 fc köln obj6===the obj7 of 1 fc koln is peter stoger
+obj15 obj31 obj6 obj24 obj14 obj5 obj30 obj23 obj13===obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7 obj8
+obj15 obj31 obj6 obj24 obj14 obj5 obj30 obj23 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj31 obj6 obj24 obj14 obj5 obj30 obj23 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj31 obj8 obj24 obj14 obj7 obj30 obj23 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj31 obj8 obj24 obj14 obj7 obj30 obj23 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj31 obj8 obj24 obj14 obj7 obj30 obj23 obj13===with a staff obj1 obj27 obj3 a student population
+obj16 obj31 obj9 obj25 obj15 obj8 obj30 obj24 obj14===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj16 obj31 obj9 obj25 obj15 obj8 obj30 obj24 obj14===universias aarhusiensis is obj7 latin name obj1 obj7 obj0
+obj16 obj31 obj9 obj25 obj15 obj8 obj30 obj24 obj14===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj31 obj6 obj25 obj14 obj5 obj30 obj24 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj31 obj6 obj25 obj14 obj5 obj30 obj24 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj8
+obj15 obj31 obj6 obj25 obj14 obj5 obj30 obj24 obj13===obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7 obj8
+suárez madrid–barajas airport runwaylength obj14 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located in madrid obj7
+suárez madrid–barajas airport runwaylength obj14 adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located at obj0 obj16
+obj8 locationcity obj9 adolfo suárez obj9 –barajas airport===obj0 which is located in the city of obj4
+bella sky obj7 obj9 obj4 ac hotel bella sky obj7===obj5 is the obj3 of ac hotel bella sky
+a f c obj6 manager stuart parker footballer obj6 leader===stuart parker is a footballer who has managed and
+obj16 obj30 obj9 obj25 obj15 obj8 obj29 obj24 obj12===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj16 obj30 obj9 obj25 obj15 obj8 obj29 obj24 obj12===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj16 obj27 obj9 obj23 obj15 obj8 obj26 obj22 obj13===obj8 which has a obj5 type obj1 government is
+obj16 obj27 obj9 obj23 obj15 obj8 obj26 obj22 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj16 obj27 obj9 obj23 obj15 obj8 obj26 obj22 obj13===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj30 obj6 obj25 obj14 obj5 obj29 obj24 obj12===obj8 in obj9 which lies southwest obj1 obj20 is
+obj15 obj30 obj6 obj25 obj14 obj5 obj29 obj24 obj12===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj15 obj30 obj6 obj25 obj14 obj5 obj29 obj24 obj12===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+united kingdom obj10 english obj10 united kingdom leadername===obj2 was published by obj0 in the uk english
+suárez madrid–barajas airport runwayname obj14 adolfo suárez madrid–barajas airport runwaylength===obj15 are the operators of adolfo suarez madrid barajas airport
+suárez madrid–barajas airport runwayname obj14 adolfo suárez madrid–barajas airport runwaylength===adolfo suarez madrid barajas airport is operated by obj15 obj19
+suárez madrid–barajas airport runwayname obj14 adolfo suárez madrid–barajas airport runwaylength===adolfo suarez madrid barajas airport which is elevated 610 meters
+suárez madrid–barajas airport runwayname obj14 adolfo suárez madrid–barajas airport runwaylength===adolfo suarez madrid barajas airport is located at madrid obj9
+bella sky obj8 obj11 obj5 ac hotel bella sky obj8===the ac hotel bella sky in obj1 has obj14
+bella sky obj8 obj11 obj5 ac hotel bella sky obj8===the ac hotel bella sky in obj1 has obj14
+obj19 obj30 obj9 obj26 obj18 obj8 obj29 obj25 obj16===obj7 obj0 obj1 obj2 obj3 obj4 obj5 obj6 obj7
+obj19 obj30 obj9 obj26 obj18 obj8 obj29 obj25 obj16===obj7 government type in obj8 obj12 is that obj1
+united kingdom language english language united kingdom leadername===obj4 is published in the uk by obj0 parented
+united kingdom obj11 english obj11 united kingdom leadername===obj2 was published in the uk by obj0 obj14
+united kingdom obj12 english obj12 united kingdom leadername===the aids journal is published by obj0 in the
+united kingdom obj12 english obj12 united kingdom leadername===the obj2 is published by obj0 in the uk
+obj3 obj29 obj21 obj28 obj9 obj17 obj19 obj32===obj4 obj0 is in obj12 obj10 it obj2 obj3

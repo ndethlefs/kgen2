@@ -1,0 +1,110 @@
+obj0 birthdate 1930 01 20===buzz aldrin's birth date was 1930 01 20
+obj0 birthdate 1930 01 20===obj0 was born january 20 1930
+obj0 birthdate 1930 01 20===buzz aldrin's birth date is january 20 1930
+obj0 birthdate 1930 01 20===obj0 was born on january 20th 1930
+obj0 birthdate 1930 01 20===obj0 was born on the 20th of january 1930
+obj0 birthdate 1930 01 20===obj0 was born on january 201930
+ac hotel bella sky copenhagen obj1 obj2===the ac hotel bella sky in copenhagen was designed
+ac hotel bella sky copenhagen obj2 obj1===the obj2 of the ac hotel bella sky in
+ac hotel bella sky copenhagen location obj2===ac hotel bella sky is in copenhagen obj4
+obj0 location avenue a manhattan===obj0 is located in avenue a manhattan
+abilene texas populationdensity obj5 inhabitants obj6 obj4 kilometre===albilene texas has a population density of obj7 inhabitants
+obj1 ispartof madison county indiana===obj0 is part of madison county
+austin texas populationdensity obj4 inhabitants obj6 obj5 kilometre===the population density of austin texas is obj4 inhabitants
+austin texas populationdensity obj4 inhabitants obj6 obj5 kilometre===austin in texas has a population of obj4 people
+obj0 location adams county pennsylvania===obj0 is found in the adams county in pennsylvania
+baku turkish martyrs' memorial dedicatedto obj0===the baku turkish martyrs memorial has been dedicated to obj4
+baku turkish martyrs' memorial dedicatedto obj0===the baku turkish martyrs memorial is dedicated to the obj4
+baku turkish martyrs' memorial designer obj0===the baku turkish martyr's memorial was designed by obj4
+location obj0 alpena county regional airport elevationabovethesealevel in metres obj5===lpena county regional airport is located in obj4 the
+obj2 almamater nwc obj6 1957 obj2===obj0 who was awarded the distinguished service medal by
+obj2 almamater nwc obj6 1957 obj2===obj6 nwc obj5 graduate obj0 is a recipient of
+obj2 almamater nwc obj6 1957 obj2===obj0 who graduated from nwc with an obj5 in
+obj0 cityserved abilene obj8 abilene obj8===obj0 serves the city of abilene which is in
+obj0 cityserved abilene obj8 abilene obj8===in obj5 we have abilene which is usually served
+obj3 almamater nwc obj9 1957 obj3===obj0 went to school at nwc and graduated with
+obj3 almamater nwc obj9 1957 obj3===obj0 was born in obj2 and got his obj5
+obj1 almamater nwc obj9 1957 obj1===obj0 who graduated from nwc with a obj5 in
+obj1 almamater nwc obj9 1957 obj1===obj0 graduated from nwc obj5 in obj6 he died
+obj1 almamater nwc obj9 1957 obj1===obj0 who attended nwc obj5 in obj6 died in
+obj1 status deceased obj1 occupation===obj0 was born in obj0 served as a obj5
+ac hotel bella sky copenhagen obj5 obj6 obj6 leadername===lars lokke rasmussen is a leader of obj4 which
+obj0 cityserved abilene obj11 abilene obj11===obj0 serves the city of abilene taylor county in
+obj3 almamater nwc obj12 1957 obj3===obj0 was born in obj2 his alma mater was
+obj2 almamater nwc obj13 1957 obj2===obj0 obj14 born in obj1 and obtained a obj5
+obj2 almamater nwc obj13 1957 obj2===obj0 obj14 born in obj1 his alma mater obj14
+obj3 status deceased obj3 occupation===now dead obj0 was a obj6 who was awarded
+ac hotel bella sky copenhagen obj8 obj9 obj9 obj7===german is one of the languages spoken in obj4
+ac hotel bella sky copenhagen location obj9 obj9 obj7===obj2 was founded in obj4 and is the current
+ac hotel bella sky copenhagen location obj9 obj9 leadername===ac hotel bella sky is in copenhagen obj4 whose
+obj4 nationality french people asterix comicscharacter obj10===obj6 and french born obj0 are the creators of
+obj0 state pennsylvania obj0 established===the obj5 is located in obj4 it was erected
+obj5 obj11 baku obj1 material===the obj5 which is made from obj3 is located
+obj0 cityserved abilene obj14 abilene obj14===abilene part of obj2 is part of obj5 and
+obj0 cityserved abilene obj14 abilene obj14===obj0 serves abilene part of taylor county in obj5
+obj0 cityserved abilene obj14 abilene obj14===the usa's obj0 which is part of taylor county
+obj0 cityserved abilene obj14 abilene obj14===obj0 serves the city of abilene in obj5 which
+obj4 almamater nwc obj15 1957 obj4===obj0 was born in obj3 went to school at
+obj4 almamater nwc obj15 1957 obj4===obj0 was born in obj3 and obtained an obj5
+obj4 almamater nwc obj15 1957 obj4===obj0 was born in obj3 and went to school
+obj3 almamater nwc obj15 1957 obj3===obj0 was an american astronaut born on november 18th
+obj3 almamater nwc obj15 1957 obj3===obj0 who was born on the 18th of november
+obj3 almamater nwc obj15 1957 obj3===obj0 is a us citizen who was born on
+obj3 almamater nwc obj16 1957 obj3===obj0 obj17 a us astronaut born in obj2 in
+obj3 almamater nwc obj16 1957 obj3===obj0 has died in obj10 he obj17 an american
+obj3 almamater nwc obj16 1957 obj3===obj0 obj17 an american born in obj2 he graduated
+obj2 almamater nwc obj16 1957 obj2===obj0 obj17 born in obj1 and graduated from nwc
+obj2 almamater nwc obj16 1957 obj2===obj0 obj17 born in obj1 and graduated with an
+obj2 almamater nwc obj16 1957 obj2===obj0 obj17 born in obj1 and graduated from nwc
+ac hotel bella sky copenhagen location obj12 obj12 language===ac hotel bella sky is in copenhagen obj4 where
+ac hotel bella sky copenhagen location obj12 obj12 language===ac hotel bella sky is in copenhagen obj4 where
+ac hotel bella sky copenhagen location obj12 obj12 language===obj8 is a key person of obj5 founded obj2
+ac hotel bella sky copenhagen location obj11 obj11 obj9===obj2 which was founded in obj5 is the current
+ac hotel bella sky copenhagen location obj11 obj11 language===founded in washingtondc marriot hotels is the obj14 of
+ac hotel bella sky copenhagen location obj11 obj11 obj9===ac hotel bella sky is in copenhagen obj4 and
+ac hotel bella sky copenhagen location obj11 obj11 language===obj2 was founded in obj5 the obj2 hotel is
+ac hotel bella sky copenhagen location obj11 obj11 leadername===margrethe ii is the leader of obj4 where one
+ac hotel bella sky copenhagen location obj11 obj11 leadername===one of the languages of obj4 is greenlandic and
+ac hotel bella sky copenhagen location obj11 obj11 leadername===obj4 is lead by margethe ii and one of
+ac hotel bella sky copenhagen location obj12 obj12 leadername===margrethe ii is the leader of obj4 where the
+ac hotel bella sky copenhagen obj11 obj12 obj12 leadername===obj4 is lead by obj2 and is the obj2
+ac hotel bella sky copenhagen location obj12 obj12 leadername===obj8 is the key person at obj3 which was
+baku turkish martyrs' memorial material obj6 obj11 leadertitle===obj21 baku turkish martyr's memorial obj24 obj5 is dedicated
+baku turkish martyrs' memorial material obj6 obj11 leadertitle===obj21 baku turkish martyrs memorial is dedicated to obj21
+obj4 almamater nwc obj18 1957 obj4===obj0 was born in obj3 on 18th november 1923
+obj4 almamater nwc obj18 1957 obj4===obj0 was born in obj3 on nov 18 1923
+obj4 almamater nwc obj18 1957 obj4===obj0 born on nov 18 1923 in new hampshire
+obj4 almamater nwc obj18 1957 obj4===obj0 is an american who was born in obj3
+obj4 almamater nwc obj18 1957 obj4===obj0 is an american who graduated from nwc obj5
+obj2 almamater nwc obj19 1957 obj2===obj0 obj00 born on november 18 1923 in obj1
+obj2 almamater nwc obj19 1957 obj2===obj0 obj00 born obj8 in obj1 he died on
+obj2 almamater nwc obj19 1957 obj2===obj0 born on obj8 in new hampshire went
+obj3 almamater nwc obj18 1957 obj3===american obj0 was a obj12 who was born in
+obj3 almamater nwc obj18 1957 obj3===obj0 american nationality was born on the 18th november
+obj3 almamater nwc obj18 1957 obj3===obj0 was born in obj2 on 18th november 1923
+obj5 almamater nwc obj18 1957 obj5===obj0 was born in obj4 and died in obj11
+obj5 almamater nwc obj18 1957 obj5===obj13 obj0 was born in obj4 graduated from nwc
+obj5 almamater nwc obj18 1957 obj5===obj0 born in new hampshire graduated from nwc obj7
+obj12 obj19 baku obj2 material===obj55 obj5 also known by obj55 native name turk
+obj6 almamater nwc obj21 1957 obj6===obj0 was american born in obj4 went to school
+obj6 almamater nwc obj21 1957 obj6===american obj0 was born in obj4 and attended nwc
+obj4 almamater nwc obj21 1957 obj4===obj0 died on 21 july 1998 in obj15 born
+obj4 almamater nwc obj21 1957 obj4===obj0 died on 21 july 1998 in obj15 born
+obj4 almamater nwc obj21 1957 obj4===obj0 was born in obj3 on november 18 1923
+obj3 almamater nwc obj22 1957 obj3===obj0 is an american who obj23 born in obj2
+obj6 almamater nwc obj21 1957 obj6===obj0 was born in obj5 and graduated from nwc
+obj6 almamater nwc obj21 1957 obj6===obj0 was born in obj5 he was a obj16
+obj6 almamater nwc obj21 1957 obj6===obj0 has died in obj14 he was born in
+obj6 almamater nwc obj21 1957 obj6===american obj0 was a obj16 who graduated from nwc
+obj6 almamater nwc obj21 1957 obj6===obj0 is an american was born in obj4 and
+obj6 almamater nwc obj21 1957 obj6===obj0 was born in obj4 america and went to
+obj5 almamater nwc obj21 1957 obj5===obj0 was a obj14 born in obj4 having graduating
+obj5 almamater nwc obj21 1957 obj5===obj0 was born in obj4 and graduated from nwc
+obj5 almamater nwc obj21 1957 obj5===obj0 was born in obj4 on nov 18 1923
+obj5 almamater nwc obj21 1957 obj5===obj0 went to school at nwc and graduated with
+obj5 almamater nwc obj22 1957 obj5===obj0 born on november 18 1923 in new hampshire graduated
+obj5 almamater nwc obj22 1957 obj5===obj0 obj23 born on nov 18 1923 in obj4
+obj5 almamater nwc obj22 1957 obj5===obj0 obj23 born november 18th 1923 in obj4 he
+obj11 obj22 obj27 obj3 dedicatedto===obj29 leader obj50 obj0 is obj8 it has a
+obj12 obj21 obj26 obj2 material===obj57 obj5 was designed obj30 obj7 by huseyin butuner
+obj11 obj22 obj28 obj3 material===obj50 obj5 is a monument created obj53 obj7 by

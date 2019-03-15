@@ -1,0 +1,305 @@
+obj1 elevationabovethesealevel in metres obj2===obj1 has an elevation of obj2 metres above sea levele
+obj0 author obj1===obj1 wrote the book 1634 the ram rebellion
+obj0 author obj1===obj0 was written by obj1
+obj0 mediatype obj2===obj0 was published in obj2
+aids journal country obj0===the aids journal was published in the obj0
+aids journal country obj0===aids journal is from the obj0
+obj0 mediatype obj1===a glastonbury romance can be found in obj1
+obj0 mediatype obj1===obj0 is available in obj1
+obj0 author obj1===obj1 wrote obj0
+obj0 author obj1===obj0 was written by obj1
+obj0 mediatype obj2===obj0 was produced in obj2
+obj0 publisher obj1===obj0 is published by obj1
+obj0 publisher obj1===obj1 publish obj0
+obj0 publisher obj1===obj0 was published by obj1
+obj0 manager obj1===obj1 has managed obj0
+obj2 nationality united states===obj2 is american
+obj2 nationality united states===obj2 was american
+obj2 nationality united states===obj2 is a us national
+obj1 deathplace obj2===obj1 died in obj2
+obj1 deathplace obj2===obj1 died in obj2
+obj1 nationality americans===obj1 is an american
+obj1 elevationabovethesealevel obj2===the elevation above the sea level in obj1 is obj2
+arròs negre obj2 obj1===arros negre contains obj1 as an obj2
+arròs negre obj2 obj1===arros negre is from the obj2 of obj1
+arròs negre obj2 obj0===arros negre comes from the obj2 of the obj0
+obj1 leadertitle obj0 obj1 country obj3===the leader for obj1 in the obj3 is the obj0
+obj1 leadertitle obj0 obj1 country united states===obj1 is located in the us and has the
+obj2 leadertitle obj0 obj1 country obj2===obj1 is within the united states the leader of
+obj0 ingredient obj2 obj0 country obj5===obj0 containing obj2 can be found in obj5
+obj4 dishvariation obj2 obj0 dishvariation obj4===a obj0 can be called a obj4 which is
+obj4 dishvariation obj2 obj0 dishvariation obj4===obj4 is a variation of the obj2 and the obj0
+obj4 dishvariation obj2 obj0 dishvariation obj4===obj0 is a variation of obj4 which is a
+obj0 cityserved obj4 obj0 runwaylength obj5===obj0 serves the city of obj4 and has a
+obj1 numberofmembers obj5 obj1 obj4 obj0===obj1 were in the obj0 obj4 and have obj5 members
+obj3 manager obj0 obj0 club obj2===obj0 was at obj2 and has also managed obj3
+obj1 numberofmembers obj5 obj1 obj4 obj3===the obj4 of obj1 can be found in the
+obj1 numberofmembers obj5 obj1 obj4 obj3===the obj4 of obj1 which holds obj5 fans can
+obj1 numberofmembers obj5 obj1 obj4 obj3===the obj4 of obj1 can be found in the
+obj0 manager obj1 obj1 club obj3===obj1 plays at obj3 he also manages obj0
+obj0 manager obj1 obj1 club obj3===obj0 is managed by obj1 who plays at the obj3
+obj0 mediatype obj5 obj0 obj4 obj2===obj2 is the obj4 of obj0 which can be
+obj0 author obj2 obj0 mediatype obj5===obj0 is available in obj5 and was written by obj2
+obj0 author obj2 obj0 mediatype obj5===obj0 was written by obj2 and is available in obj5
+obj0 author obj2 obj0 mediatype obj5===obj0 which is in obj5 was penned by obj2
+obj0 author obj2 obj0 mediatype obj5===obj0 which is in obj5 was written by obj2
+obj0 mediatype obj5 obj0 obj3 obj2===obj0 obj3 obj2 is currently in obj5
+obj0 mediatype obj5 obj0 obj3 obj2===the book a severed wasp is available in obj5
+obj0 mediatype obj5 obj0 obj3 obj2===the book a severed wasp is available in obj5
+obj0 creator obj3 obj0 creator obj2===obj0 was created by obj3 and obj2
+obj0 creator obj3 obj0 creator obj2===obj0 is the creation of obj2 and obj3
+obj3 state obj0 obj0 leadername obj2===obj3 is located in obj0 whose leader is obj2
+obj4 nationality united states obj4 birthplace===american retiree obj4 was born in obj0
+obj4 nationality united states obj4 birthplace===obj7 us national obj4 was born in obj0
+obj4 nationality obj1 obj4 birthplace===obj4 was born in the obj1 in obj0 and
+obj2 nationality united states obj2 obj10 obj7===obj2 a us national obj10 obj7 obj11 obj9 in
+obj2 nationality obj1 obj2 obj10 obj7===obj2 from the united states went to obj0 and
+obj3 almamater obj0 obj3 birthplace===obj3 a us national was born in obj8 and
+obj3 almamater obj0 obj3 birthplace===obj3 a us national born in obj8 was a
+obj3 almamater obj0 obj3 birthplace===obj3 a obj1 national born in obj8 attended the obj0
+obj3 almamater obj0 obj3 birthplace===obj3 born in obj8 united states attended the obj0
+obj3 almamater obj0 obj6 leadername===obj3 who attended the obj0 died in obj6 whose
+obj3 almamater obj0 obj6 leadername===obj3 was a student at obj0 and died in
+obj2 deathplace obj6 obj6 ispartof===obj2 died on the 28th of february 1966 in
+obj2 deathplace obj6 obj6 ispartof===obj2 died on 28 february 1966 in obj6 a
+obj0 publisher obj1 obj1 leadername===the obj1 is led by obj4 and is headquartered
+obj0 publisher obj1 obj1 leadername===the obj1 led by obj4 is headquartered in obj5
+obj0 author obj4 obj0 obj6===obj0 was written by obj4 and has the obj6
+obj0 author obj4 obj0 obj6===written by obj4 obj0 has the obj5 obj3 and
+obj6 author obj3 obj6 language===obj6 is written in english by obj3 the followed
+obj6 author obj3 obj6 language===obj6 and the sequel obj1 were written in english
+obj3 leadertitle president of the obj3 obj2 country===the president is the leader of the obj3 which
+obj3 leadertitle president of the obj3 obj2 country===obj2 is from the obj3 where the leader is
+obj0 numberofmembers obj8 obj0 obj6===obj3 is obj6 of obj0 they have obj8 members
+obj0 numberofmembers obj8 obj0 obj6===the obj7 of obj0 is located in efeinoupoli has
+obj5 manager obj2 obj2 club===obj2 manages obj5 and plays at the obj0 he
+obj5 manager obj2 obj2 club===obj2 played for obj0 is at obj1 and manages obj5
+obj0 manager obj1 obj1 obj7===obj1 has played for obj5 and was attached to
+obj0 manager obj1 obj1 obj7===obj0 is managed by obj1 who has played for
+obj0 manager obj1 obj1 obj7===obj0 are managed by obj1 who also played for
+obj4 manager obj1 obj1 obj7===obj1 manages the obj4 and is in the obj5
+obj4 manager obj1 obj1 club===obj1 who manages obj4 plays for obj5 and istanbulspor as
+obj0 cityserved obj4 obj0 runwaylength===obj0 serves the city of obj4 and obj3 the
+obj3 elevationabovethesealevel in metres obj8 obj3 location===with an elevation of obj8 metres above sea level
+obj3 elevationabovethesealevel in metres obj8 obj3 location===at obj8 metres above sea level obj3 is located
+obj3 elevationabovethesealevel in metres obj8 obj3 location===obj3 is in obj0 us and is 210m above
+obj0 cityserved obj6 obj4 language===obj6 served by obj0 is a popular tourist destination
+obj0 ingredient obj6 obj6 obj4===obj6 used when making obj0 is part of the
+obj1 region obj5 obj5 ethnicgroup===from obj4 obj1 is a popular dish in obj5
+obj1 region obj5 obj5 ethnicgroup===obj1 is found in obj4 and obj5 home of obj0
+obj0 dishvariation obj7 obj7 dishvariation===the obj7 and obj0 are variations of a obj2
+obj0 dishvariation obj7 obj7 dishvariation===the obj7 is a variation on the obj2 or
+obj0 dishvariation obj7 obj7 dishvariation===another variation for a obj0 is a obj7 a
+obj14 obj24 obj8 obj20 obj13 obj7 obj23 obj19 obj12===obj19 obj14 obj24 obj8 obj20 obj13 obj7 obj23 obj19
+obj14 obj24 obj8 obj20 obj13 obj7 obj23 obj19 obj12===obj19 obj14 obj24 obj8 obj20 obj13 obj7 obj23 obj19
+obj10 leadertitle obj0 obj1 location===the obj0 is the leader of obj10 the obj9
+obj10 leadertitle obj0 obj1 location===obj1 is located in the obj2 which has obj10
+united states ethnicgroup obj2 united states leadertitle===obj7 is the obj0 where one finds obj2 and
+united states ethnicgroup obj2 united states obj11===in the us where the obj11 is obj1 you'll
+obj0 manager obj3 obj3 obj10===obj3 was born in obj9 and is in the
+obj0 numberofmembers obj11 obj0 obj8===obj5 is obj8 of obj0 which has obj11 members
+obj0 numberofmembers obj11 obj0 obj8===obj0 is in the obj9 epsth 2nd group and
+obj1 manager obj4 obj4 club===obj4 once played for obj3 and obj2 he now
+obj1 numberofmembers obj10 obj1 obj9===with obj10 members obj1 has its obj9 in obj8
+obj1 numberofmembers obj10 obj1 obj9===obj1 has a obj9 in obj8 and has obj10
+obj6 manager obj1 obj1 club===obj1 plays for obj7 obj5 and the obj0 in
+obj1 cityserved obj5 obj1 runwaylength===obj5 is served by the obj1 whose runway name
+obj3 operatingorganisation obj1 obj3 runwaylength===obj3 is located at al obj13 obj9 in iraq
+obj0 mediatype obj8 obj0 obj7===obj0 by obj6 has the obj7 obj10 the obj5
+obj0 mediatype obj8 obj0 obj7===obj0 written by jv jones and produced in obj8
+obj0 mediatype obj8 obj0 obj7===obj6 is the obj11 of obj0 which was published
+obj0 author obj5 obj0 obj7===the book obj0 has the obj6 of obj4 and
+obj0 author obj5 obj0 obj7===the obj8 book obj0 was written by obj5 has
+obj0 author obj5 obj0 obj7===the book obj0 written by obj5 was published in
+obj0 publisher obj7 obj7 country===obj0 is published by obj7 in the obj3 which
+obj0 publisher obj7 obj7 obj11===obj0 was published in the obj3 by obj7 the
+obj0 publisher obj7 obj7 country===the obj3 has an ethnic group called obj2 but
+obj0 publisher obj4 obj0 obj8===obj0 abbreviated to acta palaeontol pol was published by
+obj0 publisher obj4 obj0 obj8===obj0 is abbreviated to obj5 and is published by
+obj0 publisher obj2 obj2 country===obj2 us subsidary of obj5 publishes the obj0 first
+obj0 publisher obj2 obj2 country===obj0 is published in obj11 by the obj2 whose
+obj0 publisher obj2 obj2 country===the obj0 first pub 1878 was published by obj5
+obj5 nationality obj1 obj5 birthplace===obj5 obj13 born in obj0 in the obj1 he
+obj1 ingredient obj9 obj10 dishvariation===bacon sandwiches are popular in the uk obj9 can
+obj1 ingredient obj9 obj10 dishvariation===obj1 is a dish from the uk that obj9
+obj4 ingredient obj8 obj4 country===obj4 is a obj11 dish from the obj2 and
+obj2 obj23 obj10 obj2 main obj7===obj2 is a popular food of obj8 that comes
+united states leadername obj9 united states obj14===obj9 is the president of the us where there
+united states leadername obj9 united states obj14===obj1 is an american novel and is preceded by
+united states leadername obj9 united states obj14===obj1 preceded by 1634 the galileo affair was written
+obj5 leadertitle president of the obj5 english language spokenin===english is spoken in obj8 and the obj5 where
+obj5 leadertitle president of the obj5 english language spokenin===english is spoken in obj8 and the obj5 where
+obj3 obj16 obj21 its obj11 obj8 obj3===the obj0 classed as a obj9 can be found
+obj3 nationality americans obj12 creator===obj12 was created by american obj3 and obj2 obj12
+obj3 nationality americans obj12 creator===obj12 is a character who appeared in big hero
+obj3 nationality americans obj12 creator===obj12 was created by american obj3 and obj2 obj12
+obj4 obj16 obj18 obj15 obj13 obj17 obj8===obj4 obj16 born in obj3 and he obj16 obj18
+obj1 obj17 obj19 obj16 obj13 of obj5===obj1 obj17 born on january 20th 1930 he obj17
+obj1 obj17 obj19 obj16 obj13 obj18 obj5===obj1 obj17 born on the 20th october 1930 he
+obj4 operatingorganisation obj2 obj4 runwaylength===obj4 is located in obj1 and is operated by
+obj3 elevationabovethesealevel in metres obj14 obj3 runwaylength===obj3 which serves alpena is found in obj0 in
+obj3 elevationabovethesealevel in metres obj14 obj3 runwaylength===obj3 which serves alpena is found in obj0 in
+obj3 elevationabovethesealevel in metres obj14 obj3 runwaylength===obj3 which serves the city of alpena is found
+obj0 cityserved obj13 obj13 obj8===obj3 and obj2 are leaders in obj9 where the
+obj0 cityserved obj13 obj13 country===the obj0 serves the city of obj13 in obj9
+obj0 cityserved obj13 obj13 country===obj0 serves the city of obj13 in greek speaking
+obj0 cityserved obj13 obj13 country===obj0 serves the city of obj13 obj9 where the
+obj0 cityserved obj13 obj13 country===the obj0 is located in obj13 obj9 which has
+obj9 obj20 obj7 obj9 obj17===obj23 is obj24 obj17 obj26 obj9 which has obj7
+obj9 obj20 obj7 obj9 obj17===obj2 designed by huseyin butuner obj25 hilmi guner is
+obj9 obj20 obj7 obj9 obj17===obj24 obj23 turkish martyrs memorial obj27 obj9 is dedicated
+obj2 obj17 obj14 obj2 city===obj2 in obj15 obj23 was obj12 in obj25 and
+obj2 obj17 obj14 obj2 city===obj12 in obj25 the obj2 is in obj15 obj23
+obj14 leadertitle president of obj14 obj14 leadername===inaugurated on the 27th of july 1932 the ataturk
+obj14 leadertitle president of obj14 obj14 leadername===president ahmet davutoglu is the leader of obj14 which
+obj14 leadertitle president of obj14 obj14 leadername===president ahmet davutoglu is the leader of obj14 which
+obj1 deathplace obj0===obj1 died in obj0
+obj1 deathplace obj0===obj1 died in obj0
+obj1 deathplace obj0===obj1 died in obj0
+obj0 deathplace obj2===alfons gorbach's place of death was in obj2
+obj0 deathplace obj2===obj0 died in obj2
+obj0 manager obj1===obj1 manages obj0
+obj2 associatedband associatedmusicalartist obj1===obj2 collaborates with obj1
+obj2 associatedband associatedmusicalartist obj1===obj2 plays with obj1
+obj1 associatedband associatedmusicalartist obj2===obj1 has worked with the musical artist obj2
+obj2 associatedband associatedmusicalartist obj1===obj2 is associated with fellow musician obj1
+obj0 deathplace obj2===obj0 died in obj2
+obj2 associatedband associatedmusicalartist obj1===obj2 is associated with the musical artist obj1
+obj2 associatedband associatedmusicalartist obj1===obj2 and obj1 are associates
+obj2 associatedband associatedmusicalartist obj1===obj2 is associated with obj1
+obj2 associatedband associatedmusicalartist obj1===the musicians obj2 and obj1 are associates
+obj1 manager obj3 obj0 club obj1===obj0 played for obj1 managed by obj3
+obj1 manager obj3 obj0 club obj1===obj0 plays for obj1 managed by obj3
+obj1 manager obj3 obj0 club obj1===obj0 played for obj1 managed by obj3
+obj4 associatedband associatedmusicalartist obj2 obj4 associatedband associatedmusicalartist obj3===obj4 an artist for the band obj3 is associated
+obj0 deathplace obj5 obj0 birthplace obj2===obj0 was born in obj2 and died in obj5
+obj2 associatedband associatedmusicalartist obj4 obj2 associatedband associatedmusicalartist obj5===obj2 is a musician associated with the obj4 and
+obj2 associatedband associatedmusicalartist obj4 obj2 associatedband associatedmusicalartist obj5===obj2 was with the bands obj5 and obj4
+obj2 associatedband associatedmusicalartist obj4 obj2 associatedband associatedmusicalartist obj5===obj4 and obj5 are acts associated with obj2
+obj3 associatedband associatedmusicalartist obj2 obj3 associatedband associatedmusicalartist obj5===obj3 is associated with obj2 and he has worked
+obj3 associatedband associatedmusicalartist obj2 obj3 associatedband associatedmusicalartist obj5===obj3 is associated with obj2 as well as obj5
+obj3 associatedband associatedmusicalartist obj2 obj3 associatedband associatedmusicalartist obj5===obj3 has worked with obj5 and is associated with obj2
+obj4 associatedband associatedmusicalartist obj3 obj4 associatedband associatedmusicalartist obj2===obj4 is associated with musical artist obj2 and obj3
+obj4 associatedband associatedmusicalartist obj3 obj4 associatedband associatedmusicalartist obj2===obj4 is associated with obj3 and the musical artist obj2
+obj4 associatedband associatedmusicalartist obj3 obj4 associatedband associatedmusicalartist obj2===obj4 is musically associated with obj3 and obj2
+obj3 associatedband associatedmusicalartist obj2 obj3 associatedband associatedmusicalartist obj5===obj3 is associated with both musical artist obj2 and obj5
+obj3 associatedband associatedmusicalartist obj2 obj3 associatedband associatedmusicalartist obj5===obj3 has worked musically with obj2 and obj5
+obj4 associatedband associatedmusicalartist obj3 obj4 associatedband associatedmusicalartist obj2===obj4 is associated with both the musician obj3 and obj2
+obj4 associatedband associatedmusicalartist obj3 obj4 associatedband associatedmusicalartist obj2===obj4 is associated with the musician obj3 and the
+obj4 associatedband associatedmusicalartist obj3 obj4 associatedband associatedmusicalartist obj2===obj4 is associated with the musicians obj3 and obj2
+obj5 nationality obj1 obj1 leadername===obj5 is a national of the obj1 and worked
+obj5 nationality obj1 obj1 leadername===obj5 worked at the house of representatives in obj1
+obj4 nationality obj1 obj1 leadername===obj4 is a member of the socialist obj8 in
+obj4 nationality obj1 obj1 leadername===the obj1 with the leader obj5 is where obj4
+obj0 deathplace obj3 obj0 birthplace===obj0 was born in obj4 obj5 and died in
+obj0 deathplace obj3 obj0 birthplace===obj0 was born in obj4 obj5 and died in obj3
+obj0 deathplace obj3 obj0 birthplace===obj0 was born in obj4 in obj5 he passed
+obj0 deathplace united states obj0 birthplace===obj0 was born in obj3 in obj8 he died
+obj0 deathplace united states obj0 birthplace===obj0 was born in obj3 obj8 and also died
+obj0 deathplace obj4 obj0 birthplace===obj0 was born in obj3 obj8 and later died
+obj1 deathplace obj8 obj1 birthplace===obj1 was born in the obj0 obj7 and died
+obj1 deathplace obj8 obj1 birthplace===obj1 was born in the obj0 in obj7 and
+obj1 deathplace obj8 obj1 birthplace===obj1 was born in the obj0 in obj7 and
+obj5 associatedband associatedmusicalartist obj2 obj5 associatedband associatedmusicalartist===an artist with the band obj2 obj5 plays for
+obj5 associatedband associatedmusicalartist obj2 obj5 associatedband associatedmusicalartist===obj5 plays for the obj3 obj7 bandhe is an
+obj5 associatedband associatedmusicalartist obj2 obj5 associatedband associatedmusicalartist===obj5 plays for the obj2 band and the obj3
+obj3 associatedband associatedmusicalartist obj7 obj3 associatedband associatedmusicalartist===obj3 plays obj6 for the k2 band he knows
+obj3 associatedband associatedmusicalartist obj7 obj3 associatedband associatedmusicalartist===obj3 is associated with the musical artist obj7 is
+obj3 associatedband associatedmusicalartist obj7 obj3 associatedband associatedmusicalartist===pop musician obj3 is associated with the musical artist
+obj2 associatedband associatedmusicalartist obj7 obj2 associatedband associatedmusicalartist===obj2 whose musical obj8 is pop is in same
+obj2 associatedband associatedmusicalartist obj7 obj2 associatedband associatedmusicalartist===obj2 a performer of obj6 is associated with the
+obj2 associatedband associatedmusicalartist obj7 obj2 associatedband associatedmusicalartist===obj2 is associated with the musical artists obj7 and
+obj0 deathplace obj8 obj0 birthplace===obj0 was born in obj8 in the obj3 he
+obj0 deathplace obj8 obj0 birthplace===obj0 born in obj7 in the uk died in obj8
+obj0 deathplace obj8 obj0 birthplace===obj0 was born in obj7 and died in obj8
+obj0 deathplace obj8 obj0 nationality===obj0 was born in obj5 in the uk and
+obj0 deathplace obj8 obj0 nationality===obj0 was born in obj5 in the obj3 and
+obj0 deathplace obj8 obj0 nationality===obj0 was born in manchesterunited kingdom and he passed
+obj0 deathplace obj8 obj0 birthplace===born in obj4 obj0 died in obj8 in obj4
+obj0 deathplace obj8 obj0 birthplace===obj0 was born in obj4 and died in obj8
+obj0 deathplace obj8 obj0 birthplace===the obj2 is the leader of obj4 the city
+obj3 associatedband associatedmusicalartist obj6 obj3 associatedband associatedmusicalartist===obj3 played obj2 for the band obj7 and the
+obj3 associatedband associatedmusicalartist obj6 obj3 associatedband associatedmusicalartist===irish folk musician obj3 is part of the obj6
+obj2 associatedband associatedmusicalartist obj6 obj2 associatedband associatedmusicalartist===obj2 plays obj7 and has played with the obj6
+obj2 associatedband associatedmusicalartist obj6 obj2 associatedband associatedmusicalartist===obj7 is the obj8 of obj2 who was in
+obj2 associatedband associatedmusicalartist obj6 obj2 associatedband associatedmusicalartist===obj2 plays obj7 for the obj6 band he also
+obj3 associatedband associatedmusicalartist obj8 obj3 associatedband associatedmusicalartist===obj3 has collaborated with obj6 and is associated with
+obj3 associatedband associatedmusicalartist obj8 obj3 associatedband associatedmusicalartist===obj3 is associated with the musical artists obj8 and
+obj3 associatedband associatedmusicalartist obj8 obj3 associatedband associatedmusicalartist===obj3 has worked with obj7 and is associated with
+obj5 associatedband associatedmusicalartist obj3 obj5 associatedband associatedmusicalartist===obj5 plays obj4 and is associated with obj3 and
+obj5 associatedband associatedmusicalartist obj3 obj5 associatedband associatedmusicalartist===the musical obj8 of obj5 is obj4 he is
+obj5 associatedband associatedmusicalartist obj3 obj5 associatedband associatedmusicalartist===obj5 whose musical obj8 is trance is associated with
+obj4 associatedband associatedmusicalartist obj2 obj4 associatedband associatedmusicalartist===trance musician obj4 is associated with musical artists obj2
+obj4 associatedband associatedmusicalartist obj2 obj4 associatedband associatedmusicalartist===obj4 of the music obj8 obj3 is associated with
+obj4 associatedband associatedmusicalartist obj2 obj4 associatedband associatedmusicalartist===obj4 a obj3 artiste is an associate of
+obj0 deathplace obj7 obj7 leadername===obj0 was born in the obj3 and he died
+obj0 deathplace obj7 obj7 leadername===obj0 was born in the obj3 and died there
+obj0 deathplace obj7 obj7 leadername===obj0 was born in the obj3 and died in
+obj1 manager obj5 obj3 obj7===obj3 plays for the obj0 and his obj7 is
+obj1 manager obj5 obj3 club===obj3 plays for the obj0 and also for obj1
+obj0 deathplace obj10 obj0 birthplace===obj0 was born in obj4 obj9 in obj11 and
+obj0 deathplace obj10 obj0 birthplace===obj0 was born in obj11 in obj4 obj9 and
+obj0 deathplace obj10 obj0 birthplace===obj0 was born in obj11 in obj4 england and
+obj1 deathplace obj3 obj3 country===obj1 died in obj3 obj9 where the natives are
+obj1 deathplace obj3 obj3 obj11===obj1 died in obj3 obj9 the city's leader is
+obj1 deathplace obj3 obj3 country===obj1 died in obj3 obj9 where daniel martinez is
+obj3 associatedband associatedmusicalartist obj10 obj3 associatedband associatedmusicalartist===alison o'donnell's career began obj11 and she performs obj8
+obj3 associatedband associatedmusicalartist obj10 obj3 associatedband associatedmusicalartist===folk musician alison o'donnell started performing in obj11 was
+obj3 associatedband associatedmusicalartist obj10 obj3 associatedband associatedmusicalartist===obj7 band member obj10 associate and folk artist obj3
+obj4 associatedband associatedmusicalartist obj8 obj4 associatedband associatedmusicalartist===folk musician obj4 began in obj11 and is associated
+obj4 associatedband associatedmusicalartist obj8 obj4 associatedband associatedmusicalartist===obj4 began performing obj9 in obj11 she's been associated
+obj4 associatedband associatedmusicalartist obj8 obj4 associatedband associatedmusicalartist===folk musician obj4 who began her career in obj11
+obj3 associatedband associatedmusicalartist obj9 obj3 associatedband associatedmusicalartist===rock musician obj3 has worked with the band obj10
+obj3 associatedband associatedmusicalartist obj9 obj3 associatedband associatedmusicalartist===obj3 is associated with the musical artists obj9 and
+obj3 associatedband associatedmusicalartist obj9 obj3 associatedband associatedmusicalartist===an exponent of obj7 obj3 is associated with musical
+obj1 birthplace obj13 obj1 birthplace===obj1 was born in obj13 obj12 he was obj0
+obj1 birthplace obj13 obj1 birthplace===obj1 who was born in obj13 obj12 served as
+obj1 birthplace obj13 obj1 birthplace===obj1 was born in obj13 obj12 and worked for
+obj1 birthplace obj13 obj1 birthplace===obj1 who was born in obj13 obj12 worked for
+obj1 birthplace obj13 obj1 birthplace===obj1 was born in obj13 obj12 and worked at
+obj8 nationality obj4 obj4 obj9===obj8 is a national of the obj4 where the
+obj8 nationality obj4 obj4 obj9===obj2 is a leader of the socialist obj10 in
+obj8 nationality obj4 obj4 obj9===obj2 is leader of socialist obj10 in obj4 which
+obj5 nationality obj2 obj2 leadername===obj5 a obj2 national worked at the house of
+obj5 nationality obj2 obj2 leadername===obj5 is a national of the obj2 where obj8
+obj5 nationality obj2 obj2 leadername===socialist obj13 member obj5 who is a obj2 national
+obj10 nationality obj4 obj4 leadername===obj10 is a national of the obj4 the leader
+obj10 nationality obj4 obj4 leadername===obj10 is from the obj4 where the leader is
+obj10 nationality obj4 obj4 leadername===the obj4 socialist obj11 is led by member obj2
+obj3 deathplace obj6 obj6 leadername===obj3 a member of the obj2 was in office
+obj3 deathplace obj6 obj6 leadername===obj3 belongs to the obj2 and was in office
+obj2 deathplace obj11 obj11 leadername===obj2 who died in obj11 belonged to obj5 and
+obj2 deathplace obj11 obj11 leadername===former soviet union international footballer obj2 died in obj11
+obj2 deathplace obj11 obj11 leadername===obj2 died in obj11 where obj1 is a leader
+obj2 deathplace obj7 obj2 obj16===obj2 was born in obj10 united stateswhere he became
+obj2 deathplace obj7 obj2 obj16===obj2 was an american national born in obj10 he
+obj2 deathplace obj7 obj2 obj16===american obj2 born in obj10 was a member of
+obj10 nationality obj5 obj5 leadername===obj3 is a member and leader of the socialist
+obj10 nationality obj5 obj5 leadername===obj10 is a national of the obj5 where the
+obj10 nationality obj5 obj5 leadername===obj10 who worked at the house of representatives is
+obj6 nationality obj3 obj3 leadername===obj6 was born in the obj3 and lives in
+obj6 nationality obj3 obj3 leadername===obj6 is a national of the obj3 which is
+obj6 nationality obj3 obj3 leadername===obj6 was a national of the obj3 led by
+obj8 nationality obj4 obj4 leadername===obj8 of obj4 lives in obj13 obj9 is leader
+obj8 nationality obj4 obj4 leadername===obj8 lives in obj13 and is a national of
+obj7 associatedband associatedmusicalartist obj3 obj7 associatedband associatedmusicalartist===obj7 is a obj12 musician a obj14 that originated
+obj7 associatedband associatedmusicalartist obj3 obj7 associatedband associatedmusicalartist===obj7 plays for the obj3 and the obj4 bands
+obj7 associatedband associatedmusicalartist obj3 obj7 associatedband associatedmusicalartist===obj7 plays for the obj3 and for the suburban
+obj0 deathplace obj13 obj0 birthplace===obj0 was born in obj14 in obj7 obj12 in
+obj0 deathplace obj13 obj0 birthplace===obj0 was born in obj7 obj12 in the obj5
+obj0 deathplace obj13 obj0 birthplace===obj0 was born in manchesterengland in 1872he passed away
+obj5 associatedband associatedmusicalartist obj10 obj5 associatedband associatedmusicalartist===obj5 a member of the obj10 band and the
+obj5 associatedband associatedmusicalartist obj10 obj5 associatedband associatedmusicalartist===ireland folk musician obj5 is signed to obj2 and
+obj5 associatedband associatedmusicalartist obj10 obj5 associatedband associatedmusicalartist===obj2 recording ireland artist obj5 began performing in obj14
+obj5 associatedband associatedmusicalartist obj11 obj5 associatedband associatedmusicalartist===obj5 is a rock musician who career began in
+obj5 associatedband associatedmusicalartist obj11 obj5 associatedband associatedmusicalartist===obj5 a rock musician started performing in obj14 and
+obj5 associatedband associatedmusicalartist obj11 obj5 associatedband associatedmusicalartist===rock musician obj5 began his career in obj14 and
+obj4 associatedband associatedmusicalartist obj11 obj4 associatedband associatedmusicalartist===obj4 musical career began in obj14 his career began
+obj4 associatedband associatedmusicalartist obj11 obj4 associatedband associatedmusicalartist===obj4 began his obj12 musical career in obj14 and
+obj4 associatedband associatedmusicalartist obj11 obj4 associatedband associatedmusicalartist===obj12 artist obj4 began in obj14 and is associated
+obj6 associatedband associatedmusicalartist obj5 obj6 obj13===obj6 who was born in chisinau moldova started his
+obj6 associatedband associatedmusicalartist obj5 obj6 obj13===obj6 was born in chisinau moldova he's an associate
+obj6 associatedband associatedmusicalartist obj5 obj6 obj13===obj6 was born in chisinau moldova he began his
+obj8 associatedband associatedmusicalartist obj5 obj5 associatedband associatedmusicalartist===obj7 performer obj8 was a string instrumentalist he's associated
+obj8 associatedband associatedmusicalartist obj5 obj5 associatedband associatedmusicalartist===string instrumentalist obj8 who performs obj7 is associated with
+obj8 associatedband associatedmusicalartist obj5 obj5 associatedband associatedmusicalartist===trance string instrumentalist obj8 is associated with musicians obj11

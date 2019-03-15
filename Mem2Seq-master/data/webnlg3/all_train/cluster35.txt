@@ -1,0 +1,73 @@
+baku turkish martyrs' memorial obj2 hüseyin bütüner and hilmi güner===the designers of the turkish martyrs memorial are huseyin
+obj1 obj5 obj3 obj3 ispartof central denmark region===the obj2 of obj0 is obj4 part of central denmark
+obj0 operatingorganisation obj5 obj0 location são josé dos pinhais===obj5 operated by obj4 is located in sao jose
+obj0 operatingorganisation obj5 obj0 location são josé dos pinhais===obj5 in sao jose dos pinhais is operated by obj4
+obj0 operatingorganisation obj5 obj0 location são josé dos pinhais===obj5 is located in sao jose dos pinhais and
+obj0 runwaylength obj5 obj0 location são josé dos pinhais===located at sao jose dos pinhais obj5 has a
+obj1 obj4 obj3 obj1 birthplace british hong kong===obj0 obj2 is the obj4 but he was born
+obj0 completiondate obj5 obj0 location colmore row===obj5 was completed in obj4
+obj0 location obj1 obj1 leadername elizabeth ii===elizabeth 11 is a leader in the obj4 and
+obj1 location obj4 obj1 architecturalstyle postmodern architecture===obj0 is in obj4 and it has the postmodern
+obj1 location obj4 obj1 architecturalstyle postmodern architecture===obj0 has the postmodern style of architecture and is
+ababa city hall completiondate obj7 addis ababa city hall floorarea===addis adaba city hall was completed in obj4 and
+nationality united states obj4 creator roger mckenzie comic book writer===the american roger mckenzie is a comic book writer
+nationality united states obj4 obj5 roger mckenzie comic book writer===roger mckenzie the american comic book writer is the
+obj4 obj5 obj2 obj2 leadername susana díaz===obj0 is from the obj4 obj4 where susana diaz
+obj4 region obj2 obj2 leadername susana díaz===obj0 is from obj4 where susana diaz is the leader
+obj3 obj2 obj1 obj3 region javanese cuisine===obj0 is a javanese dish and uses the obj2 obj4
+obj3 ingredient obj1 obj3 region javanese cuisine===obj0 is a javanese dish that contains obj4
+obj1 obj3 obj4 obj4 leadername gérard larcher===obj0 originates from the obj2 of obj5 who has
+obj1 country obj4 obj4 leadername gérard larcher===obj0 is from obj5 where the leader is gerard larcher
+obj2 course obj3 obj3 dishvariation sandesh confectionery===obj0 and sandesh are both desserts
+obj2 course obj3 obj3 dishvariation sandesh confectionery===obj0 and sandesh are desserts
+obj3 obj1 obj5 obj3 country chinese cuisine===obj4 is an obj2 in the chinese dish obj0
+obj4 ingredient obj3 obj4 country chinese cuisine===noodles are used in obj0 which is a type
+obj4 ingredient obj3 obj4 country chinese cuisine===obj0 is made in china and it contains noodles
+obj4 ingredient obj3 obj4 country chinese cuisine===the chinese dish obj0 contains noodles
+obj4 obj1 obj3 obj4 country chinese cuisine===obj5 is an obj2 in obj0 which is made
+obj1 obj3 obj5 obj1 country colombian cuisine===columbian obj0 boasts the obj2 obj4
+obj1 obj3 obj5 obj1 country colombian cuisine===obj4 is an obj2 in the columbian cuisine obj0
+obj1 obj3 obj5 obj1 country colombian cuisine===obj4 is one of the ingredients in the colombian
+obj1 obj3 obj5 obj1 country colombian cuisine===columbian obj0 includes the obj2 obj4
+obj1 obj4 obj2 obj1 country colombian cuisine===obj4 is an obj4 in the colombian dish obj0
+obj1 ingredient obj5 obj1 country colombian cuisine===obj0 containing obj4 is part of columbian cuisine
+obj1 ingredient obj4 obj1 country colombian cuisine===columbian obj0 includes a obj4
+obj1 obj4 obj3 obj1 country colombian cuisine===obj4 is an obj2 in obj0 which is part
+obj1 obj4 obj3 obj1 country colombian cuisine===the obj4 is an obj2 in obj0 which is
+obj1 obj3 obj5 obj1 country colombian cuisine===obj4 is an obj2 of obj0 and is part
+obj1 obj3 obj5 obj1 country colombian cuisine===obj0 is a colombian dish and has obj4 as
+obj1 obj3 obj4 obj4 leadername françois hollande===the obj2 obj0 come from is obj5 where francois
+obj1 obj3 obj4 obj4 leadername gérard larcher===the leader of obj5 is gerard larcher and the
+obj1 country obj4 obj4 leadername gérard larcher===obj0 are available in obj5 where gerard larcher is
+obj1 country obj4 obj4 leadername manuel valls===obj0 are found in obj5 where manual valls is
+obj2 course obj3 obj3 dishvariation sandesh confectionery===obj0 and sandesh are both obj4
+obj0 location obj5 obj0 material rock geology===the obj5 is made from rock and is in obj4
+obj2 numberofmembers obj5 obj2 obj4 2014–15 bundesliga===obj0 has obj7 members and played the 2014 15 obj7
+obj2 numberofmembers obj5 obj2 obj4 2014–15 serie a===obj0 have obj7 members and played the 2014 15 obj7
+obj2 numberofmembers obj5 obj2 obj4 2014–15 serie a===obj0 played the 2014 15 obj7 in serie a and
+obj2 numberofmembers obj5 obj2 obj4 2014–15 serie a===obj0 has obj7 members and played in the 2014 15
+obj4 league obj0 obj0 obj3 qarabağ fk===the obj4 competes in the obj4 where the championship
+obj4 league obj0 obj0 obj3 qarabağ fk===obj4 play in the obj4 where the obj7 are
+obj4 league obj0 obj0 obj3 qarabağ fk===although obj4 is in the obj4 qarabag fk are
+obj2 numberofmembers obj5 obj2 season 2014–15 eredivisie===has obj4 members and played in the eredivisie 2014 15
+obj2 numberofmembers obj5 obj2 season 2014–15 eredivisie===obj0 has obj4 members and played in the eredivisie
+obj2 numberofmembers obj5 obj2 season 2014–15 eredivisie===obj0 which has obj4 members played in the eredivisie
+obj0 obj4 obj2 obj0 obj6 alba iulia===the obj5 is situated in the obj7 of alba
+obj0 mediatype obj3 obj0 obj5 j v jones===jv jones is the obj7 of the hardcovered book obj7
+obj0 mediatype obj3 obj0 author j v jones===obj5 released in obj4 was written by jv jones
+obj2 obj4 english obj4 a severed wasp obj5===english is the main obj2 spoken in the obj0
+iqbal international airport location obj5 allama iqbal international airport runwaylength===allam iqbal international airport is located in obj4 has
+iqbal international airport operatingorganisation obj3 allama iqbal international airport location===the obj4 runs allam iqbal international airport in obj5
+ababa city hall completiondate obj10 addis ababa city hall height===addid ababa city hall completed in obj4 is 42
+county pennsylvania has obj11 its southeast carroll county maryland obj0===the obj8 which was completed in obj8 is located
+united states leadername obj5 a severed wasp country===obj4 is the president of the us which is
+pena international airport cityserved obj11 são josé dos pinhais ispartof===afonsa pena international airport located at sao jose dos
+iqbal international airport location obj8 allama iqbal international airport runwaylength===allama lqbal international airport is located in obj4 has
+distinguished service medal united states navy higher obj2 obj4 birthplace===obj5 was born in obj3 on obj7 he was
+obj4 main obj8 s meringue ice cream===the deobj4obj4ert obj0 thought to have originated in the
+obj3 main obj7 s meringue ice cream===obj15 kong obj14 obj18 obj16 obj20 pariobj4 are the
+obj3 main obj7 s meringue ice cream===the obj2 ingredientobj4 of obj0 are meringue obj8 and
+suárez obj12 –barajas airport runwayname 18l 36r adolfo suárez obj12===adolfo suarez madrid barajas airport is located in obj1 and
+pena international airport cityserved obj14 são josé dos pinhais ispartof===afonsa pena international airport in san jose dos pinhais
+iqbal international airport location obj10 allama iqbal international airport runwaylength===allama igbal internation airport is located in obj13 obj4
+turkey obj15 title president of turkey turkey obj15===president ahmet davutoglu is the turkish obj2 the local

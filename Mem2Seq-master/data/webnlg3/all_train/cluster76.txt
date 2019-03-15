@@ -1,0 +1,203 @@
+obj0 elevationabovethesealevel in metres 610 0===obj0 is elevated 610 metres above sea level
+obj1 elevationabovethesealevel in metres 88 0===obj0 is 88 metres above sea level
+obj1 elevationabovethesealevel in metres 88 0===the obj0 elevation above the sea level in meters
+ardmore airport new zealand 2nd runway surfacetype obj2===obj4 is the surface type of the second runway
+obj1 obj3 obj4 obj1 iata obj3===obj0 is in obj4 and has the ata obj2
+obj2 obj4 obj1 obj2 iata obj4===located in obj8 obj0 has the ata obj5 identifier obj5
+obj5 operatingorganisation obj1 obj1 aircraftfighter obj0===the obj4 who operated obj9 deploy the aircraft fighter
+obj5 operatingorganisation obj1 obj1 aircraftfighter obj0===obj9 is operated by the obj4 which also uses
+obj5 operatingorganisation obj1 obj1 aircraftfighter obj0===the obj9 is an aircraft fighter in the obj4
+obj5 operatingorganisation obj1 obj1 aircraftfighter obj0===obj9 operated by the obj4 uses the obj9 aircraft carrier
+obj0 obj3 obj4 obj0 iata location identifier obj5===the obj2 of obj9 is obj4 and the iata
+obj0 obj3 obj4 obj0 iata location identifier obj5===obj4 is the obj2 of obj9 and obj9 is
+obj3 obj5 obj2 obj0 2nd runway surfacetype obj3===the 2nd runway at obj5 is made of obj5
+obj4 obj3 obj2 obj0 2nd runway surfacetype obj4===the 2nd runway at obj5 is made of obj5
+obj3 obj5 obj2 obj0 2nd runway surfacetype obj3===the 2nd runway at obj5 is made of obj5
+obj0 obj5 obj1 obj1 keyperson obj3===obj4 with obj9 as a key leader is the
+obj0 obj5 obj1 obj1 keyperson obj3===the obj2 of the obj0 is obj4 one of
+obj0 completiondate obj4 obj0 address obj3===obj5 is at obj9 and was completed on obj4
+obj0 location obj3 obj0 yearofconstruction obj5===obj9 built in obj9 is located in obj4
+obj0 location obj3 obj0 yearofconstruction obj5===obj9 was built in obj9 and is located in obj4
+obj0 location obj3 obj0 yearofconstruction obj5===obj9 built in obj9 is located at obj4
+obj0 location obj3 obj0 yearofconstruction obj5===the obj9 is on obj4 and was constructed in obj9
+obj0 location obj3 obj0 yearofconstruction obj5===the obj9 is located on obj4 and was built
+obj1 location obj0 obj1 yearofconstruction obj8===obj4 is located at obj4 and was constructed in obj9
+obj0 location obj2 obj0 yearofconstruction obj5===obj9 were constructed in obj9 and are located in obj4
+obj0 location obj2 obj0 yearofconstruction obj5===the obj9 constructed in obj9 is located at obj4
+obj0 location obj2 obj0 yearofconstruction obj5===constructed in obj9 the obj9 are located at obj4
+obj1 location obj0 obj1 yearofconstruction obj6===obj4 built in obj9 are located on obj4
+obj1 location obj0 obj1 yearofconstruction obj6===the obj4 constructed in 1904 is in obj4
+obj0 location obj3 obj0 yearofconstruction obj5===obj9 built in obj9 is located in obj4
+obj0 location obj3 obj0 yearofconstruction obj5===obj9 in obj4 were constructed in obj9
+obj0 location obj3 obj0 yearofconstruction obj5===the obj9 which was built in obj9 is located
+obj0 location obj3 obj0 yearofconstruction obj5===obj9 constructed in 1904 are located in obj4
+obj0 obj4 obj3 obj0 yearofconstruction obj5===the obj2 of obj9 built in obj9 is obj4
+obj3 creator obj0 obj0 award obj2===obj4 created the obj4 and won the obj9
+obj3 obj4 obj0 obj0 award obj2===obj4 obj9 of the obj4 has won the obj9
+obj3 creator obj0 obj0 award obj2===the obj4 was created by obj4 who won the obj9
+obj2 obj1 obj4 obj4 division obj0===obj5 class flowering plant is an obj2 in obj9
+obj2 obj1 obj4 obj4 division obj0===obj5 is classed as a obj9 and is an
+obj2 country obj1 obj2 servingtemperature obj5===obj0 is a obj9 dish served in obj4
+obj2 obj3 obj1 obj2 servingtemperature obj5===obj0 is found in the obj9 of obj4 and
+obj2 obj3 obj1 obj2 servingtemperature obj5===the obj9 of obj4 like to serve obj9 dishes
+obj0 location obj2 obj0 category obj3===the obj5 situated in obj4 is categorised as a obj9
+obj0 location obj2 obj0 category obj3===the obj5 is located in obj4 and is categorised
+obj0 location obj3 obj3 capital obj5===the obj0 is in obj9 obj4
+obj0 location obj4 obj4 ethnicgroups obj1===obj0 is in obj5 and one of the ethnic
+obj0 location obj4 obj4 ethnicgroups obj1===the obj0 is located in obj5 where one of
+obj1 obj5 obj3 obj3 leaderparty obj0===the obj2 of obj9 is in obj4 where the
+obj1 obj5 obj3 obj3 leaderparty obj0===obj9 has a obj2 in obj4 where the obj9
+obj1 obj5 obj3 obj3 leaderparty obj0===the obj2 of obj9 is located in obj4 the
+obj0 obj5 obj3 obj0 established obj4===the obj2 of obj5 which was created in obj9
+obj0 abbreviation obj2 obj0 issn number obj5===the obj9 issn obj9 is often abbreviated as obj4
+obj7 operatingorganisation obj2 obj2 aircraftfighter===the obj4 is the operating organisation for obj0 an
+obj7 operatingorganisation obj2 obj2 aircraftfighter===the obj4 is the operating organisation for obj0 and
+obj7 operatingorganisation obj2 obj2 aircraftfighter===obj0 is operated by the obj4 which uses obj0
+obj7 operatingorganisation obj2 obj2 aircraftfighter===the usaf operates obj0 where obj0 aircraft fighters can
+obj7 operatingorganisation obj2 obj2 aircraftfighter===the obj4 which is the operating organisation for obj0
+obj6 operatingorganisation obj1 obj1 aircraftfighter===the obj4 which is the operating organisation for obj0
+obj7 operatingorganisation obj2 obj2 aircraftfighter===obj0 is operated by the obj4 which uses an
+obj7 operatingorganisation obj2 obj2 aircraftfighter===the obj4 is the operating organisation for al asad
+obj7 operatingorganisation obj2 obj2 aircraftfighter===obj0 is operated by the obj4 which was involved
+obj7 operatingorganisation obj2 obj2 aircraftfighter===the obj4 operates obj0 they were involved in the
+obj4 ispartof obj2 obj4 leaderparty===adolfo suárez madrid barajas airport is found in obj0
+obj4 ispartof obj2 obj4 leaderparty===obj0 is part of obj5 whose leader party at
+obj0 cityserved obj6 obj4 officiallanguage===obj0 serves obj5 obj5 where the official language is french
+obj0 cityserved obj6 obj4 officiallanguage===obj0 serves the city of obj5 a popular tourist
+obj0 cityserved obj6 obj4 officiallanguage===obj0 serves obj5 a popular tourist destination in german
+obj0 cityserved obj6 obj4 officiallanguage===obj0 serves obj5 obj5 where german is an official language
+obj4 obj3 obj2 obj0 2nd runway surfacetype===obj5 which is of the obj7 obj8 belongs to
+obj4 obj3 obj2 obj0 2nd runway surfacetype===the 2nd runway at obj5 is made of obj5
+obj2 almamater obj0 obj2 timeinspace===obj4 went to obj4 he obj12 obj6 obj13 obj10
+obj4 obj3 obj1 obj0 w obj13===obj40 obj8 obj5 and obj7 obj9 obj2 served under
+obj2 country obj3 obj3 capital===obj0 is located in obj4 obj0 and the obj6
+obj2 location obj1 obj2 yearofconstruction===the obj0 obj4 were constructed in obj41 and designed
+obj1 location obj4 obj1 yearofconstruction===the obj0 constructed in obj8 at obj4 is based
+obj1 location obj4 obj1 yearofconstruction===obj0 in obj4 was constructed in obj8 and is
+obj1 location obj4 obj1 yearofconstruction===the obj0 is one of the obj0 constructed in
+obj0 location obj2 obj0 year obj14===obj5 is located at obj4 it was built in
+obj0 location obj5 obj0 year obj14===obj5 were constructed in obj12 are located in obj4
+obj0 location obj5 obj0 year obj14===obj5 is located in obj4 built in obj12 and
+obj0 location obj5 obj0 year obj14===obj5 constructed in obj12 is located in obj4 it
+obj3 country obj6 obj3 ma obj13===a dish popular obj8 obj4 is obj0 from the
+obj3 country obj6 obj3 ma obj13===obj0 is a dish of fish obj9 obj8 a
+obj3 obj7 obj6 obj3 ma obj13===the obj7in ingredient of obj0 is fish obj9 obj8
+obj3 country obj4 obj4 capital===the leader of obj5 is obj1 and the city
+obj4 region obj1 obj4 ma obj15===obj0 is a dish of fish obj55 a obj51
+obj4 obj9 obj1 obj4 ma obj15===obj0 is found obj55 the obj2 of obj5 obj2
+obj3 region obj7 obj3 ma obj13===a dish from obj4 obj7laysia obj12 indonesia called obj0
+obj3 region obj7 obj3 ma obj13===obj0 is from indonesia obj7laysia obj12 obj4 obj12 obj7inly
+obj3 region obj7 obj3 ma obj13===obj0 is a dish from obj4 obj1 its obj7in
+obj3 region obj5 obj3 servingtemperature===originating from the obj4 obj0 can be served obj1
+obj3 region obj5 obj3 servingtemperature===obj0 originates from the obj4 it can be served
+obj0 obj8 obj3 obj0 category===gettysburg obj4 is the obj2 of the obj5 which
+obj0 location obj3 obj0 category===the obj5 categorised as a obj5 is found in
+obj0 location obj3 obj0 established===the obj5 completed in 2000 is located in obj4
+obj0 obj8 obj6 obj0 category===the obj5 located in gettysbury in the obj2 of
+obj0 state obj4 obj0 established===the obj5 in obj4 was completed in obj8 and
+obj3 has to its north obj2 obj0===the obj8 is contained within the obj7 of obj5
+obj0 location obj5 obj5 ethnicgroups===the obj0 is located in obj4 whose obj4 is
+obj1 location obj6 obj6 ethnicgroups===obj4 is a country where cornish is spoken in
+obj1 location obj6 obj6 ethnicgroups===the obj0 is still spoken in obj4 where one
+obj1 location obj6 obj6 ethnicgroups===the obj0 is in obj4 a country which includes
+obj3 location obj5 obj0 category===the obj5 located on the obj5 in obj4 is
+obj7 leadertitle obj2 obj0 inaugurationdate===the obj5 was inaugurated on july 27th 1932 and
+obj0 obj8 obj3 obj4 neighboringmunicipality===the obj0 is located in obj5 and its obj2
+obj0 obj8 obj3 obj4 neighboringmunicipality===the obj2 of the obj0 is obj5 it is
+obj0 obj8 obj3 obj4 neighboringmunicipality===the obj2 of obj0 is obj5 a neighbouring municipality
+obj5 location obj4 obj5 iata location identifier===obj0 with the obj1 of viag is located in
+obj4 operatingorganisation obj0 obj4 iata obj8===agra's airport is obj5 it is operated by the
+obj4 operatingorganisation obj0 obj4 iata obj8===obj5 whose obj8 id is obj10 or iata is
+obj4 operatingorganisation obj3 obj4 iata location identifier===the obj5 operate obj0 which is in obj9 it
+obj4 operatingorganisation obj3 obj4 iata obj8===the obj5 operates the obj0 in obj9 whose iata
+obj4 operatingorganisation obj3 obj4 iata obj8===obj11 is the ata obj8 identifier for obj0 which
+obj4 ispartof obj2 obj4 leaderparty===obj0 is in obj0 part of the obj5 in
+obj4 ispartof obj2 obj4 leaderparty===obj0 is in obj0 obj5 obj11 the leader party
+obj4 ispartof obj2 obj4 leaderparty===adolfo suárez madrid barajas airport is located in obj0
+obj7 ispartof obj1 obj7 leaderparty===adolfo suarez madrid barajas aiport is located in obj0 part
+obj7 ispartof obj1 obj7 leaderparty===adolfo suarez madrid barajas aiport is located in obj0 part
+obj5 obj11 obj3 obj5 division===obj0 is of the obj9 obj10 and obj4 obj2
+obj1 location obj2 obj2 capital===obj0 is located in obj4 obj8 and white south
+obj1 location obj2 obj2 capital===obj0 is located in obj4 obj9 and the leader
+obj0 completiondate obj13 obj0 height===obj5 a obj7 floor area 42 metres high building
+obj0 floorcount obj13 obj0 inaugurationdate===the obj5 at 142 nakadori has obj4 floors with
+obj0 floorcount obj13 obj0 inaugurationdate===obj5 at 1 4 2 nakadori has obj4 floors with
+obj1 main obj6 s tomatoes obj15 obj11===the obj2 ingredientobj4 in obj0 from obj04 obj02 are
+obj3 region obj6 obj3 servingtemperature===a obj10 obj0 has ground almond jam butter and
+obj3 obj13 obj6 obj3 servingtemperature===served hot obj14 cold the obj10 obj0 is from
+obj3 region obj6 obj3 servingtemperature===obj0 is a obj10 served fresh and warm obj14
+obj20 country obj9 obj20 ma obj30===obj0 is obj11 obj8 the indonesian obj17 and obj27
+obj7 obj5 obj2 obj2 division===the main obj4 of obj0 is obj10 the dish
+obj7 obj5 obj2 obj2 division===obj4 belongs to the obj6 obj11 of flowering plants
+obj8 ingredient obj2 obj2 division===obj0 is a dish that includes obj3 and obj4
+obj8 obj6 obj2 obj2 division===sweet potatoes which are a obj1 and belong to
+obj8 obj6 obj2 obj2 division===obj4 which is an obj4 in obj0 along with
+obj7 obj5 obj2 obj2 division===obj4 belonging to flowering plants and of the obj6
+obj7 obj5 obj2 obj2 division===one of the main ingredients of obj0 is obj11
+obj7 obj5 obj2 obj2 division===sweet potatoes are flowering plants of the obj10 obj6
+obj8 mainingredients obj2 obj2 division===obj0 contains coconut and obj4 a member of the
+obj0 obj10 obj4 obj0 established===the obj7 of gettysburg in obj4 is the obj2
+obj0 country obj6 obj0 category===the obj5 is located in the obj4 within the
+obj0 country obj6 obj0 category===the obj5 established on 11th july 1907 is located
+obj0 country obj7 obj0 category===the obj5 was obj8 in obj9 and is categorised
+obj0 country obj7 obj0 category===the obj5 obj8 obj9 is a historic district in
+obj1 location obj10 obj10 ethnicgroups===the obj0 is a rock formation in obj00 dedicated
+obj1 location obj10 obj10 ethnicgroups===the obj0 is located in obj00 made of rock
+obj1 location obj6 obj6 ethnicgroups===the obj0 is located in obj4 of which the
+obj1 location obj6 obj6 ethnicgroups===england's obj7 is obj01 the obj0 is still spoken
+obj1 location obj6 obj6 ethnicgroups===the obj0 is found in obj4 which has the
+obj3 location obj6 obj0 category===the obj5 a historic obj9 in the united states
+obj0 country obj4 obj7 neighboringmunicipality===the obj0 is located in obj5 obj4 and its
+obj0 obj9 obj4 obj7 neighboringmunicipality===the obj0 is in the obj2 of obj4 in
+obj12 leadername obj0 obj17 obj34 obj7 obj28===obj27 obj5 obj6 obj7 obj8 obj16 obj6 obj33 obj27
+obj5 obj11 obj0 obj5 issn number===obj4 us resident and alma mater stanford university is
+obj11 leadername obj2 obj11 officiallanguage===obj0 serves the city of obj7 in obj0 obj4
+obj11 leadername obj2 obj11 officiallanguage===obj0 serves the city of obj7 which is in
+obj11 leadername obj2 obj11 officiallanguage===obj7 obj0 is served by an airbase called al taqaddum
+obj8 location obj14 obj8 height===concerts obj17 obj9 are hosted at obj0 in obj4
+obj3 region obj7 obj3 servingtemperature===the obj4 dish of obj0 is a obj14 of
+obj3 obj18 obj7 obj3 servingtemperature===obj0 is a obj14 from the obj4 obj2 that
+obj3 region obj7 obj3 servingtemperature===obj0 originates from the obj4 and is a obj14
+obj5 ethnicgroup obj9 obj5 officiallanguage===obj14 is a dish found in obj0 and english
+obj5 language obj14 obj5 officiallanguage===obj0 is the obj12 obj13 comes from obj1 and
+obj5 language obj14 obj5 officiallanguage===obj0 is the obj12 obj13 comes from they speak
+obj5 language obj14 obj5 officiallanguage===the obj0 contains different enthnicities including obj1 and igorot
+obj0 country obj9 obj0 category===the obj5 is located in the obj6 and was
+obj1 location obj9 obj9 capital===the obj0 is located in obj4 and made of
+obj1 location obj11 obj11 ethnicgroups===obj0 is a rock formation located in obj01 and
+obj1 location obj11 obj11 ethnicgroups===the obj5 are one of the ethnic groups to
+obj2 location obj9 obj9 ethnicgroups===obj0 located in obj4 is dedicated to obj0 england's
+obj2 location obj9 obj9 ethnicgroups===the established obj7 of obj4 where the obj10 is
+obj2 location obj9 obj9 ethnicgroups===the obj0 found in obj4 is dedicated to obj0
+obj2 location obj8 obj8 ethnicgroups===obj0 is found in obj4 capital obj14 religion the
+obj2 obj7 obj8 obj8 ethnicgroups===obj4 where the obj10 city is obj14 is the
+obj2 obj7 obj8 obj8 ethnicgroups===the obj1 is still spoken within obj4 although not
+obj1 location obj9 obj9 ethnicgroups===obj0 made of rock is found in obj4 the
+obj1 location obj9 obj9 ethnicgroups===obj0 is found in obj4 and is made from
+obj9 obj7 obj4 obj9 officiallanguage===the obj6 of obj1 is located in obj0 where
+obj9 obj7 obj4 obj9 officiallanguage===obj4 and obj0 are both leaders of obj0 where
+obj9 obj7 obj4 obj9 officiallanguage===the obj6 of obj1 is located in obj0 where
+obj9 obj8 obj3 obj9 officiallanguage===the obj7 of obj0 is located in obj0 the
+obj9 obj8 obj3 obj9 officiallanguage===the obj7 of obj0 is located in obj0 where
+obj9 obj8 obj3 obj9 officiallanguage===obj4 inhabit obj0 where the obj5 is obj14 it
+obj10 obj8 obj4 obj10 officiallanguage===as gubbio have their home obj7 in obj0 where
+obj0 country obj6 obj10 neighboringmunicipality===the obj0 is located in the obj14 of obj5
+obj2 location obj14 obj14 ethnicgroups===obj0 is a stone monument in obj4 that is
+obj2 location obj14 obj14 ethnicgroups===the obj0 located in england is made from rock
+obj1 location obj12 obj12 ethnicgroups===the obj0 which is made of rock and is
+obj1 location obj12 obj12 ethnicgroups===the obj0 is found in obj02 and made from
+obj1 location obj12 obj12 ethnicgroups===obj0 which is made of rock is dedicated to
+obj0 country obj14 obj0 established===obj11 is a obj13 in obj4 which is positioned
+obj0 obj15 obj7 obj13 neighboringmunicipality===the obj0 in obj5 neighbours the municipality of obj16
+obj0 country obj6 obj12 neighboringmunicipality===the obj0 is located in obj5 obj4 meride's neighbouring
+obj0 obj14 obj6 obj12 neighboringmunicipality===federal chancellor obj3 is the leader of obj4 where
+obj0 obj14 obj6 obj12 neighboringmunicipality===the obj0 is in obj5 neighbouring the municipality of
+obj1 city obj11 obj1 established===the obj0 was founded in obj05 and is located
+obj1 city obj18 obj3 established===the obj5 was founded in obj24 in the obj07
+obj2 location obj14 obj14 ethnicgroups===obj0 is located in obj4 made from stone and
+obj2 location obj14 obj14 ethnicgroups===the obj16 of obj4 is obj00 where we can
+obj0 obj11 obj17 obj0 established===obj5 in obj6 obj4 was created in obj19 and
+obj0 obj16 obj8 obj0 established===obj5 in obj15 obj4 was created in obj19 and
+obj0 obj17 obj7 obj15 neighboringmunicipality===switzerland's national obj18 is the obj11 and the obj2
+obj0 country obj7 obj15 neighboringmunicipality===the obj0 is located in obj5 obj4 mendrisio's neighbouring
+obj0 obj17 obj7 obj15 neighboringmunicipality===the obj4 leader is obj4 and it has a

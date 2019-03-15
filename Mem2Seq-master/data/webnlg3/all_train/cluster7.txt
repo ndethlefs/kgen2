@@ -1,0 +1,65 @@
+obj1 almamater nwc m a 1957===obj0 graduated from nwc with a ma in obj6
+obj1 almamater nwc m a 1957===obj0 graduated from nwc in obj6 with a ma
+obj1 almamater nwc m a 1957===obj0 went to school at nwc and graduated with
+obj1 almamater nwc m a 1957===obj0 graduated from nwc ma in obj6
+ac hotel bella sky copenhagen floorcount obj2===the bella sky hotel in copenhagen has obj4 floors
+1634 the ram rebellion mediatype e book===1634 the ram rebelllion can be found as an
+township new jersey egg harbor township new jersey ispartof obj3===obj0 is in egg harbor township which is part
+obj0 location akita akita akita akita ispartof obj1===obj0 is an art museum in the city of
+obj0 location greenville wisconsin greenville wisconsin country===obj0 can be found in greenville obj4 obj5
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 can be found in greenville obj4 obj5
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenville obj1 usa
+obj0 location greenville wisconsin greenville wisconsin ispartof===the obj0 is in greenville which is part of
+obj3 almamater nwc m a 1957 obj3===obj0 graduated from nws in obj6which born in obj2
+obj3 almamater nwc m a 1957 obj3===obj0 born in obj2 and a obj6 graduate of
+obj1 almamater nwc m a 1957 obj1===obj0 died on obj4 in california graduated from nwc
+obj5 obj7 ahmet davutoğlu obj0 material===the obj6 obj5 is found in obj5 where the
+obj2 obj6 jens härtel jens härtel club===jens hartel who plays for sv germania schoneiche is
+obj0 location greenville wisconsin greenville wisconsin ispartof===the obj0 is located in greenvillewisconsin greenville is part
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in wisconsin where appleton is part
+obj0 location greenville wisconsin greenville wisconsin ispartof===appleton part of which is known as little chute
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenville part of ellington wisconsin
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenville part of obj5 and
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenvillewisconsin and serves the city
+obj0 location greenville wisconsin greenville wisconsin ispartof===greenville where obj0 serving appleton in wisconsin is located
+obj0 location greenville wisconsin greenville wisconsin ispartof===the obj0 is in greenville which is part of
+obj0 location greenville wisconsin greenville wisconsin ispartof===part of both ellington and the town of menasha
+obj0 obj11 greenville wisconsin greenville wisconsin ispartof===greenville is in obj2 and is the obj2 of
+obj0 location greenville wisconsin greenville wisconsin ispartof===appleton international airport appleton is located in greenville which is
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is in greensville grand chute obj7 and serves obj6
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 located in greenville wi services appleton grand chute
+obj0 obj11 greenville wisconsin greenville wisconsin ispartof===greenville is in grand chute and is a part
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 which can be found in greenville menasha wisconsin
+obj0 location greenville wisconsin greenville wisconsin ispartof===appleton part of kimberly wisconsin is served by obj0
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 serves the city of appleton part of which
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenville part of the town
+obj0 location greenville wisconsin greenville wisconsin ispartof===appleton international airport serving appleton can be found in greenville
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj7 is a city served by obj0 in greenville
+obj1 location akita akita akita akita ispartof===the obj0 is located in akita which is part
+obj1 location akita akita akita akita ispartof===the obj0 is locacted in akiita akita which is
+obj0 location akita akita akita akita ispartof===obj0 is an art museum in the city of
+obj3 obj9 sri lanka sri lanka leadername===obj0 can be found in obj2 obj0 a obj2
+obj4 country sri lanka sri lanka leadername===obj0 is located in the obj0 where obj3 is
+obj3 obj10 sri lanka sri lanka leadername===obj0 is in the obj0 the obj9 of the
+obj3 country sri lanka sri lanka leadername===obj0 is in the obj0 its leader is obj2
+obj8 obj10 ahmet davutoğlu obj0 designer===ahmet davutoglu is a obj2 of obj5 the obj5
+obj2 obj8 jens härtel jens härtel obj9===the first obj7 jens hartel played for was fc
+obj2 obj8 jens härtel jens härtel obj9===jens hartel's obj7 is obj3 and he is part
+obj2 obj8 jens härtel jens härtel obj9===jens hartel played for obj0 and was obj2 of
+obj2 obj8 jens härtel jens härtel club===jens hartel played for both obj3 and obj0 he
+obj1 obj8 jens härtel jens härtel obj9===jens hartel played for obj2 and has been obj2
+obj2 obj8 jens härtel jens härtel obj9===jens hartel played for obj0 and has been obj2
+obj2 manager jens härtel jens härtel obj9===jens hartel is in the obj7 obj7 is part
+obj0 location greenville wisconsin appleton wisconsin ispartof===obj0 serves the city of appleton part of kimberly
+obj1 location greenville wisconsin greenville wisconsin country===obj0 is located in greenvillewisconsin which is part of
+obj0 location greenville wisconsin greenville wisconsin ispartof===in wisconsin united states is obj0 in greenville part
+obj0 location greenville wisconsin greenville wisconsin ispartof===appleton is served by obj0 located in greenville part
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenvillewisconsinunited states and serves the
+obj0 location greenville wisconsin greenville wisconsin ispartof===the obj0 is located in greenvillewisconsin which is part
+obj1 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in greenville and serves the city
+obj1 location greenville wisconsin greenville wisconsin ispartof===obj0 serves the city of appleton greeville ellington obj0
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 is located in and serves the city of
+obj0 location greenville wisconsin greenville wisconsin ispartof===obj0 serves appleton and is located in greenville grand
+obj0 location greenville wisconsin greenville wisconsin ispartof===greenville is part of grand chute and ellington in
+obj0 location greenville wisconsin greenville wisconsin ispartof===the city of appleton in wisconsin is served by
+obj5 almamater nwc m a 1957 obj5===obj0 has died in obj12 he was born in

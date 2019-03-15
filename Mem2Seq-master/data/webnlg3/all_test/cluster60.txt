@@ -1,0 +1,53 @@
+obj1 elevationabovethesealevel in metres 973 0===obj1 is 973 metres above sea level
+obj0 manager obj1 obj1 placeofbirth obj5===obj1 who has managed obj0 was born in obj5
+obj0 obj4 obj1 obj1 placeofbirth obj5===the obj4 of obj0 is obj1 who was born
+obj0 numberofpages obj5 obj0 isbn number obj2===obj0 with isbm obj2 has obj5 pages
+obj5 obj8 obj0 obj0 residence===the obj8 of 'aip advances' obj0 lives in the
+obj1 location obj0 obj1 added to===obj1 are located at obj0 and given obj20 reference
+obj4 ethnicgroup obj1 albany oregon ispartof===albany is part of benton county in oregon within
+obj4 ethnicgroup obj1 albany oregon ispartof===albany is part of obj0 in the obj4 where
+obj3 operatingorganisation obj0 obj0 regionserved===the obj0 is headquartered in the obj4 and serves
+obj3 operatingorganisation obj0 obj0 regionserved===obj3 is operated by the obj0 located at four
+obj3 operatingorganisation obj0 obj0 regionserved===the obj4 is the headquarters of the obj0 which
+obj2 has to its southeast obj5 obj0===the obj0 is placed in the obj6 of gettysburg
+obj1 city obj6 obj1 numberofpostgraduatestudents===the obj1 is in obj6 it has obj8 postgraduate
+obj1 city obj6 obj1 numberofpostgraduatestudents===the obj1 obj6 has obj8 postgraduate students and is
+obj5 obj11 obj2 albany oregon ispartof===obj5 has its obj11 as obj2 home to obj1
+obj5 obj11 obj2 albany oregon ispartof===the city of albany is part of obj0 in
+obj5 obj8 obj1 obj1 placeofbirth===italian born obj1 plays for obj0 owns obj7 and
+obj5 obj8 obj1 obj1 placeofbirth===italian born obj1 has been the obj8 of obj5
+obj5 obj8 obj1 obj1 placeofbirth===obj1 was born in obj9 and has been the
+obj1 operatingorganisation obj2 obj2 headquarter===obj2 have their hq in obj11 obj7 and their
+obj1 completiondate obj17 obj1 currenttenants===obj1 is 42m high and has a obj10 obj12
+obj1 completiondate obj17 obj1 currenttenants===the government obj18 obj14 ababa are the current
+obj1 completiondate obj17 obj1 currenttenants===obj14 ababa city hall's was started in obj16 and
+obj0 obj5 obj3 obj0 activeyearsenddate obj4===obj3 was the obj5 to obj0 who ended his
+obj1 obj5 obj3 obj1 inofficewhilevicepresident obj4===obj1 whose obj5 was obj3 was in office while
+obj2 genre obj0 obj2 instrument obj4===guitarist obj2 plays obj0
+obj2 genre obj0 obj2 instrument obj4===obj2 plays the obj4 and performs obj0 music
+obj2 obj5 obj0 obj2 instrument obj4===guitarist obj2 performs music from the obj0 obj5
+obj1 genre obj5 obj1 instrument===obj1 is a obj5 musician who sings and also
+obj1 genre obj5 obj1 instrument===obj1 performs obj5 music she plays the bodhran perscussion
+obj1 genre obj5 obj1 instrument===obj1 performs obj5 music and is a singer and
+obj2 battles obj5 obj2 militarybranch===obj2 served with the us army in obj5 obj4
+obj2 deathplace obj4 obj4 governingbody===obj4 which is the death place of obj2 is
+obj2 deathplace obj4 obj4 governingbody===obj2 died in obj4 the country which is governed
+obj2 deathplace obj4 obj4 governingbody===alberto teisaire's place of death was obj4 where obj1
+obj2 obj8 obj5 obj2 instrument===obj2 plays obj1 in the obj5 obj8 obj4 is
+obj2 genre obj5 obj2 instrument===obj4 is a musical fusion of obj5 the music
+obj2 genre obj5 obj2 instrument===obj4 is a musical fusion of the obj5 music
+obj1 obj8 obj4 obj1 instrument===obj4 is a obj8 of aaron turner's music and
+obj1 genre obj4 obj1 instrument===obj1 is a singer and obj4 musician obj3 is
+obj4 obj1 obj2 obj6 site===obj2 is the obj1 of obj4 which was launched
+obj0 obj3 obj2 obj6 site===the obj5 was launched at obj6 at the obj0
+obj1 obj5 obj0 obj6 site===the obj1 in obj0 is the obj5 of obj6
+obj1 demonym obj6 obj7 countryorigin===the obj7 originated in the obj1 where the inhabitants
+obj3 club obj2 obj3 youthclub===obj3 plays for obj2 and obj0 he was a
+obj3 obj7 obj5 obj1 youthclub===obj5 is the home obj7 of obj3 where obj1
+obj2 obj8 obj1 obj4 formerteam===akeem ayers's former team is the obj0 and his
+obj2 obj8 obj1 obj4 formerteam===akeem ayers' debut team was the obj2 who are
+obj7 obj10 obj0 obj3 youthclub===in his youth obj3 played for obj7 which play
+obj5 obj12 obj1 obj7 youthclub===obj7 played youth football for obj5 part of the
+obj6 ground obj11 obj0 youthclub===obj0 once played for fc spartak moscow's youth team
+obj1 obj14 obj6 obj1 inofficewhilevicepresident===obj1 served in the obj8 and was in office
+obj3 deathplace obj5 obj7 spouse===obj3 was in office while juan peron was president

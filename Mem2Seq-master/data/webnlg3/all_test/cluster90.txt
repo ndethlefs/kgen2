@@ -1,0 +1,10 @@
+obj1 birthplace obj0 obj1 birthdate 1930 01 20===obj1 was born in obj0 on january 20 1930
+obj1 birthplace obj0 obj1 birthdate 1930 01 20===obj1 was born on the 20th of january 1930
+obj1 birthplace obj0 obj1 birthdate 1930 01 20===obj1 was born on january 20th 1930 in the
+obj3 location obj4 obj3 obj1 populous company===the obj3 which was designed by the obj1 company
+obj2 nationality obj1 obj2 obj10 selected===the obj1 national obj2 who graduated from massachusetts institute
+obj4 obj19 obj26 its obj17 franklin county pennsylvania obj4===the obj14 of the obj0 is in obj4 which
+obj1 birthplace obj10 obj1 obj9 workedat===obj1 born obj8 greece held obj9 as the obj0
+obj6 associatedband associatedmusicalartist obj4 obj5 stylisticorigin===trance musician obj6 is associated with artists obj2 and
+obj6 associatedband associatedmusicalartist obj4 obj5 stylisticorigin===musicians obj4 and obj2 are associated with obj6 whose
+obj6 associatedband associatedmusicalartist obj4 obj5 stylisticorigin===obj6 performs obj5 a style that originated from obj10

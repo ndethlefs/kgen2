@@ -1,0 +1,110 @@
+amsterdam airport schiphol 4th runway surfacetype obj2===the fourth runway at schiphol airport in amsterdam is
+amsterdam airport schiphol 4th runway surfacetype obj2===the 4th runway at amsterdam airport schipol has a
+obj2 leadername margrethe ii of obj2===the queen of obj0 is margrethe ii
+obj1 dateofretirement 1974 08 01===obj0 retired august 1st 1974
+obj1 dateofretirement 1974 08 01===obj0 retired 1st of august 1974
+obj1 dateofretirement 1974 08 01===obj0 retired on august 1 1974
+obj1 dateofretirement 1974 08 01===obj0 retired on aug 1 1974
+obj0 occupation fighter pilot===obj0 is a test pilot
+anaheim california utcoffset 7===anaheim ca has a utc offset of minus 7
+obj0 largestcity albany oregon===albany is the largest city in obj0
+obj0 largestcity albany oregon===the largest city in obj0 is albany
+obj1 mainingredients bacon sausage===the main ingredients in a obj0 are bacon and sausage
+obj1 mainingredients bacon sausage===the main ingredients of obj0 are bacon and sausage
+obj1 mainingredients bacon sausage===bacon and sausage are the main ingredients of a obj0
+obj2 dishvariation sandesh confectionery===sandesh is a nice confectionery obj0
+obj2 dishvariation sandesh confectionery===sandesh is a obj0
+obj0 category historic districts in the united states===the obj0 is categorised as a historic district in
+obj2 obj1 ahmet davutoğlu===ahmet davutoglu is a obj2 of obj0
+obj2 obj1 ahmet davutoğlu===ahmet davutoglu is the obj2 of obj0
+obj2 obj1 ahmet davutoğlu===obj2 of obj0 is ahmet davutoglu
+obj2 obj1 ahmet davutoğlu===obj4 is turkey's obj2
+obj1 obj2 2014–15 regionalliga===in 2014 15 obj2 obj0 played in the regionalliga
+a c chievo verona obj1 obj2===ac chievoverona played in the obj4 obj4
+obj0 obj2 2014–15 serie a===obj0 played the 2014 15 obj2 in serie a
+obj0 season 2014–15 serie a===obj0 were in serie a in 2014 15
+a s gubbio 1910 obj1 obj2===as gubbio played in the obj4 obj4
+obj0 obj2 2014–15 serie b===obj0 played obj2 2014 15 in serie b
+obj0 obj2 2014–15 serie b===obj0 were in serie b in the 2014 15 obj2
+obj1 obj2 2014–15 serie a===obj0 played the 2014 15 obj2 in serie a
+obj1 obj2 2014–15 serie a===obj0 played in the 2014 15 serie a obj2
+obj1 obj2 2014–15 eredivisie===obj0 were in the eredivisie for the obj2 2014 2015
+obj1 obj2 2014–15 eredivisie===obj0 played in the 2014 15 eredivisie obj2
+obj2 leadertitle prime minister of obj2===the leader of obj0 is known as the prime minister
+obj2 leadertitle prime minister of obj2===the title of the leader of obj0 is prime minister
+obj0 location punjab pakistan obj0 runwaylength obj5===located in punjab in pakistan obj9 has a runway
+obj1 operatingorganisation port authority of new york and new jersey===obj0 run by the port authorities of new york
+obj3 leadername mulatu teshome obj0 country obj3===obj5 is located in obj5 whose leader is malatu teshome
+obj3 leadername mulatu teshome obj0 country obj3===the leader of obj5 is malatu teshome and the
+obj5 country philippines philippines ethnicgroup obj0===obj9 is a dis found in the phillipines the
+obj1 obj5 singapore singapore language obj0===obj9 comes from singaporae obj2 where the obj9 is spoken
+obj4 alternativename bhaji bajji obj4 ingredient===obj0 is also known as bhaji or obj5 and
+obj4 alternativename bhaji bajji obj4 ingredient===bhaji and obj5 are alternative names for obj0 which
+obj4 alternativename bhaji bajji obj4 ingredient===obj0 also known as bhaji and obj5 is a
+obj4 alternativename bhaji bajji obj4 obj2===obj0 also known as bhaji or obj5 includes the
+a c chievo verona manager obj2 obj2 club obj1===associazione calcio chievoverona is managed by obj4 who plays
+a c chievo verona manager obj2 obj2 club obj1===associazione calcio chievoverona is managed by obj4 who worked
+a c chievo verona manager obj2 obj2 club obj1===associazione calcio chievoverona is managed by obj4 who plays
+a c chievo verona manager obj2 obj2 obj5 obj0===associazione calcio chievo verona is managed by obj4 who
+a c chievo verona manager obj2 obj2 club obj0===associazione calcio chievoverona is managed by obj4 who plays
+a c chievo verona manager obj2 obj2 obj5 obj0===previously owning obj7 obj9 obj4 now manages obj7 associazione
+a c chievo verona manager obj2 obj2 club obj1===associazione calcio chievoverona is managed by obj4 who plays
+obj0 location denmark denmark leadername===obj2 is located at the obj0 which is a
+obj6 leadername mulatu teshome obj0 country===malatu teshome is the leader of obj5 where obj5
+obj6 leadername mulatu teshome obj0 country===obj5 is in obj3 obj5 which is led by
+obj5 leadername mulatu teshome obj0 location===obj2 is located in obj5 the current leader in
+obj5 leadertitle prime minister of obj5 obj0 location===the obj6 is found in obj6 a country led
+obj6 leadername ahmet davutoğlu obj6 obj5===the ataturk monument izmir is located in obj0 where
+a c chievo verona manager obj3 obj3 club===associazione calcio chievoverona is managed by obj4 who is
+a c chievo verona manager obj3 obj3 club===associazione calcio chievo verona is managed by obj4 who
+a c chievo verona obj6 obj3 obj3 obj7===associazione calcio cheivoverona obj2 obj4 has formerly worked at
+a c chievo verona manager obj3 obj3 club===associazione calcio chievoverona is managed by obj4 who plays
+a c chievo verona manager obj2 obj2 placeofbirth===associazione calcio chievoverona is managed by obj4 who was
+a c chievo verona manager obj2 obj2 placeofbirth===obj4 born italy plays for carrarese clacio and manages
+obj4 leadertitle prime minister of obj4 obj4 obj6===obj0 is located in obj0 obj7 has a prime
+obj4 leadertitle prime minister of obj4 obj4 obj6===obj0 is located in obj0 obj3 is the obj8
+obj5 leadertitle prime minister of obj5 obj5 ethnicgroup===obj0 is led by the prime minister its ethnic
+obj5 leadertitle prime minister of obj5 obj5 ethnicgroup===the obj2 are an ethnic group within obj0 which
+obj5 leadertitle prime minister of obj5 obj5 ethnicgroup===obj0 is located in obj0 the leader of which
+1634 the galileo affair language english language english language spokenin===1634 the ram rebellion was preceded by 1634 the
+1634 the galileo affair obj8 english obj8 english obj8===1634 the ram rebellion was preceded by 1634 the
+obj7 leadername mulatu teshome obj3 ispartof===obj1 and obj0 are located in obj5 obj0 the
+obj6 leadername mulatu teshome obj0 country===obj5 is in obj3 obj5 obj10 is the national
+obj6 leadername mulatu teshome obj0 obj11===malatu teshome is the leader of obj5 which has
+obj8 leadername mulatu teshome obj8 leadername===obj0 is located in obj4 obj0 where main leaders
+obj7 leadername mulatu teshome obj7 leadername===leaders in obj0 are malatu teshome and obj1 addis
+obj7 leadername mulatu teshome obj7 leadername===obj0 is located in obj3 obj0 which is lead
+obj6 leadertitle prime minister of obj6 obj1 location===the obj6 can be found is obj0 which is
+obj6 leadertitle prime minister of obj6 obj1 location===the national assembly dictates the obj4 of obj0 and
+obj6 obj10 ahmet davutoğlu obj6 obj5===turkey's obj7 is obj8 and the obj4 is the
+obj6 leader ahmet davutoğlu obj6 obj5===the atatürk monument in i̇zmir obj0 which has obj8
+obj8 leadername ahmet davutoğlu obj8 obj7===the atatürk monument in i̇zmir obj0 which is led
+obj8 leadername ahmet davutoğlu obj8 obj7===turkey's leader is ahmet davutoglu and the obj7 is
+a c chievo verona obj8 obj3 obj3 club===obj4 italian is a member of the calcio cantania
+obj5 leadertitle prime minister of obj5 obj5 obj8===the obj0 is located in obj0 romania's obj8 is
+obj5 leadertitle prime minister of obj5 obj5 obj8===obj0 is located in obj0 the obj8 of the
+obj7 leadertitle prime minister of obj7 obj7 ethnicgroup===the obj0 is located in obj0 which is lead
+obj7 leadertitle prime minister of obj7 obj7 ethnicgroup===romania's leader is prime minister obj3 its ethnic group
+obj6 leadertitle prime minister of obj6 obj6 leadername===the leader of obj0 is prime minister obj2 the
+obj6 leadertitle prime minister of obj6 obj6 leadername===the obj0 is located in obj0 the obj8 of
+versus the evil librarians language english language english language spokenin===alcatraz versus the evil librarian was written in english
+obj4 cityserved aarhus denmark obj4 operatingorganisation===the city of aarhus in obj5 is served by
+obj4 cityserved aarhus denmark obj4 operatingorganisation===obj0 in obj5 is operated by obj2 and is
+obj4 cityserved aarhus denmark obj4 operatingorganisation===obj0 is operated by obj2 and serves the city
+obj0 location punjab pakistan obj0 operatingorganisation===the allama iqbal international airport's runway obj12 is 29000long
+obj8 leadername mulatu teshome obj4 ispartof===the obj2 and obj0 are located in obj5 obj0
+obj8 leadername mulatu teshome obj3 ispartof===obj13 is a obj7 in obj0 where the leader
+obj8 leadername mulatu teshome obj3 ispartof===obj0 and obj1 are located in obj5 obj0 the
+obj10 leadername mulatu teshome obj10 leadername===obj0 is in obj5 obj0 and the obj3 can
+obj10 leadername mulatu teshome obj10 leadername===obj0 and the obj3 are located in obj5 obj0
+obj10 leadername mulatu teshome obj10 leadername===obj0 and obj3 are both located in obj5 obj0
+obj8 leadername mulatu teshome obj8 leadername===leaders in obj0 are malatu teshome and obj2 obj0
+obj8 obj13 ahmet davutoğlu obj8 obj7===the obj7 of obj0 is obj11 although the largest
+obj8 obj13 ahmet davutoğlu obj8 obj7===obj11 is turkey's obj7 city and the country's obj2
+obj1 ground italy italy obj6===the italian people are lead by obj2 and speak
+obj11 obj16 ahmet davutoğlu obj11 obj10===the obj2 of obj0 where the obj8 is the
+obj11 obj16 ahmet davutoğlu obj11 obj10===ahmet davutoglu is the obj2 of obj0 where the
+obj11 obj16 ahmet davutoğlu obj11 obj10===turkey's obj7 is obj14 and the country's obj2 is
+obj12 leadername ahmet davutoğlu obj12 obj11===ahmet davutoglu is the leader of obj0 where obj15
+obj12 leadername ahmet davutoğlu obj12 obj11===izmir obj0 is the obj8 of the obj13 ataturk
+obj12 leadername ahmet davutoğlu obj12 obj11===although obj10 is the largest city obj15 is the

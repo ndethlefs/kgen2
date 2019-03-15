@@ -1,0 +1,281 @@
+obj1 largestcity obj3 obj0 owner obj1===obj4 is the largest city in obj5 which owns
+new zealand location obj4 ardmore airport new zealand operatingorganisation obj0===the obj9 is the operating organisation for ardmore airport
+new zealand location obj4 ardmore airport new zealand operatingorganisation obj0===ardmore airport is located in obj4 new zealand and
+new zealand location obj4 ardmore airport new zealand operatingorganisation obj0===the ardmore airport which is operated by the obj9
+new york and new jersey obj2 elevationabovethesealevel in metres obj5===obj0 is obj9 metres above sea level and is
+obj1 status obj4 obj1 deathplace obj3===obj0 is obj4 and died in obj9
+obj0 completiondate obj5 obj0 architect obj3===obj5 was designed by obj9 and completed in obj4
+obj0 completiondate obj4 obj0 floorcount obj5===obj9 has obj9 floors and was completed in obj4
+obj0 completiondate obj4 obj0 floorcount obj5===obj9 was completed in obj4 and has obj9 floors
+obj0 floorcount obj5 obj0 architect obj2===obj5 has obj4 floors and was designed by obj9
+obj1 floorcount obj5 obj1 owner obj0===obj9 has obj4 floors and is owned by obj9
+obj1 floorcount obj5 obj1 owner obj0===obj9 which is owned by obj9 has obj4 floors
+obj0 floorcount obj5 obj0 completiondate obj4===obj5 completed in obj9 has a floor count of obj9
+obj0 floorcount obj5 obj0 completiondate obj4===obj5 finished in obj9 has obj9 floors
+obj0 floorcount obj5 obj0 completiondate obj4===obj5 was completed in obj9 and has obj9 floors
+obj0 completiondate obj4 obj0 floorcount obj5===obj9 which has a floor count of obj9 was
+obj0 completiondate obj4 obj0 floorcount obj5===obj9 was completed in obj4 and has obj9 floors
+obj0 completiondate obj4 obj0 floorcount obj5===obj9 with obj9 floors was completed obj4
+obj0 floorcount obj5 obj0 completiondate obj4===obj5 has obj9 floors and was completed in obj9
+obj0 floorcount obj5 obj0 completiondate obj4===there are obj9 floors at obj5 a building that
+obj0 completiondate obj4 obj0 floorcount obj5===completed in obj4 obj9 has obj9 floors
+obj0 completiondate obj4 obj0 floorcount obj5===obj9 was completed in obj4 and has obj9 floors
+obj4 architect obj3 obj4 completiondate obj1===obj0 designed by obj5 was completed in obj9
+obj0 owner obj2 obj0 floorcount obj5===obj9 which has obj9 floors is owned by obj4
+obj2 architect obj0 obj2 completiondate obj5===obj4 was designed by obj4 and was completed in obj9
+obj2 architect obj0 obj2 completiondate obj5===obj4 was completed in obj9 and was designed by obj4
+obj2 architect obj0 obj2 completiondate obj5===obj4 completed in obj9 was designed by obj4
+obj1 course obj4 obj1 mainingredients===obj0 is classed as a obj4 and it contains
+obj1 course obj4 obj1 mainingredients===obj0 is classed as a obj4 and it's main
+obj2 course obj5 obj2 mainingredients===obj0 is a obj4 dish made with noodles pork
+obj2 course obj5 obj2 mainingredients===obj0 obj4 includes noodles pork organs vegetables chicken shrimp
+obj2 course obj3 obj2 ingredient obj0===obj9 containing obj9 is a dish served for obj4
+obj2 course obj3 obj2 ingredient obj0===obj9 which has obj9 in it is a dish
+obj2 course obj3 obj2 ingredient obj0===obj9 is included in the obj4 obj9
+obj1 course obj2 obj1 ingredient obj4===obj0 contains raisins and is served as a obj9
+obj1 course obj2 obj1 ingredient obj4===obj0 is a obj9 which contains raisins
+obj2 course obj3 obj2 ingredient obj0===obj9 is included in the obj4 obj9
+obj0 owner obj2 obj0 state obj3===the 14th new jersey volunteer infantry monuments are in
+obj1 ground obj5 obj1 numberofmembers obj4===obj0 is in obj9 and has obj9 members
+obj1 ground obj5 obj1 numberofmembers obj4===founded in obj9 obj0 has obj9 members
+obj0 ground obj2 obj0 league obj3===obj4 is the home to obj5 played in obj9
+obj0 ground obj3 obj0 numberofmembers obj5===obj9 play in obj4 and has obj9 members
+obj0 league obj2 obj0 ground obj3===obj5 play in obj9 in obj4
+obj2 fullname obj0 obj2 numberofmembers obj7===obj4 abbreviated to ac lumezzane has obj9 members
+obj2 fullname obj0 obj2 numberofmembers obj7===the associazione obj6 obj4 spa is the complete name
+obj1 league obj3 obj1 numberofmembers obj5===obj0 has obj9 members and play in the obj4
+obj1 ground obj0 obj1 numberofmembers obj5===obj4 are at obj4 and have obj9 members
+obj0 ground obj3 obj0 numberofmembers obj5===afc blackpool's play area is obj4 it has obj9 members
+obj0 ground obj3 obj0 numberofmembers obj5===obj9 is located in obj4 and has obj9 members
+obj2 ground obj0 obj2 numberofmembers obj6===obj4 have obj9 members and are based at obj4
+obj2 ground obj0 obj2 numberofmembers obj6===obj4 are based at obj4 and has obj9 members
+obj1 fullname obj0 obj1 numberofmembers obj7===it has obj9 members and the full name of
+obj1 fullname obj0 obj1 numberofmembers obj7===as obj6 1910's full name is obj4 and it
+obj1 fullname obj0 obj1 numberofmembers obj7===obj4 abbreviated to as obj6 1910 has obj9 members
+obj0 ground obj4 obj0 numberofmembers obj5===obj9 in obj4 has obj9 members
+obj0 ground obj3 obj0 numberofmembers obj5===based in obj4 obj9 has obj9 members
+obj1 ground obj0 obj1 numberofmembers obj5===obj4 with obj9 members is in obj4
+obj0 league obj2 obj0 ground obj5===obj9 play in obj4 and their stadium is in obj9
+obj2 league obj0 obj2 ground obj1===the obj4 competes in the obj4 and play their
+obj2 league obj0 obj2 ground obj1===obj4 in the obj4 play their home games at
+obj2 owner obj1 obj2 numberofmembers obj4===obj9 owns obj0 which has obj9 members
+obj2 owner obj1 obj2 numberofmembers obj4===owned by obj9 club obj0 is the club of
+obj1 affiliation obj0 obj1 state obj4===obj9 in obj9 is affiliated with obj9
+obj0 precededby obj1 obj1 author obj3===obj0 is preceded by obj4 which was written by obj9
+obj0 precededby obj1 obj1 author obj3==='1634 the bavarian crisis' is preceded by '1634 the
+obj0 precededby obj1 obj1 author obj3==='1634 the bavarian crisis' was preceded by '1634 the
+obj1 precededby obj3 obj1 author obj0===obj9 is preceded by obj4 both written by obj9
+obj1 precededby obj3 obj1 author obj0==='1634 the bavarian crisis' which was written by obj9
+obj1 precededby obj3 obj1 author obj0===obj9 which was preceded by obj4 is written by obj9
+obj1 precededby obj3 obj1 author obj0===obj9 was preceded by obj4 and was written by obj9
+obj1 precededby obj3 obj1 author obj0===obj9 is written by obj9 and was preceded by obj4
+obj1 precededby obj3 obj1 author obj0===obj9 written by obj9 is preceded obj4
+obj2 academicdiscipline obj5 obj2 academicdiscipline obj4===the obj0 is the academic discipline of obj9 studying obj9
+obj1 abbreviation obj4 obj1 academicdiscipline obj5===obj0 abbreviated to aip adv covers the discipline of obj9
+obj1 abbreviation obj4 obj1 academicdiscipline obj5===obj0 abbreviated to aip adv is devoted to the
+obj1 abbreviation obj4 obj1 academicdiscipline obj5===obj0 abbreviated to obj4 covers the discipline of obj9
+obj0 followedby obj2 obj2 author obj1===a glastonbury romance was followed by weymouth sands written
+obj0 mediatype obj3 obj0 numberofpages obj5===a glastonbury romance which has obj9 pages can
+obj0 mediatype obj3 obj0 numberofpages obj5===obj9 is available in obj4 and has obj9 pages
+obj0 mediatype obj3 obj0 numberofpages obj5===obj9 obj9 pages is available in obj4
+obj0 precededby obj3 obj0 author obj2===obj5 is the sequel to obj4 and was written
+obj0 precededby obj3 obj0 author obj2===obj5 which was preceded by obj4 was written by obj9
+obj0 precededby obj3 obj0 author obj2===a glastonbury romance by obj9 was preceded by wolf solent
+obj0 precededby obj2 obj2 author obj1===obj0 was preceded by obj4 written by obj9
+obj1 numberofpages obj5 obj1 mediatype===obj0 is obj4 pages long and was published in
+obj0 numberofpages obj5 obj0 mediatype obj3===obj5 is available in obj9 and has obj4 pages
+obj0 numberofpages obj5 obj0 mediatype obj3===available in obj9 obj5 is obj4 pages in length
+obj0 numberofpages obj5 obj0 mediatype obj3===the 292 page obj5 is available in obj9
+obj1 precededby obj3 obj1 followedby obj0===the novel obj9 was preceded by obj4 and followed
+obj1 precededby obj3 obj1 followedby obj0===the secret scripture followed the book a long long
+obj1 precededby obj3 obj1 followedby obj0===obj4 was followed by obj9 and obj9
+obj0 numberofpages obj5 obj0 mediatype obj4===obj5 has obj9 pages and is available in obj9
+obj0 numberofpages obj5 obj0 mediatype obj4===the book a severed wasp is available in obj9
+obj0 academicdiscipline obj4 obj0 abbreviation obj2===obj5 abbreviating to abh math semin univ hambg is
+obj0 academicdiscipline obj4 obj0 abbreviation obj2===obj5 or obj9 for short is about the academic
+obj0 author obj4 obj0 mediatype obj2===obj5 by obj4 is available in obj9
+obj0 academicdiscipline obj5 obj0 abbreviation obj2===obj4 is the academic discipline of obj5 which has
+obj0 academicdiscipline obj5 obj0 abbreviation obj2===obj5 whose abbreviated name is obj9 is academically focused
+obj0 academicdiscipline obj5 obj0 abbreviation obj2===obj5 which can be abbreviated to obj9 is academically
+obj0 academicdiscipline obj5 obj0 abbreviation obj2===the obj5 abbreviated to acta palaeontol pol comes under
+obj0 academicdiscipline obj4 obj0 abbreviation obj4===obj5 is abbreviated to obj9 and obj9 is also
+obj0 academicdiscipline obj5 obj0 abbreviation obj3===the academic discipline of obj5 abbreviated as admin sci
+obj0 academicdiscipline obj5 obj0 abbreviation obj3===the obj5 abbreviated admin sci q comes under the
+obj0 mediatype obj3 obj0 numberofpages obj5===obj9 is published in obj4 and has obj9 pages
+obj0 mediatype obj3 obj0 numberofpages obj5===obj9 is a 320 page obj4 book
+obj0 mediatype obj3 obj0 numberofpages obj5===obj9 is published in obj4 which is obj9 pages long
+obj0 numberofpages obj5 obj0 mediatype obj4===obj5 is produced in obj9 and has obj9 pages
+obj0 numberofpages obj5 obj0 mediatype obj4===obj5 is produced in obj9 which is obj9 pages long
+obj0 numberofpages obj5 obj0 mediatype obj4===the 320 page book alcatraz versus the evil librarians is
+united kingdom leadername obj3 aids journal country united kingdom===the aids journal was published in the uk where
+obj1 status obj7 obj1 occupation===the obj5 obj0 who is now obj4 was born
+obj1 status obj7 obj1 occupation===obj0 who was born in obj0 and served as
+obj1 status obj7 obj1 occupation===obj0 now obj4 was born in obj0 and served
+obj1 status obj7 obj1 occupation===obj0 born in new hampshire served as a obj5
+obj2 deathplace obj8 obj2 birthdate===obj0 was born on july 23rd 1927 served as
+obj2 deathplace obj8 obj2 birthdate===obj0 was a obj0 who was born on 23
+obj2 deathplace obj8 obj2 birthdate===obj0 died in obj4 was born on the 23rd
+obj2 deathplace obj8 obj2 birthdate===obj0 was a obj0 who was born on july
+obj0 floorcount obj8 obj0 architect===obj5 with obj4 floors was designed by obj4 and
+obj0 floorcount obj8 obj0 architect===helmut jan designed obj5 which was completed in obj7
+obj1 floorcount obj8 obj1 owner===obj0 which had obj4 floors was designed by obj6
+obj1 floorcount obj8 obj1 owner===the 20 floor obj0 designed by obj6 obj4 is owned
+obj0 completiondate obj5 obj0 floorcount===obj5 completed obj4 has obj10 floors and floor area
+obj0 completiondate obj5 obj0 floorcount===obj5 completed in obj4 has obj10 floors and a
+obj0 completiondate obj5 obj0 floorcount===obj5 was completed in obj4 and has obj10 floors
+obj0 architect obj3 obj0 completiondate===obj4 designed obj5 that was finished in obj7 it
+obj5 owner obj0 obj4 leadertitle===obj1 is a leader in obj5 where the obj5
+obj5 owner obj0 obj4 leadertitle===obj5 is owned by obj5 and is located in
+obj3 architect obj0 obj3 completiondate===obj4 was completed in obj10 opened in obj9 obj12
+obj3 completiondate obj8 obj3 architect===the completion date of obj0 is obj4 and was
+obj3 completiondate obj8 obj3 architect===the construction of obj0 began in obj7 and was
+obj3 completiondate obj8 obj3 architect===adare manor's was designed by obj1 completed in obj4
+obj3 mainingredients obj2 obj3 course===cookies are served as a obj5 as is obj0
+obj3 mainingredients obj2 obj3 course===both cookies and obj0 are desserts the latter dish
+obj4 mainingredients obj3 obj4 course===two types of obj6 are sandesh and obj0 the
+obj4 mainingredients obj3 obj4 course===the main ingredients of obj0 are sweet potatotes it
+obj4 mainingredients obj3 obj4 course===the main ingredients of obj0 are sweet potatotes it
+obj1 ground obj8 obj1 league===obj7 member club obj0 plays in obj4 in obj4
+obj1 fullname obj0 obj1 ground===obj5 is the home to obj4 which has obj40
+obj1 fullname obj0 obj1 ground===the full name of obj4 which has obj40 members
+obj2 fullname obj0 obj2 numberofmembers===obj4 is abbreviated to obj4 they have obj10 members
+obj2 fullname obj0 obj2 numberofmembers===associazione obj9 obj5 spa ac lumezzane has obj10 members
+obj3 ground obj1 obj3 numberofmembers===obj0 abbreviated to afc fylde has obj9 members and
+obj3 ground obj1 obj3 numberofmembers===obj0 its full name is association football club fylde
+obj2 ground obj5 obj2 numberofmembers===obj0 who play at obj4 has obj8 members and
+obj2 fullname obj0 obj2 numberofmembers===the full name of obj4 is obj4 it was
+obj2 fullname obj0 obj2 numberofmembers===obj4 which stands for obj4 has obj10 members and
+obj2 ground obj5 obj2 league===the obj0 team is based in obj4 and play
+obj2 ground obj5 obj2 league===obj0 akron ohio played in the obj0 which obj4
+obj0 author obj4 obj0 mediatype===obj5 written by obj4 has obj8 pages and is
+obj0 author obj4 obj0 mediatype===obj5 by obj4 is a obj5 publication with obj8 pages
+obj0 author obj4 obj0 mediatype===obj5 by obj4 comes in obj5 and has obj8 pages
+obj1 mediatype obj5 obj1 numberofpages===available in obj4 obj0 is written by obj0 and
+obj1 mediatype obj5 obj1 numberofpages===obj0 was written by obj0 it is available in
+obj1 mediatype obj5 obj1 numberofpages===a obj4 publication obj0 has obj8 pages and was
+obj0 numberofpages obj8 obj0 mediatype===obj3 is the obj6 of obj5 which was put
+obj0 numberofpages obj8 obj0 mediatype===obj5 by obj3 is obj4 pages long and in obj7
+obj0 numberofpages obj8 obj0 mediatype===the printed book obj5 was written by obj3 and
+obj0 precededby obj3 obj3 author===obj2 preceded obj4 written by david weber and obj0
+obj0 precededby obj3 obj3 author===the sequel to obj2 obj0 was preceded by obj4
+obj1 precededby obj5 obj1 author===obj0 is preceded by obj4 including obj4 obj01 is
+obj1 precededby obj5 obj1 author===obj0 written by obj0 was preceded by obj4 obj01 obj4
+obj1 precededby obj5 obj1 author===preceded by obj4 obj0 by virginia obj8 obj01 obj00
+obj1 precededby obj5 obj1 author===obj0 was preceded by obj4 including obj4 obj01 is
+obj0 author obj4 obj0 mediatype===obj4 wrote the book 1634 the ram rebellion which
+obj0 author obj4 obj0 mediatype===obj5 written by obj4 is available in obj5 and
+obj0 author obj4 obj0 mediatype===obj5 written by obj4 is obj8 pages long and
+obj0 mediatype obj5 obj0 numberofpages===obj5 is a obj8 page obj4 book written by
+obj0 mediatype obj5 obj0 numberofpages===jv jones authored obj5 it has obj8 pages and
+obj0 numberofpages obj8 obj0 author===the book a fortress of grey ice was written
+obj0 mediatype obj6 obj0 numberofpages===obj5 has the obj5 obj3 can be found in
+obj0 mediatype obj6 obj0 numberofpages===obj5 has obj8 pages and is available in obj4
+obj0 mediatype obj6 obj0 numberofpages===obj5 is available in obj4 and has obj8 pages
+obj0 mediatype obj5 obj0 numberofpages===obj5 has obj8 pages can be found in obj4
+obj0 numberofpages obj8 obj0 mediatype===obj5 is in obj7 and has obj4 pages and
+obj0 numberofpages obj8 obj0 mediatype===obj5 is in obj7 and has obj4 pages the
+obj0 numberofpages obj8 obj0 mediatype===the obj5 of obj5 which is now in obj7
+obj1 numberofpages obj9 obj1 mediatype===obj0 is obj4 pages long and was published in
+obj1 numberofpages obj9 obj1 mediatype===obj0 isbn obj4 was published in print obj8 paperback
+obj1 numberofpages obj9 obj1 mediatype===obj0 with obj4 pages was published in print obj8
+obj0 author obj4 obj0 mediatype===obj5 written by obj4 is in obj8 and has
+obj0 author obj4 obj0 mediatype===obj4 penned obj5 which is in obj8 and has
+obj0 author obj4 obj0 mediatype===obj5 was penned by obj4 has obj8 pages and
+obj0 mediatype obj5 obj0 numberofpages===published in obj4 obj5 has obj8 pages and was
+obj0 mediatype obj5 obj0 numberofpages===obj5 by obj4 has obj8 pages and is published
+obj0 academicdiscipline obj5 obj0 abbreviation===obj5 which can be abbreviated to abhmathseminunivhambg is concerned
+obj0 numberofpages obj8 obj0 author===the printed book obj5 contains obj4 pages and was
+obj0 numberofpages obj8 obj0 author===obj5 by obj5 was produced in obj7 and is
+obj0 abbreviation obj4 obj0 academicdiscipline===obj5 also known as obj4 with obj6 obj8 is
+obj0 abbreviation obj4 obj0 academicdiscipline===obj5 can be abbreviated to obj4 and its discipline
+obj0 abbreviation obj3 obj0 academicdiscipline===acta palaeontologica polonica's abbreviated name is obj4 the book
+obj0 abbreviation obj3 obj0 academicdiscipline===obj5 acta obj8 pol is focused on obj5 its
+obj0 academicdiscipline obj6 obj0 abbreviation===obj5 abbreviated obj3 with obj7 obj9 is in the
+obj0 academicdiscipline obj6 obj0 abbreviation===obj4 is the academic discipine of obj5 abbreviated to
+obj0 academicdiscipline obj6 obj0 abbreviation===the obj5 obj3 is academically focused on
+obj0 academicdiscipline obj6 obj0 abbreviation===obj5 or obj4 has an obj5 of obj7
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj5 or obj4 is in the obj7 discipline
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj6 0001 8392 is for obj5 admin obj9 q
+obj0 abbreviation obj4 obj0 academicdiscipline===obj5 admin obj9 q comes under the academic discipline
+obj1 abbreviation obj5 obj1 academicdiscipline===the obj0 or obj4 comes under the academic discipline
+obj0 publisher obj4 obj0 academicdiscipline===obj5 abbreviated to admin sci q comes under the
+obj0 publisher obj4 obj0 academicdiscipline===obj5 abbreviated to obj5 was published by obj4 and
+obj5 numberofpages obj8 obj5 author===the obj1 obj0 has a total of obj4 pages
+obj5 numberofpages obj8 obj5 author===obj0 is a obj1 which was written by obj3
+obj0 mediatype obj6 obj0 numberofpages===obj5 a obj8 page obj4 book has a obj5
+obj0 mediatype obj6 obj0 numberofpages===obj5 is published in obj4 and is obj8 pages
+obj0 mediatype obj6 obj0 numberofpages===obj5 is obj8 pages and published in obj4 with
+obj0 numberofpages obj8 obj0 mediatype===the book alcatraz versus the evil librarians is printed
+obj0 numberofpages obj8 obj0 mediatype===obj5 is in obj7 with the obj5 of obj3
+obj0 numberofpages obj8 obj0 mediatype===obj5 is produced in obj7 has obj4 pages and
+obj0 abbreviation obj4 obj0 academicdiscipline===the discipline of the obj5 also known by the
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj5 is abbreviated to obj4 and comes under
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj5 am obj9 math a discipline of
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj5 abbreviated to obj4 is published bi monthly and
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj5 or obj4 is published obj7 and is
+obj0 abbreviation obj4 obj0 academicdiscipline===the obj5 is published bi monthly and abbreviated to obj4
+obj6 occupation obj4 obj6 birthdate===obj4 obj0 was born on march 15th 1932 in
+obj6 occupation obj4 obj6 birthdate===obj0 was born in obj1 in obj3 he attended
+obj5 occupation obj3 obj5 birthdate===the obj4 obj0 born obj2 in obj0 obj13 obj10
+obj5 occupation obj3 obj5 birthdate===obj4 obj0 obj13 born march 15th 1932 in obj0
+obj5 occupation obj3 obj5 birthdate===obj0 obj13 born on 15 march 1932 in obj0
+obj2 deathplace obj11 obj2 birthdate===american obj0 was born on july 23rd 1927 and
+obj2 deathplace obj11 obj2 birthdate===obj0 was a national of the obj0 he was
+obj2 deathplace obj11 obj2 birthdate===obj0 was a obj0 citizen born 19270723 and dying
+obj2 status obj9 obj2 birthdate===obj0 obj4 was a obj0 born in obj10 on
+obj2 birthdate obj9 obj2 occupation===born in obj0 on 1933 10 17 was a obj6
+obj1 completiondate obj13 obj1 architect===born in obj5 obj8 designed obj0 which was completed
+obj0 completiondate obj10 obj0 floorcount===construction of obj5 began in obj9 and finished in
+obj0 completiondate obj10 obj0 floorcount===obj6 is the obj8 of obj5 which was begun
+obj0 completiondate obj10 obj0 floorcount===the building at obj5 was completed in obj4 5
+obj0 completiondate obj12 obj0 floorcount===the obj8 of obj5 is obj5 and it was
+obj0 completiondate obj12 obj0 floorcount===obj5 was designed by obj5 and was completed in
+obj0 completiondate obj12 obj0 floorcount===obj5 was the obj8 of obj5 which was completed
+obj1 completiondate obj10 obj1 floorcount===obj6 was the obj8 of obj0 which is owned
+obj1 completiondate obj10 obj1 floorcount===obj0 is the obj9 of obj0 which was designed
+obj1 completiondate obj10 obj1 floorcount===obj0 is a obj01 floor obj6 building completed in
+obj0 completiondate obj8 obj0 floorcount===the building at obj5 was started in obj6 and
+obj0 completiondate obj8 obj0 floorcount===obj5 has obj13 floors and a floor area of
+obj7 owner obj0 obj6 leadertitle===obj4 is located in obj5 the obj1 and it
+obj7 owner obj0 obj6 leadertitle===obj4 obj5 obj1 where obj2 is a leader is
+obj4 architecturalstyle obj0 obj4 completiondate===built between obj11 obj12 obj10 adisham halls is located
+obj4 architecturalstyle obj0 obj4 completiondate===obj5 was constructed between obj10 obj12 obj11 in obj8
+obj5 mainingredients obj3 obj5 ingredient===obj0 contains obj11 and sweet potatoes it is a
+obj1 fullname obj0 obj1 ground===obj4 is the full name of obj4 which is
+obj1 fullname obj0 obj1 ground===obj6 is the home to obj4 which has the
+obj1 fullname obj0 obj1 ground===obj4 full name associazione obj41 obj7 srl play out
+obj1 fullname obj0 obj1 ground===the full name of obj4 which has obj43 members
+obj1 followedby obj6 obj1 precededby===obj0 is written by obj0 it was was preceded
+obj1 followedby obj6 obj1 precededby===obj0 written by obj0 was preceded by obj4 and
+obj1 followedby obj6 obj1 precededby===written in english obj4 is the sequel to obj0
+obj1 mediatype obj8 obj1 numberofpages===obj0 was written by obj0 and has the obj7
+obj1 mediatype obj8 obj1 numberofpages===the obj4 book obj0 was written by obj0 it
+obj0 mediatype obj8 obj0 numberofpages===obj5 is a obj4 that is obj11 pages long
+obj0 mediatype obj8 obj0 numberofpages===obj4 is the obj10 of obj5 which has obj11
+obj0 mediatype obj8 obj0 numberofpages===virginia demarce's novel obj5 printed in obj4 has obj11
+obj3 academicdiscipline obj11 obj3 academicdiscipline===the obj0 comes under the academic discipline obj4 and
+obj3 academicdiscipline obj11 obj3 academicdiscipline===the obj0 was first published in obj10 and belongs
+obj0 mediatype obj8 obj0 numberofpages===obj5 available in obj4 has obj11 pages the isbn
+obj0 mediatype obj8 obj0 numberofpages===a glastonbury romance can be found in obj4
+obj0 mediatype obj8 obj0 numberofpages===obj5 has obj11 pages and can be found in
+obj0 academicdiscipline obj9 obj0 abbreviation===obj5 is about obj4 obj7 of obj8 obj6 obj10
+obj0 mediatype obj8 obj0 numberofpages===obj5 a obj11 page obj4 has the obj7 obj10
+obj0 mediatype obj8 obj0 numberofpages===obj5 is published in obj4 320 pages the oclc
+obj0 mediatype obj8 obj0 numberofpages===published in obj4 obj5 is obj11 pages long has
+obj5 followedby obj3 obj0 followedby===obj4 was preceded by obj5 the book a glastonbury
+obj2 deathplace obj13 obj2 birthdate===obj0 was born in obj14 on the 23rd july
+obj2 deathplace obj13 obj2 birthdate===obj0 was born on 23rd july 1927 in obj14
+obj2 deathplace obj13 obj2 birthdate===american obj0 was born in obj14 on the 23rd
+obj1 floorcount obj16 obj1 completiondate===obj0 is located on obj0 it was designed by
+obj1 floorcount obj16 obj1 completiondate===obj0 completed in obj05 with obj06 floors is located
+obj9 owner obj0 obj8 leadertitle===obj4 own obj4 which is located in obj5 obj2
+obj3 mainingredients obj13 obj3 course===the obj10 obj0 comes from obj4 obj1 it includes
+obj2 spokenin obj7 obj0 publisher===the obj5 is spoken in obj4 and the obj4
+united kingdom leadername obj9 aids journal country===obj4 is the leader of the uk the uk
+united kingdom leadername obj9 aids journal obj13===obj14 is the obj12 city in the uk where
+obj3 affiliation obj2 obj3 obj24 obj19===obj43 obj0 in obj10 obj9 is affiliated obj45 obj43
+obj3 affiliation obj2 obj3 obj24 obj19===obj43 obj40 of obj10 in obj43 obj18 of obj9
+obj4 affiliation obj2 obj4 obj24 obj18===obj0 which is in obj53 obj17 of obj10 is
+obj4 affiliation obj2 obj4 obj24 obj18===obj53 obj0 in obj10 obj54 obj8 obj53 obj9 obj14
+obj2 obj25 obj15 obj2 obj23===the obj0 is located in the obj05 of obj4
+obj1 obj28 obj21 obj3 obj18===the obj22 address of the obj5 in obj25 is

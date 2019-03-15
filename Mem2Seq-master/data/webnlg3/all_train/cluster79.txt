@@ -1,0 +1,457 @@
+obj1 obj4 obj6 obj3 member obj5 obj0===obj8 obj2 obj4 part obj6 the obj4 obj6 obj8
+obj1 obj4 a obj3 member obj5 obj0===obj8 obj2 on the obj4 obj6 obj8
+obj0 obj4 a obj3 member obj5 obj1===obj0 obj2 on the obj4 obj6 obj8
+obj0 was a obj3 member of obj1===obj0 crewed obj8
+obj1 operatingorganisation obj3 obj1 runwayname obj5===obj4 operates obj0 which has the runway known as obj9
+obj1 operatingorganisation obj3 obj1 runwayname obj5===obj4 operates obj0 and its runway is called obj9
+obj1 operatingorganisation obj3 obj1 runwayname obj5===obj4 is the operating organisation for obj0 which has
+obj1 operatingorganisation obj3 obj1 runwayname obj5===obj4 is the operating organisation for obj0 where the
+obj1 operatingorganisation obj3 obj1 runwayname obj5===runway name at obj0 operated by obj4 is 10r 28l
+obj0 operatingorganisation obj3 obj0 owner obj4===the obj5 which is owned by the obj9 is
+obj1 operatingorganisation obj0 obj1 runwayname obj5===the obj4 is the operating organisation of obj4 which
+obj1 operatingorganisation obj0 obj1 runwayname obj5===operated by the obj4 has a runway named 13 31
+obj2 obj7 obj9 obj6 member obj8 obj3===astronaut obj0 who obj2 part obj6 the obj8 obj4
+obj1 location obj0 obj1 floorcount obj7===obj4 with obj9 floors is located on obj4
+obj0 location obj3 obj0 floorcount obj5===obj9 obj4 is a building with obj9 floors
+obj0 location obj3 obj0 floorcount obj5===obj9 with obj9 floors is located in obj4
+obj0 location obj3 obj0 floorcount obj5===obj9 located in obj4 has obj9 floors
+obj1 location obj0 obj1 floorcount obj5===obj4 is located at obj4 and has a floor
+obj1 location obj0 obj1 floorcount obj5===obj4 has obj9 floors and is located in obj4
+obj0 location obj2 obj0 floorcount obj5===obj9 has a floor count of obj9 and is
+obj0 obj4 obj2 obj0 floorcount obj5===obj9 is a obj4 in obj4 with a floor
+obj0 location obj2 obj0 floorcount obj5===obj9 is in obj4 and has obj9 floors
+obj0 location obj2 obj0 floorcount obj5===obj9 has obj9 floors and is located in the obj4
+obj0 location obj2 obj0 floorcount obj5===obj9 which has a total of obj9 floors is
+obj0 location obj2 obj0 floorcount obj5===obj9 is located in the obj4 and has a
+obj0 location obj3 obj0 completiondate obj5===obj9 obj4 was completed in obj9
+obj0 location obj3 obj0 completiondate obj5===obj9 was completed in obj9 and is located in obj4
+obj4 obj2 obj3 obj4 completiondate obj1===obj5 was the obj2 of the obj0 and it
+obj4 obj2 obj3 obj4 completiondate obj1===obj5 was the obj2 of obj0 which was completed
+obj0 obj3 obj4 obj0 floorcount obj5===the obj2 of the obj9 which has obj9 floors
+obj0 obj3 obj4 obj0 floorcount obj5===the obj9 was designed by obj2 obj4 and has
+obj0 obj4 obj2 obj0 floorcount obj5===the obj4 of the obj9 which has obj9 floors
+obj0 obj4 obj2 obj0 floorcount obj5===the obj4 of the obj9 floor obj9 is obj4
+obj2 obj4 obj1 obj2 completiondate obj5===the obj9 of obj0 completed in obj9 was obj4
+obj2 obj4 obj1 obj2 completiondate obj5===the obj9 of obj0 was obj4 and the building
+obj1 obj4 obj3 obj1 completiondate obj5===obj4 was the obj2 of obj0 which was completed
+obj1 obj4 obj3 obj1 completiondate obj5===the obj2 of obj0 was obj4 and the construction
+obj2 location obj0 obj2 completiondate obj5===obj4 in obj4 was finished in obj9
+obj1 location obj3 obj1 completiondate obj5===the construction of obj0 obj4 was completed in obj9
+obj1 location obj3 obj1 completiondate obj5===obj0 was completed in obj9 and is located in obj4
+obj1 location obj3 obj1 completiondate obj5===finished in obj9 obj0 is located in obj4
+obj2 obj5 obj1 obj2 alternativename obj2===obj4 is the obj5 of the comic book character obj0
+obj2 obj5 obj1 obj2 alternativename obj2===obj4 was the obj5 of the comic book character obj0
+obj2 creator obj1 obj2 alternativename obj2===obj4 created the comic book character called obj0 whose
+obj2 region obj3 obj2 mainingredients obj0===to make an obj9 you need obj9 and this
+obj3 region obj1 obj3 mainingredients obj0===obj9 is a dish of obj4 and the main
+obj2 country obj4 obj2 mainingredients obj0===obj9 are the main ingredients of obj9 which is
+obj2 country obj4 obj2 mainingredients===obj0 is a food found in obj4 and it
+obj2 country obj4 obj2 mainingredients===the main ingredients of the malaysian dish of obj0
+obj3 ingredient obj1 obj1 mainingredients obj5===the obj9 dish obj0 has obj4 in it
+obj0 obj3 obj4 obj0 course obj2===obj5 is a obj9 and features the obj9 of
+obj0 obj3 obj4 obj0 course obj2===obj5 is a obj9 that has obj4 as an obj9
+obj2 ingredient obj5 obj2 alternativename===obj4 can be added to a obj0 which can
+obj2 obj4 obj5 obj2 alternativename===one of the ingredients of a obj0 is obj4
+obj1 dishvariation obj4 obj1 mainingredients===obj4 is a variation of obj0 and some of
+obj1 dishvariation obj4 obj1 mainingredients===obj4 is a variation of obj0 which uses ground
+obj1 dishvariation obj4 obj1 mainingredients===a variant of obj0 is obj4 and has ground
+obj1 region obj2 obj1 mainingredients===obj0 has ground almond jam butter and eggs as
+obj1 region obj2 obj1 mainingredients===obj0 originates from the obj4 and the ingredients include
+obj1 region obj2 obj1 mainingredients===obj0 has ground almond jam butter and eggs as
+obj3 country obj2 obj3 mainingredients===obj0 has these main ingredients fried fish dumplings tofu
+obj3 country obj2 obj3 mainingredients obj0===a obj9 is a obj9 and can be found
+obj3 country obj2 obj3 mainingredients obj0===obj9 ingredients are obj9 and it is found in obj4
+obj3 country obj2 obj3 mainingredients===the main ingredients of obj0 a dish from the
+obj3 country obj2 obj3 mainingredients===obj0 which is eaten in the obj4 is mainly
+obj3 country obj2 obj3 mainingredients===obj0 comes from the obj4 and contains noodles pork
+obj2 obj4 obj5 obj2 mainingredients===the main ingredients of obj0 are noodles pork organs
+obj3 country obj5 obj3 mainingredients===the main ingredients in obj0 an indian dish are
+obj3 country obj5 obj3 mainingredients===obj4 is the origin of obj0 a dish that
+obj3 country obj5 obj3 mainingredients===gram flour and vegetables are main ingredients in obj0
+obj4 ingredient obj2 obj4 mainingredients obj1===obj0 is made of obj5 and obj9
+obj3 dishvariation obj0 obj3 course obj2===obj4 is a dish served for obj9 that can
+obj2 leadername obj0 arem arem region obj2===obj4 is the leader of obj4 where you will
+obj2 leadername obj0 arem arem region obj2===arem arem comes from obj4 a country led by obj4
+obj2 leadername obj0 arem arem region obj2===arem arem comes from obj4 where obj4 is a leader
+obj1 numberofmembers obj5 obj1 league obj3===the obj0 has obj4 members and play in the obj9
+obj0 numberofmembers obj5 obj0 ground obj3===obj5 is located in the town of obj9 and
+obj0 location obj5 obj2 ground obj0===obj5 play their home matches at the obj9 which
+obj0 author obj4 obj0 precededby obj2===obj5 was written by obj4 and is preceded by obj9
+obj0 author obj4 obj0 precededby obj2==='1634 the bavarian crisis' was written by obj4 and
+obj0 author obj4 obj0 precededby obj2===obj5 was written by obj4 and was preceded by obj9
+obj0 author obj4 obj0 precededby obj2===obj5 written by obj4 was preceded by obj9
+obj0 author obj4 obj0 precededby obj2===eric flint's book 1634 the bavarian crisis was preceded
+obj2 author obj0 obj2 precededby obj1===obj9 and it's sequel obj4 were both written by obj4
+obj2 author obj0 obj2 precededby obj1===obj4 was written by obj4 and was preceded by obj9
+obj1 author obj4 obj1 precededby obj0===obj9 by obj4 is preceded by obj9
+obj1 author obj4 obj1 precededby obj0===obj4 wrote the book obj9 which was preceded by obj9
+obj2 language obj0 obj0 spokenin obj3===obj4 is written in the obj4 which is spoken
+obj1 publisher obj3 obj1 followedby obj0===the book a long long way published by obj4
+obj1 publisher obj3 obj1 followedby obj0===the book a long long way which was followed
+obj1 publisher obj3 obj1 followedby obj0===published by obj4 the novel obj9 was followed by obj9
+obj0 obj4 obj3 obj0 numberofpages obj5===the book obj9 has obj9 pages and the obj2
+obj0 obj4 obj3 obj0 numberofpages obj5===the book obj9 has the obj2 of obj4 which
+obj0 obj4 obj3 obj0 numberofpages obj5===the 360 page a loyal character dancer has the obj2
+obj0 publisher obj3 obj2 followedby obj0===the novel obj5 was followed by obj9 published by obj4
+obj0 publisher obj3 obj2 followedby obj0===the secret scriptures published by obj4 followed a long
+obj0 publisher obj3 obj2 followedby obj0===the book the secret scriptures published by obj4 followed
+obj1 obj4 english obj4 aids journal country===aids journal is from the obj0 where the obj2
+obj2 operatingorganisation obj1 obj2 runwayname===operated by obj4 obj0 has a runway length of
+obj2 operatingorganisation obj1 obj2 runwayname===operated by obj4 obj0 has a runway name obj8
+obj2 operatingorganisation obj1 obj2 runwayname===obj4 is the operation organization for obj0 where the
+obj0 location obj5 obj0 runwayname===located in obj4 obj5 has a runway length of
+obj0 location obj3 obj0 runwayname===obj5 which is in obj4 has a runway named
+obj0 location obj3 obj0 runwayname===located in obj4 the obj5 has the runway name
+obj0 location obj3 obj0 runwayname===obj4 is where obj5 is located this airport has
+obj0 location obj3 obj0 runwayname===obj5 is located in obj4 and has a runway
+obj0 location obj5 obj0 runwayname===obj5 is located in obj4 and has a runway
+obj0 location obj5 obj0 runwayname===obj5 is located in obj4 its runway name is
+obj0 location obj5 obj0 runwayname===obj5 is located in obj4 and has a 29
+obj0 operatingorganisation obj4 obj0 owner===obj5 serves obj7 it is owned by the obj5
+obj0 operatingorganisation obj4 obj0 owner===the obj5 is operated and owned by the obj4
+obj0 operatingorganisation obj4 obj0 owner===obj5 which has a runway length of obj7 is
+obj0 operatingorganisation obj4 obj0 owner===the operating organisation of obj5 is the obj4 has
+obj0 operatingorganisation obj4 obj0 owner===obj5 is operated by the obj4 and owned by
+obj1 runwaylength obj7 obj1 3rd runway surfacetype===the runway length of obj0 is obj4 it is
+obj2 obj10 obj12 obj9 member obj11 obj4===obj0 born in obj0 obj2 on the obj8 obj6
+obj3 obj10 obj12 obj9 member obj11 obj2===us born obj0 obj8 on the obj4 obj6 obj8
+obj2 obj10 obj12 obj9 member obj11 obj3===obj0 obj2 on the obj4 obj6 the obj8 operated
+obj1 location obj0 obj1 floorcount===obj4 is located in obj4 and was completed in
+obj1 location obj0 obj1 floorcount===obj4 has obj40 floors and was completed in obj8
+obj0 location obj5 obj0 floorcount===obj5 located in obj4 with obj8 floors was completed
+obj0 location obj5 obj0 floorcount===obj5 obj4 has obj8 floors and was completed in obj7
+obj0 location obj5 obj0 floorcount===the building of obj5 completed in obj7 is located
+obj0 location obj5 obj0 floorcount===the obj5 has obj8 floors and was completed in
+obj0 location obj5 obj0 floorcount===obj5 which has obj8 floors was completed in obj4
+obj0 location obj5 obj0 floorcount===obj5 in obj4 completed in obj7 has obj8 floors
+obj0 location obj4 obj0 floorcount===with a floor count of obj8 obj5 is located
+obj0 location obj4 obj0 floorcount===obj5 with obj8 floors is in obj4 obj2
+obj0 location obj4 obj0 floorcount===obj5 has obj8 floors and is located in obj4 obj2
+obj1 location obj0 obj1 floorcount===obj4 in obj4 was completed in obj7 and has
+obj0 location obj6 obj0 floorcount===there are obj8 floors at obj5 which is located
+obj0 location obj6 obj0 floorcount===obj5 which is located in london the leader of
+obj0 location obj6 obj0 floorcount===obj2 is a leader in obj4 where obj5 with
+obj0 location obj2 obj0 floorcount===obj5 with obj8 floors is located within the obj4
+obj0 location obj2 obj0 floorcount===obj5 has obj8 floor and is located in the
+obj0 location obj2 obj0 floorcount===obj5 which has obj8 floors is located in the
+obj0 obj6 obj3 obj0 completiondate===the obj2 of obj5 was obj4 it was completed
+obj0 location obj6 obj0 floorcount===obj5 is located in obj4 has obj8 floors and
+obj0 location obj6 obj0 floorcount===obj5 obj4 was completed in obj7 and has obj8 floors
+obj0 location obj6 obj0 floorcount===obj5 is located in obj4 it has obj8 floors
+obj0 location obj5 obj0 floorcount===there are obj8 floors at obj5 that was completed
+obj0 location obj5 obj0 floorcount===obj5 with obj8 floors and completed in obj7 is
+obj3 obj6 obj0 obj3 completiondate===architects obj4 designed obj4 the building of which started
+obj3 obj6 obj0 obj3 completiondate===the building of the obj4 started in obj9 obj12
+obj3 obj6 obj0 obj3 completiondate===obj4 are the architects of obj4 which was completed
+obj3 obj6 obj0 obj3 completiondate===the architects for obj4 completed in obj10 were obj4
+obj3 obj6 obj0 obj3 completiondate===obj4 is the obj2 of obj4 which was started
+obj3 obj6 obj0 obj3 completiondate===obj4 is the obj2 of obj4 which was completed
+obj3 obj6 obj0 obj3 completiondate===the jp mcmanus owned obj4 was designed by the
+obj3 obj6 obj0 obj3 completiondate===obj4 was the obj2 of obj4 which was started
+obj3 obj6 obj0 obj3 completiondate===obj4 which was begun in obj7 and completed in
+obj3 obj6 obj0 obj3 completiondate===the building of obj4 started in obj7 and completed
+obj1 location obj6 obj1 owner===obj0 in obj4 was designed by the obj5 obj4
+obj1 location obj6 obj1 owner===obj4 is the obj5 of obj0 owned by the
+obj1 location obj6 obj1 owner===obj0 which is owned by the college of william
+obj2 location obj6 obj2 owner===obj0 which has a georgian style of architecture is
+obj1 location obj6 obj1 owner===the college of william and mary own the obj0
+obj1 location obj6 obj1 owner===obj0 which is owned by the college of william
+obj1 location obj6 obj1 owner===obj0 located in obj4 was completed june 1st 2009
+obj6 leadername obj2 obj6 demonym===the residents of obj0 are known as the obj1
+obj6 leadername obj2 obj6 demonym===obj0 is located in obj0 where the leader is
+obj3 country obj8 obj3 alternativename===obj0 also know as ajo blanco is made with
+obj3 country obj8 obj3 alternativename===obj0 alternatively known as ajo blanco comes from obj4
+obj3 country obj8 obj3 alternativename===obj0 originates from obj4 is also called ajo blanco
+obj4 country obj8 obj4 alternativename===an obj1 of obj0 alternative name ajo blanco is
+obj4 obj7 obj8 obj4 alternativename===obj0 also know as ajo blanco is a dish
+obj4 country obj8 obj4 alternativename===obj0 or ajo blanco contains the obj1 of obj3
+obj3 country obj8 obj3 alternativename===obj2 sometimes called ajoblanco is a dish from obj4
+obj3 country obj8 obj3 alternativename===obj0 or ajo blanco is from obj4 and contains obj7
+obj3 country obj8 obj3 alternativename===obj0 or ajo blanco contains obj7 and is found
+obj2 region obj7 obj2 alternativename===obj0 also known as obj3 is a dish made
+obj2 region obj7 obj2 alternativename===obj0 or obj3 is found in indonesia obj4 and malaysia
+obj4 ingredient obj2 obj2 mainingredients===obj0 includes obj4 and is found in malaysia singapore
+obj0 country obj5 obj0 mainingredients===obj5 which contains obj8 and sausage is a dish
+obj0 country obj5 obj0 mainingredients===obj5 a dish which contains obj8 and sausage
+obj1 obj5 obj8 obj1 course===obj0 is a obj4 dish that includes the ingredients
+obj1 obj5 obj8 obj1 course===a main obj2 of the obj0 is obj6 it
+obj1 ingredient obj8 obj1 course===obj0 is served as a obj4 and contains both
+obj1 ingredient obj6 obj1 course===obj0 is served as a obj4 it includes sausages
+obj1 obj5 obj6 obj1 course===obj8 explosion's main obj2 is obj8 along with obj4
+obj2 country obj4 obj2 alternativename===obj0 is from obj4 this obj8 obj7 is obj6
+obj2 country obj4 obj2 alternativename===the obj0 has different names including obj12 obj14 obj12
+obj2 country obj4 obj2 alternativename===the obj0 comes from the obj4 and contains condiments
+obj5 country obj8 obj5 alternativename===coming form obj4 and made with gram flourbhajji has
+obj5 country obj8 obj5 alternativename===an obj3 of obj0 is obj2 obj0 is from
+obj5 country obj8 obj5 alternativename===obj0 originate from obj4 where they are also known
+obj5 obj4 obj8 obj5 alternativename===obj0 whose alternative names are bhaji and bajji comes
+obj5 country obj8 obj5 alternativename===obj0 also known as bhaji or bajji originates from
+obj5 country obj6 obj6 demonym===obj0 leads obj4 whose people are known as indians
+obj5 country obj6 obj6 demonym===obj0 is a dish from obj4 where the leader
+obj5 country obj6 obj6 demonym===obj0 come from obj4 where obj0 is the leader
+obj5 country obj6 obj6 demonym===obj0 come from obj4 where obj0 leads the obj1
+obj5 country obj6 obj6 demonym===obj4 led by obj0 and inhabited by the obj1
+obj3 obj2 obj8 obj3 course===obj4 is an obj2 in obj0 which along with
+obj3 obj2 obj8 obj3 course===obj4 is an obj2 in obj0 a type of
+obj3 ingredient obj1 obj3 course===obj0 is a obj5 that contains obj4 a obj7
+obj3 obj2 obj1 obj3 course===a obj7 is a obj5 along with obj0 which
+obj4 obj3 obj2 obj4 course===obj5 is an obj5 of obj0 a type of
+obj4 ingredient obj2 obj4 course===obj0 is a dish that can be served as
+obj4 ingredient obj2 obj4 course===a nice confectionery obj6 is sandesh and also obj0
+obj3 obj2 obj8 obj3 course===obj4 is a key obj2 of a dish called
+obj3 obj2 obj8 obj3 course===obj0 can be served as a obj5 as can
+obj3 ingredient obj1 obj3 course===obj0 is a type of obj5 like cookies it
+obj3 ingredient obj1 obj3 course===cookies and obj0 which contains sweet potato are types
+obj4 ingredient obj2 obj4 course===obj0 is a obj6 which contains obj5 obj0 is
+obj4 ingredient obj1 obj4 mainingredients===the philippine dish of obj0 contains obj8 and obj5
+obj5 ingredient obj1 obj5 mainingredients===obj0 recipes typically contain sweet potatoes and obj8 sweet
+obj5 ingredient obj1 obj5 mainingredients===obj4 is part of the obj4 plant family and
+obj4 ingredient obj1 obj4 mainingredients===obj0 is a dish from the obj2 that contains
+obj3 obj2 obj8 obj3 course===obj4 is an obj2 in obj0 a obj5 obj0
+obj3 ingredient obj8 obj3 course===obj0 is made from obj4 and is served as
+obj4 obj1 obj5 obj4 course===obj5 is an obj2 of obj0 a dish served
+obj4 obj1 obj5 obj4 course===like a obj7 obj0 is a obj2 that is
+obj5 obj2 obj6 obj5 course===obj4 is an obj2 of obj0 a dish served
+obj5 obj2 obj6 obj5 course===sandesh and obj0 are desserts where obj0 has obj4
+obj5 ingredient obj8 obj5 course===obj0 contains raisins and is a obj3 sandesh is
+obj5 ingredient obj8 obj5 course===sandesh and obj0 are desserts obj0 contains raisins
+obj5 ingredient obj8 obj5 course===sandesh is a nice confectionery obj3 as is obj0
+obj1 obj8 obj7 obj1 league===ac cesena's obj2 is in obj4 and they play
+obj6 leader obj1 obj6 demonym===obj0 led by pietro grasso is home to the
+obj0 author obj4 obj0 numberofpages===obj5 by obj4 is available in obj7 form and
+obj0 author obj4 obj0 numberofpages===the printed book obj5 was written by obj4 and
+obj0 author obj6 obj0 precededby===obj5 and it's predecessor obj2 is written in english
+obj0 author obj6 obj0 precededby===obj5 was written in english by obj4 the book
+obj0 author obj7 obj0 precededby===obj2 preceded obj3 and obj5 written by obj4
+obj0 author obj7 obj0 precededby===written by obj4 obj5 was preceded by obj3 which
+obj0 author obj5 obj0 precededby===obj5 the sequel to obj2 was written by obj4
+obj3 birthplace obj2 obj0 precededby===obj5 the sequel to obj5 was written by obj5
+obj3 birthplace obj2 obj0 precededby===obj5 was born in obj4 and wrote obj5 and obj5
+obj2 birthplace obj1 obj0 precededby===obj5 was born in obj4 and is the obj8
+obj2 birthplace obj1 obj0 precededby===obj5 obj8 of obj5 and the book that preceded
+obj3 obj7 english obj7 aids journal country===the aids journal is from the obj0 where the
+obj3 language obj1 obj1 spokenin===the obj4 is spoken in obj4 and the obj0
+obj1 cityserved obj9 obj1 runwayname===obj0 serves the city of obj4 the runway named
+obj1 cityserved obj9 obj1 runwayname===18c 36c or zwanenburgbaan are the names for the runway
+obj1 cityserved obj9 obj1 runwayname===obj0 serves obj4 the runway is called 18c 36c or
+obj1 cityserved obj9 obj1 runwayname===obj0 has an elevation of obj00 from sea level
+obj1 operatingorganisation obj6 obj1 owner===the obj0 is operated by the obj4 in the
+obj1 operatingorganisation obj6 obj1 owner===obj0 is owned by the obj7 and operated by
+obj1 operatingorganisation obj6 obj1 owner===obj0 which serves obj9 and is 12 metres above
+obj1 runwaylength obj10 obj1 3rd runway surfacetype===obj0 is 34 meters above sea level its 3rd
+obj6 nationality obj2 obj6 birthdate===obj0 is a obj4 citizen born in obj1 on
+obj6 nationality obj2 obj6 birthdate===obj0 was born on march 15 1932 in obj1
+obj4 almamater obj0 obj4 birthdate===obj5 was born obj12 obj11 on july 23 1927
+obj4 almamater obj0 obj4 birthdate===born obj12 obj11 on 1927 07 23 went to the
+obj1 location obj5 obj1 floorcount===obj0 which has obj01 floors is located in obj4
+obj1 location obj5 obj1 floorcount===obj0 is located in obj4 and it has a
+obj1 location obj5 obj1 floorcount===the obj01 floor obj0 building is in cuyahoga county
+obj0 location obj4 obj0 floorcount===obj5 has obj11 floors and is located in obj4
+obj0 location obj4 obj0 floorcount===there are obj11 floors at obj5 obj4 obj10 which
+obj0 location obj4 obj0 floorcount===with a floor count of obj11 obj5 is located
+obj1 location obj8 obj1 floorcount===obj0 has a floor count of obj01 and is
+obj1 location obj8 obj1 floorcount===obj3 is the leader in obj4 obj0 has obj01
+obj3 location obj10 obj3 completiondate===obj0 designed by obj7 obj0 was completed in obj4
+obj3 location obj10 obj3 completiondate===obj0 obj4 obj1 was designed by obj0 and completed
+obj3 location obj10 obj3 completiondate===obj0 is located in obj4 obj1 and it was
+obj2 location obj10 obj2 completiondate===obj0 designed by obj6 and completed in obj11 is
+obj2 location obj10 obj2 completiondate===obj0 obj4 obj0 was designed by the obj7 obj6
+obj2 location obj10 obj2 completiondate===obj0 is located in obj4 obj0 was completed in
+obj3 location obj10 obj3 completiondate===obj0 designed by obj1 is located in obj4 in
+obj3 location obj10 obj3 completiondate===obj1 is the obj7 of obj0 which was completed
+obj0 country obj10 obj0 floorcount===the obj5 in akita obj4 obj4 has three floors
+obj0 country obj10 obj0 floorcount===obj4 is the obj7 of the obj5 which has
+obj2 obj11 obj8 obj2 completiondate===the obj5 of obj0 is obj4 and it was
+obj2 obj10 obj5 obj2 completiondate===the obj0 are the current tenants of obj0 which
+obj2 obj10 obj5 obj2 completiondate===the obj0 is located in the obj8 and they
+obj1 location obj8 obj1 completiondate===obj0 was completed on obj7 in obj4 obj6 the
+obj1 location obj8 obj1 completiondate===the obj0 are the current tenants of obj0 which
+obj1 location obj8 obj1 completiondate===the obj0 are the current tenants of obj0 which
+obj1 location obj9 obj1 owner===the obj0 obj4 designed by robert am stern was
+obj1 location obj8 obj1 owner===the college of william and mary own obj0 which
+obj1 location obj8 obj1 owner===obj0 completed on 1st obj02 2009 is owned by
+obj1 location obj8 obj1 owner===the college of william and mary own obj0 alan
+obj3 location obj8 obj3 owner===the obj1 in the obj7 are the current tenants
+obj3 location obj8 obj3 owner===obj0 is located in obj4 and owned by the
+obj3 location obj8 obj3 owner===the obj1 is currently located in the obj0 owned
+obj2 location obj7 obj2 owner===obj0 owned by the college of william and mary
+obj2 location obj7 obj2 owner===obj0 is situated in obj4 obj6 and is owned
+obj4 nationality americans obj0 fullname===obj5 is the full name of obj5 created by
+obj5 nationality united states bolt comicscharacter creator===bolt is a comic character with the alternative name
+obj5 nationality united states bolt comicscharacter creator===bolt obj3 is a comic character which
+obj5 nationality united states bolt comicscharacter creator===the comic book character bolt also known as obj3
+obj6 nationality united states bolt comicscharacter creator===the us national obj0 along with comic book writer
+obj6 nationality united states bolt comicscharacter creator===the comic character bolt or otherwise known as obj4
+obj5 nationality united states bolt comicscharacter creator===obj3 is the alternative name for the comic book
+obj5 nationality united states bolt comicscharacter creator===ernie colon and the us national obj0 created the
+obj5 nationality united states bolt comicscharacter obj10===obj8 and the american obj0 were among the creators
+obj3 country obj15 obj3 mainingredients===obj0 is from obj4 obj4 it contains bread obj8
+obj3 country obj15 obj3 mainingredients===obj0 a dish from obj4 and obj4 contains obj12
+obj4 region obj10 obj4 mainingredients===obj0 contains obj2 sponge cake obj18 obj15 and meringue
+obj2 region obj5 obj2 course===the obj10 obj0 was created obj14 1820 at the
+obj2 region obj5 obj2 course===obj0 is a obj10 that originates from the obj4
+obj2 region obj5 obj2 course===obj0 a obj10 was created obj14 1820 at the
+obj1 region obj4 obj1 mainingredients===obj0 is a obj8 that originates from the obj4
+obj1 obj13 obj4 obj1 mainingredients===the obj8 obj0 is from the obj4 obj03 it
+obj1 obj13 obj4 obj1 mainingredients===obj0 is a obj8 that can be obj01 warm
+obj4 obj15 obj7 obj4 mainingredients===obj0 was created in rutland arms bakewell in the
+obj4 region obj7 obj4 mainingredients===the obj0 was created in 1820 at the rutland
+obj4 obj15 obj7 obj4 mainingredients===obj0 is from the obj5 obj2 it includes ground
+obj3 region obj6 obj3 mainingredients===obj0 originates from the obj4 and has ground obj12
+obj3 region obj6 obj3 mainingredients===obj0 originates from the obj4 and can be obj13
+obj16 region obj6 obj16 mainingredients===obj0 is food found in obj4 it includes ground
+obj6 country obj3 obj6 course===obj0 is a obj16 eaten in the obj4 the
+obj6 obj11 obj3 obj6 course===obj4 is the obj2 obj0 comes from the ingredients
+obj6 country obj3 obj6 course===the main ingredients of obj0 are noodles obj15 obj8
+obj6 country obj3 obj6 course===obj0 is originates from the obj4 and served as
+obj6 country obj3 obj6 course===obj0 is a obj16 dish from the obj4 and
+obj6 country obj3 obj6 course===the obj16 obj0 is eaten in the obj4 the
+obj6 country obj3 obj6 course===obj0 is a type of obj16 from the obj4
+obj2 country obj10 obj2 mainingredients===obj0 is a popular dish in obj4 obj32 obj8
+obj7 country obj12 obj7 mainingredients===obj0 is also known as bhaji or bajji it
+obj7 country obj12 obj7 mainingredients===obj0 originates from obj4 it includes gram obj9 and
+obj7 country obj12 obj7 mainingredients===obj0 originates from obj4 and contains gram obj9 and
+obj5 ingredient obj3 obj5 course===obj0 is a type of obj8 like sandesh that
+obj5 ingredient obj3 obj5 course===obj0 is a obj8 made with obj4 and obj10
+obj6 obj4 obj2 obj6 course===sandesh is a obj8 as is obj0 obj4 which
+obj6 ingredient obj2 obj6 course===sandesh and obj0 are both desserts obj0 contains obj4
+obj6 ingredient obj2 obj6 course===sandesh is a obj8 confection obj0 is a obj8
+obj4 obj10 obj9 obj4 mainingredients===obj0 is a dish from the obj2 of obj5
+obj4 obj10 obj9 obj4 mainingredients===the obj0 dish can be found in the obj5
+obj3 country obj11 obj3 course===obj0 is from the obj0 obj9 of obj4 it
+obj3 country obj11 obj3 course===obj0 originates from obj0 in mexicoit is a obj5
+obj3 country obj11 obj3 course===obj0 which contains obj2 is a obj5 found in
+obj9 country obj17 obj9 mainingredients===obj0 is a food originates from guadalajaramexicothe dish contains
+obj8 country obj17 obj8 mainingredients===obj0 comes from the obj9 obj15 of obj4 and
+obj8 country obj17 obj8 mainingredients===obj0 contains chopped fruit obj19 obj16 obj3 obj18 obj6
+obj7 country obj17 obj7 mainingredients===obj0 a dish found in the obj8 obj15 of
+obj2 numberofmembers obj10 obj2 ground===obj0 played in the obj1 obj11 obj7 they have
+obj4 obj10 obj2 obj1 ground===obj4 and obj3 are obj4 of obj0 where obj0
+obj8 leader obj2 obj8 demonym===a s gubbio's home obj6 is in obj0 which
+obj8 leader obj2 obj8 demonym===obj0 is where the obj6 of obj1 is located
+obj7 leader obj1 obj7 demonym===as gubbio's home obj5 is in obj0 which is
+obj8 leader obj2 obj8 demonym===the obj5 of obj1 is located in obj0 which
+obj1 obj7 obj5 obj1 numberofpages===obj0 is written by obj0 obj03 is in obj01
+obj1 obj7 obj5 obj1 numberofpages===obj0 has obj04 pages obj03 was written by obj0
+obj1 obj7 obj5 obj1 numberofpages===obj0 has obj04 pages can be located by it's
+obj1 author obj8 obj1 precededby===obj0 written by obj4 born in obj5 was preceded
+obj1 author obj8 obj1 precededby===obj4 and it's sequel obj0 were written by obj4
+obj0 author obj8 obj0 precededby===obj5 which was preceded by obj4 and was the
+obj1 author obj8 obj1 precededby===obj5 is the birth place of obj4 who wrote
+obj0 author obj7 obj0 numberofpages===obj5 by obj4 is obj11 pages published in obj10
+obj0 author obj7 obj0 numberofpages===obj6 1 4165 2060 0 was written by obj4 published
+obj0 author obj7 obj0 numberofpages===obj5 written by obj4 has obj11 pages and was
+obj0 language obj3 obj3 spokenin===obj0 was published in english in the obj5 where
+obj0 language obj3 obj3 spokenin===the obj4 is spoken in obj6 and is also
+obj3 language obj1 obj1 spokenin===obj0 is in the obj4 is spoken in obj7
+obj3 language obj1 obj1 spokenin===obj0 originates from the obj5 where the native americans
+obj3 obj9 obj1 obj1 spokenin===the book obj0 was written in the obj4 and
+obj0 obj10 obj12 obj0 academicdiscipline===the obj5 abbrv acta obj9 pol is academically focused
+obj0 obj10 obj12 obj0 academicdiscipline===obj5 is academically focused on obj7 and has the
+obj0 obj10 obj12 obj0 academicdiscipline===obj5 is academically focused on obj7 and has the
+obj0 obj10 obj12 obj0 academicdiscipline===the obj5 comes under the academic discipline of obj7
+obj0 obj10 obj12 obj0 academicdiscipline===the obj5 is an academic publication which is primarily
+obj0 obj10 obj12 obj0 academicdiscipline===obj5 abbreviated name obj4 comes under the academic discipline
+obj0 language obj2 obj2 spokenin===obj0 is written in the obj4 as spoken in
+american journal of obj8 abbreviation obj5 american journal of obj8===the american journal of medicine am obj12 math is
+obj5 obj10 english obj10 aids journal country===aids journal is from the obj0 where english is
+obj5 obj10 english obj10 aids journal country===english is the obj2 of the obj0 where the
+obj2 obj10 english obj10 aids journal country===the aids journal was published in the obj0 obj0
+obj2 obj10 english obj10 aids journal country===in the obj0 obj7 is the leader queen and
+obj2 obj10 english obj10 aids journal country===in the obj0 the leader queen is obj7 english
+obj4 language obj2 obj2 spokenin===the obj4 is spoken both in obj6 and the
+obj4 language obj2 obj2 spokenin===obj0 is from the obj0 where english is spoken
+obj1 operatingorganisation obj7 obj1 owner===operated by the obj4 an downed by the obj8
+obj1 operatingorganisation obj7 obj1 owner===obj0 which is owned by the obj8 and operated
+obj1 operatingorganisation obj7 obj1 owner===obj0 which serves the city of obj01 is owned
+obj2 runwaylength obj13 obj2 3rd runway surfacetype===obj0 is operated by the obj0 and is situated
+obj2 runwaylength obj13 obj2 3rd runway surfacetype===obj0 runway obj11 is the 3rd runway with surface
+obj2 runwaylength obj13 obj2 3rd runway surfacetype===the obj0 operated obj0 which is 34 meters above
+obj3 obj17 obj21 obj16 member obj20 obj6===obj0 obj2 on the obj4 obj8 obj8 operated obj19
+obj2 obj16 obj18 obj15 member obj17 obj10===obj0 obj2 born in obj1 and became obj3 obj8
+obj2 obj18 obj21 obj17 member obj20 obj5===obj0 otherwise known as obj0 obj2 obj01 part obj00
+obj1 location obj5 obj1 floorcount===obj0 is in obj4 obj03 part of cuyahoga county
+obj1 location obj5 obj1 floorcount===obj0 which has obj04 floors is located in obj4
+obj0 location obj9 obj0 floorcount===obj5 with obj14 floors is located in obj4 obj6
+obj0 location obj9 obj0 floorcount===obj5 has obj14 floors and is located in obj4
+obj0 obj8 obj9 obj0 floorcount===obj2 is a leader in obj4 obj6 obj3 obj4
+obj0 location obj10 obj0 floorcount===obj5 is in obj4 obj6 which is part of
+obj0 location obj10 obj0 floorcount===obj5 is located in obj4 obj6 obj3 which is
+obj0 obj10 obj5 obj0 owner===obj5 was designed by the architectural firm obj13 and
+obj0 obj10 obj5 obj0 owner===obj13 firm designed the obj7 owned obj5 with its
+obj0 obj11 obj5 obj0 owner===located in obj8 obj5 was designed by the architects
+obj1 location obj11 obj1 owner===the college of william and mary own obj0 at
+obj5 country obj18 obj5 mainingredients===obj0 or obj4 a dish made of obj0 is
+obj5 country obj18 obj5 mainingredients===obj0 is a dish containing bread obj11 obj12 obj16
+obj1 ingredient obj8 obj1 mainingredients===obj0 which comes from obj04 includes obj0 obj4 obj05
+obj2 country obj12 obj12 demonym===obj0 is from the obj6 obj11 of obj4 the
+obj2 country obj12 obj12 demonym===obj0 is from the obj6 obj11 which is led
+obj1 country obj8 obj1 mainingredients===the obj0 is a 'main course' from the obj4
+obj1 country obj8 obj1 mainingredients===the obj0 which includes obj01 and the titular obj04
+obj9 country obj10 obj10 demonym===obj1 and obj0 are leaders in obj4 where the
+obj9 country obj10 obj10 demonym===obj1 and obj0 are leaders of obj4 where the
+obj9 country obj10 obj10 demonym===obj0 comes from obj4 where people are referred to
+obj9 country obj10 obj10 demonym===obj0 and ts thakur are leaders in obj4 which
+obj9 obj8 obj10 obj10 demonym===ts thakur and obj0 are leaders in obj4 the
+obj9 country obj10 obj10 demonym===obj1 are from obj4 where the leaders are tsthakur
+obj9 country obj10 obj10 demonym===indians is the name given to people from obj4
+obj10 obj8 obj12 obj12 demonym===obj0 comes from the obj2 obj4 where the residents
+obj10 obj8 obj12 obj12 demonym===obj0 is an indian dish from the karnatake obj9
+obj10 country obj12 obj12 demonym===obj0 is from the obj5 obj9 of obj4 where
+obj9 obj7 obj11 obj11 demonym===obj2 are from the obj2 obj4 where obj0 and
+obj9 country obj11 obj11 demonym===obj0 is found in the obj8 of obj5 obj4
+obj9 country obj11 obj11 demonym===the obj0 originates from obj5 obj4 where obj1 and
+obj9 country obj11 obj11 demonym===obj0 and obj2 are leaders in obj4 where the
+obj9 obj7 obj11 obj11 demonym===obj0 comes from the obj5 obj8 of obj4 ts
+obj9 country obj11 obj11 demonym===obj0 origintes from the obj5 obj8 of obj4 home
+obj3 region obj10 obj3 mainingredients===obj0 is a obj9 that comes from obj4 in
+obj3 obj13 obj10 obj3 mainingredients===the obj9 obj0 contains obj11 and obj14 it is
+obj3 obj13 obj10 obj3 mainingredients===obj0 is a dish from the obj4 obj2 of
+obj9 country obj20 obj9 course===obj0 is a obj13 from obj3 obj4 that includes
+obj9 country obj20 obj9 course===chopped obj11 obj22 obj18 obj2 obj8 obj7 obj6 and
+obj9 country obj20 obj9 course===obj0 is a obj13 dish from the obj3 obj17
+obj9 country obj20 obj9 course===obj0 is a obj13 found in obj4 and obj2
+obj9 country obj20 obj9 course===obj0 dessert contains chopped obj11 obj22 obj18 obj4 obj21
+obj8 country obj20 obj8 course===obj0 is a obj12 dish that can be found
+obj8 country obj20 obj8 course===obj22 obj18 chopped obj10 obj4 obj21 obj7 raisins and
+obj8 country obj20 obj8 course===the main ingredients of obj0 are chopped obj10 obj22
+obj8 country obj20 obj8 course===obj0 is a obj13 dish from the obj9 obj17
+obj8 country obj20 obj8 course===obj0 is a obj13 from obj9 obj4 that includes
+obj8 country obj20 obj8 course===obj22 obj18 chopped obj11 obj2 obj7 raisins and obj6
+obj8 country obj20 obj8 course===obj0 a obj13 found in obj4 is made from
+obj8 country obj20 obj8 course===the main ingredients of obj0 are chopped obj11 obj22
+obj7 country obj20 obj7 course===obj0 is a obj12 dish from the obj8 obj17
+obj7 country obj20 obj7 course===obj0 is a obj12 that contains the following chopped
+obj8 country obj20 obj8 course===chopped obj11 obj2 obj4 obj21 obj7 obj6 obj5 and
+obj8 country obj20 obj8 course===obj0 is a obj13 that comes from the obj17
+obj9 leadername obj2 obj9 demonym===obj1 can be found in obj0 where obj5 are
+obj9 leadername obj2 obj9 demonym===obj1 is a traditional sauce from obj0 where italian
+obj9 leadername obj1 obj9 demonym===the obj7 of obj0 is obj44 and its leader
+obj9 leadername obj1 obj9 demonym===italy's leader is obj4 obj2 is a leader from
+obj10 obj8 obj3 obj10 demonym===obj5 are the people who live in obj0 where
+obj10 obj8 obj3 obj10 demonym===the obj7 of obj2 is located in obj0 where
+obj10 leader obj3 obj10 demonym===the obj7 of obj2 is located in obj0 where
+obj4 language obj2 obj2 spokenin===obj0 is written in the obj4 and comes from
+obj4 language obj2 obj2 spokenin===obj0 was written in english and originates from obj13
+obj3 language obj1 obj1 spokenin===obj0 is written in the obj4 which is spoken
+obj3 language obj1 obj1 spokenin===obj0 is written in the obj4 spoken in great
+obj0 language obj4 obj4 spokenin===obj0 written in english published by obj10 in the
+obj1 language obj4 obj4 spokenin===obj0 written in english was published by obj00 in
+obj4 language obj1 obj1 spokenin===the obj3 are an ethnic group in the obj6
+obj1 language obj3 obj3 spokenin===obj0 was published in the obj6 and written in
+obj0 language obj4 obj4 spokenin===the obj5 is spoken in obj9 and obj0 was
+obj0 language obj3 obj3 spokenin===the obj4 is spoken in obj9 and obj0 was
+obj0 language obj3 obj3 spokenin===obj0 is from the obj6 which obj14 is obj2
+obj0 language obj2 obj2 spokenin===although obj0 is written in the obj4 as spoken
+obj0 language obj2 obj2 spokenin===the obj4 as spoken in obj8 was used by
+obj0 language obj3 obj3 spokenin===obj0 is from the obj5 where obj11 is a
+obj0 language obj2 obj2 spokenin===obj0 is an obj4 book from the obj5 which
+obj2 language english language aids journal country===obj9 is a leader in the english speaking obj0
+obj4 leadername obj9 obj1 spokenin===the obj0 is lead by obj4 and uses the
+obj4 leadername obj9 obj2 spokenin===there are many aspects of obj0 culture from the
+obj4 leadername obj9 obj2 spokenin===the obj5 is spoken in obj7 and the obj0
+obj3 leadername obj8 obj3 demonym===1634 the ram rebellion comes from the obj0 where
+obj3 leadername obj8 obj3 demonym===1634 the ram rebellion is a novel from the
+obj5 obj19 obj21 obj18 member obj20 obj10===obj0 obj2 born in obj3 home obj6 the obj7
+obj8 obj22 obj24 obj21 member of obj12===obj0 is obj3 us national who obj2 born in
+obj5 obj22 obj24 obj21 member of obj17===obj0 has died in obj14 he obj2 born on

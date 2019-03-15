@@ -1,0 +1,685 @@
+obj0 obj1 obj2===obj2 is the obj1 of obj0
+obj0 obj1 obj2===the amsterdam airport schiphol's obj1 is obj2
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj1 obj2===obj2 is the obj1 of obj0
+obj0 obj1 obj2===the obj1 of obj0 is obj2
+obj1 obj2 obj0===obj1 obj2 is obj0
+obj1 obj2 obj0===obj0 is the obj2 of the obj1
+obj1 obj0 obj2===obj1 obj0 is obj2
+obj1 obj0 obj2===the inhabitants of obj1 have the obj0 of obj2
+obj0 obj1 obj2===obj0 is in the obj1 of obj2
+obj0 obj1 obj2===obj0 is located in the obj1 of obj2
+obj0 country obj2===obj0 is in obj2
+obj0 country obj1===obj0 is located in the obj1
+obj0 country obj1===obj0 is in the obj1
+obj2 obj0 obj1===obj2 obj0 is obj1
+obj2 obj0 obj1===obj1 is the obj0 in obj2
+obj1 obj0 obj2===obj1 is in the obj0 of obj2
+obj1 country obj2===the city of obj1 is found in obj2
+obj1 country obj2===obj1 is located in obj2
+obj0 obj1 obj2===the obj0 was obj1 in the year obj2
+obj0 obj1 obj2===the obj0 was obj1 in obj2
+obj0 obj1 obj2===obj0 was obj1 in obj2
+obj0 obj1 obj2===obj0 has been obj1 in obj2
+obj0 obj4 obj5 obj3 obj2 obj1===obj0 obj4 obj1 obj5 obj3 obj2
+obj1 obj2 obj0===obj0 was an obj1 obj2
+obj1 obj2 obj0===obj0 is an obj1 obj2
+obj1 obj2 obj0===obj0 is the obj2 of obj1
+obj0 location obj1===obj0 is located in obj1
+obj0 location obj1===the address obj0 is located in obj1
+obj0 location obj2===obj0 is located in obj2
+obj0 obj2 obj1===obj1 was the obj2 of obj0
+obj0 obj2 obj1===obj1 is the obj2 of the obj0
+obj1 obj2 obj0===the architects obj0 designed obj1
+obj1 obj2 obj0===obj0 are the architects of the obj1
+obj1 obj2 obj0===obj0 were the obj1 architects
+obj0 location obj1===obj0 is located in obj1
+obj0 country obj2===obj0 is located in obj2
+obj1 obj2 obj0===the obj2 for obj1 is obj0
+obj1 obj2 obj0===the obj2 of obj1 is obj0
+obj0 obj2 obj1===the obj2 of obj0 was obj1
+obj1 obj2 obj0===obj1 is designed based on the obj2 style of
+obj1 obj2 obj0===the obj2 of obj1 is of the arts and
+obj0 location obj1===obj0 are located in obj1
+obj0 location obj1===the obj0 are located in obj1
+obj2 obj1 obj0===a obj1 for residents of obj2 is obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj2 obj1===obj0 has the obj2 obj1
+obj0 obj2 obj1===obj0 has an obj2 obj1
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj1 obj2===obj0 has the obj1 obj2
+obj0 obj1 obj2===the obj1 of a glastonbury romance is obj2
+obj0 obj1 obj2===the obj1 for obj0 is obj2
+obj0 obj2 obj1===the obj2 obj1 wrote the book obj0
+obj0 obj1 obj2===the obj0 obj1 is 0025 5858
+obj0 obj1 obj2===obj0 can be located by the obj1 0025 5858
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj1 obj2===obj0 has the obj1 obj2
+obj0 obj1 obj2===the obj0 obj1 is 0567 7920
+obj0 obj1 obj2===the obj1 for obj0 is obj2
+obj0 country obj1===obj0 is from the obj1
+obj1 country obj0===obj1 is located in the obj0
+obj1 country obj0===obj1 is based in the obj0
+obj1 obj2 english obj2===english is the obj2 of the obj1
+obj1 obj2 english obj2===the obj2 of the obj1 is english
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj1 obj2 obj0===obj1 is in the obj0 obj2
+obj1 obj2 obj0===obj1 obj2 is association football club blackpool
+obj1 obj2 obj0===the obj2 of obj1 is obj0
+obj0 obj2 obj1===afc blackpool's obj2 is obj1
+obj0 obj2 obj1===obj0 obj2 is located in obj1
+obj0 obj2 obj1===obj0 obj2 is in obj1
+obj0 obj2 obj1===the obj2 of obj0 is in obj1
+obj0 obj2 obj1===obj0 has a obj2 in obj1
+obj0 obj2 obj1===aek obj1 fc's obj2 is in obj1
+obj0 location obj2===the obj0 is in obj2
+obj0 location obj2===obj0 is located in obj2
+obj1 obj2 obj0===obj1 obj2 is akron metro futbol club summit assault
+obj1 obj2 obj0===amsterdam's obj2 is obj0
+obj1 obj2 obj0===obj0 is a obj2 in obj1
+obj0 obj2 obj1===obj0 is attached to the obj2 obj1
+obj2 obj1 obj0===obj2 is in the obj1 of obj0
+obj2 obj1 obj0===obj2 is a obj1 of obj0
+obj2 obj1 obj0===italy's obj1 is obj0
+obj2 obj1 obj0===obj0 is the obj1 of obj2
+obj2 obj1 obj0===the obj1 of obj2 is obj0
+obj1 obj2 obj0===obj1 has represented the obj2 obj0
+obj0 obj2 obj1===obj0 is a member of the obj2 obj1
+obj0 obj2 obj1===obj0 is in the obj1 obj2
+obj0 obj2 obj1===obj0 is part of the obj1 obj2
+obj0 obj2 obj1===obj0 is in the obj1 obj2
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===the obj2 of the obj0 is obj1
+obj0 obj1 obj2===the obj0 is located in the obj1 of obj2
+obj0 obj2 obj1===acharya institute of technology's obj2 is obj1
+obj2 obj1 obj0===the obj1 of obj2 is obj0
+obj2 obj1 obj0===obj0 is the obj1 of obj2
+obj6 obj11 obj3 obj9 obj5 obj2 at obj8 obj4===obj0 is obj8 obj7 obj11 obj4 obj1 obj6 obj11
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj8 obj7 obj11 obj6 obj11 obj3 obj9 obj5 obj2
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj0 is obj8 obj7 obj10 obj8 obj6 obj11 obj3
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj8 obj7 obj11 obj8 obj6 obj11 obj3 obj9 obj5
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj8 obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj4
+obj6 obj11 obj3 obj9 obj5 obj2 at the obj4===obj4 obj1 obj6 obj11 obj3 obj9 obj5 sciences' number
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===there are obj7 students obj10 obj8 obj6 obj11 obj3
+obj6 obj11 obj3 obj9 obj5 obj2 at obj8 obj4===there are obj7 students in obj8 obj4 obj1 obj6
+obj6 obj11 obj3 obj9 obj5 obj2 at the obj4===obj4 obj1 obj6 obj11 obj3 obj9 obj5 obj2 has
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj8 number obj11 students in obj6 obj11 obj3 obj9
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj8 number obj11 students obj10 obj8 obj6 obj11 obj3
+obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8 obj4===obj8 obj6 obj11 obj3 obj9 obj5 obj2 obj10 obj8
+obj2 obj1 obj0===the obj1 of obj2 is obj0
+obj2 obj1 obj0===alan bean's obj1 is the obj0
+obj1 obj2 obj3 obj0===obj0 was a obj2 obj3 on the obj1 mission
+obj1 obj2 obj3 obj0===apollo 8's obj2 obj3 was obj0
+obj0 obj4 obj6 obj3 obj2 obj5 obj1===obj0 obj4 obj6 obj3 obj2 obj5 obj1
+obj0 obj4 obj6 obj3 obj2 obj5 obj1===obj0 obj4 obj6 obj2 obj5 the obj1 obj3
+obj0 obj4 obj6 obj3 obj2 of obj1===obj0 obj4 obj6 obj3 obj2 on obj1
+obj0 was obj1 by obj3 obj2===obj3 obj1 obj0 in obj2
+obj0 obj4 obj1 obj5 obj3 obj2===obj0 obj4 obj1 obj5 obj3 in obj2
+obj0 obj4 obj1 by obj3 obj2===obj0 obj4 obj1 to work for obj3 in obj2
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj2 obj1===obj0 has a obj2 called obj1
+obj0 obj2 obj1===obj1 is a obj2 from obj0
+obj0 obj2 obj1===obj1 is a obj2 found in obj0
+obj1 obj2 obj0===obj0 is the obj2 of obj1
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj1 obj2 obj0===obj0 is the obj2 in obj1
+obj1 obj2 obj0===obj0 is the obj2 of obj1
+obj1 country obj0===obj1 is in the obj0
+obj1 country obj0===obj1 is found within the obj0
+obj0 country obj1===obj0 is located in the obj1
+obj0 obj2 obj1===obj1 is the obj2 of the obj0
+obj0 obj2 obj1===the obj2 of the obj0 is obj1
+obj0 obj2 obj1===obj1 is a obj2 of the obj0
+obj0 location obj1===the obj0 is located in the obj1
+obj0 location obj1===the obj0 is located at the obj1
+obj0 obj2 obj1===an obj2 of obj0 is obj1
+obj0 obj2 obj1===obj1 is an obj2 used in obj0
+obj0 obj2 obj1===obj1 is an obj2 of obj0
+obj0 obj2 obj1===an important obj2 in obj0 is obj1
+obj0 obj2 obj1===the obj1 serves as an obj2 in obj0
+obj0 obj2 obj1===obj1 is an obj2 in obj0
+obj0 obj2 obj1===obj0 is from the obj1 obj2
+obj0 obj2 obj1===obj0 is a dish from the obj2 of obj1
+obj0 obj2 obj1===obj0 is from the obj1 obj2
+obj2 obj0 obj1===obj1 is an obj0 in a obj2
+obj2 obj0 obj1===one of the ingredients of the obj2 sandwich is obj1
+obj0 obj2 obj1===obj0 is served in the obj2 of obj1
+obj1 country obj0===obj1 is a dish from obj0
+obj1 country obj0===obj1 is typical obj0
+obj1 country obj0===obj1 is part of obj0
+obj0 obj2 obj1===obj1 is one of the ingredients in obj0
+obj0 obj2 obj1===an obj2 found in obj0 is obj1
+obj1 obj0 obj2===obj2 is an obj0 in obj1
+obj1 obj0 obj2===one of the ingredients for obj1 is obj2
+obj0 obj2 obj1===obj0 comes from the obj2 of obj1
+obj0 obj2 obj1===obj0 is served in the obj2 of obj1
+obj1 obj0 obj2===obj1 is an obj0 found in obj2
+obj1 obj0 obj2===obj2 is an obj0 in obj1
+obj1 obj0 obj2===obj2 is an obj0 of obj1
+obj1 obj2 obj0===obj1 is found in the obj2 of obj0
+obj1 obj2 obj0===obj1 comes from the obj2 obj0
+obj0 obj1 obj2===the obj1 of chickens is obj2
+obj2 obj1 obj0===the obj1 of obj2 is the obj0
+obj2 obj1 obj0===obj0 is the obj1 in obj2
+obj2 obj1 obj0===the obj0 is the obj1 in obj2
+obj1 obj2 obj0===obj0 is the obj2 spoken in obj1
+obj2 obj1 obj0===obj0 is one of the languages spoken in obj2
+obj1 obj0 obj2===obj2 is the obj0 obj1 comes from
+obj1 country obj2===obj1 is a dish from obj2
+obj2 obj1 obj0===obj0 is an obj1 in obj2
+obj2 obj1 obj0===obj0 is an obj1 of obj2
+obj3 country obj0 obj3 ispartof obj2===obj3 is part of obj2 in the obj0
+obj0 country obj2 obj2 obj4 obj1===obj0 is in the obj2 the obj4 of which
+obj0 country obj2 obj2 obj4 obj1===the obj2 has the obj4 city of obj1 and
+obj2 obj5 obj0 obj1 ispartof obj2===obj1 is part of the obj2 where obj0 is
+obj2 obj5 obj0 obj1 ispartof obj2===obj0 is the obj5 of the obj2 where obj1
+obj2 obj5 obj0 obj1 ispartof obj2===obj1 is part of the obj2 where obj0 is
+obj2 obj5 obj0 obj1 country obj2===obj1 is located within the obj2 where the obj5
+obj1 obj4 english obj4 obj3 obj5===the obj5 of obj3 is obj1 where english is
+obj1 obj4 english obj4 obj3 country===obj3 is located within the obj1 where english is
+obj4 country obj2 obj2 leadername obj0===obj4 is a food found in obj2 where obj0
+obj4 country obj2 obj2 leadername obj0===obj4 is commonly served in obj2 where obj0 is leader
+obj4 country obj2 obj2 leadername obj0===obj4 is a cuisine found in obj0 led obj2
+obj1 country obj4 obj4 language obj0===obj1 can be found in obj4 where the obj0
+obj1 country obj4 obj4 language obj0===obj1 is from obj4 where the obj0 is spoken
+obj1 country obj4 obj4 leadername obj0===obj0 is a leader in obj4 where obj1 is
+obj1 country obj4 obj4 leadername obj0===obj1 can be found in obj4 where obj0 is
+obj1 country obj4 obj4 leadername obj0===obj1 is from obj4 where obj0 is the leader
+obj0 obj3 obj2 obj0 country obj5===obj0 can be found in obj5 and one of
+obj0 obj4 obj5 obj0 obj3 obj2===obj0 comes from the obj4 of obj5 and one
+obj0 country obj5 obj0 obj3 obj2===obj0 france uses obj2 as an obj3
+obj0 country obj5 obj0 obj3 obj2===france's obj0 includes the obj3 obj2
+obj1 obj3 obj4 obj4 leadername obj0===obj1 comes from the obj3 of obj4 where obj0
+obj1 country obj4 obj4 leadername obj0===obj4 led by manuel valls is the origin of obj1
+obj1 country obj4 obj4 leadername obj0===obj0 is the leader of obj4 where obj1 comes from
+obj1 country obj0 obj1 obj3 obj4===obj4 is one of the main ingredients of a
+obj1 country obj0 obj1 obj3 obj4===obj1 a obj0 dish includes the obj3 obj4
+obj4 country obj2 obj4 obj1 obj0===obj0 is an obj1 of the dish obj4 which
+obj4 country obj2 obj4 obj1 obj0===obj0 is an obj1 in obj4 which is from obj2
+obj5 obj0 obj3 obj3 obj2 obj1===obj3 is a member of the obj1 obj2 and
+obj5 obj0 obj3 obj3 obj2 obj1===obj3 which is part of the obj1 obj2 is
+obj5 obj0 obj3 obj3 obj2 obj1===obj3 is an obj0 of obj5 and is a
+obj1 obj4 obj3 obj1 country obj0===an obj4 found in obj1 typical colombian cuisine is obj3
+obj1 obj4 obj3 obj1 country obj0===obj3 is one of the ingredients in colombian cuisine's obj1
+obj1 obj3 obj4 obj4 leadername obj0===the obj3 obj1 come from is obj4 where the
+obj1 country obj4 obj4 leadername obj0===obj1 can be found in obj4 where the leader
+obj1 country obj4 obj4 leadername obj0===obj1 come from obj4 whose leader is obj0
+obj3 country obj2 obj3 obj1 obj0===obj0 is an obj1 of obj3 which is found
+obj3 country obj2 obj3 obj1 obj0===obj3 which has obj0 as an obj1 is found
+obj3 obj4 obj2 obj3 obj1 obj0===obj0 is an obj1 of obj3 which comes from
+obj0 obj5 obj4 obj0 obj3 obj2===obj0 is a dish from the obj5 of obj4
+obj0 country obj4 obj0 obj3 obj2===obj2 is an obj3 in obj0 which comes from obj4
+obj0 country obj3 obj3 leadername obj1===obj0 is a popular dish from obj3 and obj1
+obj0 country obj3 obj3 leadername obj1===obj0 is a dish from obj3 where obj1 is
+obj0 country obj3 obj3 leadername obj1===obj0 is a popular dish in obj3 whose leader
+obj3 obj5 obj0 obj3 obj1 obj2===obj2 is a required obj1 of the obj0 regional
+obj2 leadername obj0 obj5 country obj2===obj2 where obj0 is the leader is also where
+obj2 location obj0 obj0 ispartof obj5===obj2 is in obj0 obj5
+obj2 location obj0 obj0 ispartof obj5===obj2 is located in obj0 which is part of obj5
+obj2 location obj0 obj0 ispartof obj5===obj2 is located in obj0 obj5
+obj0 location obj4 obj4 language obj3===obj0 is in obj4 where they speak obj3
+obj0 location obj4 obj4 obj1 obj3===obj0 is found in obj4 where the obj1 is obj3
+obj0 location obj4 obj4 obj1 obj3===obj0 is in obj4 where obj3 is the obj1
+obj0 location obj3 obj3 leadername obj1===obj0 is located in obj3 where obj1 is a leader
+obj0 location obj3 obj3 leadername obj1===obj0 is located in obj3 who's leader is obj1
+obj0 location obj3 obj3 leadername obj1===obj3 is home to the obj0 and is led
+obj0 location obj1 obj1 country obj3===obj0 is in obj1 obj3
+obj0 location obj1 obj1 country obj3===obj0 is located in obj1 obj3
+obj0 location obj1 obj1 country obj3===obj0 is located at obj1 in the obj3
+obj2 obj5 obj0 obj2 obj4===the obj5 for obj2 who are in the superleague
+obj2 obj5 obj0 obj0 obj4 obj3===afc ajax amateurs 's obj5 is obj0 where the obj4
+obj3 obj5 obj1 obj3 location obj0===obj1 is the obj5 of obj3 which is located
+obj3 obj5 obj1 obj3 location obj0===obj1 obj0 is the obj5 of obj3
+obj1 obj4 obj3 obj0 obj2 obj1===obj0 has a obj2 in obj1 which is a
+obj1 obj4 obj3 obj0 obj2 obj1===the obj2 of obj0 is in obj1 in the
+obj4 obj3 obj1 obj0 obj2 obj4===obj1 is the obj3 in obj4 where the obj2
+obj4 obj3 obj1 obj0 obj2 obj4===the obj2 of obj0 is located in obj4 where
+obj0 obj4 obj5 obj0 obj3 obj2===obj0 which has the obj3 obj2 also has an
+obj0 obj4 obj5 obj0 obj3 obj2===obj0 has the obj3 obj2 and obj4 obj5
+obj0 obj4 obj5 obj0 obj3 obj2===obj0 has the obj3 obj2 and the obj4 obj5
+obj0 obj4 obj5 obj0 obj3 obj2===the obj3 of alcatraz versus the evil librarians is
+obj2 obj5 obj1 obj0 country obj2===obj0 is from the obj2 where the obj5 is
+obj0 obj4 obj2 obj0 city obj3===the obj4 of obj0 in obj3 is obj2
+obj2 obj10 obj8 obj9 obj3 obj5 obj7 obj11===obj2 obj10 obj8 obj9 obj3 obj5 obj7 obj11 obj9
+obj0 obj4 obj3 obj0 obj4 obj2===obj3 and obj2 are the creators of obj0
+obj0 obj4 obj1 obj1 country obj3===obj1 is the obj4 of the obj0 and is
+obj0 obj4 obj1 obj1 country obj3===obj1 from the obj3 of america was the obj4
+obj0 obj4 obj1 obj1 country obj3===obj1 from the obj3 was the obj4 of obj0
+obj4 location obj0 obj4 obj1 obj3===obj3 was the obj1 of obj4 located on the obj0
+obj4 location obj0 obj4 obj1 obj3===the obj4 created by obj1 obj3 is located at obj0
+obj4 location obj0 obj4 obj1 obj3===obj3 was the obj1 of the obj4 wich is
+obj1 location obj5 obj1 location obj0===obj1 is found in obj5 obj0
+obj1 location obj5 obj1 location obj0===obj1 is located in obj5 in obj0
+obj1 location obj5 obj1 location obj0===obj1 obj5 is in obj0
+obj0 country obj4 obj0 location obj2===the obj0 is located in obj2 obj4
+obj0 country obj4 obj0 location obj2===obj0 is located in obj2 obj4
+obj1 location obj5 obj1 obj4 obj0===the obj4 of obj1 is obj0 obj5
+obj0 location obj2 obj2 country obj1===obj0 are located in obj2 obj1
+obj0 location obj2 obj2 country obj1===the obj0 are located in obj2 which is in
+obj0 location obj1 obj1 ispartof obj3===obj0 are located in obj1 of which obj3 is
+obj0 location obj1 obj1 ispartof obj3===obj0 are located in obj1 which contains obj3
+obj0 location obj1 obj1 ispartof obj3===the obj0 are located in obj1 which obj3 is
+obj0 obj8 obj1 obj1 leadername===obj4 is a leader of the obj1 headquarters in
+obj0 obj6 obj7 obj0 obj8===the obj8 of obj0 is jv jones the isbn
+obj0 obj8 obj4 obj0 obj6===obj0 authored by obj4 has a obj6 of obj7
+obj0 obj6 obj7 obj0 obj5===abhmathseminunivhambg is the obj4 for obj0 which has the
+obj0 obj6 obj7 obj0 obj5===obj0 whose abbreviated name is obj3 has the obj5
+obj0 obj6 obj7 obj0 obj5===obj0 has the obj6 obj7 and the obj5 of
+obj3 obj8 obj2 obj0 obj5===obj2 is the obj8 of obj3 which publishes the
+obj3 obj8 obj2 obj0 obj5===obj2 is the obj8 of obj3 who publish obj0
+obj3 obj8 obj1 obj2 country===obj2 is from the obj3 whose obj8 is obj1
+obj3 obj8 obj1 obj2 country===obj2 originates from the obj3 where the obj8 is
+obj3 obj8 obj1 obj2 country===obj2 is from the obj3 where obj1 is the
+obj2 obj7 obj0 obj2 obj8===the obj7 of obj2 is obj0 it is in
+obj5 obj6 obj0 obj0 obj7===the obj6 of obj5 is obj0 who is attached
+obj2 obj8 obj0 obj0 obj5===obj2 who's grounds are in athens is in the
+obj0 obj6 obj3 obj3 obj7===obj3 played for obj2 and was the obj6 for
+obj0 obj6 obj3 obj3 obj7===obj0 obj6 is obj3 who's obj7 is obj1 having
+obj1 obj7 obj3 obj3 obj6===the obj7 of obj1 can be found in obj3
+obj1 obj7 obj3 obj3 obj6===obj3 noord is obj8 of obj3 whose obj6 is
+obj1 obj7 obj3 obj3 obj6===the obj7 of obj1 can be found in obj3
+obj4 obj6 obj1 obj1 obj7===the obj6 of obj4 is obj1 who is in
+obj1 obj8 obj3 obj3 country===obj1 play in the obj3 obj8 based in obj7
+obj1 obj8 obj3 obj3 country===obj1 play in the obj3 obj8 in obj7 their
+obj1 obj8 obj3 obj3 country===obj1 play in the obj3 obj8 in obj7 their
+obj2 obj7 obj0 obj2 obj7===massimo drago's obj7 is the obj1 he also manages
+obj1 location obj4 obj4 ispartof===obj1 is located in obj4 part of obj0 which
+obj1 location obj4 obj4 ispartof===obj1 is in obj4 which is part of obj0
+obj1 location obj4 obj4 ispartof===obj2 leads obj4 part of cuyahoga county in ohio
+obj1 location obj6 obj6 leadername===obj1 is located in obj6 dupage county in illinois
+obj1 location obj6 obj6 leadername===obj1 is located in obj6 part of obj0 where
+obj1 obj5 obj6 obj6 leadername===obj2 is the leader of obj6 which is a
+obj0 obj6 obj2 obj2 country===obj2 obj4 is the obj6 of the obj8 floor obj0
+obj0 obj6 obj2 obj2 country===obj2 from the obj4 was the obj6 of obj0
+obj6 location obj0 obj6 obj3===obj5 was the obj3 of the obj6 which was
+obj0 location obj6 obj0 obj7===obj0 has obj8 floors and is located in obj6
+obj0 location obj6 obj0 obj7===obj0 whose obj7 is obj3 has obj8 floors and
+obj0 obj6 obj3 obj0 obj5===obj3 is the obj6 of obj0 that was designed
+obj1 country obj4 obj1 location===obj1 is located in obj6 obj4 where the leader
+obj1 country obj4 obj1 location===obj1 is located in obj6 obj4 whose leader is obj0
+obj2 country obj3 obj3 obj7===obj0 is the obj7 of obj3 whose obj6 is
+obj2 country obj3 obj3 obj7===obj0 is the obj7 of obj3 which uses the
+obj2 leadername obj0 obj1 obj8===obj2 is led by the obj0 and is the
+obj2 leadername obj0 obj1 obj8===obj8 obj4 born in obj2 led by the liberal
+obj5 leadername obj1 obj0 location===the leader of obj5 is obj1 and obj0 is
+obj5 leadername obj1 obj0 location===obj0 is located in obj2 obj5 which is led
+obj7 leadername obj2 obj0 location===obj0 is located in ahmedebad obj7 the leader of
+obj7 leadername obj2 obj0 location===obj0 is located in obj4 obj7 the leader of
+obj1 location obj4 obj0 obj8===obj5 is one of the key people at the
+obj1 location obj4 obj0 obj8===obj1 where obj5 is one of the key people
+obj0 country obj5 obj3 ispartof===obj3 is part of obj0 in the obj5 the
+obj4 obj8 obj2 obj0 obj7===attica is in obj0 in the obj4 obj2 is
+obj4 obj8 obj2 obj0 country===attica is in obj0 in the obj4 the obj8
+obj2 obj8 obj1 obj2 language===obj5 is located in the united states where obj1
+obj2 obj8 obj1 obj2 language===obj5 is located in the obj2 where english is
+obj0 location obj6 obj6 obj5===austin is the obj5 of obj6 where they speak
+obj0 location obj6 obj6 obj4===obj6 is located in the obj1 and its obj4
+obj0 location obj6 obj6 obj4===obj0 is located in obj6 in the obj1 where
+obj0 location obj6 obj6 obj4===obj0 is located in obj6 obj1 where the inhabitants
+obj0 location obj1 obj1 country===obj0 is located at obj1 part of obj4 in
+obj0 country obj5 obj2 has to===the obj5 11th mississippi infantry monument's obj7 is obj2
+obj4 obj7 obj8 obj0 location===the obj0 known locally as obj2 is located in
+obj4 obj8 obj2 obj1 location===the obj1 is located in obj4 where the obj8
+obj4 obj8 obj2 obj1 location===the obj1 is in obj4 where the obj8 is
+obj4 obj8 obj2 obj1 location===the obj1 is in obj4 where the obj8 is
+obj0 obj6 obj8 obj0 country===obj4 is an obj3 used in the preparation of
+obj0 obj6 obj8 obj0 country===obj4 is an obj3 in obj0 which comes from
+obj0 obj3 obj6 obj6 obj4===obj6 an obj3 of obj0 is part of the
+obj0 obj3 obj6 obj6 obj4===an obj3 found in obj0 is the obj6 which
+obj0 obj6 obj8 obj0 obj3===obj0 originates from the obj6 of obj8 obj7 and
+obj3 country obj4 obj4 obj7===obj3 is a food found in obj4 where the
+obj3 country obj4 obj4 obj7===obj1 is the obj7 of obj4 the leader is
+obj1 country obj2 obj2 leadername===obj1 come from the obj2 where obj5 is the
+obj1 country obj2 obj2 leadername===the obj1 is found in obj2 led by obj5
+obj1 country obj2 obj2 leadername===obj1 originates in the obj2 where obj5 is a
+obj0 country obj8 obj0 obj7===obj3 is one of the ingredients of obj0 which
+obj1 country obj5 obj5 leadername===the leader of obj5 is obj0 where the obj8
+obj1 country obj5 obj5 leadername===the obj3 of obj5 is the obj8 it is
+obj2 country obj1 obj2 obj8===obj2 contains obj0 and is from the obj6 obj8
+obj2 country obj1 obj2 obj8===obj0 is an obj5 of obj2 which is a
+obj5 obj4 obj1 obj5 country===obj8 is an obj0 of obj5 which is a
+obj5 obj4 obj1 obj5 country===obj8 is an obj0 of obj5 which comes from
+obj1 obj5 obj7 obj1 country===part of obj0 obj1 is a traditional dish from
+obj1 obj5 obj7 obj1 country===obj7 is one of the ingredients in the dish
+obj1 obj5 obj7 obj1 country===obj7 is one of the ingredients in the dish
+obj2 country obj6 obj6 leadername===obj2 come from obj6 where two of the leaders
+obj2 country obj6 obj6 leadername===obj2 come from obj6 obj0 and obj1 are leaders
+obj2 country obj6 obj6 leadername===obj2 can be found in obj6 where obj0 and
+obj0 obj8 obj6 obj0 country===an obj4 in obj0 from the obj6 obj8 and
+obj0 obj8 obj6 obj0 country===obj0 comes from the obj6 obj8 of obj5 and
+obj1 obj8 obj6 obj1 obj5===obj1 is a dish commonly found in obj6 the
+obj5 obj4 obj6 obj6 obj3===obj5 comes from the obj4 obj6 which leader is
+obj2 obj1 obj8 obj2 obj7===cookies and obj2 which contains obj8 as a key
+obj2 obj1 obj8 obj2 obj7===obj8 is one of the ingredients in the dish
+obj2 obj1 obj8 obj2 obj7===obj8 is an obj1 in obj2 which should be
+obj2 country obj8 obj2 obj7===found in obj8 the food obj2 with obj1 as
+obj2 country obj8 obj2 obj7===obj2 is served as a obj3 obj7 it is
+obj2 country obj8 obj2 obj7===obj2 which contains raisins is from the obj0 obj7
+obj5 obj4 obj6 obj6 leadername===obj0 is the leader in obj6 the obj4 where
+obj5 obj4 obj6 obj6 leadername===the name of the leader in obj6 is obj0
+obj5 country obj6 obj6 leadername===obj5 is from obj6 where obj0 is the leader
+obj5 obj4 obj8 obj0 country===obj0 comes from obj5 which has the obj4 city
+obj5 obj4 obj8 obj0 obj3===obj5 is the obj3 obj0 comes from the obj4
+obj2 obj5 obj8 obj7 country===obj7 is a dish from the obj2 where obj0
+obj2 obj5 obj8 obj7 country===obj7 comes from the obj2 where the obj0 are
+obj4 obj6 obj2 obj0 obj1===tomatoes which are part of the obj2 obj6 and
+obj4 obj6 obj2 obj0 obj1===tomatoes belong to the obj8 of obj3 the obj6
+obj1 location obj5 obj1 obj13===obj1 is located in obj5 and was built at
+obj1 location obj5 obj1 obj13===obj1 in obj5 obj13 110 obj12 dollars and has
+obj1 location obj8 obj8 leadername===obj1 is in obj8 obj0 usa obj3 is the
+obj1 location obj8 obj8 leadername===obj1 is located in obj8 which is a part
+obj1 obj6 obj8 obj8 leadername===obj3 is the leader of obj8 obj0 obj2 which
+obj1 obj9 obj10 obj1 location===obj1 located in obj4 part of obj3 obj10 displays
+obj1 country obj10 obj1 location===the obj1 is located in obj4 of the obj3
+obj1 country obj10 obj1 location===the obj1 is an art museum in the city
+obj0 country obj10 obj0 location===obj0 is an art museum in the japanese city
+obj0 country obj10 obj0 location===the obj0 is located in obj4 in japan part
+obj0 country obj10 obj0 location===obj10 home to many filipinos is home to the
+obj1 country obj10 obj1 location===the obj1 is located in the obj4 of obj10
+obj1 obj9 obj10 obj1 location===obj1 is located in obj4 in obj5 obj10 a
+obj1 country obj10 obj1 location===obj1 is located in obj5 obj4 obj10 obj0 are
+obj1 location obj8 obj1 country===obj0 and obj3 are leaders of obj9 where obj1
+obj1 location obj8 obj1 country===obj1 is located in obj8 obj9 where obj3 is
+obj0 location obj2 obj6 leadername===the obj0 are located in obj8 obj6 obj2 where
+obj0 location obj2 obj6 leadername===the obj0 are located in obj2 which has sections
+obj0 location obj2 obj6 leadername===obj6 leader cyrus vance jr and obj8 are parts
+obj0 location obj1 obj1 country===obj5 is the leader of obj7 obj1 obj2 where
+obj8 leadername obj3 obj1 location===obj3 was the leader of obj8 obj10 where obj1
+obj8 leadername obj3 obj1 location===obj3 is a leader in obj8 obj10 where obj1
+obj9 leadername obj3 obj0 location===obj3 was an indian leader but the current leader
+obj9 leadername obj3 obj0 obj6===the prime minister of obj9 is obj2 and obj3
+obj3 obj11 obj1 obj7 obj10===obj2 is the largest city in the obj3 although
+obj3 obj11 obj1 obj7 obj10===atlantic city is a part of obj7 in the
+obj4 obj9 english obj9 obj2 ispartof===obj2 is in the obj4 where english is the
+obj4 obj9 english obj9 obj2 ispartof===the city of obj2 is located in the obj4
+obj2 obj8 obj3 obj3 obj9===obj3 has been the obj8 of obj2 part of
+obj1 obj8 obj4 obj4 obj9===attached to the obj9 obj3 paulo sousa's obj9 is
+obj1 obj8 obj4 obj4 obj9===obj4 is the obj8 of obj1 and his obj9
+obj2 obj11 obj4 obj2 obj10===obj2 play in the obj4 obj11 their obj10 is
+obj2 obj11 obj4 obj4 country===obj2 play in the obj4 obj11 which is based
+obj2 obj11 obj4 obj4 country===agremiação sportiva arapiraquense's obj9 is estadio municipal coaracy da
+obj2 obj11 obj4 obj4 country===obj2 play in the obj4 obj11 in obj10 their
+obj2 obj11 obj4 obj4 country===obj2 play in the brazilian obj4 obj11 obj0 is
+obj7 obj5 obj2 obj7 obj3===the obj4 of obj1 is located in obj7 where
+obj7 obj5 obj2 obj7 obj3===the obj4 of obj1 is located in obj7 where
+obj3 obj9 obj1 obj3 obj9===obj3 is at the obj2 obj9 and is in
+obj0 location obj8 obj8 obj6===obj0 is situated in obj8 obj1 the state obj6
+obj0 location obj8 obj8 obj6===obj7 is the obj5 for people from the state
+obj0 location obj8 obj8 obj7===obj0 is located in obj8 obj2 which has the
+obj0 location obj8 obj8 obj7===obj0 is located in obj8 the obj7 of which
+obj0 location obj8 obj8 obj7===obj0 is located in obj8 in the obj2 the
+obj0 location obj3 obj3 country===obj0 is located at obj3 in obj2 obj11 and
+obj0 location obj3 obj3 country===obj0 is located at obj3 obj2 obj11 and serves
+obj2 obj11 obj0 obj0 leadername===obj2 is located at obj4 in the obj6 the
+obj2 obj11 obj0 obj0 leadername===obj2 is located in obj4 us the obj0 is
+obj9 leadername obj2 obj9 obj7===obj0 serves the city of obj5 in obj9 the
+obj10 country obj8 obj0 location===located in obj8 the city of obj10 is served
+obj10 country obj8 obj0 obj7===obj2 is the leader of punjab in obj8 the
+obj0 obj10 obj4 obj0 obj8===obj4 is the obj10 of obj0 which is abbreviated
+obj4 leadername obj7 obj0 language===obj7 is the leader of the obj4 where obj0
+obj4 leadername obj7 obj0 obj10===obj0 was published in the obj4 where the leader
+obj4 leadername obj7 obj0 obj10===obj0 is published in the obj4 where obj7 is
+obj4 leadername obj7 obj0 language===originating in the obj4 obj0 is written in english
+obj4 leadername obj7 obj0 language===obj0 is written in english and was published in
+obj0 obj4 obj6 obj2 obj13 obj15===obj2 obj13 born in obj0 where obj6 is obj15
+obj0 country obj8 obj0 obj4===obj0 kuttikkattoor india was obj4 in obj11 one of
+obj0 country obj8 obj0 obj4===obj0 was obj4 in obj11 and is located in
+obj1 obj11 obj7 obj1 obj8===the obj1 is located in the obj11 of obj7
+obj7 leadername obj1 obj2 country===romania's leader is obj1 although the obj6 obj11 is
+obj7 leadername obj1 obj2 obj9===the obj0 is located in obj2 obj7 the obj6
+obj7 leadername obj1 obj2 country===the obj0 is located in the romanian obj11 of
+obj1 obj9 obj11 obj1 country===obj1 is a traditional italian sauce from the obj9
+obj1 obj9 obj11 obj1 country===obj1 is from the obj11 obj9 of obj10 the
+obj1 obj6 obj7 obj7 obj5===obj1 can be found in obj7 the obj5 of
+obj1 country obj7 obj7 obj5===obj2 and obj0 are both leaders in obj7 the
+obj2 country obj3 obj3 leadername===obj2 originated in the obj3 where obj7 is leader
+obj2 obj11 obj3 obj3 leadername===the obj3 obj10 city obj0 is led by obj7
+obj2 obj11 obj3 obj3 leadername===the obj3 is the obj11 of the obj2 and
+obj2 obj11 obj3 obj3 leadername===obj2 comes from the obj3 where obj7 is a
+obj4 obj3 obj8 obj4 country===obj2 is the home of the obj11 dish obj4
+obj4 obj3 obj8 obj4 country===obj4 is a obj11 from the obj2 the main
+obj6 country obj11 obj6 obj8===originating from the obj4 obj8 in obj11 obj6 also
+obj6 country obj11 obj6 obj8===obj6 comes from the obj4 obj8 of indiathe dish
+obj2 obj6 obj0 obj4 obj11===obj0 is the obj6 spoken in the obj2 where
+obj5 obj8 obj0 obj5 obj10===the obj8 of obj5 is obj0 who has played
+obj8 country obj6 obj6 leadername===obj8 while obj17 obj14 obj19 java is found nationwide
+obj8 country obj6 obj6 leadername===obj8 is a food usually served obj20 obj4 which
+obj2 obj4 obj11 obj0 country===an obj4 of obj2 is obj11 which belongs to
+obj2 obj4 obj11 obj0 country===obj11 is a member of the obj9 obj5 and
+obj8 country obj6 obj6 leadername===obj3 is the leader of obj6 where the dish
+obj8 country obj6 obj6 leadername===obj8 is a variation of siomay which contains peanut sauce
+obj8 country obj6 obj6 leadername===obj8 a variation of obj12 and obj13 includes peanut
+obj8 country obj5 obj5 leadername===obj8 is found in obj5 where the leader is
+obj8 obj9 obj5 obj5 leadername===obj8 obj11 and obj12 are variations of the same
+obj8 obj10 obj5 obj5 leadername===obj8 is found in the obj10 of obj5 which
+obj8 country obj5 obj5 leadername===obj8 comes from obj5 where obj2 is the vice president
+obj7 leadername obj1 obj2 country===obj0 is the leader of obj12 whose main ethnic
+obj9 leadername obj2 obj9 obj8===obj3 and obj2 are leaders in obj9 where italian
+obj9 leadername obj2 obj9 obj8===obj9 is led by obj2 and the obj6 spoken
+obj9 leadername obj2 obj9 obj8===obj2 and obj3 are leaders in obj9 where italian
+obj3 obj10 obj7 obj7 country===the obj10 of obj3 is obj7 part of the
+obj3 location obj7 obj7 country===obj0 is the leader of obj11 where the obj2
+obj1 location obj9 obj9 leadername===obj1 is located in obj9 obj5 obj2 the leader
+obj1 location obj9 obj9 leadername===obj1 is located in obj9 leader rahm emanuel which
+obj1 location obj9 obj9 leadername===obj1 is located in obj9 obj5 in the us
+obj7 country obj1 obj7 obj13===the obj7 is in the obj1 which leader is
+obj7 country obj1 obj7 obj13===obj7 is located in the obj1 whose leader is
+obj7 country obj1 obj7 obj13===obj4 was born in obj11 and was the obj13
+obj1 obj11 obj12 obj1 obj10===the chinese are one of the ethnic groups in
+obj1 obj11 obj12 obj1 location===obj7 is one of the leaders in obj12 a
+obj1 obj11 obj12 obj1 obj10===the chinese people are an ethnic group of obj12
+obj2 obj8 obj6 obj6 country===obj10 in obj13 is led by the obj0 and
+obj2 location obj6 obj6 country===obj2 is located in obj6 obj10 obj13 obj1 is
+obj2 obj8 obj6 obj6 country===the obj8 of obj2 is obj6 obj10 obj13 gujarat's
+obj5 country obj9 obj9 leadername===obj4 is the leader of obj9 whose obj12 is
+obj5 obj13 obj9 obj9 leadername===obj5 is in the obj0 the obj2 is the
+obj5 country obj9 obj9 leadername===obj5 is in the obj0 and is governed by
+obj0 location obj3 obj3 country===the obj0 are in obj3 in the us obj3
+obj0 location obj3 obj3 country===the obj0 are in obj3 part of manhattan in
+obj0 location obj3 obj3 country===obj3 former part of new netherland is located in
+obj6 location obj8 obj0 obj10===the usa's obj0 in obj8 is in the obj6
+obj6 location obj8 obj0 obj10===the obj0 is located in obj8 usa obj10 on
+obj0 obj2 obj1===obj0 was awarded the obj1
+obj0 obj2 obj1===obj0 was awarded the obj1
+obj1 obj2 obj0===the obj0 was one of the obj2 that obj1
+obj2 obj1 obj0===obj0 is the obj1 of obj2
+obj1 obj2 obj0===obj1 belongs to the obj2 of obj0
+obj1 obj2 obj0===obj1 is a member of the obj0 obj2
+obj1 obj2 obj0===abdul taib mahmud's obj2 was obj0
+obj0 obj1 obj2===obj2 was the obj1 of obj0
+obj0 obj2 obj1===abdulsalami abubakar's obj2 was obj1
+obj0 obj2 obj1===adam holloway's obj2 is obj1
+obj0 obj2 obj1===obj1 was the obj2 of obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj1 obj2 obj0===obj1 was awarded the obj0
+obj1 obj2 obj0===obj0 is the obj2 of obj1
+obj1 obj2 obj0===the obj2 of obj1 was obj0
+obj1 obj2 obj0===obj0 is the obj2 of obj1
+obj0 obj2 obj1===obj0 had the obj2 obj1
+obj0 obj2 obj1===obj1 was a obj2 in the obj0
+obj0 obj2 obj1===obj1 was a obj2 in the obj0
+obj0 obj2 obj1===a obj2 in the obj0 was obj1
+obj2 obj1 obj0===in obj2 the obj1 is obj0
+obj2 obj1 obj0===the obj1 in obj2 is obj0
+obj2 obj1 obj0===the spoken obj1 of obj2 is obj0
+obj0 obj2 obj1===obj1 was obj2 in the obj0
+obj0 obj2 obj1===obj1 was a obj2 in the obj0
+obj0 obj2 obj1===a obj2 at the obj0 was obj1
+obj2 obj1 obj0===obj0 was a obj1 in the obj2
+obj2 obj1 obj0===obj0 was the obj1 in the obj2
+obj1 obj2 obj0===obj0 was the obj2 to obj1
+obj1 obj2 obj0===john f kennedy's obj2 was obj0
+obj0 obj2 obj1===obj1 was the obj2 of obj0
+obj1 obj2 obj0===the obj2 of obj1 was obj0
+obj1 obj2 obj0===obj0 was the obj2 of obj1
+obj0 obj1 obj2===the obj1 of obj0 is obj2
+obj0 location obj2===obj0 are located at obj2
+obj0 location obj2===obj0 is based in obj2
+obj2 obj1 obj0===obj0 is the obj1 of the obj2
+obj2 obj1 obj0===obj0 are the obj1 of the ship obj2
+obj1 obj2 obj0===the obj2 of obj1 is obj0
+obj2 obj1 obj0===the obj1 of the obj2 is a obj0
+obj2 obj1 obj0===the obj2 has a obj0 obj1
+obj1 obj2 obj0===the obj1 has a obj0 obj2
+obj0 obj2 obj1===the obj2 of the obj0 is the obj1
+obj0 obj2 obj1===obj1 are the manufacturers of the obj0
+obj0 location obj2===obj0 is located in obj2
+obj0 location obj2===obj0 is in obj2
+obj2 obj1 obj0===obj0 is the obj1 for people who live in obj2
+obj1 obj2 obj0===the guiana space centre's headquarters are located in obj0
+obj1 obj2 obj0===the headquarters of the obj1 is in obj0
+obj0 obj1 obj2===the obj1 of the obj0 is obj2
+obj0 obj1 obj2===aaron boogaard's obj1 is obj2
+obj1 obj2 obj0===obj1 played for the obj2 obj0
+obj1 obj0 obj2===adam maher's obj0 is obj2
+obj1 obj2 obj0===adam maher's obj2 is obj0
+obj1 obj2 obj0===akeem adams' obj2 is obj0
+obj1 obj2 obj0===akeem priestley's obj2 is the obj0
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj1 obj2 obj0===alaa abdul zahra's obj2 is obj0
+obj0 obj2 obj1===aleksander barkov jr's obj2 is obj1
+obj0 obj2 obj1===aleksander barkov jr's obj2 is the obj1
+obj0 obj1 obj2===aleksander barkov jr's obj1 is obj2 metres
+obj0 obj1 obj2===the obj1 of obj0 is obj2
+obj0 obj2 obj1===obj0 plays for the obj1 football obj2
+obj0 obj2 obj1===aleksandre guruli's obj2 is obj1
+obj0 obj1 obj2===alex plante's obj1 is obj2
+obj1 obj2 obj0===alex tyus's obj2 is the obj0
+obj1 obj2 obj0===the obj2 obj1 plays in is the obj0
+obj0 obj2 obj1===obj0 play in the obj2 of obj1
+obj0 country obj1===obj0 is a city in obj1
+obj2 obj1 english obj1===english is the obj1 spoken in obj2
+obj2 obj1 obj0===canada's obj1 is the obj0
+obj0 obj2 obj1===the columbus blue jackets' obj2 is obj1
+obj0 obj2 obj1===the obj0 are based in the obj2 of obj1
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj2 obj1 obj0===the obj1 of obj2 is the obj0
+obj0 obj2 obj1===maccabi ashdod bc's obj2 is obj1
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj2 obj1===obj1 is a obj2 for obj0
+obj0 obj2 obj1===motherwell fc's obj2 is obj1
+obj0 obj2 obj1===obj0 home obj2 is located in obj1
+obj0 obj2 obj1===obj1 is the obj2 of obj0
+obj0 obj2 obj1===obj1 is the obj2 of the obj0
+obj0 obj2 obj1===the obj2 of obj0 is obj1
+obj0 obj2 obj1===the obj0 are based in the obj2 of obj1
+obj0 obj2 obj1===american football team obj0 are based in the obj2
+obj1 obj2 obj0===the obj1 are based in the obj2 of obj0
+obj1 obj2 obj0===american football team obj1 are based in the obj2
+obj1 obj2 obj0===obj1 falls in the obj2 of obj0 music
+obj1 obj2 obj0===obj1 also uses the musical obj2 obj0
+obj1 obj2 obj0===obj1 uses the obj2 obj0
+obj2 obj1 obj0===obj2 has a obj1 as a obj0
+obj2 obj1 obj0===abradab's obj1 is that of obj0
+obj1 obj2 obj0===the musical obj2 of obj1 is obj0
+obj1 obj2 obj0===alan frews' musical obj2 is obj0
+obj1 obj2 obj0===alan frew's obj2 is obj0
+obj0 obj2 obj1===a obj1 is part of aleksandra kovač's obj2
+obj0 obj2 obj1===aleksandra kovač's obj2 is obj1
+obj1 obj2 obj0===the musical obj2 of obj1 is obj0
+obj1 obj2 obj0===obj1 uses the obj0 obj2
+obj0 obj1 obj2===the obj1 of obj0 is obj2
+obj0 location obj2===obj0 is based in obj2
+obj0 location obj2===obj0 is located in obj2
+obj1 obj2 obj0===obj0 is the musical obj2 of obj1
+obj1 obj2 obj0===anders osborne's obj2 is obj0
+obj0 location obj2===obj0 are based in obj2
+obj0 location obj2===obj0 is located in obj2
+obj0 location obj2===obj0 are located in obj2
+obj1 obj2 obj0===obj0 is a obj2 for people in the obj1
+obj0 obj2 obj1===obj0 has an obj2 date of obj1
+obj2 obj3 obj1 obj0===obj2 has an obj3 of obj1 obj0
+obj1 obj2 obj0===the obj2 of obj1 is obj0
+obj1 obj2 obj0===obj1 has an obj2 of obj0
+obj1 obj2 obj0===obj0 was the obj2 of obj1
+obj1 obj2 obj0===obj1 has a obj2 of obj0
+obj1 obj2 obj0===the obj2 of obj1 is obj0
+obj1 obj2 obj0===the obj2 of obj1 is obj0
+obj1 obj2 obj0===obj1 has a obj2 of obj0
+obj0 obj1 obj3 obj2===obj0 has a obj1 of obj3 obj2
+obj1 obj5 obj3 obj1 obj4 obj0===obj1 fought in obj4 most notably the obj0 he
+obj2 obj4 obj1 obj2 obj5 obj0===obj2 served in the obj0 obj5 and was awarded
+obj2 obj4 obj1 obj2 obj5 obj0===airey neave's obj5 was the obj0 and he was
+obj1 obj5 obj2 obj2 obj4 obj0===obj1 fought obj5 in obj2 and the obj4 of
+obj0 obj3 obj5 obj2 obj4 obj0===agnes kant's obj4 is the obj0 where the obj3
+obj0 obj3 obj5 obj2 country obj0===obj2 is a resident of obj0 which uses the
+obj0 obj3 obj5 obj2 country obj0===obj2 comes from the obj0 where the obj3 is
+obj0 leadername obj3 obj2 country obj0===obj2 lives in the obj0 whose leader is obj3
+obj0 leadername obj3 obj2 country obj0===obj2 is from the obj0 the leader of which
+obj0 leadername obj3 obj2 obj5 obj0===agnes kant's obj5 is the obj0 the leader of
+obj2 obj4 obj0 obj2 obj4 obj1===obj2 is connected to the obj1 obj4 and played
+obj2 obj4 obj1 obj2 obj4 obj0===adam maher's obj4 is obj1 and he played for
+obj0 obj4 obj2 obj0 obj4 obj3===obj0 clubs are obj2 and obj3
+obj2 obj4 obj0 obj2 obj4 obj1===akeem priestley's obj4 is the obj0 and he previously
+obj1 obj3 obj4 obj1 obj3 obj0===akeem priestley’s obj3 is obj4 and he played for obj0
+obj1 obj3 obj4 obj1 obj3 obj0===obj1 played for the clubs obj4 and obj0
+obj0 obj4 obj3 obj0 obj4 obj2===aleksandr prudnikov's obj4 is obj3 and he also plays
+obj0 obj4 obj3 obj0 obj4 obj2===former clubs of obj0 include obj3 and obj2
+obj0 obj4 obj3 obj0 obj4 obj2===aleksandre guruli's obj4 is obj3 and he also played
+obj0 obj4 obj3 obj0 obj4 obj2===obj0 plays for obj3 obj4 and obj2
+obj3 obj4 obj2 obj0 obj1 obj3===obj3 is the obj1 of obj0 and their national
+obj3 obj2 obj1 obj0 obj4 obj3===obj0 plays for the obj4 obj3 in the obj1 obj2
+obj3 obj2 obj7 obj4 obj3 obj6===the obj2 of obj3 is obj7 obj4 and its
+obj0 obj6 obj4 obj2 obj0 obj3===obj0 with a obj3 of 170 kelvins has an
+obj4 obj6 obj0 obj1 obj4 obj2===the obj2 of obj4 is obj7 kelvins and it
+obj4 obj6 obj0 obj1 obj4 obj2===obj4 has an obj6 of obj0 obj1 and a
+obj0 location obj5 obj3 obj2 obj0===obj0 located in obj5 are the obj2 of the
+obj3 leadername obj1 obj0 country obj3===obj0 comes from obj3 where obj1 is the leader
+obj3 leadername obj1 obj0 country obj3===the obj0 comes from obj3 which is led by obj1
+obj3 leadername obj1 obj0 country obj3===the obj0 is from obj3 whose leader is obj1
+obj3 obj0 obj4 obj4 obj2 obj1===obj4 which is the obj0 of the obj3 has
+obj2 obj0 obj4 obj4 obj1 obj3===obj3 is a obj1 of obj4 which is the
+obj3 obj1 obj4 obj4 obj2 obj0===the obj0 is a obj2 of obj4 the company
+obj3 obj8 obj6 obj6 obj5===during the obj6 obj0 served as a obj5 and
+obj3 obj8 obj6 obj6 obj5===during the obj6 obj0 was a obj5 and obj3
+obj5 obj3 obj1 obj1 leadername===agnes kant's obj3 is the obj1 he worked at
+obj4 obj3 obj1 obj1 leadername===the obj3 of obj4 a member of the socialist
+obj6 obj5 obj1 obj6 obj8===obj1 was the obj5 of obj6 the obj8 of
+obj5 obj8 obj0 obj5 obj9===the obj0 founded in obj2 were the builders of
+obj0 location obj8 obj3 obj5===obj0 is the obj7 of the obj3 and are
+obj1 location obj0 obj6 obj8===the launch obj8 of the ariane was obj6 at
+obj3 obj7 obj1 obj1 obj6===alaa abdul zahra's obj7 is obj0 and he plays for
+obj3 obj7 obj1 obj1 obj6===abdul zahra's clubs are shabab al ordon and also obj1
+obj3 obj7 obj1 obj1 obj6===aleksandre guruli's obj7 is obj1 whose home obj6 is
+obj3 obj7 obj1 obj1 obj6===obj5 player obj3 played for the obj1 obj7 the
+obj3 obj7 obj1 obj1 obj6===obj3 whose obj7 is obj5 played for the obj1
+obj3 obj7 obj1 obj1 obj6===obj3 is in the obj5 obj7 and also the
+obj2 obj7 obj4 obj4 obj6===obj2 plays in the obj7 obj4 whose obj6 is
+obj1 obj7 obj4 obj4 obj6===obj0 is the obj6 for obj4 of which obj1
+obj1 obj7 obj6 obj1 obj8===alex plante's obj8 is obj0 he is 19304m in
+obj4 obj6 obj0 obj4 obj8===the obj6 obj4 plays in is the obj0 his
+obj2 obj6 obj4 obj0 obj7===obj0 plays for obj5 and his obj7 is obj2
+obj2 obj6 obj4 obj0 obj7===obj0 plays for obj5 and his obj7 is obj2
+obj7 obj10 obj6 obj7 leadername===obj0 was born in obj7 which is led by
+obj7 obj10 obj6 obj7 leadername===aaron boogaard's obj2 is obj7 the country where one
+obj7 obj10 obj6 obj7 leadername===the national obj10 of obj7 is obj6 and the
+obj7 obj10 obj6 obj7 leadername===obj1 is from obj7 whose national obj10 is obj6
+obj7 obj10 obj6 obj7 leadername===the obj10 of obj7 is obj6 the leader is
+obj7 obj10 obj6 obj7 leadername===obj6 is the national obj10 of obj7 where obj1
+obj7 obj10 obj6 obj7 leadername===obj1 was born in obj7 whose national obj10 is
+obj7 obj10 obj6 obj7 leadername===obj2 is canada's leader and the national obj10 is
+obj7 obj10 obj6 obj7 leadername===obj1 was born in obj7 where one of the
+obj4 obj9 obj8 obj0 obj10===obj0 played for obj4 whose local obj9 is in
+obj5 obj11 obj2 obj5 obj10===classed as a obj2 the obj5 assembled at audi
+obj5 obj11 obj2 obj5 obj10===obj5 belongs to the obj2 obj11 and is assembled
+obj5 obj11 obj3 obj5 obj9===obj5 is from the obj2 where obj0 are an
+obj5 obj11 obj1 obj1 obj8===obj5 served in the obj1 obj11 which has a
+obj5 obj11 obj1 obj1 obj8===obj5 served in the obj1 obj11 which has a
+obj5 obj11 obj0 obj0 leadername===the largest city in obj8 is burlington and obj5
+obj7 leadername obj0 obj7 obj11===obj1 of obj9 obj7 made the obj4 obj14 is
+obj2 obj9 obj8 obj5 obj12===aleksandr prydnikov belongs to obj5 which is managed by
+obj1 obj14 obj0 obj1 obj13===obj1 was born on 21 may 1936 in obj6
+obj1 obj14 obj0 obj1 obj13===born on obj7 in obj6 obj1 lives in obj11
+obj8 obj6 obj4 obj4 leadername===obj8 whose obj6 is obj4 resided in obj13 the
+obj4 obj13 obj2 obj4 obj14===obj4 was born in obj12 and had a career
+obj4 obj13 obj2 obj4 obj14===obj4 was born in obj12 and started his career
+obj6 obj12 obj8 obj4 country===american obj4 fought at the obj2 during the obj6
+obj6 obj12 obj8 obj4 country===native americans are the ethnic group in the obj9
+obj0 obj9 obj10 obj10 obj6===obj8 is a fusion obj9 of obj10 obj12 is
+obj0 obj9 obj10 obj10 obj6===obj0 who plays the obj7 is a performer of

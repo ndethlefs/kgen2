@@ -1,0 +1,55 @@
+obj1 ispartof lee county alabama===obj1 is part of lee county
+obj2 obj5 olympic stadium athens obj2 obj4===the olympic stadium in athens is the home obj5
+obj4 starring tim brooke taylor obj4 broadcastedby===tim brooke taylor starred in obj4 which was broadcast
+obj2 location frederick county maryland obj0 obj8===the obj0 was obj8 obj9 at the obj2 in
+obj2 location frederick county maryland obj0 obj8===the obj0 was obj8 on july 11th 1907and located
+obj3 ispartof lee county alabama obj3 country===obj3 is part of lee county obj5 of which
+obj1 location ícolo e bengo obj1 cityserved===obj1 is located in icolo e bengo and serves
+obj1 location ícolo e bengo obj1 cityserved===obj1 which lies obj14 metres above sea level is
+obj2 completiondate 2013 03 11===the obj2 was completed on march 11th 2013
+obj2 completiondate 2013 03 11===the obj2 was completed on the 11th march 2013
+obj2 completiondate 2013 03 11===obj2 was completed on march 11th 2013
+obj0 birthdate 1989 02 24===obj0 was born on 24th february 1989
+obj0 obj2 2013 11 04===the obj2 of obj0 is on the 13th of
+obj1 obj2 2006 12 31===the obj2 of obj1 is on 13 january 2016
+obj1 obj2 2006 12 31===the obj2 date of obj1 is 20061231
+obj1 obj2 2006 12 31===obj1 has an obj2 date of december 31st 2006
+obj1 obj2 2006 12 31===31 december 2006 is the obj2 of obj1
+obj1 obj2 2006 12 31===110 lydia's obj2 is 31st december 2006
+obj1 obj15 fice workedat workedas member obj15===obj1 was part obj15 obj14 obj12 obj11 obj8 obj7
+obj1 obj15 fice workedat workedas member obj15===obj1 was a member obj15 obj14 obj12 obj11 obj8
+obj1 obj5 2006 12 31 obj1 obj4 obj0===the obj5 date of obj1 is 20061231 and has
+obj1 obj5 2006 12 31 obj1 obj4 obj0===the obj5 date of obj1 is the 31st december
+obj1 obj5 2006 12 31 obj1 obj4 obj0===obj1 has the obj5 date 31 december 2006 and
+obj2 obj4 2006 12 31 obj2 obj5===obj2 has a obj5 of obj6 kilograms and its
+obj2 obj4 2006 12 31 obj2 obj5===obj2 with a obj5 of obj6 kilograms has the
+obj3 obj17 fice workedat workedas obj0 obj3===obj3 was born in obj2 and a member obj17
+obj3 obj17 fice workedat workedas member obj17===born in obj2 obj3 was a member obj17 both
+obj3 obj17 fice workedat workedas obj0 obj3===obj2 is obj15 obj7 obj17 obj3 he was a
+obj3 obj18 fice workedat workedas member obj18===obj3 served in obj17 us democratic obj12 was a
+obj3 obj18 fice workedat workedas member obj18===obj3 was a member obj18 both obj17 democratic obj12
+obj1 obj7 2006 12 31 obj1 obj8===obj1 has an obj7 date of 31 december 2006
+obj1 obj7 2006 12 31 obj1 obj8===the obj1 mass of obj9 kilograms has an orbital
+obj4 obj7 2006 12 31 obj4 obj8===110 lydia's obj7 is 31st december 2006 it has
+obj4 obj7 2006 12 31 obj4 obj8===obj4 has a obj8 of obj9 kg a obj3
+obj4 obj7 2006 12 31 obj4 obj8===obj4 has an obj7 date of december 31st 2006
+obj4 obj9 2006 12 31 obj4 obj5===110 lydia has an obj8 of obj2 kilometres a
+obj4 obj9 2006 12 31 obj4 obj5===obj4 with the obj9 date december 31st 2006 has
+obj1 birthdate 1989 02 24 obj1 club===footballer obj1 february 24 1989 plays for obj4 and
+obj1 birthdate 1989 02 24 obj1 obj7===born on 24th february 1989 obj1 plays for both
+obj1 birthdate 1989 02 24 obj1 club===obj1 who was born on 24 february 1989 plays
+obj1 birthdate 1989 02 24 obj1 club===born on february 24th 1989 the footballer obj1 represented
+obj1 birthdate 1989 02 24 obj1 obj7===obj1 whose obj7 is obj4 was born on 24th
+obj0 birthdate 1989 02 24 obj0 height===obj0 who is 185cm tall and was born on
+obj0 birthdate 1989 02 24 obj0 height===born on feb 24 1989 and measuring 185 cm
+obj0 birthdate 1989 02 24 obj0 height===obj0 was born february 24 1989 and is 185
+obj5 obj11 2006 12 31 obj5 obj12===obj5 has a obj12 of obj13 kgs orbital period
+obj5 obj11 2006 12 31 obj5 obj12===obj5 with the obj11 date december 31st 2006 has
+obj5 obj11 2006 12 31 obj5 obj12===the obj11 of obj5 is on 13 january 2016
+obj3 obj14 fice workedat workedas obj1 obj3===obj3 was born in galicia in obj13 and he
+obj3 obj14 fice workedat workedas obj1 obj3===obj3 was born in galicia in obj13 is a
+obj0 obj17 fice workedat workedas obj14 obj17===obj4 was obj16 obj9 obj17 obj0 who was born
+obj0 obj17 fice workedat workedas obj14 obj17===obj0 was born in obj13 in obj12 and before
+obj0 obj17 fice workedat workedas obj14 obj17===obj0 who was born in obj13 obj12 worked as
+obj2 obj22 fice workedat workedas obj0 obj2===obj2 was a us national born in obj10 obj21
+obj2 obj22 fice workedat workedas obj0 obj2===obj2 who was born in obj10 obj7 worked as

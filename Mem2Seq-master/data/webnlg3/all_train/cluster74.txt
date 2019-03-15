@@ -1,0 +1,56 @@
+obj1 dateofretirement 1969 09 01===obj0 retired on september 1st 1969
+obj1 dateofretirement 1969 09 01===obj0 retired sept 1st 1969
+obj1 dateofretirement 1969 09 01===obj0 retired on september 1 1969
+obj1 dateofretirement 1969 09 01===obj0 retired on the 1st of september 1969
+obj1 dateofretirement 1969 09 01 obj1 was a===obj0 who crewed obj4 retired on september 1st 1969
+obj3 series big hero 6 film obj3 creator obj1===obj9 created obj0 a character in big hero 6
+obj3 series big hero 6 film obj3 creator obj1===created by obj9 obj0 is a character in big
+obj1 birthdate 1932 03 15 obj1 obj10 selected===now obj6 obj0 obj00 born on mar 15 1932
+obj3 dateofretirement 1969 09 01 obj0 obj4===obj5 who retired on the 1st of september 1969
+obj2 dateofretirement 1969 09 01 obj2 birthdate===obj0 retired on 1 september 1969 having been born
+obj2 dateofretirement 1969 09 01 obj2 birthdate===obj0 born in obj0 on the 17th of october
+obj2 dateofretirement 1969 09 01 obj2 occupation===obj5 obj0 was born in obj0 and retired on
+obj2 dateofretirement 1969 09 01 obj2 occupation===the obj5 obj0 born in obj0 retired sept 1st 1969
+obj2 dateofretirement 1969 09 01 obj2 occupation===obj0 a obj5 from obj0 retired on september 1 1969
+obj5 series big hero 6 film obj5 creator===obj0 is a character in big hero 6 and
+obj5 series big hero 6 film obj5 creator===obj1 and obj2 created the character of obj0 who
+obj5 series big hero 6 film obj5 creator===obj0 a character in big hero 6 was created
+isidro metapán fullname isidro metapán a d isidro metapán obj7===the full name of ad obj4 metapan is obj4
+isidro metapán fullname isidro metapán a d isidro metapán obj7===the full name of ad obj4 metapan which has
+obj2 dateofretirement 1969 09 01 obj2 nationality===obj0 is a us national who was born in
+obj2 dateofretirement 1969 09 01 obj2 obj7===obj0 was born in obj0 on october 17 1933
+obj2 dateofretirement 1969 09 01 obj2 obj7===was born on 10 17 1933 in obj0 he was
+obj3 dateofretirement 1969 09 01 obj3 nationality===american obj0 was born in obj0 graduated with an
+obj3 dateofretirement 1969 09 01 obj3 nationality===obj0 who was born in hong kong before becoming
+obj3 dateofretirement 1969 09 01 obj3 nationality===obj0 was a obj7 citizen who was born in
+obj3 dateofretirement 1969 09 01 obj3 occupation===obj0 was born in obj0 and served as a
+obj3 dateofretirement 1969 09 01 obj3 occupation===obj0 was born in obj0 his alma mater was
+obj3 dateofretirement 1969 09 01 obj3 occupation===obj0 was born in obj0 he graduated from afit
+of william amp mary college of william amp mary obj8===the obj2 is a obj10 of the obj0 in
+of william amp mary college of william amp mary obj8===owned by the college of william and mary the
+of william amp mary college of william amp mary obj8===the obj2 is a obj10 of the alan b
+of william amp mary college of william amp mary obj9===obj8 served as obj7 of the college of william
+of william amp mary college of william amp mary obj9===the college of william and mary with obj7 obj8
+obj7 series big hero 6 film obj7 creator===obj0 is a character created by obj4 and steve
+obj7 series big hero 6 film obj7 creator===obj0 is a character who first appeared in the
+obj7 series big hero 6 film obj7 creator===obj3 and obj4 created the character obj0 which first
+obj6 series big hero 6 film obj6 obj11===obj0 the big hero 6 character created by steve
+obj6 series big hero 6 film obj6 obj11===obj2 and obj1 are both creators of the character
+obj6 series big hero 6 film obj6 obj11===obj2 and obj1 are both creators of obj0 which
+obj2 dateofretirement 1969 09 01 obj2 nationality===obj0 was an american obj7 born in obj0 on
+obj2 dateofretirement 1969 09 01 obj2 nationality===obj0 was born on 17th october 1933 and retired
+obj2 dateofretirement 1969 09 01 obj2 nationality===us national obj0 was born in obj0 on 17th
+obj2 dateofretirement 1969 09 01 obj2 obj16 obj13===obj0 obj7 born in obj0 on october 17th 1933
+obj3 dateofretirement 1969 09 01 obj3 nationality===american figher pilot obj0 was born in obj0 on
+obj3 dateofretirement 1969 09 01 obj3 nationality===obj0 was born in obj0 on october 17th 1933
+obj3 dateofretirement 1969 09 01 obj3 status===obj0 was born on obj12 in obj0 he received
+obj3 dateofretirement 1969 09 01 obj3 status===obj0 was born in obj0 in 1933 he graduated
+obj2 dateofretirement 1969 09 01 obj2 obj20 selected===obj0 obj00 born oct 17th in obj0 he obj00
+obj3 dateofretirement 1969 09 01 obj3 obj22 selected===obj0 obj7 born on oct 17 1933 in obj0
+obj3 dateofretirement 1969 09 01 obj3 obj22 selected===obj0 is a us national who obj7 born in
+obj3 dateofretirement 1969 09 01 obj3 obj22 selected===obj0 obj7 a us citizen who obj7 born in
+obj2 dateofretirement 1969 09 01 obj2 obj22 obj17===obj0 is from the us he obj02 born in
+obj2 dateofretirement 1969 09 01 obj2 obj22 selected===american obj0 obj02 born on october 17th 1933 in
+obj2 dateofretirement 1969 09 01 obj2 obj22 selected===obj18 obj0 a us national obj02 born in obj0
+obj3 dateofretirement 1969 09 01 obj3 obj22 obj17===obj0 has obj18 he obj7 born 17 october 1933
+obj3 dateofretirement 1969 09 01 obj3 obj22 obj17===obj0 obj7 born in obj0 on the 17th of

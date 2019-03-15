@@ -1,0 +1,12 @@
+obj0 coden code obj2===the code for obj0 is obj4
+obj2 alternativenames obj0 obj2 birthdate 1930 01 20===obj4 was commonly known as obj4 and was born
+obj0 lccn number obj5 obj0 abbreviation obj2===the obj5 abbreviated to admin sci q has a
+obj0 lccn number obj5 obj0 abbreviation obj2===obj5 abbreviated obj9 llcn number is obj4
+obj0 oclc number obj7 obj0 mediatype===obj5 is in obj8 with the oclc obj4 and
+obj0 oclc number obj6 obj0 author===obj5 by obj5 oclc obj4 was produced in obj8
+obj0 lccn number obj11 obj0 abbreviation===obj5 abbrv acm obj12 obj13 syst is part of
+obj0 lccn number obj11 obj0 academicdiscipline===the obj5 aka the obj5 comes under the academic
+obj0 lccn number obj11 obj0 academicdiscipline===the obj5 abbrv obj5 issn obj10 lccn 57059226 comes
+obj0 lccn number obj11 obj0 academicdiscipline===the academic discipline of obj5 abbreviated to obj5 is
+obj8 oclc number obj6 obj8 author===obj5 wrote obj0 published in obj3 the oclc and
+obj24 l obj24 n be obj24 n obj22 obj24===aobj1aobj5 beeobj5 obj7 borobj5 oobj5 march 15 1932 iobj5

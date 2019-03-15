@@ -1,0 +1,991 @@
+obj0 cityserved obj2===obj0 serves the city of obj4
+obj2 operatingorganisation obj1===obj0 is operated by obj4
+obj2 operatingorganisation obj1===obj4 is the operation organisation of obj0
+obj1 operatingorganisation obj2===obj4 is the operating organisation for obj0
+obj1 operatingorganisation obj2===obj4 operates obj0
+obj0 runwaylength obj2===obj0 runway length is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the length of the runway at obj0 is obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4 meters
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 cityserved obj1===obj0 serves the city of obj4
+obj0 cityserved obj1===obj0 serves the city of obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the length of the runway at obj0 is obj4
+obj0 operatingorganisation obj2===the obj0 is operated by obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===obj0 runway length is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj2 operatingorganisation obj0===the obj4 is the operating organisation of obj4
+obj2 operatingorganisation obj0===obj4 is operated by the obj4
+obj2 operatingorganisation obj1===the operating organization for obj0 is the obj4
+obj2 operatingorganisation obj1===the obj4 operates the obj0
+obj2 operatingorganisation obj1===obj0 is operated by the obj4
+obj1 runwaylength obj2===the length of the runway at obj0 is obj4
+obj1 runwaylength obj2===agra airport's runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj2 operatingorganisation obj0===obj4 is operated by the obj4
+obj2 operatingorganisation obj0===the obj4 is the operating organisation for obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===al asad airbase's runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===obj4 is the length of the runway at obj0
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the obj0 runway has a length of obj4
+obj0 runwaylength obj2===alderney airport's runway has a length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 cityserved obj2===obj0 serves the city of obj4
+obj0 cityserved obj2===the city of obj4 is served by obj0
+obj0 operatingorganisation obj1===the obj4 governs the obj0
+obj0 operatingorganisation obj1===the obj4 is the operating organisation of the obj0
+obj0 operatingorganisation obj1===obj0 is operated by obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 cityserved obj1===obj0 city served obj4
+obj0 cityserved obj1===obj0 serves the city of obj4
+obj0 cityserved obj1===obj0 serves obj4
+obj0 runwaylength obj2===alpena county regional airport's runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 operatingorganisation obj2===obj0 operating organization is obj4
+obj0 operatingorganisation obj2===obj4 operates the obj0
+obj0 operatingorganisation obj2===the obj0 is run by the operation organisation the obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4 meters
+obj0 runwaylength obj2===amsterdam airport schiphol's runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the length of the runway at obj0 is obj4 metres
+obj0 runwaylength obj2===amsterdam airport schiphol's runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===amsterdam airport schiphol's runway length is obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===andrews county airport's runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===obj0 runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 cityserved obj2===obj0 serves the city of obj4
+obj0 cityserved obj2===obj4 is served by obj0
+obj1 operatingorganisation obj0===obj4 operation organization is obj4
+obj1 operatingorganisation obj0===obj4 operates the obj4
+obj1 operatingorganisation obj0===the obj4 is the operating organisation of obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway at obj0 is obj4 in length
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 cityserved obj1===obj0 serves the city of obj4
+obj0 cityserved obj1===obj4 is a city which is served by obj0
+obj0 operatingorganisation obj1===the operating organization for obj0 is in obj4
+obj0 operatingorganisation obj1===obj4 is the operating organisation of obj0
+obj0 operatingorganisation obj1===the operators of obj0 are in obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj1 operatingorganisation obj0===obj4 is operated by the obj4
+obj0 runwaylength obj2===obj0 runway length is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 operatingorganisation obj1===the operating organization for obj0 is called obj4
+obj0 operatingorganisation obj1===obj0 is operated by obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4 meters
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===the average runway length at obj0 is obj4 m
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length at obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 cityserved obj2===the obj0 serves the city of obj4
+obj0 cityserved obj2===obj0 serves the city of obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===obj0 has a runway length of obj4
+obj0 cityserved obj1===obj0 serves the city of obj4
+obj1 operatingorganisation obj0===the obj4 is operated by the obj4
+obj1 operatingorganisation obj0===the obj4 is the operating organisation of obj4
+obj1 operatingorganisation obj0===obj4 is operated by the obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj0 runwaylength obj2===the runway length of obj0 is obj4
+obj1 leadertitle obj0===the obj4 is led by the obj4
+obj1 leadertitle obj0===obj4 is led by the obj4
+obj2 almamater obj0===the alma mater of obj4 is obj4
+obj2 birthplace obj0===obj4 was born in obj4
+obj2 birthplace obj0===alan bean's birth place is obj4
+obj1 birthplace obj0===alan shepard's birth place was obj4
+obj1 birthplace obj0===obj4 was born in obj4
+obj1 nationality obj0===obj4 is from the obj4
+obj1 nationality obj0===obj4 was from the obj4
+obj1 birthplace obj0===obj4 was born in obj4
+obj1 birthplace obj0===obj4 was born in obj4
+obj1 birthplace obj0===buzz aldrin's birth place was obj4
+obj1 almamater obj0===obj4 was a student at obj4
+obj1 almamater obj0===obj4 attended the obj4
+obj1 almamater obj0===obj4 graduated from the obj4
+obj1 birthplace obj2===obj0 was born in obj4
+obj2 nationality obj0===obj4 is from the obj4
+obj2 nationality obj0===obj4 is a obj4 national
+united states leadername obj2===obj4 served as united state's vice president
+obj1 birthplace obj0===obj4 was born in obj4
+obj0 nationality obj1===obj0 is from the obj4
+obj0 nationality obj1===obj0 was from the obj4
+obj1 region obj0===obj4 is located in obj4
+obj0 birthplace obj1===the birth place of obj0 is obj4
+obj2 leadertitle obj0===obj4 is a leader in obj4
+obj2 leadertitle obj0===obj4 is lead by the obj4
+obj2 leadertitle obj0===obj4 is the title of the leader of obj4
+obj2 leadertitle obj0===the leader of the government in obj4 is the obj4
+obj2 leadertitle obj0===gujarat's leader is known as the obj4
+obj2 birthplace obj0===obj4 was born in obj4
+obj0 birthplace obj1===the birth place of obj0 is obj4
+obj0 birthplace obj1===obj0 was born in obj4
+obj1 birthplace obj0===obj4 was born in obj4
+obj2 leadertitle obj0===obj4 is lead via the obj4
+obj2 leadertitle obj0===the obj4 is the leader of obj4
+united states obj2 obj0===obj4 is the obj2 of the usa
+united states ethnicgroup obj0===obj4 are an ethnic group in the us
+united states obj2 english obj2===english is the obj5 of the us
+united states leadername obj1===obj4 is the leader of the us
+united states leadername obj2===obj4 is a leader of the us
+obj1 leadertitle obj0===the leader of the obj4 is known as the obj4
+obj1 leadertitle obj0===the title of the leader of the obj4 is obj4
+obj1 leadertitle obj0===the leader of the obj4 has the title obj4
+obj1 leadertitle obj2===obj4 is the title of the leader of obj0
+obj1 leadertitle obj2===the leader of obj0 is the obj4
+obj1 leadertitle obj2===the leader in obj0 is the obj4
+obj0 leadertitle obj1===the leader of obj0 has the title of obj4
+obj1 leadertitle obj0===the leader of obj4 is the obj4
+obj1 leadertitle obj0===obj4 is led by the obj4
+obj1 leadertitle obj0===the obj4 leads obj4
+obj1 leadertitle obj0===the obj4 leads obj4
+obj0 leadertitle obj1===the obj4 is the leader of obj0
+obj0 leadertitle obj1===obj4 is the leader title in obj0
+obj0 leadertitle obj2===the obj4 is the leader of obj0
+obj0 leadertitle obj2===the obj4 leads obj0
+obj1 leadertitle obj0===the obj4 is the leader of obj4
+obj1 leadertitle obj0===obj4 is led by the obj4
+obj1 leadertitle obj0===the leader title of obj4 is obj4
+obj0 leadertitle obj2===the obj4 is the leader in obj0
+obj0 leadertitle obj2===the title of the leader in obj0 is the obj4
+obj0 leadertitle obj1===the obj4 is the leader of obj0
+obj0 leadertitle obj1===the obj4 leads obj0
+obj0 leadertitle obj2===the leader in obj0 is the obj4
+obj0 leadertitle obj2===the leader of obj0 is called the obj4
+obj0 leadertitle obj2===obj0 is led by a obj4
+united states obj2 obj0===the obj2 of the us is obj4
+united states obj2 obj0===obj4 is the obj2 of the us
+united states ethnicgroup obj0===obj4 are an ethnic group in the us
+obj1 leadertitle obj0===the leader of the obj4 is called the obj4
+obj0 creator obj1===obj0 was created by obj4
+obj1 creator obj0===the comic book character obj4 was created by obj4
+obj1 creator obj0===obj4 is a fictional character created by obj4
+obj1 creator obj0===the character obj4 was created by obj4
+obj1 creator obj0===obj4 was created by obj4
+obj1 creator obj0===the tv character obj4 was created by obj4
+obj1 creator obj0===the fictional comic superhero obj4 was created by obj4
+obj1 creator obj0===obj4 was created by obj4
+obj2 creator obj0===obj4 was created by obj4
+obj2 creator obj0===obj4 created obj4
+obj1 creator obj0===obj4 created obj4
+obj1 creator obj0===obj4 was created by obj4
+obj1 creator obj0===the character obj4 was created by obj4
+obj0 creator obj1===obj0 was created by obj4
+obj1 birthplace obj2===obj0 was born in obj4
+obj1 creator obj0===obj4 created the obj4
+obj1 creator obj0===the obj4 was created by obj4
+blockbuster comicscharacter obj2 obj1===the obj2 of blockbuster comics character is obj4
+blockbuster comicscharacter obj2 obj1===the obj2 of blockbuster comics character is obj4
+blockbuster comicscharacter obj2 obj1===obj4 is the obj2 of the comic character blockbuster
+blockbuster comicscharacter obj2 obj1===the obj2 of blockbuster comics character is obj4
+bolt comicscharacter obj2 obj1===obj4 was one of the creators of the comic
+bolt comicscharacter obj2 obj1===the obj2 of bolt comics character is obj4
+obj0 creator obj1===obj0 was created by obj4
+obj0 creator obj1===obj0 was created by obj4
+obj0 birthplace obj2===obj0 was born in obj4
+obj0 birthplace obj2===the birth place of obj0 is obj4
+obj1 nationality obj0===obj4 is a obj4 national
+obj0 birthplace obj2===obj0 was born in obj4
+obj0 birthplace obj1===obj0 was born in obj4
+obj0 birthplace obj2===obj0 was born in obj4
+obj0 birthplace obj1===tim brooke taylor's birth place is the obj4
+obj0 birthplace obj1===the birth place of obj0 is obj4
+obj1 region obj0===obj4 is a food found in obj4
+obj1 region obj0===obj4 is from obj4
+obj1 dishvariation obj0===a variation of obj4 contains obj4
+obj0 dishvariation obj2===obj0 can be varied by adding obj4
+obj0 dishvariation obj2===one variation of obj0 uses obj4 as part of
+obj0 dishvariation obj2===obj4 is one variation of ingredients in obj0
+obj1 dishvariation obj2===obj4 is a dish variation of obj0
+obj1 region obj0===obj4 is a dish of obj4
+obj0 dishvariation obj2===obj0 has obj4 as a variation
+obj0 dishvariation obj2===to vary obj0 obj4 may be used
+obj0 dishvariation obj2===obj4 is one of the ingredients that can be
+obj0 dishvariation obj2===obj4 can be added to obj0
+obj0 region obj2===obj0 is a traditional dish from obj4
+obj1 region obj0===obj4 is a food found in the obj4
+obj1 region obj0===obj4 hails from obj4
+obj0 region obj1===obj0 is a dish from obj4
+obj0 region obj1===obj0 is a dish from obj4
+obj0 region obj1===obj0 is a popular dish in obj4
+obj2 dishvariation obj0===the obj4 is a variation on the obj4
+obj2 dishvariation obj0===obj4 is a variation of a obj4
+obj2 dishvariation obj0===obj4 is a variation of obj4
+obj1 region obj0===obj4 is from the obj4
+obj0 dishvariation obj2===a variation of a obj0 is the obj4
+obj0 dishvariation obj2===another variation for a obj0 is a obj4
+obj0 dishvariation obj2===obj0 is a variation of obj4
+obj1 region obj0===obj4 comes from either obj4
+obj1 creator obj0===obj4 was created in obj4
+obj0 dishvariation obj1===a variant of obj0 is obj4
+obj0 dishvariation obj1===obj4 is a variation of obj0
+obj1 region obj0===obj4 originates from the obj4
+obj1 region obj0===the obj4 is popular in the obj4 area
+obj2 region obj0===obj4 is a food found in obj4
+obj2 region obj0===obj4 is food found in obj4
+obj1 region obj0===obj4 is found in the obj4
+obj1 dishvariation obj2===obj0 can be made with obj4
+obj1 dishvariation obj2===one dish variation called obj0 is the use of
+obj1 dishvariation obj2===a variation of obj0 is to use obj4
+obj1 dishvariation obj2===obj0 is a variation of the obj4 dish
+obj1 dishvariation obj2===obj0 and obj4 are variations of the same dish
+obj1 region obj0===obj4 is a food found in obj4
+obj1 region obj0===obj4 is a dish that is popular obj4
+obj1 region obj0===obj4 is available obj4
+obj0 region obj1===obj0 originates from obj4
+obj0 region obj1===obj0 is a dish of obj4
+obj1 dishvariation obj2===obj4 can be used as a variation in the
+obj1 dishvariation obj2===obj4 can be added to obj0
+obj1 region obj0===obj4 can be found in obj4
+obj1 dishvariation obj2===obj4 is a type of obj0
+obj1 dishvariation obj2===a obj4 is a obj0
+obj2 dishvariation obj0===obj4 is a dish that can be served as
+obj2 dishvariation obj1===as a dish variation on a obj0 obj4 can
+obj2 dishvariation obj1===obj0 can be varied by using obj4
+obj2 dishvariation obj1===obj4 is a variation on obj0
+obj2 dishvariation obj1===a variation of obj0 is obj4
+obj2 dishvariation obj1===obj0 is a variation of obj4
+obj2 dishvariation obj1===obj4 and obj0 are variation of the same dish
+obj2 dishvariation obj1===obj4 is a dish variation of obj0
+obj2 dishvariation obj1===obj4 is a variation of obj0
+united states obj2 obj0===the obj2 of the us is obj4
+united states ethnicgroup obj0===obj4 are an ethnic group in the us
+united states leadername obj2===obj4 is a political leader in the us
+united states leadername obj2===obj4 is a leader in the us
+obj2 leadertitle obj0===the leader's title in obj4 is the obj4
+obj2 leadertitle obj0===turkey's leader is the obj4
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj0 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===the obj0 has obj4 members
+obj0 numberofmembers obj2===obj0 has obj4 members
+obj0 numberofmembers obj2===obj0 has obj4 members
+obj0 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 have obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===obj0 has obj4 members
+obj1 numberofmembers obj2===there are obj4 members of obj0
+obj1 numberofmembers obj2===the number of members of obj0 is obj4
+obj0 numberofmembers obj2===obj0 has obj4 members
+obj0 numberofmembers obj2===obj0 club has obj4 members
+obj1 club obj0===obj4 plays for obj4
+obj0 club obj1===obj0 plays at the obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 played football for obj4
+obj1 club obj0===obj4 played for the obj4
+obj1 club obj0===obj4 plays for the obj4
+obj0 club obj1===obj0 is a player at the obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 played football for obj4
+obj0 club obj1===obj0 played for obj4
+obj1 club obj0===obj4 is at obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 plays at the obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 is affiliated with obj4
+obj1 club obj0===obj4 plays for obj4
+obj0 club obj1===obj0 played for obj4
+obj0 club obj1===obj0 plays for obj4
+obj1 club obj0===obj4 is in the obj4
+obj1 club obj0===obj4 played for the obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 played for the obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 played for obj4
+obj0 club obj1===obj0 played for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj1 club obj0===obj4 played for the obj4
+obj1 club obj0===obj4 plays for the obj4
+obj1 club obj0===obj4 plays for obj4
+obj0 club obj1===obj0 is in obj4
+obj0 club obj1===obj0 plays for obj4
+obj1 club obj0===obj4 is a player in obj4
+obj0 club obj1===obj0 is in obj4
+obj1 club obj0===obj4 is a member of the obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 was once a player for obj4
+obj1 club obj0===obj4 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj1 club obj0===obj4 plays for obj4
+obj0 club obj1===obj0 has been associated with obj4
+obj0 club obj1===obj0 was at obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 owns obj4
+obj0 club obj1===obj0 plays for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 once played for obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 plays for the obj4
+obj1 club obj0===obj4 is a member of the obj4
+obj1 club obj0===footballer obj4 plays for the obj4
+obj1 club obj0===obj4 is a player in obj4
+obj1 club obj0===obj4 played for obj4
+obj1 club obj0===obj4 played football for obj4
+obj1 club obj0===obj4 is attached to obj4
+obj1 club obj0===obj4 plays at the obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 used to be at obj4
+obj1 club obj0===obj4 plays for obj4
+obj1 club obj0===obj4 plays at the obj4
+obj1 club obj0===obj4 plays for obj4
+obj0 club obj1===obj0 has represented obj4
+obj0 club obj1===obj0 was at obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 was at obj4
+obj0 club obj1===obj0 was a player for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 plays for obj4
+obj0 club obj1===obj0 once played for obj4
+obj0 club obj1===obj0 plays for obj4
+obj2 leadertitle obj0===romania's leader is call the obj4
+obj2 leadertitle obj0===the obj4 is the title of the leader of obj4
+obj2 leadertitle obj0===the leader of obj4 is titled the obj4
+obj0 almamater obj1===obj4 is the alma mater for obj0
+obj0 nationality obj1===obj0 is from the obj4
+obj1 birthplace obj0===obj4 was born in obj4
+obj1 birthplace obj0===obj4 was born in obj4
+obj1 birthplace obj0===obj4 was born in obj4
+united states ethnicgroup obj0===obj4 are an ethnic group in the us
+united states leadername obj1===obj4 is the president of the us
+obj0 cityserved obj1 obj1 country obj3===obj0 serves the city of obj4 obj9
+obj0 operatingorganisation obj3 obj3 location obj5===obj4 in obj9 operates obj0
+obj0 operatingorganisation obj3 obj3 location obj5===obj0 is operated by obj4 who are located in obj9
+obj0 runwaylength obj5 obj0 location obj2===obj4 is the length of the runway at obj5 obj9
+obj0 runwaylength obj5 obj0 location obj2===the runway length at obj5 located in obj9 is obj4
+obj2 operatingorganisation obj1 obj2 location obj5===obj0 in obj9 is operated by the obj4
+obj2 operatingorganisation obj1 obj2 location obj5===obj0 is operated by the obj4 and is located
+obj2 operatingorganisation obj1 obj2 location obj5===the operating organization for obj0 located in obj9 is
+obj0 cityserved obj2 obj2 country obj5===obj0 serves the city of obj4 which is in obj9
+obj3 operatingorganisation obj0 obj0 obj5 obj4===the obj9 fought obj7 in the obj9 and operates
+obj1 runwaylength obj5 obj1 location===obj0 is located in the al anbar province in
+obj1 runwaylength obj5 obj1 location obj0===obj9 in obj9 has a runway that's obj4 long
+obj1 runwaylength obj5 obj1 location obj0===obj9 has a runway length of obj4 and is
+obj1 runwaylength obj5 obj1 location obj0===the obj9 is situated in the obj9 and has
+obj1 cityserved obj3 obj3 obj5===the obj7 of obj4 is saint anne and is
+obj1 cityserved obj3 obj3 obj5===obj0 serves obj4 where the obj7 is saint anne
+obj0 cityserved obj4 obj4 leadername obj1===the obj0 serves obj5 whose leader is obj9
+obj0 cityserved obj4 obj4 leadername obj1===obj0 serves the city of obj5 whose leader is obj9
+obj0 cityserved obj4 obj4 leadername obj1===obj0 serves the city of obj5 the leader of
+obj0 operatingorganisation obj2 obj0 location obj4===obj5 in obj9 is operated by obj9
+obj0 operatingorganisation obj2 obj0 location obj4===the obj9 is the operating authority of the obj5
+obj0 operatingorganisation obj2 obj0 location obj4===the obj9 is the operating organisation of the obj5
+obj0 operatingorganisation obj1 obj1 obj5 obj3===obj9 is the obj7 of the hq of the
+obj0 operatingorganisation obj1 obj1 location obj3===the obj4 is located at obj9 and is the
+obj0 operatingorganisation obj1 obj1 location obj3===the obj4 which is located at obj9 is the
+obj0 runwaylength obj5 obj0 location obj2===obj5 has a runway length of obj4 and is
+obj0 runwaylength obj5 obj0 location obj2===obj5 located in obj9 has a runway length of obj4
+obj0 cityserved obj4 obj4 leadername obj1===obj0 serves the city of obj5 whose leader is obj9
+obj0 cityserved obj4 obj4 country obj2===obj0 serves the city of obj5 in obj9
+obj0 cityserved obj4 obj4 country obj2===obj5 in obj9 is served by the obj0
+obj0 cityserved obj4 obj4 country obj2===obj0 serves the city of obj5 a popular tourist
+obj0 cityserved obj3 obj3 obj5 obj1===obj9 is the obj7 of obj4 which is served
+obj0 cityserved obj3 obj3 obj5 obj1===obj9 is obj7 of obj4 home of the obj0
+obj0 operatingorganisation obj3 obj0 obj5 obj4===the obj7 of obj7 is the obj9 and the
+obj0 operatingorganisation obj2 obj2 obj4 obj5===the operating organisation of obj0 is the obj7 which
+obj0 operatingorganisation obj2 obj2 obj4 obj5===the obj0 is operated by the obj7 which has
+obj2 operatingorganisation obj0 obj0 location obj4===obj9 is operated by the obj9 located in obj9
+obj0 operatingorganisation obj1 obj1 obj4 obj5===the operating organization for obj0 is called obj7 who
+obj0 operatingorganisation obj1 obj1 obj4 obj5===obj0 is operated by obj7 whose headquarters are located
+obj0 cityserved obj4 obj4 country obj3===the obj0 serves the city of obj5 which is
+obj0 cityserved obj4 obj4 country obj3===obj0 serves the city of obj5 obj9
+obj0 cityserved obj1 obj1 leadername obj3===obj0 serves the city of obj4 and has obj9
+obj2 operatingorganisation obj0 obj0 obj4 obj5===the obj7 headquartered in obj9 is the operating organisation
+obj2 operatingorganisation obj0 obj0 obj4 obj5===the obj7 is the operating organisation of obj7 with
+obj2 birthplace obj1 obj2 obj4 united states===obj0 has a us obj7 and was born in
+obj2 language obj1 obj0 location obj2===obj5 is located in the obj5 where they speak
+obj1 region obj2 obj1 obj0 obj5===one of the ingredients used to make obj7 is
+obj1 region obj2 obj1 obj0 obj4===obj7 is a food from obj9 and obj9 is
+obj1 region obj2 obj1 obj0 obj4===an obj7 of obj7 which is from obj9 is obj9
+obj1 region obj2 obj1 obj0 obj4===obj9 is an obj7 of obj7 a food found
+obj1 dishvariation obj7 obj6 obj8 obj5===obj4 is one variation of ingredients in obj0 which
+obj0 region obj5 obj0 obj2 obj3===obj9 is an obj7 in obj5 which is from obj4
+obj0 region obj5 obj0 obj2 obj3===obj9 is an obj7 of obj5 which comes from obj4
+obj0 region obj5 obj0 obj2 obj3===obj9 is an obj7 of obj5 which comes from obj4
+obj0 region obj5 obj0 obj2 obj3===obj9 is an obj7 used in the preparation of
+obj2 region obj1 obj2 country obj0===obj9 is a food found in the obj4 and
+obj2 region obj1 obj2 country obj0===obj9 hails from obj4 obj9
+obj1 region obj4 obj1 country obj0===the dish of obj9 is from obj4 in obj9
+obj1 region obj4 obj1 country===obj0 comes from the countries of indonesia malaysia and obj4
+obj1 region obj4 obj1 country obj0===obj9 is a dish from obj4 obj9
+obj1 region obj4 obj1 obj3 obj0===obj9 is one of the ingredients in the dish
+obj1 region obj4 obj1 obj3 obj0===obj9 is an obj7 in the popular malaysian dish
+obj1 region obj4 obj1 obj3 obj0===obj9 is an obj7 in obj9 which comes from obj4
+obj1 region obj2 obj2 obj4 obj0===obj9 is a obj7 of obj7 where obj9 is
+obj0 region obj2 obj2 leadername obj4===obj0 is a dish from obj9 whose leader is obj9
+obj0 region obj2 obj2 leadername obj4===obj0 is a dish from obj9 where the leader
+obj0 dishvariation obj4 obj4 obj2 obj3===a variation of a obj0 is the obj5 and
+obj0 dishvariation obj4 obj4 obj2 obj3===one variation of the obj0 is the obj5 in
+obj0 dishvariation obj5 obj0 obj3 obj4===another variation for a obj5 is a obj9 which
+obj0 dishvariation obj5 obj0 obj3 obj4===obj9 is an obj7 of a blt or obj5
+obj0 dishvariation obj5 obj0 obj4 obj3===obj9 is an obj7 in a obj5 which has
+obj0 dishvariation obj5 obj0 obj3 obj4===condiments are ingredients of bacon sandwiches and a variation
+obj0 dishvariation obj5 obj0 obj3 obj4===condiments are ingredients in bacon sandwiches and a variation
+obj0 dishvariation obj5 obj0 obj3 obj4===a variation of a obj5 is the obj9 which
+obj0 dishvariation obj1 obj1 obj5 obj4===a variant of obj0 is obj9 which has obj9
+obj0 dishvariation obj1 obj1 obj5 obj4===obj9 is a variation of obj0 and one of
+obj2 region obj0 obj0 ispartof obj3===obj9 has an area within it called the obj4
+obj2 region obj0 obj0 ispartof obj3===obj4 originates from the obj4 obj9
+obj3 region obj1 obj1 leadername obj0===obj9 is a leader in obj4 where obj9 originates from
+obj3 dishvariation obj5 obj3 country obj1===obj0 is a variation of a obj4 dish found
+obj3 dishvariation obj5 obj3 country obj1===obj0 is a variation of the obj4 dish and
+obj0 region obj3 obj3 leadername obj1===obj0 is a dish of obj4 and the counrty's
+obj0 region obj3 obj3 leadername obj1===obj0 is a dish of obj9 led obj4
+obj5 region obj2 obj2 leadername obj0===obj9 is the leader of obj4 where obj9 originates from
+obj3 dishvariation obj0 obj3 obj5 obj2===obj4 is served at the obj9 obj7 and can
+obj4 ethnicgroup obj3 obj0 country obj4===obj5 is a food dish found in obj5 where
+obj4 ethnicgroup obj3 obj0 obj2 obj4===obj5 is a food found in java the obj9
+obj4 ethnicgroup obj3 obj0 country obj4===obj5 is a food found in obj5 where an
+obj4 ethnicgroup obj0 obj1 country obj4===obj9 is one of the ethnic groups in obj9
+obj4 ethnicgroup obj0 obj1 obj3 obj4===the obj7 of obj5 is obj9 where the obj9
+obj4 ethnicgroup obj0 obj1 country obj4===obj9 where the obj9 are an ethnic group is
+obj4 ethnicgroup obj0 obj1 country obj4===obj5 is a food found in obj9 where the
+obj4 ethnicgroup obj0 obj1 country obj4===obj5 originates from obj9 where the obj9 are an
+obj3 dishvariation obj1 obj4 obj2 obj3===obj5 and obj0 are obj7 and obj5 can be
+obj3 dishvariation obj1 obj4 obj2 obj3===the dish obj5 is obj7 to obj0 and obj5
+obj0 ethnicgroup obj1 obj5 country obj0===obj4 are a group in the obj9 where obj5
+obj1 ethnicgroup obj0 obj3 country obj1===obj4 are one of the ethnic groups in the
+obj1 ethnicgroup obj0 obj3 country obj1===obj5 is from the obj4 along with ethnic african americans
+obj0 numberofmembers obj5 obj0 obj4 obj3===obj5 has obj7 members and its obj7 is located
+obj0 numberofmembers obj5 obj0 obj4 obj3===obj5 has obj7 members and its obj7 is located
+obj0 club obj1 obj3 obj4 obj0===obj9 the obj7 of obj5 plays for obj7
+obj3 ethnicgroup obj1 obj0 country obj3===the obj5 in obj5 has an ethnic group called obj4
+obj3 ethnicgroup obj1 obj0 country obj3===the obj5 in obj5 has a large percentage of
+obj2 birthplace obj1 obj0 obj5 obj2===obj7 is authored by obj4 native obj7
+obj2 ethnicgroup obj1 obj0 country obj2===obj5 is from the obj5 where obj4 form one
+obj2 ethnicgroup obj1 obj0 country obj2===obj5 is from the obj5 where there are many obj4
+obj2 ethnicgroup obj0 obj1 country obj2===obj5 originates from the obj4 which counts obj4 among
+obj2 ethnicgroup obj0 obj1 country obj2===the obj4 has an ethnic group called obj4 and
+united states ethnicgroup obj1 obj0 country united states===in almost unrelated facts both obj4 and the book
+united states ethnicgroup obj1 obj0 country united states===the book obj5 comes from the us where there
+obj2 ethnicgroup obj1 obj0 obj5 obj2==='alcatraz versus the evil librarians' is from the obj7
+obj2 language obj1 obj0 country obj2===the book obj5 comes from the obj5 where the
+united states leadername obj3 obj0 country united states===obj5 is from the united state where obj4 is president
+obj0 cityserved obj2 obj2 country===obj4 served by obj0 is part of obj1 usa
+obj0 runwaylength obj8 obj0 location===obj5 which is located in obj7 has a runway
+obj0 runwaylength obj7 obj0 location===the obj8 runway in obj5 in sao jose dos
+obj0 runwaylength obj7 obj0 location===obj5 is located in obj3 and has a runway
+obj3 operatingorganisation obj2 obj3 obj0===the obj7 of obj7 is obj8 and the airport
+obj0 cityserved obj3 obj3 country===obj0 serves the city of obj4 which is in
+obj0 cityserved obj3 obj3 country===obj0 serves the city of obj4 in obj6 speaking obj7
+obj3 operatingorganisation obj1 obj3 location===operated by the obj4 obj0 is located at obj0
+obj3 operatingorganisation obj1 obj3 location===obj0 is operated by the united states air forces
+obj2 operatingorganisation obj0 obj2 location===obj4 in obj8 with a runway length of 3990
+obj6 operatingorganisation obj1 obj1 obj7===the obj4 was involved in obj7 at the obj5
+obj6 operatingorganisation obj1 obj1 obj8===obj0 is operated by the obj4 who deploy the
+obj0 operatingorganisation obj2 obj2 obj7===obj0 is located in obj6 and is operated by
+obj0 operatingorganisation obj2 obj2 obj7===obj0 is located in the obj6 it is operated
+obj0 runwaylength obj8 obj0 location===the obj7 runway of the obj5 is located in
+obj0 runwaylength obj8 obj0 location===obj5 is found in obj3 the runway name is
+obj0 cityserved obj7 obj7 country===obj0 serves the city of obj4 which is in
+obj0 cityserved obj7 obj7 country===obj0 serves the city of obj4 obj4 brussels is
+obj0 cityserved obj7 obj7 country===the obj1 is spoken in obj4 obj4 in which
+obj0 cityserved obj7 obj7 country===obj0 serves the city of obj4 a popular tourist
+obj0 operatingorganisation obj1 obj1 obj6===obj4 is operated by obj0 whose headquarters are located
+obj0 operatingorganisation obj1 obj1 obj6===obj4 which has headquarters in obj8 operates obj0
+obj0 operatingorganisation obj1 obj1 obj6===obj0 is operated by obj4 headquartered in turmenistan and obj8
+obj0 operatingorganisation obj1 obj1 obj7===the operating organization for obj0 is called obj4 turkmenabat
+obj0 operatingorganisation obj1 obj1 obj7===obj0 is operated by obj4 whose headquarters are in obj6
+obj1 operatingorganisation obj2 obj2 obj7===obj0 is the hub airport for obj4 which operates
+obj1 operatingorganisation obj2 obj2 obj7===obj0 is operated by obj4 whose hub is obj0
+obj0 cityserved obj7 obj7 country===obj0 serves the city of obj4 which is in
+obj0 cityserved obj7 obj7 obj4===the obj0 serves the city of obj7 obj5 obj1
+obj0 cityserved obj7 obj7 country===obj0 serves the city of obj4 in obj5 where
+obj0 cityserved obj7 obj7 country===obj4 is located in obj5 and is served by
+obj0 cityserved obj7 obj7 obj4===the obj0 serves the city of obj7 in obj5
+obj0 cityserved obj7 obj7 country===obj0 serving the city of obj4 obj5 has a
+obj1 cityserved obj6 obj1 location===obj4 is served by the obj0 located in obj7
+obj1 cityserved obj6 obj1 location===obj0 is in sparta serves the city of obj4
+obj1 cityserved obj6 obj1 location===the obj0 which is obj8 metres above sea level
+obj0 cityserved obj7 obj0 location===with a runway length of 3800 metres obj5 is
+obj0 cityserved obj7 obj0 location===obj5 serves obj4 but is actually located in obj8
+obj0 cityserved obj7 obj0 location===obj5 located in obj8 serves the city of obj4
+obj0 runwaylength obj8 obj0 location===obj5 is located at obj2 obj4 its runway length
+obj1 birthplace obj0 obj1 obj10 obj7===obj4 who obj40 born on nov 18 1923 in
+obj1 birthplace obj0 obj1 obj10 obj7===obj4 obj40 born on november 18th 1923 in obj4
+obj1 birthplace obj0 obj1 obj10 obj7===obj4 born in obj4 on november 18 1923 obj40
+obj4 almamater obj0 obj0 obj8===obj4 who was born in obj7 attended the obj4
+obj4 almamater obj0 obj0 obj8===obj4 was born in obj7 and graduated from the
+obj4 almamater obj0 obj0 obj8===the obj7 of the obj4 which obj4 born dallas
+obj2 region obj3 obj3 leadername===susana diaz is the leader of obj4 in spain
+obj2 region obj3 obj3 leadername===originating from obj8 obj0 is a food found in
+obj2 region obj3 obj3 leadername===obj0 is from obj4 where susana diaz is a
+obj4 region obj6 obj4 obj3===the main ingredients of obj0 which comes from obj5
+obj0 dishvariation obj7 obj0 obj5===obj4 is a main obj7 of obj7 from obj8
+obj0 dishvariation obj7 obj0 obj5===obj7 which can be found in obj8 has chilli
+obj0 dishvariation obj7 obj0 obj5===obj7 can be found in obj8 some of its
+obj0 dishvariation obj6 obj0 obj4===obj7 is an obj7 in obj5 found in italy
+obj2 region obj0 obj2 obj5===obj4 is a traditional dish from the obj4 of
+obj1 region obj5 obj1 country===obj0 is an obj4 of the javan dish obj0
+obj1 region obj6 obj1 obj4===obj0 is one of the ingredients in the dish
+obj1 region obj6 obj1 obj4===the dish obj0 has the obj7 of obj0 and
+obj1 region obj6 obj1 obj4===obj0 is an obj7 in obj0 which is from
+obj2 region obj7 obj2 obj5===a popular dish in obj4 ayam penyet's main ingredients
+obj2 region obj7 obj2 obj5===a dish from obj4 ayam penyet's main ingredients are
+obj2 region obj7 obj2 obj5===obj6 obj14 smashed obj1 obj10 obj13 obj9 is a
+obj3 region obj6 obj3 obj5===obj1 is a key obj7 in obj0 from obj4
+obj1 region obj4 obj7 ethnicgroup===obj0 is a popular dish in obj4 but originated
+obj1 region obj4 obj7 ethnicgroup===obj0 is a popular dish from obj5 obj4 where
+obj1 region obj4 obj7 ethnicgroup===obj0 is a popular dish in obj4 and is
+obj1 region obj4 obj4 ethnicgroup===obj0 is a food found in obj8 and it's
+obj1 region obj4 obj4 ethnicgroup===obj0 is from obj8 and is also popular in
+obj1 region obj5 obj1 country===obj0 is an obj4 of the dish obj0 which
+obj0 dishvariation obj8 obj0 country===a variation of the obj4 a obj5 comes from
+obj0 dishvariation obj8 obj0 country===a obj5 is from the obj1 and is a
+obj0 dishvariation obj8 obj0 country===obj7 sandwiches are popular in the uk and have
+obj0 dishvariation obj8 obj0 country===obj7 is an obj5 of a obj5 which is
+obj0 dishvariation obj8 obj0 country===obj7 is an obj5 of the obj5 which originates
+obj0 dishvariation obj8 obj0 country===bacon sandwiches are made using obj7 and originate from
+obj0 dishvariation obj8 obj0 country===obj5 is an obj6 of a obj5 a dish
+obj0 dishvariation obj8 obj0 country===a variation of the obj4 the obj5 is from
+obj0 dishvariation obj8 obj0 country===a obj5 also known as a obj4 is popular
+obj0 dishvariation obj8 obj0 country===the uk dish obj4 is a variation of the
+obj0 dishvariation obj8 obj0 country===another variation for a obj5 is a obj4 you
+obj0 dishvariation obj8 obj0 country===a obj4 is a type of obj5 which includes
+obj1 region obj0 obj1 country===obj4 is an obj5 in obj4 which comes from
+obj1 region obj5 obj1 country===obj0 is an obj4 in obj0 which is from
+obj1 region obj5 obj1 country===obj0 containing obj0 is from obj7 and obj4
+obj1 dishvariation obj2 obj2 obj8===the obj4 originates from the obj0 obj7 has obj6
+obj1 dishvariation obj3 obj3 obj8===obj4 includes obj2 among it's ingredients it is a
+obj1 dishvariation obj3 obj3 obj8===obj2 are an obj7 in obj4 also known as
+obj2 dishvariation obj3 obj3 obj8===a variation of obj0 is obj4 which is made
+obj5 region obj2 obj2 leadername===obj0 comes from the obj4 where obj1 is the leader
+obj6 region obj2 obj6 country===obj0 has obj4 as an obj1 and is found
+obj6 region obj1 obj6 country===obj4 is an obj0 in obj0 which comes from
+obj6 region obj1 obj6 country===obj0 is a dish from obj4 that contains the
+obj6 region obj2 obj6 country===obj0 is an obj1 of obj0 from obj4
+obj6 region obj2 obj6 country===obj0 is an obj1 in obj0 which is from obj4
+obj6 region obj2 obj6 country===obj0 is a food found in obj4 and also
+obj6 region obj2 obj6 country===obj0 is an obj1 of the dish obj0 which
+obj6 region obj2 obj6 country===obj0 is an obj1 of the dish obj0 which
+obj6 region obj2 obj6 country===obj0 is an obj1 of obj0 which is a
+obj2 region obj0 obj2 country===part of columbian cuisine and found in the obj4
+obj2 region obj0 obj2 country===obj4 a typical obj1 from the obj4 contains obj5
+obj2 region obj0 obj2 country===obj5 is an obj6 of obj4 which is a
+obj2 region obj0 obj2 obj5===obj7 is an obj7 in obj4 which is considered
+obj2 region obj0 obj2 obj5===an obj7 in the dish obj4 is obj7 the
+obj2 region obj0 obj2 obj5===obj7 is an obj7 in the colombian dish of
+obj1 region obj4 obj1 country===obj5 is one of the ingredients of the dish
+obj1 region obj4 obj1 country===obj0 containing obj5 is a traditional columbian dish from
+obj1 region obj4 obj1 country===obj0 is a traditional columbian dish containing obj5 from
+obj1 region obj4 obj1 obj6===obj0 is a traditional dish from obj4 obj0 the
+obj1 region obj4 obj1 obj5===obj7 is an obj7 in obj0 which is part
+obj1 region obj4 obj1 obj5===obj7 is an obj7 in the columbian dish of
+obj1 region obj4 obj1 obj5===obj0 is from the obj4 and typical obj0 obj7
+obj4 dishvariation obj8 obj4 obj3===obj0 obj7 and obj5 are variations of the the
+obj4 dishvariation obj8 obj4 obj3===obj0 and obj7 are variations on the same dish
+obj4 dishvariation obj8 obj6 obj2===obj3 is a key obj7 of obj5 which is
+obj1 region obj5 obj1 country===obj0 is made in indonesia obj9 obj4 where obj3
+obj1 region obj4 obj1 country===obj0 is a dish of obj4 whose leaders include
+obj1 region obj4 obj1 country===obj6 is a leader in obj4 obj0 is also
+obj1 region obj4 obj1 country===obj0 is a dish found in indonesia obj9 obj4
+obj0 region obj6 obj0 country===an obj4 of obj5 which originates from obj4 and
+obj0 region obj6 obj0 country===an obj4 of obj5 which originates from obj4 and
+obj0 region obj4 obj0 country===obj2 is a leader of obj4 where obj5 originates
+obj0 region obj4 obj0 country===obj4 leader halimah yacob and obj5 have the dish obj5
+obj1 region obj6 obj1 obj5===obj4 is an obj7 in obj0 which is a
+obj3 dishvariation obj8 obj4 obj2===obj5 is served as a obj0 as is obj5
+obj3 dishvariation obj8 obj4 obj2===obj5 is a variation of obj0 such as obj5
+obj3 dishvariation obj2 obj4 obj1===obj5 is a type of obj0 so too is
+obj3 dishvariation obj2 obj4 obj1===obj5 is a key obj7 in obj5 which like
+obj3 dishvariation obj2 obj4 obj1===obj5 and obj5 are types of obj0 one of
+obj3 language obj0 obj3 leadername===obj8 is a dish from obj4 where obj1 is
+obj7 ethnicgroup obj0 obj1 obj6===obj5 is a dish from the obj7 of obj4
+obj7 ethnicgroup obj0 obj1 obj6===the obj4 are an ethnic group from obj4 where
+obj1 ethnicgroup obj3 obj1 obj6===obj8 comes from the obj0 where obj0 is the
+obj1 ethnicgroup obj3 obj1 language===obj0 is the obj7 obj8 comes from they speak
+obj1 ethnicgroup obj3 obj1 obj6===obj8 is eaten in the obj0 where there is
+obj1 ethnicgroup obj3 obj1 obj6===obj4 are a group in the obj0 where the
+obj1 ethnicgroup obj3 obj1 obj6===obj8 is eaten in the obj0 where the obj7
+obj1 ethnicgroup obj3 obj1 obj6===obj0 is the obj7 obj8 comes from one of
+obj2 language obj8 obj7 country===the ethnic group of the obj0 are from the
+obj3 language obj0 obj8 country===obj5 is eaten in the obj4 where obj4 is
+obj3 language obj0 obj8 country===obj1 is an ethnic group in the obj4 where
+obj0 club obj4 obj5 obj6===obj0 played for obj4 and obj3 he has also
+obj1 city obj5 obj1 obj6===the obj0 is located in soldevanahalli at the address
+obj4 ethnicgroup obj1 obj4 obj6===the obj7 of obj0 is obj3 the obj5 is
+obj4 ethnicgroup obj1 obj4 obj6===the obj0 is in obj0 two facts about obj0
+obj1 language obj3 obj1 country===obj0 is written in the obj4 and is from
+obj2 language obj1 obj2 country===obj0 was written in the obj4 and originates from
+obj2 language obj1 obj2 country===obj0 is written in the obj4 and is from
+obj0 language obj3 obj0 country===obj5 is written in the obj4 and it comes
+united states obj8 obj1 obj0 country===obj5 was written in the us where there are
+united states obj8 obj2 obj1 country===the us is home to native americans and is
+obj4 ethnicgroup obj2 obj0 language===obj5 is written in english and from the obj5
+obj4 ethnicgroup obj2 obj0 language===obj5 is written in the obj3 it is from
+obj4 ethnicgroup obj2 obj0 language===obj5 originally published in english is from the obj5
+obj3 ethnicgroup obj1 obj3 obj8===obj0 is from the obj0 where obj4 are one
+obj3 ethnicgroup obj0 obj3 obj8===obj1 was published in the obj4 where the obj7
+obj3 ethnicgroup obj0 obj3 obj8===washington d c is the obj7 of the obj4
+obj3 ethnicgroup obj1 obj3 obj7==='a fortress of grey ice' is from the obj0
+obj3 ethnicgroup obj0 obj3 language===obj1 comes from the obj4 where they speak english
+obj3 ethnicgroup obj0 obj3 obj7===english is the obj7 of the obj4 where obj1
+obj4 ethnicgroup obj3 obj0 obj7===many obj4 live in the obj5 the obj8 where
+obj4 ethnicgroup obj3 obj0 language===obj5 was originally published in english the book came
+obj4 ethnicgroup obj3 obj0 language===obj5 is written in the obj2 and is from
+obj3 ethnicgroup obj2 obj3 obj8===obj0 is from the us where the obj7 city
+obj3 ethnicgroup obj2 obj3 obj8===obj0 is from the obj0 where washington d c
+obj3 ethnicgroup obj1 obj3 obj8===obj2 originates from the obj0 a obj7 that includes
+obj3 ethnicgroup obj1 obj3 obj8===obj2 is from the obj0 where there is an
+obj3 ethnicgroup obj2 obj3 obj7===in the obj0 english is the obj7 spoken and
+obj3 ethnicgroup obj2 obj3 language===obj0 is from the obj0 where they speak english
+obj3 ethnicgroup obj2 obj3 obj7===obj0 is from the obj0 which has the obj7
+obj3 ethnicgroup obj1 obj3 obj7===obj2 is from the obj0 where the obj7 is
+obj3 ethnicgroup obj1 obj3 obj7===obj2 is from the obj0 where the obj7 is
+obj2 ethnicgroup obj1 obj2 leadername===obj0 is from the obj0 where there are many
+obj2 ethnicgroup obj1 obj2 leadername===obj0 is from the obj0 where obj5 is the
+obj2 ethnicgroup obj1 obj2 leadername===obj0 is from the obj0 where obj5 is the
+obj2 ethnicgroup obj1 obj2 leadername===obj0 is from the obj0 where the leader is
+obj2 ethnicgroup obj1 obj2 leadername===the obj0 is home to obj5 and obj4 obj0
+obj2 ethnicgroup obj1 obj2 leadername===obj0 is from the obj0 which has many obj4
+obj2 ethnicgroup obj1 obj2 leadername===obj0 is from the obj0 where obj7 is a
+obj3 language obj2 obj1 country===obj5 is from the obj0 where the obj4 is
+obj3 language obj2 obj1 country===obj5 is from the obj0 where the obj4 is
+obj3 language obj2 obj1 country===obj5 is from the obj0 where one of the
+united states leadername obj5 obj1 country===native americans and obj5 are part of the us
+obj1 runwaylength obj14 obj1 location===obj0 can be found in obj0 obj06 is operated
+obj1 runwaylength obj14 obj1 location===obj0 can be found in obj0 obj06 is operated
+obj1 runwaylength obj14 obj1 location===obj0 which is operated by obj03 can be found
+obj0 cityserved obj8 obj6 location===obj5 is located in brasilia and operates obj0 this
+obj0 cityserved obj8 obj6 location===afonsa pena international airport serves the city of obj4
+obj0 cityserved obj8 obj6 location===obj0 serves obj4 in the state of parana obj0
+obj4 operatingorganisation obj0 obj4 obj2===located in obj9 obj5 has the obj7 is obj11
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===the obj4 operate obj0 in obj0 the airport has
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organization for obj0 which
+obj2 operatingorganisation obj0 obj2 location===operated by the obj4 obj4 is in obj11 its
+obj2 operatingorganisation obj0 obj2 location===the obj4 is the operating organisation for obj4 in
+obj2 operatingorganisation obj0 obj2 location===the obj4 is the operating organisation for the obj4
+obj2 operatingorganisation obj0 obj2 location===obj4 in obj11 is operated by the obj4 the
+obj2 operatingorganisation obj0 obj2 location===the operating organisation of obj4 in obj11 is the
+obj2 operatingorganisation obj0 obj2 location===obj4 located in iraq is operated by the obj4
+obj8 operatingorganisation obj1 obj1 obj10===the lock heed ac 130 is an attack aircraft of
+obj8 operatingorganisation obj1 obj1 obj10===the obj4 who are the operating organisation for obj0
+obj8 operatingorganisation obj1 obj1 obj10===the obj4 who are the operating organisation for obj0
+obj7 operatingorganisation obj0 obj0 obj10===obj4 is run by the obj4 who fought in
+obj7 operatingorganisation obj0 obj0 obj10===the obj4 who operate obj4 fought in the obj9
+obj8 operatingorganisation obj1 obj1 obj10===the obj4 is the operating organization for obj0 lockheed
+obj8 operatingorganisation obj1 obj1 obj10===the obj4 operate obj0 and use the obj7 as
+obj8 operatingorganisation obj1 obj1 obj10===the obj4 is the operationg organisation for obj0 has
+obj1 operatingorganisation obj5 obj1 location===obj0 located in obj8 is operated by obj4 it's
+obj1 operatingorganisation obj5 obj1 location===the operating organization for obj0 in obj8 is called
+obj1 operatingorganisation obj5 obj1 location===the obj0 is located in obj8 and operated by
+obj1 operatingorganisation obj5 obj1 location===obj0 located in obj8 has a runway of length
+obj1 operatingorganisation obj5 obj1 location===obj4 are the operating organisation for obj0 which is
+obj1 operatingorganisation obj5 obj1 location===the operating organization for obj0 in obj8 is obj4
+obj1 operatingorganisation obj5 obj1 location===obj4 is the operating organization for obj0 which is
+obj1 operatingorganisation obj5 obj1 location===obj0 in obj8 is operated by obj4 it is
+obj1 operatingorganisation obj5 obj1 location===obj0 in obj8 is operated by obj4 it is
+obj0 operatingorganisation obj2 obj0 runwaylength===obj4 have headquarters in obj10 obj6 and are the
+obj0 operatingorganisation obj2 obj0 runwaylength===the headquarters of obj4 are located in obj10 obj6
+obj0 operatingorganisation obj2 obj2 obj8===the obj0 has 380000 meters long runway and operated
+obj0 operatingorganisation obj1 obj1 obj8===obj0 is operated by obj4 the headquarters of which
+obj0 operatingorganisation obj1 obj1 obj8===the headquarters of obj4 are located in obj41 obj7
+obj0 cityserved obj3 obj3 country===obj4 obj6 is lead by obj7 and served by
+obj2 operatingorganisation obj0 obj0 obj9===obj4 is located in obj4 obj8 it is operated
+obj2 operatingorganisation obj0 obj0 obj9===the obj6 is the headquarters of the obj4 who
+obj2 operatingorganisation obj0 obj0 obj9===the obj6 is the headquarters of the obj4 who
+obj2 operatingorganisation obj0 obj0 obj8===the obj4 which has its headquarters in obj10 operates
+obj2 operatingorganisation obj0 obj0 obj8===the obj4 is operated by the obj4 which has
+obj4 region obj5 obj5 leadername===obj0 is a food found in obj4 obj10 its
+obj4 region obj5 obj5 leadername===obj0 is from obj4 in obj10 where susana diaz
+obj3 region obj5 obj5 leadername===obj0 is a food found in obj4 obj11 and
+obj3 region obj5 obj5 leadername===obj0 is from obj4 obj11 it includes obj9 susana
+obj1 region obj11 obj1 country===tomatoes guanciale cheese and obj7 are the main ingredients
+obj3 region obj1 obj3 country===obj0 originates from the obj4 in obj46 and includes
+obj2 region obj8 obj2 obj10===obj0 is a dish from obj4 originaly made the
+obj2 region obj8 obj2 country===obj0 is a dish from obj4 and found in
+obj2 region obj8 obj2 country===squeezed obj17 smashed obj1 obj12 obj15 obj11 is a
+obj2 region obj9 obj2 obj6===obj0 is a dish from obj4 and obj7 the
+obj2 region obj9 obj2 obj6===obj0 originates from obj7 and popular dish in obj4
+obj1 region obj6 obj1 obj5===obj0 is an obj7 in obj0 a dish from
+obj2 region obj7 obj2 country===obj0 is a dish from obj4 and is found
+obj2 region obj7 obj2 country===obj0 is a dish from obj4 and can be
+obj10 dishvariation obj5 obj1 obj7===a variation of the obj5 that comes from the
+obj2 dishvariation obj4 obj4 obj11===a variant of the obj0 is the obj5 a
+obj1 region obj2 obj2 leadername===the frangipane based dessert obj0 or tart originates from the
+obj1 region obj2 obj2 leadername===obj0 originates from the obj4 where obj0 is a
+obj1 region obj2 obj2 leadername===bakwell tart variant of a bakewell pudding includes obj5
+obj2 region obj3 obj3 leadername===obj6 is made from obj1 and is a variation
+obj2 region obj3 obj3 leadername===obj0 also known as a bakewell pudding originates from
+obj2 region obj3 obj3 leadername===obj6 is a variation of obj0 which originates in
+obj8 region obj3 obj8 obj2===obj0 is a dish found in the obj5 of
+obj8 region obj3 obj8 obj2===ground beef obj6 noodle rice vermicelli beef broth kailan
+obj2 dishvariation obj7 obj2 obj6===obj0 can be made with obj4 they contain 18g
+obj2 dishvariation obj7 obj2 obj6===obj0 made with obj4 contain 18g of obj7 180g
+obj2 dishvariation obj6 obj2 obj7===obj0 can be obj4 flavoured it contains obj11 obj12
+obj2 dishvariation obj6 obj2 obj7===obj0 which can be obj4 flavoured contain 18g of
+obj2 dishvariation obj8 obj2 obj6===obj0 can include obj4 and contain 18g of obj7
+obj2 dishvariation obj8 obj2 obj6===obj0 have a dish variation that uses obj4 in
+obj2 dishvariation obj8 obj2 obj6===obj0 have 18g obj7 48g obj10 and 18g carbohydrates
+obj2 dishvariation obj6 obj2 obj7===one of the variations of obj0 is with obj4
+obj2 region obj5 obj2 country===obj0 comes from obj4 obj12 its commonly found in
+obj2 region obj5 obj2 country===obj0 is a dish commonly found in indonesia it
+obj2 region obj5 obj2 country===obj0 is found in indonesia obj12 also obj4 where
+obj1 region obj5 obj5 language===obj0 is a dish of obj4 and obj6 obj3
+obj1 region obj5 obj5 language===obj0 originates from indonesiait can also be found in
+obj1 region obj4 obj4 language===the obj0 is spoken in obj5 which is where
+obj1 region obj4 obj4 language===obj0 is a popular food of obj5 and obj5
+obj1 region obj4 obj4 language===obj0 is found in obj5 and english speaking obj5
+obj10 ethnicgroup obj9 obj4 obj6===obj1 is from obj5 and obj0 home of the
+obj10 ethnicgroup obj0 obj5 language===obj2 a dish from obj5 is also found in
+obj10 ethnicgroup obj0 obj5 obj7===obj2 is a dish from obj5 and obj4 one
+obj10 ethnicgroup obj0 obj6 leadername===there is an ethnic group from obj4 a obj9
+obj10 ethnicgroup obj0 obj6 leadername===the obj4 are an ethnic group in obj4 where
+obj10 ethnicgroup obj0 obj2 obj6===obj5 is from the obj7 obj9 java one of
+obj10 ethnicgroup obj1 obj2 obj9===the obj4 are an ethnic group in obj0 where
+obj10 ethnicgroup obj1 obj5 obj7===obj2 is a dish from obj5 where english is
+obj10 ethnicgroup obj1 obj5 obj7===obj2 is found in obj0 where the obj4 are
+obj10 ethnicgroup obj0 obj6 leadername===the obj4 are an ethnic group of obj4 singapore's
+obj10 ethnicgroup obj0 obj6 leadername===obj2 is from the obj4 and obj5 regions the
+obj3 ethnicgroup obj0 obj3 obj8===obj11 is one of the languages spoken in the
+obj1 ethnicgroup obj0 obj1 obj8===obj4 and obj2 are ethnic groups from the obj4
+obj1 ethnicgroup obj0 obj1 obj8===obj40 originates from the obj4 and among the ethnic
+obj4 ethnicgroup obj2 obj4 obj9===obj11 is eaten in the obj0 where the obj7
+obj4 ethnicgroup obj1 obj4 obj9===obj5 and the obj2 are ethnic groups from the
+obj4 ethnicgroup obj1 obj4 obj9===obj51 comes from the obj0 where the igorot and
+obj3 ethnicgroup obj6 obj3 obj9===obj4 are a group in the obj0 and the
+obj3 ethnicgroup obj6 obj3 obj9===obj11 comes from the obj0 where the obj7 used
+obj3 ethnicgroup obj6 obj3 obj9===obj4 are a group in the obj0 and the
+obj3 ethnicgroup obj6 obj3 obj9===obj4 and obj1 are ethnic groups from the obj0
+obj3 ethnicgroup obj6 obj3 obj9===the obj7 spoken in the obj0 is obj0 obj11
+obj3 ethnicgroup obj6 obj3 obj9===the obj4 and the obj1 are ethnic groups in
+obj4 language obj0 obj11 country===in the obj4 they speak obj4 eat obj5 and
+obj5 language obj1 obj2 obj11===obj5 is a dish that is popular nationwide obj44
+obj2 city obj11 obj2 country===the obj0 in obj4 obj18 is affiliated with the
+obj2 city obj11 obj2 country===the obj0 has its obj15 in obj6 obj13 obj02
+obj1 city obj7 obj1 country===the obj0 obj4 obj9 has obj01 postgraduate students and
+obj1 city obj7 obj1 country===obj0 in obj4 obj9 has obj01 post graduate students
+obj1 city obj7 obj1 country===an affiliate of visvesvaraya technology university obj0 in obj4
+obj0 city obj6 obj0 obj7===the obj7 of the obj5 in obj4 obj5 obj10
+obj0 city obj6 obj0 obj7===the obj5 is located in obj4 obj5 obj10 the
+obj1 city obj8 obj1 obj7===the obj0 obj4 has obj01 postgraduate students is affiliated
+obj1 city obj8 obj1 obj7===obj0 in obj4 was obj7 in obj9 and has
+obj1 city obj8 obj1 obj7===an affiliate of obj0 obj0 in obj4 was obj7
+obj1 city obj8 obj1 obj6===the obj0 established 2000 of obj4 obj7 is affiliated
+obj1 city obj8 obj1 obj6===obj0 is in obj4 which is in the obj9
+obj1 city obj8 obj1 obj6===obj0 was obj7 in obj00 in obj4 obj7 and
+obj1 city obj8 obj6 has to===the obj0 in obj4 obj5 is located east of
+obj6 ethnicgroup obj2 obj6 leadername===the obj0 is located in obj0 romania's ethic group
+obj0 city obj8 obj2 country===the obj5 is located in obj9 and it has
+obj0 city obj8 obj2 country===the obj5 in obj9 which has obj11 postgraduate students
+obj0 city obj8 obj2 country===the obj5 in obj9 has obj11 post graduate students and
+obj0 city obj9 obj2 obj8===the obj5 in obj7 is affiliated with the obj0
+obj0 city obj9 obj2 obj8===the obj5 is located in karnatka it is affiliated
+obj5 ethnicgroup obj2 obj0 language===the obj3 is spoken in obj6 but obj5 is
+obj5 ethnicgroup obj2 obj0 obj10===obj5 is from the obj5 where one ethnic group
+obj5 ethnicgroup obj0 obj1 obj10===the obj4 is home to an ethnic group obj4
+obj5 ethnicgroup obj0 obj1 language===the obj4 are an ethnic group in the obj4
+obj5 ethnicgroup obj0 obj1 language===obj5 originates from the obj4 and is published in
+obj4 ethnicgroup obj0 obj4 leadername===obj1 was written in english and published in the
+obj3 ethnicgroup obj0 obj3 leadername===obj1 was published in the obj4 where english is
+obj3 ethnicgroup obj0 obj3 leadername===obj1 was published in the obj4 where the obj10
+obj5 ethnicgroup obj4 obj0 obj10===obj5 is from the obj5 where the obj4 are
+obj5 ethnicgroup obj4 obj0 obj10===obj5 is from the obj5 and is written in
+obj5 ethnicgroup obj4 obj0 obj10===obj5 originates from the obj5 where one of the
+obj3 language obj1 obj3 leadername===obj0 is from the obj0 where obj7 is president
+united states leadername obj7 obj2 language===obj5 is from the us and is written in
+obj0 cityserved obj7 obj7 country===obj0 serves obj4 in the parana state which is
+obj1 runwaylength obj11 obj1 location===obj0 has a runway name of obj02 which has
+obj3 operatingorganisation obj1 obj3 location===obj0 in obj44 is operated by the obj4 the
+obj3 operatingorganisation obj1 obj3 location===obj0 in obj44 is operated by the obj4 and
+obj3 operatingorganisation obj1 obj3 location===the obj4 operates obj0 in obj44 the airport has
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===obj0 in obj44 is operated by the obj4 and
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 which
+obj3 operatingorganisation obj1 obj3 location===the obj4 is the operating organisation for obj0 in
+obj3 operatingorganisation obj1 obj3 location===obj0 in obj44 is operated by the obj4 the
+obj11 operatingorganisation obj2 obj2 obj13===obj0 is operated by the obj4 who were involved
+obj12 operatingorganisation obj2 obj2 obj14===the obj4 is the operating organisation for al asad
+obj12 operatingorganisation obj2 obj2 obj14===the obj4 is the operating organisation for al asad
+obj11 operatingorganisation obj2 obj2 obj13===obj0 is operated by the obj4 who were involved
+obj0 operatingorganisation obj3 obj0 location===obj5 which serves the city of obj14 is located
+obj0 operatingorganisation obj3 obj0 location===obj7 is the leader of obj10 where obj5 is
+obj0 operatingorganisation obj3 obj0 location===the obj4 governs the obj5 serving the city of
+obj0 operatingorganisation obj3 obj13 country===obj0 which serves the city of obj5 in obj9
+obj0 operatingorganisation obj3 obj13 country===the obj4 governs the obj0 which serves the city
+obj0 operatingorganisation obj3 obj13 country===the obj4 is the operating organisation of the obj0
+obj0 operatingorganisation obj3 obj13 country===the obj4 is the operating organisation of the obj0
+obj0 operatingorganisation obj3 obj13 country===the obj4 is the operating organisation of the obj0
+obj0 operatingorganisation obj3 obj10 leadername===the obj4 governs the obj0 in lahorepunjab obj5 obj7
+obj0 operatingorganisation obj3 obj10 leadername===obj0 is located in obj5 and is operated by
+obj0 operatingorganisation obj3 obj10 leadername===under the control of the obj4 is the obj0
+obj0 operatingorganisation obj3 obj10 leadername===obj6 is a leader of obj5 where obj0 is
+obj0 operatingorganisation obj3 obj10 leadername===obj6 is the leader of obj5 where obj0 serves
+obj0 operatingorganisation obj2 obj9 leadername===obj6 is the leader of pakistanwhere the city of
+obj0 operatingorganisation obj2 obj9 leadername===the obj4 is the operating organisation of the obj0
+obj0 operatingorganisation obj3 obj10 leadername===obj5 is the leader of obj5 where the obj0
+obj0 operatingorganisation obj3 obj10 leadername===obj5 is the leader of obj5 where obj0 is
+obj0 operatingorganisation obj3 obj10 leadername===the obj4 governs the obj0 which serves the city
+obj0 operatingorganisation obj3 obj10 leadername===obj5 is the leader of obj5 where the city
+obj0 operatingorganisation obj3 obj10 leadername===obj0 is located in lahorepunjab obj5 and is operated
+obj0 operatingorganisation obj3 obj10 leadername===obj0 is located in punjabpakistan and serves the city
+obj0 operatingorganisation obj2 obj2 location===the obj4 located in the obj4 governs the obj0
+obj0 operatingorganisation obj2 obj2 location===the obj4 is in the obj4 and operate obj0
+obj0 operatingorganisation obj2 obj2 location===obj0 serves the city of obj13 in obj9 it
+obj1 operatingorganisation obj6 obj1 location===obj4 operate obj0 which is located at obj04 metres
+obj1 operatingorganisation obj6 obj1 location===obj0 located in obj00 is operated by obj4 it
+obj1 operatingorganisation obj6 obj1 obj11===operated by obj4 obj00 is the obj01 of obj0
+obj1 operatingorganisation obj6 obj1 location===obj0 runway obj02 is obj03 long and obj04 metres
+obj1 operatingorganisation obj6 obj1 location===obj0 located in obj00 is operated by obj4 the
+obj1 operatingorganisation obj6 obj1 location===the operating organization for obj0 is called obj4 the
+obj1 operatingorganisation obj6 obj1 location===obj4 operated obj0 which is located obj04 metres above
+obj1 operatingorganisation obj6 obj1 location===obj4 operate obj0 in obj00 which is located obj04
+obj1 operatingorganisation obj6 obj1 location===obj0 in obj00 is operated by obj4 it is
+obj1 operatingorganisation obj6 obj1 location===the operating organization for obj0 in obj00 is called
+obj1 operatingorganisation obj6 obj1 location===obj0 in obj00 is operated by obj4 it's runway
+obj1 operatingorganisation obj6 obj1 location===obj4 operate obj0 located at obj04 metres above sea
+obj1 operatingorganisation obj6 obj1 location===obj4 are the operating organisation for obj0 located obj04
+obj1 operatingorganisation obj6 obj1 location===obj0 is located obj00 and is operated by obj4
+obj0 operatingorganisation obj2 obj2 obj10===the operating organization for obj0 is called obj4 whose
+obj0 operatingorganisation obj2 obj2 obj10===the operating organization for obj0 is called obj4 the
+obj1 operatingorganisation obj3 obj3 obj10===the headquarters of obj4 are in obj03 obj9 obj4
+obj1 operatingorganisation obj3 obj3 obj10===obj0 is operated by obj4 and has a 900
+obj1 operatingorganisation obj3 obj3 obj10===obj0 runway length 900 metres is operated by obj4
+obj0 cityserved obj4 obj4 country===obj0 serves the city of obj5 in the usa
+obj2 operatingorganisation obj0 obj0 obj11===the obj7 of obj4 in obj8 controls the obj4
+obj2 operatingorganisation obj0 obj0 obj11===the obj8 is the headquarters of the obj4 who
+obj2 operatingorganisation obj0 obj0 obj11===obj4 is in egg harbor township which is a
+obj2 operatingorganisation obj0 obj0 obj10===with headquarters in obj13 the obj4 operates obj4 the
+obj2 operatingorganisation obj0 obj0 obj10===the obj4 has its headquarters in obj13 and operates
+obj0 language obj5 obj7 country===obj5 is located in the obj0 his leader is
+obj4 ethnicgroup obj2 obj4 obj14===the obj0 is lead by a president who was
+obj4 ethnicgroup obj2 obj4 language===obj1 is located in the obj0 a country where
+obj2 region obj14 obj2 country===italian obj0 of obj4 contains obj9 tomatoes guanciale and cheese
+obj3 region obj10 obj3 country===obj0 is a dish popular in both obj4 and
+obj3 region obj10 obj3 country===obj0 is a dish from obj4 and obj18 it
+obj3 obj15 obj10 obj3 country===the obj2 dish obj0 is from the obj2 of
+obj3 region obj10 obj3 obj8===obj0 is a malaysian dish including the main ingredients
+obj3 obj15 obj10 obj3 obj8===obj0 is a obj2 dish from obj17 obj4 the
+obj3 obj15 obj10 obj3 obj8===obj0 whose main ingredients are squeezed obj20 smashed obj2
+obj3 region obj9 obj3 country===obj4 dish obj0 is also popular in obj18 made
+obj3 region obj10 obj3 obj8===obj0 is a dish known in obj4 and obj9
+obj3 region obj2 obj2 leadername===obj1 is the leader of the obj4 in county
+obj3 region obj2 obj2 leadername===obj1 is the leader of obj4 in the countyof
+obj3 region obj2 obj2 leadername===obj8 which includes the obj11 obj7 is a variant
+obj3 region obj2 obj2 leadername===the obj8 includes obj7 the variant is obj0 originating
+obj4 region obj3 obj3 leadername===obj1 is the leader of the county of obj12
+obj4 region obj3 obj3 leadername===obj0 variant of the tart includes obj2 and is
+obj2 region obj1 obj1 leadername===obj0 is the leader of obj4 which is part
+obj2 region obj1 obj1 leadername===obj6 are used in bakewell tarts a variety of
+obj2 region obj1 obj1 leadername===obj0 or the variation obj7 with ingredients such as
+obj2 region obj7 obj2 obj13===although found in indonesia obj0 is found in obj15
+obj2 region obj7 obj2 country===obj0 is a dish found in obj0 obj1 is
+obj2 region obj7 obj2 obj13===obj12 obj15 obj4 are both leaders in obj4 a
+obj1 region obj6 obj6 leadername===obj02 is the leader of obj4 and obj3 is
+obj1 region obj6 obj6 leadername===within obj4 both obj3 and obj02 are leaders obj0
+obj13 ethnicgroup obj12 obj1 obj11===the obj4 is an ethnic group in obj0 obj5
+obj13 ethnicgroup obj0 obj7 obj10===the obj4 are an ethnic group from obj4 where
+obj13 ethnicgroup obj0 obj7 leadername===obj2 leads obj5 where obj1 is spoken and where
+obj13 ethnicgroup obj0 obj7 leadername===the obj4 are an ethnic group in obj4 the
+obj13 ethnicgroup obj0 obj7 leadername===obj3 is a dish from the obj12 of obj4
+obj19 ethnicgroup obj2 obj4 obj9===the obj5 are an ethnic group of obj0 where
+obj13 ethnicgroup obj1 obj7 leadername===obj0 is spoken in obj5 and the leader is
+obj13 ethnicgroup obj1 obj7 leadername===obj3 is a dish from the obj42 of obj5
+obj2 ethnicgroup obj1 obj2 language===obj43 is eaten in the obj0 where obj0 and
+obj2 ethnicgroup obj1 obj2 language===obj4 and obj4 are ethnic groups from the obj0
+obj3 ethnicgroup obj2 obj3 obj11===obj13 comes from the obj0 a obj12 where the
+obj4 ethnicgroup obj1 obj4 language===in the obj0 where obj53 is eaten they speak
+obj4 ethnicgroup obj1 obj4 obj10===ethnic groups in the obj0 include the obj2 and
+obj4 ethnicgroup obj1 obj4 obj10===obj5 and obj2 are ethnic groups from the obj0
+obj12 language obj2 obj3 obj10===the leaders of obj7 in obj0 are the obj0
+obj7 obj16 obj4 obj7 obj13===azerbaijan's obj2 is obj19 prime minister and his name
+obj7 obj16 obj4 obj7 obj13===obj4 is obj19 prime minister obj19 obj2 obj20 obj0
+obj2 city obj13 obj2 country===the obj15 institute of technology's obj17 is in obj8
+obj1 city obj8 obj1 obj9===the obj0 is in obj4 obj7 obj02 obj03 the
+obj1 city obj9 obj1 obj10===the obj00 of the obj0 located in obj4 obj02
+obj2 city obj13 obj2 obj11===the obj15 institute of technology's obj17 in obj7 obj15
+obj1 city obj9 obj1 obj8===the obj0 in obj4 obj01 was obj7 in obj02
+obj1 city obj9 obj1 obj8===the obj0 which was obj7 in obj02 is located
+obj1 city obj9 obj1 obj7===the obj0 in obj4 obj8 obj02 is affiliated with
+obj9 ethnicgroup obj1 obj4 country===the obj0 is located in obj5 obj0 romania's obj8
+obj9 ethnicgroup obj1 obj4 obj12===the obj0 is located in the romanian obj54 of
+obj9 ethnicgroup obj1 obj4 obj12===the leader of obj0 is obj2 the obj8 of
+obj7 ethnicgroup obj2 obj7 leadername===obj0 is in obj0 which has obj6 as its
+obj8 ethnicgroup obj2 obj8 leadername===the obj0 is located in obj0 romania's obj10 is
+obj8 ethnicgroup obj2 obj8 leadername===the romanian obj10 city is obj7 and the obj9
+obj3 language obj2 obj5 obj14===obj10 is a leader in the obj0 where the
+obj3 language obj1 obj3 leadername===obj0 publishes the aids journal in the obj0 the
+united states ethnicgroup obj2 obj0 language===obj5 is written in english which is spoken in
+obj6 ethnicgroup obj0 obj1 obj12===obj5 is written in english a obj52 spoken in
+obj6 ethnicgroup obj0 obj1 language===obj5 is written in english as spoken in obj8
+obj5 ethnicgroup obj1 obj5 language===english is spoken in obj7 and the obj0 obj4
+obj5 ethnicgroup obj1 obj5 language===english is spoken in obj7 and the obj0 obj0
+obj5 ethnicgroup obj2 obj5 leadername===obj0 originates from the obj0 and is written in
+obj5 ethnicgroup obj2 obj5 leadername===obj0 is written in english as spoken in obj6
+obj5 ethnicgroup obj0 obj5 leadername===a wizard of wars originates from the obj4 where
+obj5 ethnicgroup obj0 obj5 leadername===obj1 is written in english which is also a
+obj4 ethnicgroup obj0 obj4 leadername===obj1 originates from the obj5 where english language of
+obj4 ethnicgroup obj3 obj4 obj13===obj0 is from the obj0 where obj5 are an
+obj4 ethnicgroup obj3 obj4 language===obj0 is a book from the obj0 the obj14
+obj5 ethnicgroup obj4 obj5 leadername===the obj2 is spoken in obj6 and obj0 was
+obj5 ethnicgroup obj4 obj5 leadername===obj0 is published in english the obj13 spoken in
+obj5 obj16 obj8 obj0 obj12===obj9 is the nearest city to the obj5 of
+obj4 obj16 obj7 obj0 obj13===the obj2 of the obj5 is the obj5 in
+obj1 city obj11 obj1 obj9===the obj0 is located in obj01 obj00 obj04 it
+obj1 city obj11 obj1 obj9===the obj0 in obj01 obj00 obj04 was obj7 in
+obj12 ethnicgroup obj1 obj5 ispartof===obj0 is in obj5 which is part of obj3
+obj12 ethnicgroup obj1 obj5 ispartof===obj0 is located in the obj47 of obj5 which
+obj10 ethnicgroup obj4 obj10 leadername===romania's ethnic group is the obj4 and the obj11
+obj10 ethnicgroup obj4 obj10 leadername===the obj0 latin name universitas apulensis is found in
+obj0 obj16 obj8 obj0 obj12===obj7 in obj19 the obj5 in obj15 obj4 has
+obj0 obj16 obj8 obj0 obj12===the national obj17 of obj4 is called the obj10
+obj11 ethnicgroup obj4 obj11 leadername===the obj0 is located in obj8 obj20 obj0 the
+obj11 ethnicgroup obj4 obj11 leadername===obj0 obj14 obj10 is home to the ethnic group
+obj11 ethnicgroup obj4 obj11 leadername===the obj0 is located in obj0 romania's leader is
+obj11 ethnicgroup obj4 obj11 leadername===the obj1 is obj5 and it's obj14 is in

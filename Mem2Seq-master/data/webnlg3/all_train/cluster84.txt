@@ -1,0 +1,126 @@
+obj1 ispartof taylor county texas===obj0 is part of taylor countytexas
+obj0 runwaylength 3500 0===the runway length of obj0 is 3500
+obj0 runwaylength 3500 0===the adolfo suárez madrid–barajas airport's runway length is 3500
+obj0 largestcity andrews texas===the largest city in obj0 is andrews
+obj2 obj1 german obj1===german is the obj2 spoken in obj0
+obj2 obj1 german obj1===german is the obj2 of obj0
+obj2 obj1 german obj1===german is a obj2 spoken in obj0
+obj2 obj1 populous company===the obj2 of obj0 was the company populous
+obj2 obj1 populous company===the company populous were the architects who designed the obj0
+obj2 obj1 german obj1===one of the languages in obj0 is the german
+obj2 ethnicgroup chinese people in obj2===in obj0 there is an ethnic group of chinese people
+obj1 obj2 chinese obj2===chinese is one of the languages spoken in obj0
+obj1 language chinese language===some parts of obj0 speak chinese
+obj0 country italy===obj0 is a traditional italian sauce
+obj1 obj2 chinese obj2===in obj0 the spoken obj5 is chinese
+obj1 language chinese language===chinese is spoken in obj0
+obj1 obj2 chinese obj2===chinese is a obj5 of obj0
+obj2 obj1 federal assembly obj2===switzerland's obj5 is formed in the federal assembly
+obj2 obj1 federal assembly obj2===switzerland's obj5 is known as the federal assembly
+obj1 publisher harcourt publisher===obj0 was published by harcourt
+obj1 obj2 harcourt obj2===harcourt is the obj5 of obj0
+obj1 publisher harcourt publisher===obj0 is published by harcourt
+obj2 precededby castle novel===the novel obj0 was preceded by the novel castle
+obj2 precededby castle novel===obj0 was written after castle
+obj2 precededby castle novel===obj0 was preceded by the novel castle
+obj1 ethnicgroup african americans===in the obj0 one of the ethnic groups is
+obj1 obj2 harcourt obj2===obj0 was published by harcourt publishersobj6
+obj1 publisher harcourt publisher===obj0 is published by harcourt
+obj0 runwaylength 3500 0 obj0 location obj4===in obj9 the obj5 has a runway with the
+obj1 largestcity andrews texas obj0 owner obj1===obj5 is owned by obj5 where the largest city
+obj4 ispartof community of obj4 obj0 location===the obj6 is in obj6 which is part of
+obj1 ispartof harrietstown new york obj0 cityserved obj1===obj5 serves the city of obj5 which is part
+obj4 obj2 populous company obj4 location obj0===the obj9 is located at obj9 and the obj2
+obj4 obj2 populous company obj4 location obj0===populous were architects that designed the obj9 that is
+obj4 obj2 populous company obj4 location obj0===populous is the obj2 of obj9 located at obj9
+obj0 country italy obj0 obj2 obj3===obj9 is an obj7 in the traditional italian obj5
+obj0 country italy obj0 ingredient obj2===obj5 is a traditional italian sauce made with obj9
+obj2 country philippines obj2 obj1 obj5===obj0 is a philippine dish that contains the obj7 obj9
+obj3 obj4 philippines obj3 ingredient obj2===vegetables are used in obj0 which is from the
+obj5 mainingredients noodles obj10 obj7 obj3 obj4===noodles obj5 obj6 obj7 obj8 obj6 and beef are
+obj5 mainingredients noodles obj10 obj7 obj3 obj4===obj0 which originated in obj1 uses noodles obj5 obj6
+obj5 mainingredients noodles obj10 obj7 obj3 obj4===obj0 originated from the obj9 of obj1 and the
+obj2 country philippines obj2 obj1 obj5===the philippine dish of obj0 contains obj9 as an obj7
+obj2 country philippines obj2 obj1 obj5===obj9 is an obj7 of obj0 which is a
+obj2 country philippines obj2 obj1 obj5===obj0 is a dish from the phillippines whose ingredients
+obj1 publisher harcourt publisher obj1 precededby obj3===obj0 published by harcourt was preceded by obj9
+obj1 obj5 harcourt obj5 obj1===harcourt is the obj2 of obj0 which was preceded
+obj1 publisher harcourt publisher obj1 precededby obj3===obj9 preceded obj0 which was published by harcourt
+obj2 publisher harcourt publisher obj1 precededby obj2===obj0 which preceded obj5 is published by harcourt
+obj2 obj5 harcourt obj5 obj1===obj0 which was preceded by obj7 was published by
+obj2 obj5 harcourt obj5 obj1===obj0 followed by obj7 was published by harcourt publishersobj6
+obj0 runwaylength 3500 0 obj0 location===obj5 is located in obj7 and its runway called
+obj2 ispartof community of madrid adolfo suárez madrid–barajas airport location===adolfo suarez madrid barajas airport is located in obj0 part
+obj2 ispartof harrietstown new york obj0 cityserved===obj5 part of harriestown new york obj5 is served
+york ispartof harrietstown new york saranac lake new york ispartof===obj0 serves the city of saranac lake which like
+obj1 ispartof harrietstown new york obj1 ispartof===obj0 is part of harrietstown obj2 and is served
+york ispartof harrietstown new york saranac lake new york ispartof===obj0 serves the city of saranac lake which is
+texas at aust obj9 university of texas at aust obj9===obj0 was a student at university of texas austin
+obj6 obj4 populous company obj6 location===the company populous is the obj2 of obj0 which
+obj6 obj4 populous company obj6 location===the obj2 of obj0 in obj0 and completed in
+obj1 country italy obj1 obj5===obj0 are the main ingredients of the traditional italian obj0
+obj1 country italy obj1 obj6===tomatoes guanciale cheese and olive oil are the main
+obj1 country italy obj1 obj6===obj0 and obj5 are ingredients of traditional italian obj0
+obj0 obj8 historic obj7 s in the united states obj0===obj4 is the location of the obj7 which was
+obj0 city mendrisio obj0 numberofstudents===the obj5 has a staff compliment of obj7 and
+aids journal firstpublicationyear obj8 aids journal academicdiscipline===the first aids journal was published in 1987 it
+obj3 ethnicgroup african americans obj3 obj8===in the obj0 one of the ethnic groups is
+obj3 ethnicgroup african americans obj3 obj8===one of the ethnic groups of the obj0 where
+obj3 ethnicgroup african americans obj3 obj7===obj0 is from the obj0 where the obj7 is
+obj3 ethnicgroup african americans obj3 obj7===in the obj0 where english is the primary obj7
+obj2 ethnicgroup african americans obj2 leadername===obj1 was published in the obj0 where obj5 is
+obj2 ethnicgroup african americans obj2 leadername===obj5 president of the us is an african american
+obj1 runwaylength 3500 0 obj1 location===obj0 can be found in obj0 the runway named
+obj4 ispartof community of madrid obj0 location===obj5 is in obj5 madrid obj10 its is 610
+obj7 ispartof community of obj7 obj0 elevationabovethesealevel in metres===at an elevation of 610 metres above sea level
+york ispartof harrietstown new york saranac lake new york ispartof===saranac lake which is served by obj0 is part
+obj1 ispartof harrietstown new york obj1 ispartof===obj0 serves obj0 it is part of harrietstow essex
+york ispartof harrietstown new york saranac lake new york ispartof===obj0 serves the city of saranac lake which is
+texas at aust obj12 university of texas at aust obj12===obj0 was a student at the university of texas
+obj3 ethnicgroup african americans obj3 leadertitle===obj1 is located in the obj0 the leader of
+obj4 country spain obj4 main obj2===obj0 is a spanish dish found in obj5 and
+obj4 m obj35 in obj9 s obj20===the obj14 that obj0 coobj2eobj6 froobj2 iobj6 the obj6
+obj4 m obj35 in obj9 s obj20===the obj14 that obj0 coobj2eobj6 froobj2 iobj6 the obj6
+obj4 m obj35 in obj9 s obj20===obj16 obj6andwicheobj6 are popular obj4 the uk the obj2aobj4
+obj7 country philippines obj7 main obj5===obj0 originated from the obj14 of obj1 phillippines the
+obj7 country philippines obj7 main obj5===obj0 is a food found in obj1 phillipines the
+obj7 country philippines obj7 main obj5===the obj7 ingredients of obj0 which is from the
+obj7 country philippines obj7 mainingredients===obj0 a philippine dish includes noodles obj16 obj10 obj3
+obj8 country philippines obj8 main obj5===obj0 is a food found in obj1 in the
+obj0 obj11 historic obj10 s in the united states obj0===on 11 july 1907 the obj7 was obj8 by
+obj0 location athens obj2 obj8===the obj0 is the home obj9 of obj5 whose
+obj0 location athens obj2 obj8===the obj0 is the home obj9 of obj5 whose
+obj4 ethnicgroup african americans english obj9 spokenin===obj1 originates from the obj0 where african american is
+obj3 ethnicgroup african americans obj3 leadername===obj1 originates from the obj0 a obj11 where the
+obj1 runwaylength 3500 0 obj1 location===obj0 can be found in obj0 obj09 is operated
+obj0 runwaylength 3500 0 obj0 location===operated by obj11 and located in obj12 obj5 is
+obj0 runwaylength 3500 0 obj0 location===the runway length of obj5 is 3500 and has
+obj0 runwaylength 3500 0 obj0 location===obj5 is located in obj12 and operated by obj11
+obj6 ispartof community of madrid obj0 location===obj5 is located in obj5 madrid obj13 it is
+obj5 ispartof community of obj12 obj0 location===the obj6 is operated by obj11 in obj6 obj5 obj14
+obj5 ispartof community of obj11 obj0 location===obj6 is located in obj6 obj5 obj14 obj10 is
+obj10 ispartof community of obj10 adolfo suárez obj10 –barajas airport===the adolfo suárez obj0 barajas airport is found in
+texas at aust obj15 university of texas at aust obj15===obj0 was born obj5 obj14 and attended the university
+texas at aust obj15 university of texas at aust obj15===obj6 was appointed as the obj11 of the university
+obj9 obj14 28 0 metres obj9 obj6===the company populous were the architects of the obj0
+obj9 obj14 28 0 metres obj9 architect===obj0 in obj1 whose obj2 is 28 metres was
+obj9 obj14 28 0 metres obj9 location===obj8 were the obj5 of the obj0 at obj1
+obj9 obj14 28 0 metres obj9 location===the obj0 at obj1 was designed by architects obj8
+obj9 obj14 28 0 metres obj9 location===obj0 is located at obj1 obj17 hosts concerts obj17
+obj6 country spain obj6 mainingredients===obj0 a dish with spanish roots is a mix
+obj6 country indonesia obj6 obj5===obj0 with ingredients such as obj4 vegetables and minced
+obj0 location athens obj2 manager===the obj0 is the home obj11 of obj5 who
+obj6 ethnicgroup african americans obj0 obj12===obj5 was originally published in english language of great
+obj5 ethnicgroup african americans english language spokenin===obj1 is a book from the obj0 the obj14
+obj5 ethnicgroup african americans obj5 language===obj0 comes from the obj0 the obj14 of the
+obj4 ethnicgroup african americans obj4 obj13===a fortress of grey is from the obj0 where
+obj4 ethnicgroup african americans obj4 obj13===obj0 is from the obj0 where one of the
+obj6 ethnicgroup african americans obj6 leadertitle===obj2 was published in english language of great britain
+texas at aust obj18 university of texas at aust obj18===obj0 was born obj5 obj17 and attended the university
+texas at aust obj18 university of texas at aust obj18===american obj0 attended the university of texas obj5 austin
+texas at aust obj18 university of texas at aust obj18===obj0 now obj14 was born obj5 obj17 and became
+texas at aust obj18 university of texas at aust obj18===obj0 was a obj10 who was a student at
+texas at aust obj18 university of texas at aust obj18===obj0 attended ut at austin ut at austin is
+texas at aust obj18 university of texas at aust obj18===obj0 was a student of the university of texas
+texas at aust obj18 university of texas at aust obj18===the university of texas austin obj5 obj14 collin county
+texas at aust obj18 university of texas at aust obj18===obj0 born obj5 obj14 which is obj5 obj5 graduated

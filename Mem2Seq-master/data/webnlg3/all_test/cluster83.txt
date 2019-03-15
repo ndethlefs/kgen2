@@ -1,0 +1,11 @@
+obj2 leadertitle obj0 albuquerque new mexico country obj2===albuquerque is in new mexico in the obj2 where
+obj10 leadertitle obj3 atatürk monument i̇zmir designer===obj5 designed the ataturk monument izmir which was inaugurated
+obj5 ethnicgroup obj4 albuquerque new mexico obj11 title===albuquerquenew mexico is located in the obj5 and obj4
+obj5 ethnicgroup obj4 albuquerque new mexico obj11 title===albuquerque is in new mexico in the obj5 where
+obj2 d obj18 te obj17 retirement obj12===obj2 obj18 us national born in obj0 retired in
+obj1 location obj5 andrew white musician recordlabel obj1===andrew white records under label obj1 who are based
+obj1 location obj5 andrew white musician recordlabel obj1===andrew white is a musician signed to the record
+obj1 location obj5 andrew white musician recordlabel obj1===andrew white is a musician signed to obj1 which
+obj2 assembly united kingdom united kingdom obj10===obj2 was assembled in the ukwhose obj10 is londonit
+obj2 assembly united kingdom united kingdom obj10===obj2 was made by obj6 in the uk whose
+obj2 assembly united kingdom united kingdom obj10===the obj2 is assembled in the uk which has

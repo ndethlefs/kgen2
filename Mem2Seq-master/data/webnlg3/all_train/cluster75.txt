@@ -1,0 +1,387 @@
+obj1 operatingorganisation aktieselskab===obj0 is operated by the aktieselkab organisation
+obj0 runwaylength 1121 0===the runway length of obj0 is 1121
+obj0 runwaylength 2195 0===the runway length of obj0 is 2195
+obj0 runwaylength 1219 0===the runway length of obj0 is 1219
+obj0 runwaylength 4100 0===the runway length of obj0 is 4100
+obj0 runwaylength 4349 0===the runway length of obj0 is 4349
+obj0 runwaylength 4349 0===obj0 has a runway that is 4349 metres long
+obj0 runwaylength 1800 0===the runway at obj0 is 1800 meters long
+obj1 runwaylength 1818 0===1818 is the length of the runway of obj0
+obj0 runwaylength 4019 0===the runway length of obj0 is 4019
+obj0 runwaylength 3090 0===the runway length of obj0 is 3090 meters
+obj0 runwaylength 3990 0===the runway length of obj0 is 3990
+obj0 runwaylength 877 0===the runway length of obj0 is 877
+obj0 runwaylength 3310 0===the runway length of obj0 is 3310
+obj1 location maple ridge township alpena county michigan===obj0 is found in maple ridge township alpena county
+obj0 runwaylength 2744 0===the obj0 is 2744 meters long
+obj0 runwaylength 3300 0===the amsterdam airport schiphol's runway length is 3300
+obj0 runwaylength 1773 0===the length of the runway at obj0 is 1773 metres
+obj0 runwaylength 8 0===obj0 runway is 8 meters long
+obj0 runwaylength 929 0===the andrews county airport's runway length is 929
+obj0 runwaylength 3800 0===the runway length of obj0 is 3800
+obj0 runwaylength 3800 0===the runway at obj0 is 3800 long
+obj0 runwaylength 4000 0===4000ft is the runway length at obj0
+obj0 runwaylength 4000 0===the obj0 is 4000 length
+obj0 runwaylength 1510 0===the runway at obj0 is 1510 meters
+obj0 runwaylength 1982 0===the runway length of obj0 is 1982
+obj0 runwaylength 1982 0===the appleton international airport's runway length is 1982
+obj0 runwaylength 900 0===ashgabat international airport's runway is 900 meters long
+obj0 runwaylength 3800 0===the runway length at obj0 is 3800
+obj0 runwaylength 1873 0===the runway length of obj0 is 1873
+obj0 runwaylength 1873 0===the runway length of obj0 is 1873
+obj2 ispartof paraná state===obj0 is part of the state of paraná
+obj2 ispartof paraná state===obj0 is part of parana state
+obj2 obj1 danish obj1===danish is the obj2 of obj0
+obj2 obj1 danish obj1===the obj2 of obj0 is danish
+obj2 obj1 faroese obj1===denmark's obj2 is faroese
+obj2 obj1 greenlandic obj1===greenlandic is the obj2 spoken in obj0
+obj2 obj1 greenlandic obj1===one of the languages of obj0 is greenlandic
+obj1 ispartof menasha town wisconsin===obj0 is part of menasha wisconsin
+obj2 location brasília===obj0 is in brasilia
+obj2 location brasília===obj0 is located in brasilia
+obj0 ispartof paraná state===obj0 is part of the state of paraná
+obj1 part collin county texas===obj0 is located in the collin county in texas
+obj1 ispartof essex county new jersey===obj0 is situated in the essex county
+obj0 floorarea 39500 0 square metres===obj0 has a floor area of 395990 square metres
+obj1 architecturalstyle georgian architecture===the architectural style of the obj0 is georgian
+obj1 architecturalstyle georgian architecture===the architectural style of the obj0 is georgian
+obj1 architecturalstyle romanesque revival architecture===the obj0 have the romanesque revival style of architecture
+obj1 architecturalstyle romanesque revival architecture===the obj0 architectural style is that of romanesque revival
+obj2 obj1 faroese obj1===the obj2 faroese is spoken in obj0
+obj2 obj1 greenlandic obj1===greenlandic is one of the languages of obj0
+obj1 obj2 springfield obj1===the obj2 of obj0 is springfield
+obj2 ethnicgroup filipinos in obj2===one of the ethnic groups in obj0 is the filipinos
+obj2 ethnicgroup koreans in obj2===obj0 has an ethnic group of koreans
+obj0 location bethesda maryland===the obj0 is located in bethseda maryland
+obj0 language irish language===in the obj0 they speak irish
+obj0 obj2 irish obj2===irish is one of the official obj5 in the obj0
+obj0 obj2 irish obj2===irish is the official obj5 of the obj0
+obj1 ethnicgroup asian americans===there is an ethnic group of asians in the obj0
+obj1 elevationabovethesealevel 524 0===obj0 is 524m above sea level
+obj1 ispartof bernalillo county new mexico===obj0 is part of bernalillo county
+obj1 elevationabovethesealevel 265 0===obj0 is 265m above sea level
+obj1 ispartof monroe township madison county indiana===obj0 is part of monroe township in madison county
+obj1 elevationabovethesealevel 1099 0===obj0 is 1099 metres above sea level
+obj1 populationdensity 746 0 inhabitants obj6 obj4 kilometre===obj0 has a population density of 746 inhabitants obj6
+obj1 populationdensity 746 0 inhabitants obj6 obj4 kilometre===746 people obj6 obj7 kilometre inhabit obj0
+anaheim california utcoffset obj2===anaheim in california has a utc offset of obj4
+anaheim california populationtotal obj2===anaheim ca has obj4 people inhabiting it
+obj1 ispartof union township madison county indiana===obj0 is part of the union township madison county
+obj1 ispartof steuben county indiana===obj0 is part of steuben county
+obj1 ispartof steuben county indiana===obj0 is in steuben county
+obj1 ispartof washtenaw county michigan===obj0 is part of washtenaw county
+obj2 ispartof dekalb county georgia===most of obj0 is part of dekalb county in georgia
+obj2 ispartof dekalb county georgia===obj0 is part of dekalb county in georgia
+obj2 ispartof fulton county georgia===obj0 is a part of fulton county in georgia
+obj2 ispartof fulton county georgia===obj0 is part of fulton county in georgia
+obj3 populationdensity 1299 0 inhabitants obj6 obj4 kilometre===obj0 has a population density of 1299 inhabitants obj6
+obj1 leadertitle clerk municipal official===the municipal official titled the clerk leads obj0
+obj1 leadertitle mayors of obj1===mayor is the title of the leader in obj0
+obj1 leadertitle mayors of obj1===the municipal leader of obj0 is known as the mayor
+obj1 elevationabovethesealevel 214 0===obj0 has an elevation above sea level of 214
+obj1 ispartof king county washington===king county is the location of obj0
+obj1 ispartof williamson county texas===obj0 is part of williamson county
+obj0 largestcity corvallis oregon===corvallis is the largest city in obj0
+obj0 largestcity corvallis oregon===the largest city in obj0 is corvallis
+obj1 obj2 vietnamese obj2===vietnamese is a obj5 spoken in obj0
+obj1 obj2 vietnamese obj2===one of the languages spoken in obj0 is vietnamese
+obj1 obj2 vietnamese obj2===vietnamese is one of the languages being spoken in obj0
+california state senate ispartof obj0===the senate in california is part of the obj4
+obj1 obj2 lansing obj1===lansing is the obj2 of obj0
+obj1 obj2 lansing obj1===the obj2 of obj0 is lansing
+obj2 largestcity newark obj2===newark is the largest city of obj0
+obj2 largestcity newark obj2===the largest city in obj0 is newark
+obj1 obj2 navajo obj2===navajo is a obj5 in obj0
+obj2 obj1 salem obj2===salem is the obj5 of obj0
+obj1 obj2 olympia washington===olympia is the obj2 of obj0
+obj0 largestcity round rock texas===round rock is the largest city in obj0
+obj0 largestcity round rock texas===the largest city of obj0 is round rock
+obj2 mainingredients bread and bacon with a===the mobj8in ingredients of obj8 obj0 obj8re obj4 obj5
+obj2 mainingredients bread and bacon with a===the mobj8in ingredients in obj8 obj0 obj8re obj4 obj5
+obj1 dishvariation strawberry===strawberries can be added to obj0
+obj1 country singapore and indonesia===obj0 is found in the countries of obj6 obj5 obj4
+obj2 leadername gérard larcher===gerard larcher is the leader of obj0
+obj2 ethnicgroup ilocano people===the llocano people are an ethnic group from the obj0
+obj2 ethnicgroup moro people===people of moro ethnicity are from the obj0
+a s roma obj2 obj0===asroma's obj2 is in obj4
+obj0 location shuvalan===the obj0 is located in shuvulan
+obj0 obj2 ''alvinegro===alvinegro is the obj2 of obj0
+obj0 obj2 ''alvinegro===alvinegro is the obj2 for obj0
+obj2 obj1 greek obj1===greek is the obj2 of obj0
+obj2 language greek language===greek is spoken in obj0
+obj2 obj1 greek obj1===the obj2 spoken in obj0 is greek
+obj1 obj2 juventus f c===obj0 obj2 is juventus
+obj2 leadertitle monarchy of obj2===obj0 is led by a monarch
+obj2 leadertitle monarchy of obj2===the monarch of obj0 is the country's leader
+obj2 ethnicgroup germans of obj2===obj0 has many ethnic groups one of which are germans
+obj0 mediatype hardcover===obj0 was published in hardback
+obj0 mediatype hardcover===obj0 was published in hardback
+obj0 obj2 australians===obj0 is from the obj2 of australia
+obj2 country australians===obj0 is an australian novel
+obj1 operatingorganisation aktieselskab obj1 runwayname obj5===obj0 is operated by the aktieselkab organisation and the
+obj1 runwaylength 4349 0 obj1 location obj0===obj9 located at madrid paracuellos de jarama san sebastián
+obj1 runwaylength 4349 0 obj1 location obj0===found in obj9 obj9 has a runway that is
+base runwaylength 3684 0 al taqaddum air base cityserved obj4===the al taqaddum air base serves obj9 the runway
+obj1 runwaylength 3990 0 obj1 location obj0===the obj9 located in obj9 has a runway length
+obj0 runwaylength 3310 0 obj0 location obj2===obj5 is located in punjab pakistan its runway length
+obj0 runwaylength 4000 0 obj0 cityserved obj4===obj5 serves obj9 and it is 4000 in length
+obj0 runwaylength 4000 0 obj0 cityserved obj4===obj5 serves obj9 and its runway is 4000 long
+obj1 runwaylength 600 0 obj1 operatingorganisation obj0===the obj9 is operated by the flemish department of
+obj0 runwaylength 2989 0 obj0 obj4 obj3===obj9 is the obj7 of obj5 and has a
+obj0 runwaylength 2989 0 obj0 location obj3===obj5 is located in obj9 and has a runway
+obj0 runwaylength 2989 0 obj0 location obj3===obj5 in obj9 has a runway length of 2989
+obj1 location spata obj1 elevationabovethesealevel in metres obj5===obj0 which is obj9 metres above sea level is
+obj1 runwaylength 1873 0 obj1 operatingorganisation obj0===the obj9 is operated by the obj9 its runway
+obj1 runwaylength 1873 0 obj1 operatingorganisation obj0===the obj9 is the operating organisation of obj9 where
+obj2 obj5 flemish region obj0 operatingorganisation obj2===obj5 is operated by the obj5 which has full obj9
+obj2 ispartof essex county new york obj0 cityserved obj2===obj5 is part of essex county ny and it
+obj1 obj11 lalbhai obj6 obj10 obj14 obj13===the obj01 of obj0 is obj4 obj5 obj00 obj7
+obj1 location asser obj9 obj5 obj10 obj8===the obj0 are located in obj4 obj6 obj6 on
+obj1 location bethesda maryland obj0 obj5 obj1===the obj7 of the obj7 is the obj7 hotel
+obj0 country singapore obj0 obj3 obj2===obj9 is an obj7 of obj5 which is a
+obj0 ethnicgroup zamboangans obj5 country obj0===obj5 is from the obj9 which includes the zamboangan people
+obj1 language philippine english obj3 country obj1===obj5 is a dish from the obj0 where english
+obj1 language philippine spanish obj5 country obj1===obj5 comes from the obj0 which is where phillippine
+estadio jorge calero suárez a d isidro metapán numberofmembers obj5===ad isidro metapan have obj9 members and play at
+estadio jorge calero suárez a d isidro metapán numberofmembers obj5===ad isidro metapan play at the estadio jorge calero
+obj0 obj4 ''alvinegro obj0 numberofmembers obj5===alvinegro is the obj2 of obj9 which has obj9 members
+obj3 ethnicgroup germans of obj3 obj0 country===obj6 is located in obj6 and is primarily german
+obj0 mediatype hardcover obj0 author obj2===obj5 which was written by obj9 was published in hardback
+obj4 country australians obj0 precededby obj4===obj5 was preceded by obj5 both australian novels
+obj0 obj2 78771100 obj0 mediatype obj5===alcatraz versus the evil librarians is in obj9 and
+obj1 runwaylength 2776 0 obj1 operatingorganisation===obj0 which is operated by the aktieselkab organisation has
+obj1 runwaylength 2776 0 obj1 operatingorganisation===obj0 is operated by aktieselskab its runway name is
+obj2 runwaylength 2777 0 obj2 operatingorganisation===obj0 is operated by aarhus lufthaven a s its runway
+obj2 runwaylength 2777 0 obj2 operatingorganisation===the obj0 is run by the obj1 organization the
+obj0 runwaylength 2215 0 obj0 location===obj5 is located in obj3 with runway obj8 at
+obj1 runwaylength 4019 0 obj1 cityserved===obj0 located 84 metres above sea level serves the
+obj1 runwaylength 4019 0 obj1 cityserved===obj0 serves the city of obj6 the runway there
+obj1 runwaylength 497 0 obj1 1st runway surfacetype===the obj0 serves obj6 with an obj7 surfaced runway
+obj1 runwaylength 733 0 obj1 1st runway surfacetype===obj0 serves laderney its runway has length of 7220
+obj1 runwaylength 877 0 obj1 1st runway surfacetype===obj0 serves the city of obj6 and has an
+obj1 runwaylength 877 0 obj1 1st runway surfacetype===obj6 is served by obj0 where the 1st runway
+obj0 runwaylength 3310 0 obj0 location===located in obj3 obj5 has a runway length of
+obj2 location maple ridge township alpena county michigan obj2 runwaylength===obj0 located in maple ridge township michigan has a
+obj1 runwaylength 4000 0 obj1 cityserved===the city of obj6 is served by obj0 this
+obj1 runwaylength 4000 0 obj1 cityserved===obj0 located obj8 metres above sea level has a
+obj0 cityserved antwerp obj4 officiallanguage===obj0 is located in obj5 which has french as
+obj2 ispartof kimberly wisconsin obj0 cityserved===obj5 is located in obj5 which is a part
+obj2 ispartof kimberly wisconsin appleton international airport cityserved===appletone international airport city serves obj0 which is part
+obj1 runwaylength 1982 0 obj1 elevationabovethesealevel in metres===the operators of obj0 which has a runway length
+obj1 runwaylength 1982 0 obj1 elevationabovethesealevel in metres===obj0 which is obj8 metres above sea level and
+obj0 runwaylength 1873 0 obj0 location===obj5 is in obj2 the usa its runway length
+obj0 runwaylength 1873 0 obj0 location===obj5 is located at obj2 obj4 and has a
+obj1 runwaylength 1873 0 obj1 operatingorganisation===the obj8 runway at obj0 operated by the obj0
+obj1 runwaylength 1873 0 obj1 operatingorganisation===the obj0 is the operating organization of obj0 the
+obj1 runwaylength 1873 0 obj1 operatingorganisation===the obj0 is 1873 m and is operated by
+obj1 runwaylength 3048 0 obj1 operatingorganisation===the obj0 operate obj0 this airport has a runway
+obj5 location brasília obj1 elevationabovethesealevel in metres===obj5 is located 911 metres above sea level and
+obj5 location brasília obj1 elevationabovethesealevel in metres===at obj8 metres above sea level obj5 is operated
+obj7 obj5 kurdish obj5 s obj0===obj7 obj6erveobj6 the city of obj3 in the obj6
+obj1 obj10 110 obj9 dollars obj1===obj4 obj5 dollars is the obj00 to build obj0
+obj3 architect james obj11 obj12 obj8 obj7===obj0 owned by obj2 was designed by obj4 obj6
+obj3 obj9 75 0 obj8 dollars obj0===located in the obj6 the obj7 currently live in
+obj3 obj9 75 0 obj8 dollars obj0===the obj7 located in the obj6 is the current
+obj3 obj9 75 0 obj8 dollars obj0===the obj7 in the obj6 obj2 75 obj5 dollars
+obj1 location gujarat obj1 address===obj0 is located at obj0 which is in obj04
+obj1 location asser obj16 obj12 obj18 obj15===obj0 was built in obj03 obj08 located on obj4
+obj1 location asser obj16 obj12 and obj15===obj07 obj0 built in obj03 are located in obj4
+obj1 location asser obj16 obj12 and obj15===obj07 obj0 constructed in obj03 in obj4 obj06 obj02
+obj2 leadername conservative party uk obj1 architect===obj0 led by the conservative party was the obj3
+obj0 country colombia obj2 obj4===obj6 is one of the ingredients in the dish
+obj0 country colombia obj2 obj5===obj7 containing the obj7 chicharron comes from the obj0
+obj1 region paris obj11 obj10 obj12 obj9===obj4 is an obj5 of obj0 which can come
+obj1 region paris obj11 obj10 obj12 obj9===obj0 is from obj7 obj0 can be found in
+obj2 region paris obj11 obj10 or obj9===obj0 with obj6 as one obj5 is a dish
+obj2 region paris obj11 obj10 obj12 obj9===obj6 is an obj5 in obj0 which is claimed
+obj2 region paris obj11 obj10 or obj9===obj6 is an obj5 of obj0 which is a
+obj10 obj15 gredient obj9 obj10 obj8===containing noodles the dish obj0 is made obj2 china
+obj10 obj15 gredient obj8 obj10 region===obj0 made from obj5 is a dish found all
+obj10 obj15 gredient obj8 obj10 region===obj5 is found obj2 obj0 which is obj7 obj2
+obj10 obj15 gredient obj8 obj10 region===obj0 is a obj7 dish containing obj5 and found
+obj2 obj5 avocado obj2 country===avacado is one of the ingredients in the dish
+obj2 obj6 chicharrón obj2 obj8===obj0 is a dish from the obj0 regionone of
+obj4 dishvariation siomay obj4 ingredient===obj0 and obj7 are variations of a dish that
+obj4 obj3 chicken obj4 country===batchoy's main ingredients are obj0 the dish comes from
+obj1 region singapore obj1 ingredient===obj0 which contains obj4 is a dish made in obj0
+obj1 region singapore obj1 ingredient===obj0 a dish from obj0 contains obj4
+obj3 language philippine english obj8 country===the dish obj5 is from the obj0 where english
+obj3 language philippine english obj8 country===the ethnic group of the llocano people are from
+a c lumezzane manager obj0 obj0 obj7===obj4 has played for obj4 he now manages the
+obj0 obj5 ''alvinegro obj0 season===alvinegro is the obj2 of obj5 they have obj7
+obj0 obj6 ''alvinegro obj0 season===obj5 nickname alvinegro competed in the obj1 and their
+obj0 obj6 ''alvinegro obj0 season===obj5 whose obj2 is alvinegro has obj8 members and
+obj5 demonym italians obj5 obj2===obj0 is where italian people live obj8 is the
+obj2 city bangalore obj2 obj13===the obj0 is affiliated with obj1 it's obj7 is obj0
+obj1 city bangalore obj1 obj6===the obj7 of the obj0 is obj4 and the
+obj2 academicdiscipline hiv obj2 obj5===the obj0 is the academic discipline of obj6 and
+obj3 academicdiscipline hiv obj3 academicdiscipline===the obj0 is the academic discipline of obj6 and
+obj0 mediatype hardcover obj0 numberofpages===the harback book obj5 was written by jv jones
+obj0 mediatype hardcover obj0 numberofpages===obj5 obj4 obj7 is available in hard cover and
+obj1 country ireland obj1 publisher===obj0 the prequel to obj0 was published by obj4
+obj1 country ireland obj1 publisher===obj0 an irish book was published by obj4 and
+obj2 country ireland obj0 publisher===obj5 published by obj3 is the follow up book
+obj0 mediatype hardcover obj0 numberofpages===obj5 was written by obj4 and published in hardback
+obj1 country australians obj1 language===obj0 preceded by the book aenir is from australia
+obj1 country australians obj1 language===obj0 is the sequel to obj8 which is written
+obj1 obj7 australians obj1 language===obj0 was written in english and was published in
+obj6 country australians obj1 precededby===obj5 was preceded by australian novel obj0 which was
+obj6 country australians obj1 precededby===obj0 an australian novel is a sequel to castle
+obj3 runwaylength 2776 0 obj3 operatingorganisation===obj0 is run by obj2 and is 25 metres
+obj2 runwaylength 2777 0 obj2 elevationabovethesealevel in metres===obj0 is operated by the aktieselkab organisation its runway
+obj2 runwaylength 2777 0 obj2 elevationabovethesealevel in metres===obj0 is 25 meters above sea level with a
+obj2 runwaylength 2777 0 obj2 elevationabovethesealevel in metres===obj9 is the runway name at obj0 it is
+obj1 runwaylength 4100 0 obj1 location===obj0 which is operated by obj03 can be found
+obj0 runwaylength 4349 0 obj0 location===obj5 in obj10 has a runway length of 4349
+obj0 runwaylength 4349 0 obj0 location===obj5 operated by obj9 and located in obj10 has
+obj1 runwaylength 3684 0 obj1 cityserved===obj0 serves the city of obj9 in obj6 it
+obj1 runwaylength 4019 0 obj1 cityserved===obj0 serves the city of obj9 and is located
+obj0 location pakistan obj0 runwaylength===the city of obj10 is served by obj5 which
+obj0 location punjab obj7 obj0 cityserved===obj2 is the leader of obj5 where obj6 which
+obj0 location punjab obj7 obj0 cityserved===obj5 is led by nawaz sharifpunjab a major region
+obj2 location maple ridge township alpena county michigan obj2 runwaylength===obj0 is found in maple ridge township and serves
+obj1 runwaylength 1411 0 obj1 3rd runway surfacetype===obj0 has a 3rd runway made of obj9 and
+obj2 runwaylength 1873 0 obj2 elevationabovethesealevel in metres===atlantic city international airportis 23 metres above sea level
+obj2 runwaylength 1873 0 obj2 elevationabovethesealevel in metres===the obj0 is operated by the obj0 it is
+obj2 runwaylength 1873 0 obj2 elevationabovethesealevel in metres===operated by the obj0 obj0 is 23 metres above
+obj2 runwaylength 1873 0 obj2 elevationabovethesealevel in metres===the obj0 runway name 4 22 is run by the
+obj2 runwaylength 1873 0 obj2 elevationabovethesealevel in metres===obj0 is operated by the obj0 and is 23
+obj2 runwaylength 3048 0 obj2 elevationabovethesealevel in metres===the obj0 is operated by the obj0 obj10 is
+obj2 runwaylength 3048 0 obj2 elevationabovethesealevel in metres===obj0 is 23 metres above sea level and is
+obj2 runwaylength 3048 0 obj2 operatingorganisation===the obj0 is operated by the obj0 its runway
+obj6 leadername philippe of obj6 obj0 cityserved===obj9 in obj6 is served by obj6 philippe is
+obj6 leadername philippe of obj6 obj0 cityserved===the leader of obj6 is phillipe of obj6 obj6
+obj7 location brasília obj1 elevationabovethesealevel in metres===obj5 is obj51 metres above sea level and has
+obj7 location brasília obj1 elevationabovethesealevel in metres===obj5 is 911 metres above sea level and has
+obj7 location brasília obj1 elevationabovethesealevel in metres===obj0 located in brasilia runs the obj5 which is
+obj7 location brasília obj1 elevationabovethesealevel in metres===obj5 is operated by obj0 brasilia the airport is
+obj7 location brasília obj1 elevationabovethesealevel in metres===obj5 is located in brasilia the airport is elevated
+obj7 location brasília obj1 elevationabovethesealevel in metres===brasilia based obj0 are the operating organization for obj5
+obj10 country pakistan obj0 cityserved===obj5 serves the city of obj5 and is located
+obj10 country pakistan obj0 cityserved===obj5 is located in obj5 in obj3 whree the
+obj3 obj11 uralstyle obj1 obj3 obj11===an example of obj5 obj0 in obj6 was conceived
+obj3 obj11 uralstyle obj1 obj3 obj11===103 obj0 was designed by the obj2 obj9 who
+obj2 obj10 uralstyle obj0 obj2 location===obj5 was designed by the obj6 obj8 who was
+obj2 obj10 uralstyle obj0 obj2 location===obj5 located in colmore row is in the architectural
+obj3 location adare obj3 completiondate===designed by obj1 the obj0 in obj0 was completed
+obj1 location virginia obj1 owner===obj0 is owned by the college of william and
+obj1 location asser obj23 obj19 obj26 obj22===obj0 are located on obj4 obj5 obj09 obj7 obj8
+obj1 location asser obj23 obj19 obj26 obj22===obj24 obj0 were built obj30 obj20 obj7 are located
+obj10 ethnicgroup brazilians in obj10 obj0 location===obj6 home to many brazilians is also home to
+obj10 ethnicgroup brazilians in obj10 obj0 location===the obj6 is located in obj3 in obj4 obj6
+obj10 ethnicgroup brazilians in obj10 obj0 location===brazilians are one of the ethnic groups in obj6
+obj10 ethnicgroup filipinos in obj10 obj3 country===the obj0 is located in obj6 in akita obj0
+obj10 ethnicgroup filipinos in obj10 obj3 country===obj0 is an art museum in the city of
+obj10 ethnicgroup filipinos in obj10 obj3 country===the filipinos are one of the ethnic groups in
+obj4 ingredient almond obj4 country===obj0 is from the obj3 obj11 of obj15 and
+obj4 obj2 almond obj4 country===obj0 comes from obj3 in obj15 the main ingredients
+obj0 country colombia obj2 obj4===obj7 which belongs to the obj5 obj11 is one
+obj0 country colombia obj2 ingredient===obj5 is found in the obj0 columbia it includes
+obj3 obj17 gredient obj2 obj12 ethnicgroup===the obj5 dish obj0 is made nationwide obj5 obj6
+obj3 obj17 gredient obj2 obj12 ethnicgroup===the obj5 dish obj0 is obj11 nationwide obj5 obj6
+obj2 obj9 malaysia obj10 ethnicgroup===obj0 is a obj1 dish popular in malasia the
+obj16 obj5 noodle obj16 country===obj0 comes from obj6 and is popular in neighbouring
+obj4 ingredient avocado obj4 mainingredients===obj0 is a colombian dish that comes from the
+obj4 obj11 avocado obj4 main obj11===obj0 is a dish from the obj1 obj18 obj32
+obj4 obj11 fried egg obj4 main obj11===obj0 is a typical obj2 from the obj1 obj18
+obj4 obj11 lemon obj4 main obj11===obj0 is found in the obj1 in columbia the
+obj4 obj11 lemon obj4 main obj11===obj1 is the obj17 of columbia where obj0 comes
+obj4 obj11 lemon obj4 main obj11===obj0 is a colombian dish from the obj1 obj17
+obj3 obj11 lemon obj3 main obj11===obj0 comes from the obj7 obj02 part of the
+obj3 obj11 lemon obj3 main obj11===the obj7 ingredients of colombian dish obj0 are obj0
+obj3 obj11 lemon obj3 main obj11===the obj7 ingredients of colombian dish obj0 are obj0
+obj2 dishvariation strawberry obj2 obj7===strawberries can be added to obj0 that contain obj11
+obj2 dishvariation strawberry obj2 obj7===obj0 can include straweberries and contain obj11 obj12 of
+obj7 obj5 chicken obj7 country===obj0 is a food which comes from and is
+obj7 obj5 chicken obj7 country===obj0 originated from the obj15 of obj1 obj4 the
+obj7 obj5 chicken obj7 country===the main ingredients of obj0 are noodles obj16 obj9
+obj3 region singapore obj3 mainingredients===obj0 is a dish commonly found in obj1 obj02
+obj3 region singapore obj3 main obj8===obj0 is a dish commonly found in obj1 the
+obj10 ethnicgroup banyumasan people obj5 language===the banyumasan are an ethnic group from obj0 which
+obj3 ethnicgroup ilocano people obj3 language===obj10 is eaten in the obj0 where some people
+obj3 ethnicgroup ilocano people obj3 language===obj10 is eaten in the obj0 the obj9 include
+obj3 ethnicgroup ilocano people obj3 language===obj10 is found in obj11 speaking obj0 home to
+obj3 ethnicgroup ilocano people obj3 language===obj0 is the obj9 obj10 comes from ethnic groups
+obj3 ethnicgroup ilocano people obj3 obj8===the llocano people and the obj1 are ethnic groups
+obj1 ethnicgroup ilocano people obj1 obj8===obj00 come from the obj0 a obj9 where one
+obj4 ethnicgroup ilocano people obj4 obj9===the llocano people and the obj1 are ethnic groups
+obj4 ethnicgroup ilocano people obj4 language===obj11 is eaten in the obj0 where obj0 is
+obj4 ethnicgroup ilocano people obj4 language===the llocano people and the obj1 are ethnic groups
+obj4 obj9 philippine spanish obj11 obj10===the obj2 and the chinese filipinos are both ethnic
+a c lumezzane obj6 obj7 obj7 obj4===ac lumezzanne's obj2 is in obj7 where the obj7
+obj1 numberofmembers 1500 obj1 obj8===obj0 has the obj7 obj0 and their obj01 is
+obj1 obj9 ''alvinegro obj1 numberofmembers===agremiação sportiva arapiraquense's full name is agremiação sportiva arapiraquense
+obj1 obj9 ''alvinegro obj1 numberofmembers===the agremiação sportiva arapiraquense's full name isagremiação sportiva arapiraquense
+akron obj10 assault fullname obj0 akron obj10===akron obj1 full name akron obj12 obj11 obj15 obj1
+obj7 demonym italians obj7 obj3===obj0 leads the italian people in obj0 the obj7
+obj7 demonym italians obj7 obj3===obj1 which is located in obj0 which is lead
+obj7 obj6 juventus f c obj3 numberofmembers===obj5 of obj2 has obj11 members and plays in
+obj0 obj9 switzerland obj0 obj11===the obj3 leads the obj2 but it is obj6
+obj2 city bangalore obj2 country===the obj0 obj15 in obj18 which is affiliated with
+obj6 ethnicgroup germans of obj6 obj6 leadername===the obj0 is located in obj0 the country's leader
+obj2 academicdiscipline hiv obj2 obj7===obj0 comes under the academic discipline obj9 the journal
+obj3 academicdiscipline hiv obj3 academicdiscipline===obj0 has the obj7 of 0269 9370 its belongs to
+obj3 academicdiscipline hiv obj3 academicdiscipline===obj0 was first published in obj10 and comes under
+obj7 obj2 45644811 obj7 author===obj0 written by obj4 was produced in obj8 has
+obj0 academicdiscipline mathematics obj0 firstpublicationyear===the obj5 was first published in obj11 and is
+obj3 runwaylength 2776 0 obj3 cityserved===obj0 which serves the city of aarhus in denmark
+obj4 runwaylength 2776 0 obj4 cityserved===obj0 which is operated by obj2 serves the city
+obj4 runwaylength 2777 0 obj4 cityserved===obj0 is located in obj3 and is operated by
+obj1 runwaylength 4349 0 obj1 location===obj0 is located in obj0 at 610 metres above
+obj1 runwaylength 2215 0 obj1 elevationabovethesealevel in metres===the obj00 of obj0 is sao jose dos pinhais
+obj1 runwaylength 2215 0 obj1 elevationabovethesealevel in metres===obj0 in obj7 is 911 metres above sea level
+obj1 runwaylength 2215 0 obj1 location===obj0 is located in sao jose dos pinhais and
+obj4 runwaylength 1818 0 obj4 operatingorganisation===located in obj13 at obj11 metres above sea level
+obj4 runwaylength 1818 0 obj4 operatingorganisation===obj0 is located in obj13 and operated by the
+obj4 runwaylength 1818 0 obj4 operatingorganisation===obj0 is located in obj13 and is operated by
+obj2 runwaylength 497 0 obj2 1st runway surfacetype===obj0 which serves the city of obj10 is 88
+obj2 runwaylength 497 0 obj2 1st runway surfacetype===obj0 serves the city of obj10 and is 88
+obj2 runwaylength 1873 0 obj2 operatingorganisation===the obj0 operate obj0 which has the obj7 of
+obj2 runwaylength 3048 0 obj2 elevationabovethesealevel in metres===obj0 is operated by the obj0 obj13 is the
+obj8 leadername philippe of obj8 obj0 cityserved===obj6 serves the city of obj11 in belgiumphillipe of
+obj11 leadername philippe of obj11 obj0 cityserved===obj6 serves the city of obj13 in obj6 which
+obj11 language kurdish languages obj11 leadername===the al taqaddum air base serves the city of
+obj11 obj9 kurdish obj9 s obj11===obj0 obj6erveobj6 the city of obj7 in obj0 obj2
+obj2 location asser obj26 obj22 and obj25===obj33 obj03 obj07 obj0 were constructed at obj4 obj06
+obj12 leadertitle parliament of the united kingdom obj1 location===the government of the uk is the parliament and
+obj13 leadertitle parliament of the obj2 obj1 obj10===the native people of the obj5 are lead by
+obj5 obj4 almond obj5 country===obj0 also known as obj3 comes from the andalusian
+obj5 ingredient almond obj5 country===obj0 ajo blanco includes obj11 bread obj12 obj15 and
+obj0 country colombia obj8 obj14===obj5 is a fruit of the obj6 obj7 and
+obj5 obj20 gredient obj3 obj3 ma===the obj1 are an ethnic group from obj15 which
+obj3 region malaysia obj3 obj7===obj1 is an obj7 in obj0 which is a
+obj1 dishvariation blt obj0 leadername===obj5 a variation of the obj4 is a dish
+obj2 ethnicgroup ilocano people obj2 obj10===obj13 comes from the obj0 where obj0 and obj14
+obj3 ethnicgroup ilocano people obj3 obj11===obj0 is the obj12 where the dish obj13 comes
+obj3 ethnicgroup ilocano people obj3 obj11===obj0 is the obj12 obj13 comes from the country's
+obj4 ethnicgroup ilocano people obj4 language===obj13 is found in obj0 and obj14 speaking obj0
+obj6 ethnicgroup ilocano people obj6 officiallanguage===obj14 comes from the obj0 where obj1 and obj0
+obj0 location seminary ridge obj0 location===located in the obj9 of gettysburg which is in
+obj9 demonym italians obj9 obj5===as gubbio have their obj7 in obj0 where the
+obj0 obj13 switzerland obj0 obj10===obj4 is the obj2 where the obj8 is the
+obj0 country switzerland obj10 neighboringmunicipality===the swiss leader is federal chancellor obj3 the municipality
+obj0 obj12 switzerland obj10 neighboringmunicipality===the swiss obj5 is the federal assembly and the
+obj2 city bangalore obj2 country===the obj17 of the obj0 which is affiliated with
+obj2 city bangalore obj2 country===the obj0 in balgalore obj00 is located obj0 it
+obj2 city bangalore obj2 obj15===the obj7 of the obj0 which is affiliated with
+obj2 city bangalore obj2 obj15===the obj0 is located obj0 obj01 the obj7 is
+obj1 city bangalore obj1 obj9===obj0 is located at obj0 obj7 obj03 obj6 is
+obj2 city bangalore obj2 obj11===the obj0 in obj00 which is affiliated with the
+obj2 city bangalore obj2 obj11===the obj0 was obj7 in obj02 it is located
+obj1 city bangalore obj1 obj8===the obj0 in balgalore obj01 was obj7 in obj02
+obj7 ethnicgroup germans of obj7 obj7 leadername===the obj0 is in obj0 the country's obj10 is
+obj2 city bangalore obj2 obj17===the obj0 is located obj0 obj03 the institute's obj7
+obj2 city bangalore obj2 obj23===the obj0 is located obj0 obj02 the institute's obj03
+obj12 ethnicgroup germans of obj12 obj5 ispartof===the obj0 is in obj6 part of alba county
+obj10 ethnicgroup germans of obj10 obj10 leadername===the obj0 is in obj17 obj0 has the latin
+obj11 ethnicgroup germans of obj11 obj11 leadername===the obj0 is in obj6 obj0 the country's obj10
+obj9 ethnicgroup germans of obj9 obj9 leadertitle===the obj0 is in obj0 the country's obj12 is
+buzz obj30 ldrin birthpl obj30 ce obj1===obj2 more usually known as buzz has obj20 he
+obj7 obj16 benitoite obj4 obj22 obj24===obj5 has died in obj0 where obj3 is obj8
+obj0 obj16 switzerland obj0 numberofstudents===the obj5 is obj6 the obj2 is the obj15
+obj2 city bangalore obj2 obj19===obj0 is the location of the obj0 in obj05
+obj2 city bangalore obj2 established===the obj0 in bangalor obj05 is affiliated with obj1
+obj2 city bangalore obj2 obj14===obj0 is the location of the obj0 in the
+obj12 ethnicgroup germans of obj12 obj12 leadername===the obj0 is in obj6 obj4 obj0 obj14 is
+obj12 ethnicgroup germans of obj12 obj12 leadername===the obj0 in obj20 obj0 has the latin name
+obj12 ethnicgroup germans of obj12 obj12 leadername===the obj0 is in obj20 obj0 its latin name
