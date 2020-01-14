@@ -7,7 +7,7 @@
 The idea with this paper is that a large domain of text for natural language generation can be decomposed automatically into 
 a subset of smaller sub-domains based on the similarity of knowledge graphs.
 
-<img src="/img/kgraph.png" alt="drawing" width="400"/>
+<img src="/img/kgraph.png" alt="drawing" width="700"/>
 
 The sub-domains, or "generation spaces" are based on a notion of similarity of embedded partial knowledge graphs that 
 represent a domain and feed into a hierarchy of sequence-to-sequence or memory-to-sequence learners for concept-to-text 
@@ -17,7 +17,7 @@ lexico-syntactic patterns, consistently outperforming flat baselines and previou
 A particular focus with this paper is the comparison of the hierarchical setup for sequence-to-sequence and 
 memory-to-sequence models, see:
 
-<img src="/img/models.png" alt="drawing" width="400"/>
+<img src="/img/models.png" alt="drawing" width="700"/>
 
 # Code
 
