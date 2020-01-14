@@ -23,7 +23,7 @@ memory-to-sequence models, see:
 # Code
 
 Code is given for a sequence-to-sequence bidirectional LSTm with attention, see <code>Seq2Seq</code> folder.
-The code for the memory-to-sequence model, see <code>Mem2Seq-master<code> is taken from https://github.com/HLTCHKUST/Mem2Seq. 
+The code for the memory-to-sequence model, see <code>Mem2Seq-master</code> is taken from https://github.com/HLTCHKUST/Mem2Seq. 
 
 To generate clusters (and estimate generation spaces), you need to get the knowledge graph first and the target outputs, see here for download:
 
