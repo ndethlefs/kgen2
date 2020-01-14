@@ -18,7 +18,7 @@ lexico-syntactic patterns, consistently outperforming flat baselines and previou
 A particular focus with this paper is the comparison of the hierarchical setup for sequence-to-sequence and 
 memory-to-sequence models, see:
 
-<img src="/img/models.png" alt="drawing" width="700"/>
+<img src="/img/models.png" alt="drawing" width="600"/>
 
 # Code
 
