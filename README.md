@@ -5,9 +5,10 @@
 
 
 The idea with this paper is that a large domain of text for natural language generation can be decomposed automatically into 
-a subset of smaller sub-domains based on the similarity of knowledge graphs.
+a subset of smaller sub-domains based on the similarity of knowledge graphs. The intuition here is that parts of a knowledge 
+graph are similar and therefore can be used to identify semantic slots that often occur together with a specific semantic entity. 
 
-<img src="/img/kgraph.png" alt="drawing" width="700"/>
+<img src="/img/kgraph.png" alt="drawing" width="600"/>
 
 The sub-domains, or "generation spaces" are based on a notion of similarity of embedded partial knowledge graphs that 
 represent a domain and feed into a hierarchy of sequence-to-sequence or memory-to-sequence learners for concept-to-text 
